@@ -256,89 +256,161 @@ class ProjecaoTetoJogador:
 
 class ModeloProjecaoCarreiraAtleta:
     """
-    Simula e prevê até onde um atleta pode chegar (Teto de Carreira,
-    Pico de Idade, Valor de Mercado Máximo e Probabilidade de Salto de Divisão).
+    Simula e prevê a longevidade e o teto de carreira do atleta (Teto de Nota,
+    Fase de Carreira / Idade de Auge, Valor de Mercado e Projeção Temporal até 2035).
     """
     PICOS_POSICAO = {
-        "Goleiro": 29.0,
-        "Defensor": 28.0,
-        "Meio-Campo": 27.5,
-        "Atacante": 26.5
+        "Goleiro": 29.5,
+        "Defensor": 28.5,
+        "Meio-Campo": 28.0,
+        "Atacante": 27.0,
+        "G": 29.5,
+        "D": 28.5,
+        "M": 28.0,
+        "F": 27.0
+    }
+
+    TAXAS_DECLINIO_POSICAO = {
+        "Goleiro": 0.030,
+        "Defensor": 0.040,
+        "Meio-Campo": 0.045,
+        "Atacante": 0.050,
+        "G": 0.030,
+        "D": 0.040,
+        "M": 0.045,
+        "F": 0.050
     }
 
     @classmethod
-    def simular_trajetoria_e_teto(cls, row: pd.Series) -> Dict[str, Any]:
+    def simular_trajetoria_e_teto(cls, row: pd.Series, ano_horizonte_fim: int = 2035) -> Dict[str, Any]:
         """
-        Recebe a linha de dados do atleta e projeta sua curva de carreira ano a ano
-        até os 34 anos, calculando o ponto de ápice e valor potencial.
+        Recebe os dados do atleta e projeta sua curva de carreira ano a ano até pelo menos 2035,
+        respeitando a idade real atual do jogador em 2026 (distinguindo jovens em ascensão,
+        atletas no auge e veteranos em fase de longevidade como o Hulk).
         """
-        idade = float(row.get("idade_na_temporada", 24.0))
-        nota_atual = float(row.get("nota_media_sofascore", 6.80))
-        teto_indice = float(row.get("indice_teto_projetado", 60.0))
-        divisao = str(row.get("divisao", "Serie_A"))
-        pos_nome = str(row.get("posicao_agrupada", "Meio-Campo"))
-        ano_atual = int(row.get("ano", 2026))
-        valor_atual = float(row.get("valor_mercado_eur", 500_000))
-        delta_nota = float(row.get("delta_evolucao_nota", 0.0))
+        idade = float(row.get("idade_na_temporada", 24.0) or 24.0)
+        nota_atual = float(row.get("nota_media_sofascore", 6.80) or 6.80)
+        teto_indice = float(row.get("indice_teto_projetado", 60.0) or 60.0)
+        divisao = str(row.get("divisao", "Serie_A") or "Serie_A")
+        pos_raw = str(row.get("posicao", row.get("posicao_agrupada", "M")) or "M").strip()
+        ano_atual = int(row.get("ano", 2026) or 2026)
+        valor_atual = float(row.get("valor_mercado_eur", 500_000) or 500_000)
+        delta_nota = float(row.get("delta_evolucao_nota", 0.0) or 0.0)
 
-        pico_idade = cls.PICOS_POSICAO.get(pos_nome, 27.5)
-        anos_ate_pico = max(0.0, pico_idade - idade)
+        pico_posicao = cls.PICOS_POSICAO.get(pos_raw, 28.0)
 
-        # Cálculo do ganho potencial de nota até o pico
-        if anos_ate_pico > 0:
+        # ----------------------------------------------------------------------
+        # 1. Classificação Dinâmica da Fase de Carreira e Definição do Auge
+        # ----------------------------------------------------------------------
+        if idade < pico_posicao - 0.5:
+            # Atleta Jovem em Ascensão (o auge está no futuro)
+            estagio_carreira = "Em Desenvolvimento / Ascensão"
+            pico_idade = pico_posicao
+            anos_ate_pico = round(pico_idade - idade, 1)
+
             taxa_anual_crescimento = (teto_indice / 100.0) * 0.075
             if delta_nota > 0:
                 taxa_anual_crescimento += min(0.04, delta_nota * 0.15)
             ganho_max = round(taxa_anual_crescimento * anos_ate_pico, 2)
             nota_pico = round(min(7.65, nota_atual + ganho_max), 2)
-        else:
+            ganho_potencial = round(max(0.0, nota_pico - nota_atual), 2)
+
+            rotulo_auge = f"{pico_idade:.1f} anos"
+            ano_auge_estimado = int(ano_atual + anos_ate_pico)
+            subtitulo_auge = f"Faltam {anos_ate_pico:.1f} anos para o auge ({ano_auge_estimado})"
+
+        elif idade <= pico_posicao + 3.0:
+            # Atleta no Auge / Maturidade Plena (o auge é o ciclo atual)
+            estagio_carreira = "Auge Competitivo / Maturidade Plena"
+            pico_idade = idade
+            anos_ate_pico = 0.0
             nota_pico = round(nota_atual, 2)
+            ganho_potencial = 0.0
 
-        # Projeção de Valor de Mercado no Pico (EUR)
+            rotulo_auge = f"{idade:.0f} anos (No Auge)"
+            subtitulo_auge = "Maturidade Técnica & Auge Atual"
+
+        else:
+            # Atleta Experiente / Veterano / Longevidade (Ex: Hulk com 40 anos em 2026)
+            estagio_carreira = "Veterano / Longevidade Competitiva"
+            pico_idade = idade  # O pico no ciclo avaliado é o momento atual de longevidade
+            anos_ate_pico = 0.0
+            nota_pico = round(nota_atual, 2)
+            ganho_potencial = 0.0
+
+            rotulo_auge = f"{idade:.0f} anos (Veterano)"
+            subtitulo_auge = "Longevidade & Gestão de Carga"
+
+        # ----------------------------------------------------------------------
+        # 2. Projeção de Valor de Mercado
+        # ----------------------------------------------------------------------
         multiplicador_div = {"Serie_A": 1.0, "Serie_B": 0.45, "Serie_C": 0.20, "Serie_D": 0.08}.get(divisao, 0.5)
-        if nota_pico >= 7.20 and anos_ate_pico > 0:
+        if estagio_carreira == "Em Desenvolvimento / Ascensão" and nota_pico >= 7.20:
             valor_pico = max(valor_atual * 2.5, (nota_pico - 6.5) * 25_000_000 * multiplicador_div)
-        elif nota_pico >= 7.00:
+        elif estagio_carreira == "Em Desenvolvimento / Ascensão" and nota_pico >= 7.00:
             valor_pico = max(valor_atual * 1.6, (nota_pico - 6.5) * 12_000_000 * multiplicador_div)
+        elif estagio_carreira == "Auge Competitivo / Maturidade Plena":
+            valor_pico = max(valor_atual, valor_atual * 1.15)
         else:
-            valor_pico = max(valor_atual, valor_atual * 1.2)
+            # Veteranos sustentam valor residual de liderança
+            valor_pico = max(valor_atual, valor_atual * 1.05)
 
-        # Probabilidade de Salto para a Série A (ou consolidação de elite)
+        # Probabilidade de Salto / Permanência na Elite Série A
         if divisao == "Serie_A":
-            prob_serie_a = 98.0 if nota_atual >= 6.85 else 85.0
+            prob_serie_a = 98.0 if nota_atual >= 6.85 else 88.0
         else:
-            # Sigmoide em função do teto e idade
             expoente = (teto_indice - 75.0) / 11.0 + (anos_ate_pico * 0.25)
             prob_serie_a = round(100.0 / (1.0 + np.exp(-expoente)), 1)
             prob_serie_a = float(np.clip(prob_serie_a, 5.0, 95.0))
 
-        # Trajetória projetada ano a ano até os 34 anos
-        idade_inicial = int(idade)
-        idades_proj = list(range(idade_inicial, 35))
-        anos_proj = [ano_atual + (i - idade_inicial) for i in idades_proj]
+        # ----------------------------------------------------------------------
+        # 3. Horizonte Temporal de Projeção até 2035 (Longevidade Ano a Ano)
+        # ----------------------------------------------------------------------
+        ano_fim = max(ano_horizonte_fim, ano_atual + 9)
+        anos_proj = list(range(ano_atual, ano_fim + 1))
+        idades_proj = [int(idade + (a - ano_atual)) for a in anos_proj]
+
+        taxa_declino = cls.TAXAS_DECLINIO_POSICAO.get(pos_raw, 0.045)
+        # Atletas com alta nota ou alto teto (como Hulk) sofrem declínio fisiológico atenuado
+        fator_atenuacao = 0.76 if (teto_indice >= 68.0 or nota_atual >= 6.95) else 1.0
+
         notas_proj = []
         piso_proj = []
         teto_proj = []
 
-        for id_x in idades_proj:
-            if id_x <= pico_idade:
-                prog = (id_x - idade) / (pico_idade - idade) if (pico_idade - idade) > 0 else 1.0
-                n = nota_atual + (nota_pico - nota_atual) * (prog ** 0.85)
-            else:
-                anos_pos = id_x - pico_idade
-                n = nota_pico - (anos_pos * 0.055)
+        for idx_ano, ano_val in enumerate(anos_proj):
+            idade_x = idades_proj[idx_ano]
+            delta_tempo = ano_val - ano_atual
 
-            n_val = round(float(n), 2)
+            if idade_x <= pico_idade:
+                prog = (idade_x - idade) / (pico_idade - idade) if (pico_idade - idade) > 0 else 1.0
+                n = nota_atual + (nota_pico - nota_atual) * (prog ** 0.85)
+            elif idade_x <= pico_idade + 1.5:
+                # Platô de sustentação do auge
+                n = nota_pico - 0.012 * (idade_x - pico_idade)
+            else:
+                # Declínio fisiológico gradual de longevidade
+                anos_pos_plato = idade_x - (pico_idade + 1.5)
+                n = (nota_pico - 0.018) - (anos_pos_plato * taxa_declino * fator_atenuacao)
+
+            # Piso de corte mínimo profissional
+            n_val = round(float(np.clip(n, 6.15, 7.80)), 2)
+
+            # Intervalo estocástico de confiança (alarga progressivamente com o horizonte)
+            incerteza = 0.14 + (delta_tempo * 0.022)
             notas_proj.append(n_val)
-            piso_proj.append(round(n_val - 0.18, 2))
-            teto_proj.append(round(n_val + 0.22, 2))
+            piso_proj.append(round(max(5.80, n_val - incerteza), 2))
+            teto_proj.append(round(min(8.00, n_val + incerteza), 2))
 
         return {
+            "estagio_carreira": estagio_carreira,
             "pico_idade": pico_idade,
             "anos_ate_pico": round(anos_ate_pico, 1),
+            "rotulo_auge": rotulo_auge,
+            "subtitulo_auge": subtitulo_auge,
             "nota_atual": nota_atual,
             "nota_pico_projetada": nota_pico,
-            "ganho_potencial_nota": round(nota_pico - nota_atual, 2),
+            "ganho_potencial_nota": ganho_potencial,
             "valor_mercado_atual_eur": valor_atual,
             "valor_mercado_pico_eur": round(float(valor_pico), 2),
             "probabilidade_salto_serie_a": prob_serie_a,

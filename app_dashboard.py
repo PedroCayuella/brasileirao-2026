@@ -3218,24 +3218,27 @@ if nav_modulo == MODULO_PERFIL_ATLETA:
             with st.spinner("🔄 Executando modelo preditivo de trajetória e teto de carreira (Aging Curves)..."):
                 proj = ModeloProjecaoCarreiraAtleta.simular_trajetoria_e_teto(atleta_mais_recente)
 
-            # Métricas Preditivas do Futuro do Atleta
+            # Métricas Preditivas do Futuro do Atleta (Respeitando a Idade Real e Fase de Carreira)
             p1, p2, p3, p4 = st.columns(4)
             with p1:
-                ganho_txt = f"+{proj['ganho_potencial_nota']:.2f}" if proj['ganho_potencial_nota'] > 0 else "No Ápice"
+                ganho_txt = f"+{proj['ganho_potencial_nota']:.2f} pts" if proj['ganho_potencial_nota'] > 0 else "Sustentação de Elite"
+                label_p1 = "Nota Projetada no Ápice" if proj["anos_ate_pico"] > 0 else "Nota Atual de Sustentação"
                 st.markdown(f"""
                 <div class="metric-card" style="border-left: 4px solid #16A34A;">
-                    <div class="metric-label">Nota Projetada no Ápice</div>
+                    <div class="metric-label">{label_p1}</div>
                     <div class="metric-value" style="color: #4ADE80;">{proj['nota_pico_projetada']:.2f}</div>
-                    <small style="color: #94A3B8;">Ganho Potencial: <b>{ganho_txt} pts</b></small>
+                    <small style="color: #94A3B8;">Status: <b>{ganho_txt}</b></small>
                 </div>
                 """, unsafe_allow_html=True)
 
             with p2:
+                rotulo_auge_card = proj.get("rotulo_auge", f"{proj['pico_idade']:.1f} anos")
+                subtitulo_auge_card = proj.get("subtitulo_auge", f"{proj.get('estagio_carreira', 'Maturidade')}")
                 st.markdown(f"""
                 <div class="metric-card" style="border-left: 4px solid #38BDF8;">
-                    <div class="metric-label">Idade Estimada de Pico</div>
-                    <div class="metric-value" style="color: #38BDF8;">{proj['pico_idade']:.1f} anos</div>
-                    <small style="color: #94A3B8;">Faltam <b>{proj['anos_ate_pico']:.1f} anos</b> para o auge</small>
+                    <div class="metric-label">Fase de Carreira & Idade de Auge</div>
+                    <div class="metric-value" style="color: #38BDF8; font-size: 1.28rem;">{rotulo_auge_card}</div>
+                    <small style="color: #94A3B8;">{subtitulo_auge_card}</small>
                 </div>
                 """, unsafe_allow_html=True)
 
@@ -3251,20 +3254,23 @@ if nav_modulo == MODULO_PERFIL_ATLETA:
             with p4:
                 prob = proj['probabilidade_salto_serie_a']
                 cor_prob = "#4ADE80" if prob >= 70 else "#FBBF24" if prob >= 40 else "#94A3B8"
+                rotulo_teto_cat = "Série A / Top Liga" if prob >= 60 else "Série B / Destaque"
+                if proj.get("estagio_carreira") == "Veterano / Longevidade Competitiva":
+                    rotulo_teto_cat = "Veterano de Elite / Liderança"
                 st.markdown(f"""
                 <div class="metric-card" style="border-left: 4px solid {cor_prob};">
                     <div class="metric-label">Probabilidade Salto / Elite Série A</div>
                     <div class="metric-value" style="color: {cor_prob};">{prob:.1f}%</div>
-                    <small style="color: #94A3B8;">Teto de Categoria: <b>{'Série A / Top Liga' if prob >= 60 else 'Série B / Destaque'}</b></small>
+                    <small style="color: #94A3B8;">Teto de Categoria: <b>{rotulo_teto_cat}</b></small>
                 </div>
                 """, unsafe_allow_html=True)
 
             st.write("")
 
-            # Gráfico de Trajetória: Passado Real vs. Projeção Futura
+            # Gráfico de Trajetória: Passado Real vs. Projeção Futura até 2035
             fig_proj = go.Figure()
 
-            # 1. Intervalo de Confiança Futuro (Piso P20 até Teto P90)
+            # 1. Intervalo de Confiança Futuro (Piso P10 até Teto P90 até 2035)
             fig_proj.add_trace(go.Scatter(
                 x=proj["anos_trajetoria"],
                 y=proj["teto_trajetoria"],
@@ -3280,7 +3286,7 @@ if nav_modulo == MODULO_PERFIL_ATLETA:
                 fill="tonexty",
                 fillcolor="rgba(192, 132, 252, 0.16)",
                 line=dict(width=0),
-                name="Intervalo Provável (Piso P20 a Teto P90)"
+                name="Intervalo Provável (Piso P10 a Teto P90)"
             ))
 
             # 2. Histórico Passado Real (Linha Contínua)
@@ -3295,32 +3301,56 @@ if nav_modulo == MODULO_PERFIL_ATLETA:
                 textposition="top center"
             ))
 
-            # 3. Projeção Futura (Linha Tracejada Roxa)
+            # 3. Projeção Preditiva Futura (Linha Tracejada Roxa até 2035)
+            textos_hover_proj = [
+                f"Ano {a_x} ({id_x} anos): {n_x:.2f}"
+                for a_x, id_x, n_x in zip(proj["anos_trajetoria"], proj["idades_trajetoria"], proj["notas_trajetoria"])
+            ]
             fig_proj.add_trace(go.Scatter(
                 x=proj["anos_trajetoria"],
                 y=proj["notas_trajetoria"],
                 mode="lines+markers",
-                name="Projeção Preditiva Futura (Até os 34 anos)",
+                name="Projeção Preditiva Futura (2026–2035)",
                 line=dict(color="#C084FC", width=2.5, dash="dash"),
-                marker=dict(size=6, color="#C084FC")
+                marker=dict(size=7, color="#C084FC"),
+                hovertext=textos_hover_proj,
+                hoverinfo="text"
             ))
 
-            # Linha vertical indicando o ápice
-            ano_pico_estimado = int(atleta_mais_recente["ano"] + proj["anos_ate_pico"])
+            # Linha vertical indicando marco temporal / auge coerente com a idade
+            ano_atual_atleta = int(atleta_mais_recente.get("ano", 2026))
+            idade_atual_atleta = float(atleta_mais_recente.get("idade_na_temporada", 25.0) or 25.0)
+            if proj["anos_ate_pico"] > 0:
+                ano_pico_estimado = int(ano_atual_atleta + proj["anos_ate_pico"])
+                texto_anotacao = f"Ápice aos {proj['pico_idade']:.0f} anos ({ano_pico_estimado})"
+                x_marcador = ano_pico_estimado
+            elif idade_atual_atleta >= 32.0:
+                texto_anotacao = f"Fase de Longevidade ({idade_atual_atleta:.0f} anos em {ano_atual_atleta})"
+                x_marcador = ano_atual_atleta
+            else:
+                texto_anotacao = f"No Ápice da Maturidade ({idade_atual_atleta:.0f} anos)"
+                x_marcador = ano_atual_atleta
+
             fig_proj.add_vline(
-                x=ano_pico_estimado,
+                x=x_marcador,
                 line_width=1.5,
                 line_dash="dot",
                 line_color="#38BDF8",
-                annotation_text=f"Ápice aos {proj['pico_idade']:.0f} anos ({ano_pico_estimado})",
+                annotation_text=texto_anotacao,
                 annotation_position="bottom right"
             )
 
-            aplicar_tema_plotly_dark(fig_proj, altura=380)
+            aplicar_tema_plotly_dark(fig_proj, altura=400)
             fig_proj.update_layout(
-                title=f"Curva de Trajetória e Projeção de Carreira: <b>{nome_escolhido}</b>",
-                xaxis_title="Ano da Temporada",
+                title=f"Curva de Trajetória e Projeção de Carreira até 2035: <b>{nome_escolhido}</b> ({idade_atual_atleta:.0f} anos em {ano_atual_atleta})",
+                xaxis_title="Ano da Temporada (Histórico Real & Projeção até 2035)",
                 yaxis_title="Nota Sofascore (Ajustada)",
+                xaxis=dict(
+                    tickmode="linear",
+                    tick0=2023,
+                    dtick=1,
+                    tickformat="d"
+                ),
                 margin=dict(l=20, r=20, t=40, b=20),
                 legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
             )
