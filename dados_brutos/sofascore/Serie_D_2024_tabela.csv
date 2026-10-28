@@ -1,0 +1,65 @@
+﻿sofascore_team_id,clube_nome,clube_chave,ano,divisao,grupo,posicao,jogos,vitorias,empates,derrotas,gols_pro,gols_contra,saldo_gols,pontos,aproveitamento_pct
+393104,Manauara EC,manauara,2024,Serie_D,Group A1,1,14,10,4,0,35,7,28,34,80.95
+339705,Gazin Porto Velho,gazin porto velho,2024,Serie_D,Group A1,2,14,9,1,4,29,15,14,28,66.67
+144854,Princesa do Solimões,princesa do solimoes,2024,Serie_D,Group A1,3,14,7,4,3,23,16,7,25,59.52
+283918,Manaus,manaus,2024,Serie_D,Group A1,4,14,7,3,4,21,18,3,24,57.14
+21865,Trem,trem,2024,Serie_D,Group A1,5,14,5,3,6,18,22,-4,18,42.86
+90278,São Raimundo-RR,sao raimundo-rr,2024,Serie_D,Group A1,6,14,5,1,8,16,24,-8,16,38.1
+21862,Rio Branco-AC,rio branco-ac,2024,Serie_D,Group A1,7,14,3,3,8,14,25,-11,12,28.57
+293460,Humaitá,humaita,2024,Serie_D,Group A1,8,14,0,1,13,7,36,-29,1,2.38
+21858,Maranhão AC,maranhao,2024,Serie_D,Group A2,1,14,8,3,3,22,9,13,27,64.29
+228199,AA Altos,aa altos,2024,Serie_D,Group A2,2,14,7,3,4,22,16,6,24,57.14
+188849,Ríver AC,river,2024,Serie_D,Group A2,3,14,5,4,5,20,16,4,19,45.24
+215371,Tocantinópolis,tocantinopolis,2024,Serie_D,Group A2,4,14,5,4,5,15,19,-4,19,45.24
+90272,Cametá SC,cameta,2024,Serie_D,Group A2,5,14,4,4,6,17,17,0,16,38.1
+375317,Fluminense-PI,fluminense-pi,2024,Serie_D,Group A2,6,14,3,6,5,14,19,-5,15,35.71
+2009,Moto Club,moto club,2024,Serie_D,Group A2,7,14,3,6,5,17,24,-7,15,35.71
+33998,Águia de Marabá FC,aguia de maraba,2024,Serie_D,Group A2,8,14,2,8,4,12,19,-7,14,33.33
+2018,Treze,treze,2024,Serie_D,Group A3,1,14,9,4,1,28,9,19,31,73.81
+274287,AD Iguatu,ad iguatu,2024,Serie_D,Group A3,2,14,8,3,3,14,8,6,27,64.29
+2023,América-RN,america-rn,2024,Serie_D,Group A3,3,14,7,5,2,18,9,9,26,61.9
+212493,Atlético Cearense,atletico cearense,2024,Serie_D,Group A3,4,14,5,3,6,14,16,-2,18,42.86
+21864,Sousa EC,sousa,2024,Serie_D,Group A3,5,14,5,3,6,12,14,-2,18,42.86
+65506,Santa Cruz-RN,santa cruz-rn,2024,Serie_D,Group A3,6,14,5,1,8,17,25,-8,16,38.1
+87156,Maracanã,maracana,2024,Serie_D,Group A3,7,14,3,3,8,13,21,-8,12,28.57
+34006,ACD Potiguar,acd potiguar,2024,Serie_D,Group A3,8,14,1,4,9,7,21,-14,7,16.67
+21853,AO Itabaiana,ao itabaiana,2024,Serie_D,Group A4,1,14,8,2,4,21,11,10,26,61.9
+324839,Retrô,retro,2024,Serie_D,Group A4,2,14,8,2,4,21,12,9,26,61.9
+87166,Jacuipense,jacuipense,2024,Serie_D,Group A4,3,14,7,2,5,15,13,2,23,54.76
+2019,ASA,asa,2024,Serie_D,Group A4,4,14,6,3,5,15,13,2,21,50.0
+336565,CSE,cse,2024,Serie_D,Group A4,5,14,6,3,5,18,17,1,21,50.0
+61724,Juazeirense,juazeirense,2024,Serie_D,Group A4,6,14,6,3,5,13,13,0,21,50.0
+21985,Petrolina SFC,petrolina sfc,2024,Serie_D,Group A4,7,14,2,4,8,6,19,-13,10,23.81
+2016,Sergipe,sergipe,2024,Serie_D,Group A4,8,14,2,3,9,11,22,-11,9,21.43
+2024,Brasiliense,brasiliense,2024,Serie_D,Group A5,1,14,10,2,2,27,10,17,32,76.19
+21872,Anápolis FC,anapolis,2024,Serie_D,Group A5,2,14,7,4,3,18,10,8,25,59.52
+34005,Mixto,mixto,2024,Serie_D,Group A5,3,14,5,7,2,18,13,5,22,52.38
+21893,CRAC,crac,2024,Serie_D,Group A5,4,14,5,7,2,13,8,5,22,52.38
+243793,Iporá,ipora,2024,Serie_D,Group A5,5,14,5,2,7,16,21,-5,17,40.48
+34007,União Rondonópolis,uniao rondonopolis,2024,Serie_D,Group A5,6,14,3,7,4,14,15,-1,16,38.1
+308206,Real Brasília FC,real brasilia,2024,Serie_D,Group A5,7,14,2,3,9,10,20,-10,9,21.43
+339670,Capital FC,capital,2024,Serie_D,Group A5,8,14,2,2,10,10,29,-19,8,19.05
+6981,Nova Iguaçu,nova iguacu,2024,Serie_D,Group A6,1,14,9,4,1,19,5,14,31,73.81
+208067,Portuguesa-RJ,portuguesa-rj,2024,Serie_D,Group A6,2,14,6,7,1,18,6,12,25,59.52
+21973,Itabuna EC,itabuna,2024,Serie_D,Group A6,3,14,6,6,2,16,9,7,24,57.14
+65494,Real Noroeste,real noroeste,2024,Serie_D,Group A6,4,14,5,5,4,16,15,1,20,47.62
+34013,Serra FC,serra,2024,Serie_D,Group A6,5,14,5,4,5,16,18,-2,19,45.24
+7297,Ipatinga,ipatinga,2024,Serie_D,Group A6,6,14,2,5,7,8,18,-10,11,26.19
+343628,Democrata FC,democrata,2024,Serie_D,Group A6,7,14,2,4,8,8,21,-13,10,23.81
+85341,Audax Rio,audax rio,2024,Serie_D,Group A6,8,14,2,3,9,10,19,-9,9,21.43
+135324,Maringá FC,maringa,2024,Serie_D,Group A7,1,14,10,2,2,25,10,15,32,76.19
+135526,Inter de Limeira,inter de limeira,2024,Serie_D,Group A7,2,14,7,3,4,16,7,9,24,57.14
+135510,Água Santa,agua santa,2024,Serie_D,Group A7,3,14,6,4,4,12,10,2,22,52.38
+308001,Costa Rica-MS,costa rica-ms,2024,Serie_D,Group A7,4,14,6,3,5,16,17,-1,21,50.0
+6966,EC Santo André,ec santo andre,2024,Serie_D,Group A7,5,14,5,5,4,15,13,2,20,47.62
+343540,Pouso Alegre FC,pouso alegre,2024,Serie_D,Group A7,6,14,3,5,6,11,9,2,14,33.33
+88744,São José EC,sao jose,2024,Serie_D,Group A7,7,14,2,8,4,13,16,-3,14,33.33
+274036,Patrocinense,patrocinense,2024,Serie_D,Group A7,8,14,1,2,11,6,32,-26,5,11.9
+21892,Cianorte,cianorte,2024,Serie_D,Group A8,1,14,6,4,4,14,12,2,22,52.38
+1986,Grêmio Esportivo Brasil,gremio esportivo brasil,2024,Serie_D,Group A8,2,14,6,3,5,17,14,3,21,50.0
+32765,EC Avenida,ec avenida,2024,Serie_D,Group A8,3,14,5,4,5,14,19,-5,19,45.24
+480376,Novo Hamburgo,novo hamburgo,2024,Serie_D,Group A8,4,14,4,6,4,14,15,-1,18,42.86
+234222,Hercílio Luz FC,hercilio luz,2024,Serie_D,Group A8,5,14,3,9,2,11,10,1,18,42.86
+257674,Concórdia AC,concordia,2024,Serie_D,Group A8,6,14,4,5,5,13,12,1,17,40.48
+257673,Barra FC,barra,2024,Serie_D,Group A8,7,14,3,7,4,15,12,3,16,38.1
+21891,Cascavel,cascavel,2024,Serie_D,Group A8,8,14,3,6,5,8,12,-4,15,35.71

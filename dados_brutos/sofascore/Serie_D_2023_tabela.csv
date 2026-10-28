@@ -1,0 +1,65 @@
+﻿sofascore_team_id,clube_nome,clube_chave,ano,divisao,grupo,posicao,jogos,vitorias,empates,derrotas,gols_pro,gols_contra,saldo_gols,pontos,aproveitamento_pct
+21859,Nacional-AM,nacional-am,2023,Serie_D,"Brasileiro Serie D 2023, Group A1",1,14,9,3,2,22,7,15,30,71.43
+333422,Tuna Luso,tuna luso,2023,Serie_D,"Brasileiro Serie D 2023, Group A1",2,14,8,4,2,21,10,11,28,66.67
+33998,Águia de Marabá FC,aguia de maraba,2023,Serie_D,"Brasileiro Serie D 2023, Group A1",3,14,6,6,2,18,8,10,24,57.14
+144854,Princesa do Solimões,princesa do solimoes,2023,Serie_D,"Brasileiro Serie D 2023, Group A1",4,14,4,7,3,21,13,8,19,45.24
+90278,São Raimundo-RR,sao raimundo-rr,2023,Serie_D,"Brasileiro Serie D 2023, Group A1",5,14,5,3,6,24,24,0,18,42.86
+293460,Humaitá,humaita,2023,Serie_D,"Brasileiro Serie D 2023, Group A1",6,14,5,3,6,16,21,-5,18,42.86
+339718,São Francisco-AC,sao francisco-ac,2023,Serie_D,"Brasileiro Serie D 2023, Group A1",7,14,3,0,11,5,33,-28,9,21.43
+21865,Trem,trem,2023,Serie_D,"Brasileiro Serie D 2023, Group A1",8,14,2,2,10,8,19,-11,8,19.05
+32672,Ferroviário,ferroviario,2023,Serie_D,"Brasileiro Serie D 2023, Group A2",1,14,11,3,0,30,6,24,36,85.71
+212493,Atlético Cearense,atletico cearense,2023,Serie_D,"Brasileiro Serie D 2023, Group A2",2,14,6,5,3,22,15,7,23,54.76
+21858,Maranhão AC,maranhao,2023,Serie_D,"Brasileiro Serie D 2023, Group A2",3,14,5,6,3,18,11,7,21,50.0
+35282,Parnahyba SC,parnahyba,2023,Serie_D,"Brasileiro Serie D 2023, Group A2",4,14,4,5,5,14,23,-9,17,40.48
+283397,Caucaia,caucaia,2023,Serie_D,"Brasileiro Serie D 2023, Group A2",5,14,3,7,4,20,20,0,16,38.1
+215371,Tocantinópolis,tocantinopolis,2023,Serie_D,"Brasileiro Serie D 2023, Group A2",6,14,3,6,5,14,15,-1,15,35.71
+253978,Cordino Esporte Clube,cordino esporte,2023,Serie_D,"Brasileiro Serie D 2023, Group A2",7,14,2,5,7,13,26,-13,11,26.19
+375317,Fluminense-PI,fluminense-pi,2023,Serie_D,"Brasileiro Serie D 2023, Group A2",8,14,1,5,8,9,24,-15,8,19.05
+21864,Sousa EC,sousa,2023,Serie_D,"Brasileiro Serie D 2023, Group A3",1,14,8,2,4,24,15,9,26,61.9
+21860,Nacional de Patos,nacional de patos,2023,Serie_D,"Brasileiro Serie D 2023, Group A3",2,14,7,3,4,17,11,6,24,57.14
+34006,ACD Potiguar,acd potiguar,2023,Serie_D,"Brasileiro Serie D 2023, Group A3",3,14,6,5,3,16,11,5,23,54.76
+283517,Pacajus,pacajus,2023,Serie_D,"Brasileiro Serie D 2023, Group A3",4,14,6,4,4,21,16,5,22,52.38
+34010,Campinense,campinense,2023,Serie_D,"Brasileiro Serie D 2023, Group A3",5,14,6,3,5,18,14,4,21,50.0
+1976,Santa Cruz,santa cruz,2023,Serie_D,"Brasileiro Serie D 2023, Group A3",6,14,5,5,4,15,12,3,20,47.62
+274287,AD Iguatu,ad iguatu,2023,Serie_D,"Brasileiro Serie D 2023, Group A3",7,14,5,1,8,16,19,-3,16,38.1
+189182,Globo FC,globo,2023,Serie_D,"Brasileiro Serie D 2023, Group A3",8,14,1,1,12,5,34,-29,4,9.52
+324839,Retrô,retro,2023,Serie_D,"Brasileiro Serie D 2023, Group A4",1,14,7,5,2,19,13,6,26,61.9
+39638,Bahia de Feira,bahia de feira,2023,Serie_D,"Brasileiro Serie D 2023, Group A4",2,14,5,6,3,15,9,6,21,50.0
+2019,ASA,asa,2023,Serie_D,"Brasileiro Serie D 2023, Group A4",3,14,6,1,7,14,16,-2,19,45.24
+394885,Falcon-SE FC,falcon-se,2023,Serie_D,"Brasileiro Serie D 2023, Group A4",4,14,5,4,5,16,15,1,19,45.24
+2016,Sergipe,sergipe,2023,Serie_D,"Brasileiro Serie D 2023, Group A4",5,14,5,4,5,19,19,0,19,45.24
+405931,Cruzeiro-AL U23,cruzeiro-al u23,2023,Serie_D,"Brasileiro Serie D 2023, Group A4",6,14,5,3,6,13,22,-9,18,42.86
+306005,Atlético Alagoinhas,atletico alagoinhas,2023,Serie_D,"Brasileiro Serie D 2023, Group A4",7,14,4,3,7,15,18,-3,15,35.71
+87166,Jacuipense,jacuipense,2023,Serie_D,"Brasileiro Serie D 2023, Group A4",8,14,3,6,5,20,19,1,15,35.71
+35279,Ceilândia,ceilandia,2023,Serie_D,"Brasileiro Serie D 2023, Group A5",1,14,7,7,0,28,5,23,28,66.67
+21872,Anápolis FC,anapolis,2023,Serie_D,"Brasileiro Serie D 2023, Group A5",2,14,6,7,1,26,6,20,25,59.52
+189489,Operário-MT,operario-mt,2023,Serie_D,"Brasileiro Serie D 2023, Group A5",3,14,7,3,4,29,16,13,24,57.14
+2024,Brasiliense,brasiliense,2023,Serie_D,"Brasileiro Serie D 2023, Group A5",4,14,6,6,2,31,11,20,24,57.14
+34007,União Rondonópolis,uniao rondonopolis,2023,Serie_D,"Brasileiro Serie D 2023, Group A5",5,14,7,2,5,17,9,8,23,54.76
+243793,Iporá,ipora,2023,Serie_D,"Brasileiro Serie D 2023, Group A5",6,14,4,4,6,20,20,0,16,38.1
+144728,Interporto,interporto,2023,Serie_D,"Brasileiro Serie D 2023, Group A5",7,14,1,3,10,3,47,-44,6,14.29
+275829,Real Ariquemes,real ariquemes,2023,Serie_D,"Brasileiro Serie D 2023, Group A5",8,14,1,2,11,4,44,-40,5,11.9
+342775,Athletic Club,athletic club,2023,Serie_D,"Brasileiro Serie D 2023, Group A6",1,14,9,2,3,19,9,10,29,69.05
+208067,Portuguesa-RJ,portuguesa-rj,2023,Serie_D,"Brasileiro Serie D 2023, Group A6",2,14,8,5,1,25,12,13,29,69.05
+21848,EC Democrata,ec democrata,2023,Serie_D,"Brasileiro Serie D 2023, Group A6",3,14,7,4,3,18,15,3,25,59.52
+35280,Vitória-ES,vitoria-es,2023,Serie_D,"Brasileiro Serie D 2023, Group A6",4,14,6,2,6,23,20,3,20,47.62
+6966,EC Santo André,ec santo andre,2023,Serie_D,"Brasileiro Serie D 2023, Group A6",5,14,5,4,5,15,16,-1,19,45.24
+32878,Resende,resende,2023,Serie_D,"Brasileiro Serie D 2023, Group A6",6,14,3,5,6,12,18,-6,14,33.33
+6981,Nova Iguaçu,nova iguacu,2023,Serie_D,"Brasileiro Serie D 2023, Group A6",7,14,2,4,8,15,23,-8,10,23.81
+65494,Real Noroeste,real noroeste,2023,Serie_D,"Brasileiro Serie D 2023, Group A6",8,14,1,4,9,9,23,-14,7,16.67
+274036,Patrocinense,patrocinense,2023,Serie_D,"Brasileiro Serie D 2023, Group A7",1,14,6,6,2,16,8,8,24,57.14
+135324,Maringá FC,maringa,2023,Serie_D,"Brasileiro Serie D 2023, Group A7",2,14,6,6,2,13,8,5,24,57.14
+135526,Inter de Limeira,inter de limeira,2023,Serie_D,"Brasileiro Serie D 2023, Group A7",3,14,6,4,4,15,15,0,22,52.38
+35285,Ferroviária,ferroviaria,2023,Serie_D,"Brasileiro Serie D 2023, Group A7",4,14,5,5,4,16,11,5,20,47.62
+21893,CRAC,crac,2023,Serie_D,"Brasileiro Serie D 2023, Group A7",5,14,5,3,6,16,14,2,18,42.86
+61692,XV de Piracicaba,xv de piracicaba,2023,Serie_D,"Brasileiro Serie D 2023, Group A7",6,14,4,4,6,20,21,-1,16,38.1
+21891,Cascavel,cascavel,2023,Serie_D,"Brasileiro Serie D 2023, Group A7",7,14,3,7,4,12,17,-5,16,38.1
+247089,Operário-MS,operario-ms,2023,Serie_D,"Brasileiro Serie D 2023, Group A7",8,14,1,5,8,5,19,-14,8,19.05
+234222,Hercílio Luz FC,hercilio luz,2023,Serie_D,"Brasileiro Serie D 2023, Group A8",1,14,8,5,1,21,10,11,29,69.05
+2000,Caxias,caxias,2023,Serie_D,"Brasileiro Serie D 2023, Group A8",2,14,7,2,5,19,16,3,23,54.76
+61720,Camboriú,camboriu,2023,Serie_D,"Brasileiro Serie D 2023, Group A8",3,14,6,4,4,19,14,5,22,52.38
+1986,Grêmio Esportivo Brasil,gremio esportivo brasil,2023,Serie_D,"Brasileiro Serie D 2023, Group A8",4,14,5,5,4,15,13,2,20,47.62
+313924,Independente São Joseense,independente sao joseense,2023,Serie_D,"Brasileiro Serie D 2023, Group A8",5,14,5,5,4,15,15,0,20,47.62
+257674,Concórdia AC,concordia,2023,Serie_D,"Brasileiro Serie D 2023, Group A8",6,14,5,4,5,15,13,2,19,45.24
+480383,Aimoré,aimore,2023,Serie_D,"Brasileiro Serie D 2023, Group A8",7,14,1,7,6,8,21,-13,10,23.81
+480376,Novo Hamburgo,novo hamburgo,2023,Serie_D,"Brasileiro Serie D 2023, Group A8",8,14,1,4,9,13,23,-10,7,16.67

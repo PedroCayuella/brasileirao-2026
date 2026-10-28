@@ -1,0 +1,4163 @@
+{
+  "standings": [
+    {
+      "id": 122988,
+      "type": "total",
+      "tournament": {
+        "name": "Brasileirão Série D, Group A1",
+        "slug": "brasileirao-serie-d-group-a1",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "البرازيل",
+              "ru": "Бразилия"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "uniqueTournament": {
+          "name": "Brasileirão Série D",
+          "slug": "brasileirao-serie-d",
+          "primaryColorHex": "#debe04",
+          "secondaryColorHex": "#384ba9",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "البرازيل",
+                "ru": "Бразилия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 10290,
+          "hasPerformanceGraphFeature": false,
+          "liveActivityEnabled": false,
+          "country": {},
+          "id": 10326,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دوري الدرجة الرابعة البرازيلي",
+              "bn": "ব্রাজিলেইরাও সিরিজ ডি",
+              "hi": "ब्राज़ीलेइराओ सेरी डी",
+              "ru": "Бразилейран Série D"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "priority": 0,
+        "isGroup": true,
+        "groupName": "Group A1",
+        "isLive": false,
+        "id": 59487,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بطولة الدوري البرازيلي D، المجموعة A1",
+            "bn": "ব্রেসিলিরাও সেরি ডি, গ্রুপ এ1",
+            "hi": "ब्रासीलीराओ सेरी डी, ग्रुप A1",
+            "ru": "Бразилейран Серия D, Группа A1"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "name": "Group A1",
+      "descriptions": [],
+      "tieBreakingRule": {
+        "id": 140,
+        "text": "In the event that two (or more) teams have an equal number of points, the following rules break the tie: 1. Number of victories 2. Goal difference 3. Goals scored"
+      },
+      "rows": [
+        {
+          "id": 1068372,
+          "team": {
+            "name": "Manauara EC",
+            "slug": "manauara-ec",
+            "shortName": "Manauara",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2866,
+            "nameCode": "MAN",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 393104,
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ماناوارا إي سي",
+                "ru": "Манаура ЭК"
+              },
+              "shortNameTranslation": {
+                "ar": "ماناوارا",
+                "ru": "Манаура"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 1,
+          "matches": 14,
+          "wins": 10,
+          "losses": 0,
+          "draws": 4,
+          "scoresFor": 35,
+          "scoresAgainst": 7,
+          "points": 34,
+          "scoreDiffFormatted": "+28"
+        },
+        {
+          "id": 1068374,
+          "team": {
+            "name": "Gazin Porto Velho",
+            "slug": "gazin-porto-velho",
+            "shortName": "Porto Velho",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2510,
+            "nameCode": "PVE",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 339705,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#ee0000",
+              "text": "#ee0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "غازين بورتو فيليو",
+                "ru": "Порту-Велью"
+              },
+              "shortNameTranslation": {
+                "ar": "بورتو فيليو"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 2,
+          "matches": 14,
+          "wins": 9,
+          "losses": 4,
+          "draws": 1,
+          "scoresFor": 29,
+          "scoresAgainst": 15,
+          "points": 28,
+          "scoreDiffFormatted": "+14"
+        },
+        {
+          "id": 1068375,
+          "team": {
+            "name": "Princesa do Solimões",
+            "slug": "princesa-do-solimoes",
+            "shortName": "Princesa",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 851,
+            "nameCode": "PDS",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 144854,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "برينسيسا دو سوليمونيس",
+                "ru": "Принцесса до Солимойнс"
+              },
+              "shortNameTranslation": {
+                "ar": "برينسيسا",
+                "ru": "Принцесса"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 3,
+          "matches": 14,
+          "wins": 7,
+          "losses": 3,
+          "draws": 4,
+          "scoresFor": 23,
+          "scoresAgainst": 16,
+          "points": 25,
+          "scoreDiffFormatted": "+7"
+        },
+        {
+          "id": 1068373,
+          "team": {
+            "name": "Manaus",
+            "slug": "manaus",
+            "shortName": "Manaus",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3422,
+            "nameCode": "MAU",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 283918,
+            "teamColors": {
+              "primary": "#00811c",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ماناوس",
+                "ru": "Манаус"
+              },
+              "shortNameTranslation": {
+                "ar": "ماناوس",
+                "ru": "Манаус"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 4,
+          "matches": 14,
+          "wins": 7,
+          "losses": 4,
+          "draws": 3,
+          "scoresFor": 21,
+          "scoresAgainst": 18,
+          "points": 24,
+          "scoreDiffFormatted": "+3"
+        },
+        {
+          "id": 1068378,
+          "team": {
+            "name": "Trem",
+            "slug": "trem",
+            "shortName": "Trem",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2497,
+            "nameCode": "TRE",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21865,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ترم",
+                "ru": "ФК Трем АП"
+              },
+              "shortNameTranslation": {
+                "ar": "ترم"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 5,
+          "matches": 14,
+          "wins": 5,
+          "losses": 6,
+          "draws": 3,
+          "scoresFor": 18,
+          "scoresAgainst": 22,
+          "points": 18,
+          "scoreDiffFormatted": "-4"
+        },
+        {
+          "id": 1068377,
+          "team": {
+            "name": "São Raimundo-RR",
+            "slug": "sao-raimundo-rr",
+            "shortName": "São Raimundo-RR",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1552,
+            "nameCode": "SAO",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 90278,
+            "teamColors": {
+              "primary": "#0000ff",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ساو رايموندو-آر آر",
+                "ru": "Сан Раймунду РР"
+              },
+              "shortNameTranslation": {
+                "ar": "ساو رايموندو-آر آر"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 6,
+          "matches": 14,
+          "wins": 5,
+          "losses": 8,
+          "draws": 1,
+          "scoresFor": 16,
+          "scoresAgainst": 24,
+          "points": 16,
+          "scoreDiffFormatted": "-8"
+        },
+        {
+          "id": 1068376,
+          "team": {
+            "name": "Rio Branco-AC",
+            "slug": "rio-branco-ac",
+            "shortName": "Rio Branco",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1119,
+            "nameCode": "RBR",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21862,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريو برانكو-إيه سي",
+                "ru": "ФК Рио Бранко АК"
+              },
+              "shortNameTranslation": {
+                "ar": "ريو برانكو"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 7,
+          "matches": 14,
+          "wins": 3,
+          "losses": 8,
+          "draws": 3,
+          "scoresFor": 14,
+          "scoresAgainst": 25,
+          "points": 12,
+          "scoreDiffFormatted": "-11"
+        },
+        {
+          "id": 1068371,
+          "team": {
+            "name": "Humaitá",
+            "slug": "humaita",
+            "shortName": "Humaitá",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1305,
+            "nameCode": "HUM",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 293460,
+            "teamColors": {
+              "primary": "#ff3300",
+              "secondary": "#0000f1",
+              "text": "#0000f1"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "هوماتا",
+                "ru": "Умайта"
+              },
+              "shortNameTranslation": {
+                "ar": "هوماتا"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 8,
+          "matches": 14,
+          "wins": 0,
+          "losses": 13,
+          "draws": 1,
+          "scoresFor": 7,
+          "scoresAgainst": 36,
+          "points": 1,
+          "scoreDiffFormatted": "-29"
+        }
+      ]
+    },
+    {
+      "id": 122989,
+      "type": "total",
+      "tournament": {
+        "name": "Brasileirão Série D, Group A2",
+        "slug": "brasileirao-serie-d-group-a2",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "البرازيل",
+              "ru": "Бразилия"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "uniqueTournament": {
+          "name": "Brasileirão Série D",
+          "slug": "brasileirao-serie-d",
+          "primaryColorHex": "#debe04",
+          "secondaryColorHex": "#384ba9",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "البرازيل",
+                "ru": "Бразилия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 10290,
+          "hasPerformanceGraphFeature": false,
+          "liveActivityEnabled": false,
+          "country": {},
+          "id": 10326,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دوري الدرجة الرابعة البرازيلي",
+              "bn": "ব্রাজিলেইরাও সিরিজ ডি",
+              "hi": "ब्राज़ीलेइराओ सेरी डी",
+              "ru": "Бразилейран Série D"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "priority": 0,
+        "isGroup": true,
+        "groupName": "Group A2",
+        "isLive": false,
+        "id": 59480,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بطولة الدوري البرازيلي D، المجموعة A2",
+            "bn": "ব্রেসিলিরাও সেরি ডি, গ্রুপ এ2",
+            "hi": "ब्रासीलीराओ सेरी डी, ग्रुप A2",
+            "ru": "Бразилейран Серия D, Группа A2"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "name": "Group A2",
+      "descriptions": [],
+      "tieBreakingRule": {
+        "id": 140,
+        "text": "In the event that two (or more) teams have an equal number of points, the following rules break the tie: 1. Number of victories 2. Goal difference 3. Goals scored"
+      },
+      "rows": [
+        {
+          "id": 1068383,
+          "team": {
+            "name": "Maranhão AC",
+            "slug": "maranhao",
+            "shortName": "Maranhão",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 5087,
+            "nameCode": "MAR",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21858,
+            "teamColors": {
+              "primary": "#0000f5",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "مارانهاو إيه سي",
+                "ru": "ФК Мараньао"
+              },
+              "shortNameTranslation": {
+                "ar": "مارانهاو"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 1,
+          "matches": 14,
+          "wins": 8,
+          "losses": 3,
+          "draws": 3,
+          "scoresFor": 22,
+          "scoresAgainst": 9,
+          "points": 27,
+          "scoreDiffFormatted": "+13"
+        },
+        {
+          "id": 1068380,
+          "team": {
+            "name": "AA Altos",
+            "slug": "altos",
+            "shortName": "Altos",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3926,
+            "nameCode": "ALT",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 228199,
+            "teamColors": {
+              "primary": "#43a96a",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إيه إيه ألتوس",
+                "ru": "АА Альтос"
+              },
+              "shortNameTranslation": {
+                "ar": "ألتوس",
+                "ru": "Альтос"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 2,
+          "matches": 14,
+          "wins": 7,
+          "losses": 4,
+          "draws": 3,
+          "scoresFor": 22,
+          "scoresAgainst": 16,
+          "points": 24,
+          "scoreDiffFormatted": "+6"
+        },
+        {
+          "id": 1068379,
+          "team": {
+            "name": "Ríver AC",
+            "slug": "river-pi",
+            "shortName": "Ríver-PI",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1304,
+            "nameCode": "RIV",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 188849,
+            "teamColors": {
+              "primary": "#ba1f23",
+              "secondary": "#222226",
+              "text": "#222226"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريفر إي سي",
+                "ru": "ФК Ривер ПИ"
+              },
+              "shortNameTranslation": {
+                "ar": "ريفر-بي آي"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 3,
+          "matches": 14,
+          "wins": 5,
+          "losses": 5,
+          "draws": 4,
+          "scoresFor": 20,
+          "scoresAgainst": 16,
+          "points": 19,
+          "scoreDiffFormatted": "+4"
+        },
+        {
+          "id": 1068385,
+          "team": {
+            "name": "Tocantinópolis",
+            "slug": "tocantinopolis",
+            "shortName": "Tocantinópolis",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1996,
+            "nameCode": "TOC",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 215371,
+            "teamColors": {
+              "primary": "#006000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "توكانتينوبوليس",
+                "ru": "Токантинополис"
+              },
+              "shortNameTranslation": {
+                "ar": "توكانتينوبوليس",
+                "ru": "Токантинополис"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 4,
+          "matches": 14,
+          "wins": 5,
+          "losses": 5,
+          "draws": 4,
+          "scoresFor": 15,
+          "scoresAgainst": 19,
+          "points": 19,
+          "scoreDiffFormatted": "-4"
+        },
+        {
+          "id": 1068381,
+          "team": {
+            "name": "Cametá SC",
+            "slug": "cameta-sc",
+            "shortName": "Cametá",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 640,
+            "nameCode": "CAM",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 90272,
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "كاميتا إس سي",
+                "ru": "Камета СК"
+              },
+              "shortNameTranslation": {
+                "ar": "كاميتا",
+                "ru": "Камета"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 5,
+          "matches": 14,
+          "wins": 4,
+          "losses": 6,
+          "draws": 4,
+          "scoresFor": 17,
+          "scoresAgainst": 17,
+          "points": 16,
+          "scoreDiffFormatted": "0"
+        },
+        {
+          "id": 1068382,
+          "team": {
+            "name": "Fluminense-PI",
+            "slug": "fluminense-pi",
+            "shortName": "Fluminense-PI",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2126,
+            "nameCode": "FLU",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 375317,
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "فلومينينسي-بي آي",
+                "ru": "Флуминенсе-ПИ"
+              },
+              "shortNameTranslation": {
+                "ar": "فلومينينسي-بي آي",
+                "ru": "Флуминенсе"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 6,
+          "matches": 14,
+          "wins": 3,
+          "losses": 5,
+          "draws": 6,
+          "scoresFor": 14,
+          "scoresAgainst": 19,
+          "points": 15,
+          "scoreDiffFormatted": "-5"
+        },
+        {
+          "id": 1068384,
+          "team": {
+            "name": "Moto Club",
+            "slug": "moto-club",
+            "shortName": "Moto Club",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3060,
+            "nameCode": "MOT",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 2009,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#0d0d0d",
+              "text": "#0d0d0d"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "موتو كلوب",
+                "ru": "Мото Клубе МА"
+              },
+              "shortNameTranslation": {
+                "ar": "موتو كلوب"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 7,
+          "matches": 14,
+          "wins": 3,
+          "losses": 5,
+          "draws": 6,
+          "scoresFor": 17,
+          "scoresAgainst": 24,
+          "points": 15,
+          "scoreDiffFormatted": "-7"
+        },
+        {
+          "id": 1068386,
+          "team": {
+            "name": "Águia de Marabá FC",
+            "slug": "aguia-de-maraba",
+            "shortName": "Águia de Marabá",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3544,
+            "nameCode": "AMA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 33998,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#0000e5",
+              "text": "#0000e5"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أغوي دي مارابا إف سي",
+                "ru": "Агуя де Мараба"
+              },
+              "shortNameTranslation": {
+                "ar": "أغوي دي مارابا"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 8,
+          "matches": 14,
+          "wins": 2,
+          "losses": 4,
+          "draws": 8,
+          "scoresFor": 12,
+          "scoresAgainst": 19,
+          "points": 14,
+          "scoreDiffFormatted": "-7"
+        }
+      ]
+    },
+    {
+      "id": 122990,
+      "type": "total",
+      "tournament": {
+        "name": "Brasileirão Série D, Group A3",
+        "slug": "brasileirao-serie-d-group-a3",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "البرازيل",
+              "ru": "Бразилия"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "uniqueTournament": {
+          "name": "Brasileirão Série D",
+          "slug": "brasileirao-serie-d",
+          "primaryColorHex": "#debe04",
+          "secondaryColorHex": "#384ba9",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "البرازيل",
+                "ru": "Бразилия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 10290,
+          "hasPerformanceGraphFeature": false,
+          "liveActivityEnabled": false,
+          "country": {},
+          "id": 10326,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دوري الدرجة الرابعة البرازيلي",
+              "bn": "ব্রাজিলেইরাও সিরিজ ডি",
+              "hi": "ब्राज़ीलेइराओ सेरी डी",
+              "ru": "Бразилейран Série D"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "priority": 0,
+        "isGroup": true,
+        "groupName": "Group A3",
+        "isLive": false,
+        "id": 59488,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بطولة الدوري البرازيلي D، المجموعة A3",
+            "bn": "ব্রেসিলিরাও সেরি ডি, গ্রুপ এ3",
+            "hi": "ब्रासीलीराओ सेरी डी, ग्रुप A3",
+            "ru": "Бразилейран Серия D, Группа A3"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "name": "Group A3",
+      "descriptions": [],
+      "tieBreakingRule": {
+        "id": 140,
+        "text": "In the event that two (or more) teams have an equal number of points, the following rules break the tie: 1. Number of victories 2. Goal difference 3. Goals scored"
+      },
+      "rows": [
+        {
+          "id": 1068387,
+          "team": {
+            "name": "Treze",
+            "slug": "treze",
+            "shortName": "Treze",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 5327,
+            "nameCode": "TRE",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 2018,
+            "teamColors": {
+              "primary": "#000000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ترزي",
+                "ru": "Трезе"
+              },
+              "shortNameTranslation": {
+                "ru": "Трезе"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 1,
+          "matches": 14,
+          "wins": 9,
+          "losses": 1,
+          "draws": 4,
+          "scoresFor": 28,
+          "scoresAgainst": 9,
+          "points": 31,
+          "scoreDiffFormatted": "+19"
+        },
+        {
+          "id": 1068390,
+          "team": {
+            "name": "AD Iguatu",
+            "slug": "iguatu",
+            "shortName": "Iguatu",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3046,
+            "nameCode": "IGU",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 274287,
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إيه دي إيغواتو",
+                "ru": "АД Игуату"
+              },
+              "shortNameTranslation": {
+                "ar": "إيغواتو",
+                "ru": "АД Игуату"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 2,
+          "matches": 14,
+          "wins": 8,
+          "losses": 3,
+          "draws": 3,
+          "scoresFor": 14,
+          "scoresAgainst": 8,
+          "points": 27,
+          "scoreDiffFormatted": "+6"
+        },
+        {
+          "id": 1068389,
+          "team": {
+            "name": "América-RN",
+            "slug": "america-rn",
+            "shortName": "América-RN",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 10221,
+            "nameCode": "ARN",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 2023,
+            "teamColors": {
+              "primary": "#c80002",
+              "secondary": "#222226",
+              "text": "#222226"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أمريكا-آر إن",
+                "ru": "ФК Америка РН"
+              },
+              "shortNameTranslation": {
+                "ar": "أمريكا-آر إن"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 3,
+          "matches": 14,
+          "wins": 7,
+          "losses": 2,
+          "draws": 5,
+          "scoresFor": 18,
+          "scoresAgainst": 9,
+          "points": 26,
+          "scoreDiffFormatted": "+9"
+        },
+        {
+          "id": 1068394,
+          "team": {
+            "name": "Atlético Cearense",
+            "slug": "atletico-cearense",
+            "shortName": "Atlético-CE",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1511,
+            "nameCode": "ATC",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 212493,
+            "teamColors": {
+              "primary": "#ffff00",
+              "secondary": "#6e2945",
+              "text": "#6e2945"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أتلتيكو سيارانسي",
+                "ru": "Атлетико Сеарансе"
+              },
+              "shortNameTranslation": {
+                "ar": "أتلتيكو-سي إي",
+                "ru": "Атлетико-CE"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 4,
+          "matches": 14,
+          "wins": 5,
+          "losses": 6,
+          "draws": 3,
+          "scoresFor": 14,
+          "scoresAgainst": 16,
+          "points": 18,
+          "scoreDiffFormatted": "-2"
+        },
+        {
+          "id": 1068392,
+          "team": {
+            "name": "Sousa EC",
+            "slug": "sousa",
+            "shortName": "Sousa",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 4261,
+            "nameCode": "SOU",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21864,
+            "teamColors": {
+              "primary": "#005f13",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سوزا إي سي",
+                "ru": "Сауса ЭК"
+              },
+              "shortNameTranslation": {
+                "ar": "سوزا",
+                "ru": "Сауса"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 5,
+          "matches": 14,
+          "wins": 5,
+          "losses": 6,
+          "draws": 3,
+          "scoresFor": 12,
+          "scoresAgainst": 14,
+          "points": 18,
+          "scoreDiffFormatted": "-2"
+        },
+        {
+          "id": 1068393,
+          "team": {
+            "name": "Santa Cruz-RN",
+            "slug": "santa-cruz-rn",
+            "shortName": "Santa Cruz-RN",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1056,
+            "nameCode": "SCR",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 65506,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سانتا كروز-آر إن",
+                "ru": "Санта Круз РН"
+              },
+              "shortNameTranslation": {
+                "ar": "سانتا كروز-آر إن"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 6,
+          "matches": 14,
+          "wins": 5,
+          "losses": 8,
+          "draws": 1,
+          "scoresFor": 17,
+          "scoresAgainst": 25,
+          "points": 16,
+          "scoreDiffFormatted": "-8"
+        },
+        {
+          "id": 1068391,
+          "team": {
+            "name": "Maracanã",
+            "slug": "maracana",
+            "shortName": "Maracanã",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2558,
+            "nameCode": "MAR",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 87156,
+            "teamColors": {
+              "primary": "#5cb7f4",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ماراكانا",
+                "ru": "Маракана КЕ"
+              },
+              "shortNameTranslation": {
+                "ar": "ماراكانا"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 7,
+          "matches": 14,
+          "wins": 3,
+          "losses": 8,
+          "draws": 3,
+          "scoresFor": 13,
+          "scoresAgainst": 21,
+          "points": 12,
+          "scoreDiffFormatted": "-8"
+        },
+        {
+          "id": 1068388,
+          "team": {
+            "name": "ACD Potiguar",
+            "slug": "acd-potiguar",
+            "shortName": "Potiguar",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1013,
+            "nameCode": "POT",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 34006,
+            "teamColors": {
+              "primary": "#cd0000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إيه سي دي بوتيغوار",
+                "ru": "ФК Потигуар РН"
+              },
+              "shortNameTranslation": {
+                "ar": "بوتيغوار"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 8,
+          "matches": 14,
+          "wins": 1,
+          "losses": 9,
+          "draws": 4,
+          "scoresFor": 7,
+          "scoresAgainst": 21,
+          "points": 7,
+          "scoreDiffFormatted": "-14"
+        }
+      ]
+    },
+    {
+      "id": 122991,
+      "type": "total",
+      "tournament": {
+        "name": "Brasileirão Série D, Group A4",
+        "slug": "brasileirao-serie-d-group-a4",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "البرازيل",
+              "ru": "Бразилия"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "uniqueTournament": {
+          "name": "Brasileirão Série D",
+          "slug": "brasileirao-serie-d",
+          "primaryColorHex": "#debe04",
+          "secondaryColorHex": "#384ba9",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "البرازيل",
+                "ru": "Бразилия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 10290,
+          "hasPerformanceGraphFeature": false,
+          "liveActivityEnabled": false,
+          "country": {},
+          "id": 10326,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دوري الدرجة الرابعة البرازيلي",
+              "bn": "ব্রাজিলেইরাও সিরিজ ডি",
+              "hi": "ब्राज़ीलेइराओ सेरी डी",
+              "ru": "Бразилейран Série D"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "priority": 0,
+        "isGroup": true,
+        "groupName": "Group A4",
+        "isLive": false,
+        "id": 59481,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بطولة الدوري البرازيلي D، المجموعة A4",
+            "bn": "ব্রেসিলিরাও সেরি ডি, গ্রুপ এ4",
+            "hi": "ब्रासीलीराओ सेरी डी, ग्रुप A4",
+            "ru": "Бразилейран Серия D, Группа A4"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "name": "Group A4",
+      "descriptions": [],
+      "tieBreakingRule": {
+        "id": 140,
+        "text": "In the event that two (or more) teams have an equal number of points, the following rules break the tie: 1. Number of victories 2. Goal difference 3. Goals scored"
+      },
+      "rows": [
+        {
+          "id": 1068396,
+          "team": {
+            "name": "AO Itabaiana",
+            "slug": "itabaiana",
+            "shortName": "Itabaiana",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 5030,
+            "nameCode": "ITA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21853,
+            "teamColors": {
+              "primary": "#0000ff",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إيه أو إيتابايانا",
+                "ru": "ФК Итабайана СЕ"
+              },
+              "shortNameTranslation": {
+                "ar": "إيتابايانا"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 1,
+          "matches": 14,
+          "wins": 8,
+          "losses": 4,
+          "draws": 2,
+          "scoresFor": 21,
+          "scoresAgainst": 11,
+          "points": 26,
+          "scoreDiffFormatted": "+10"
+        },
+        {
+          "id": 1068401,
+          "team": {
+            "name": "Retrô",
+            "slug": "retro",
+            "shortName": "Retrô",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 6712,
+            "nameCode": "RET",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 324839,
+            "teamColors": {
+              "primary": "#000066",
+              "secondary": "#fdd100",
+              "text": "#fdd100"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريتروا",
+                "ru": "Ретро"
+              },
+              "shortNameTranslation": {
+                "ar": "ريتروا",
+                "ru": "Ретро"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 2,
+          "matches": 14,
+          "wins": 8,
+          "losses": 4,
+          "draws": 2,
+          "scoresFor": 21,
+          "scoresAgainst": 12,
+          "points": 26,
+          "scoreDiffFormatted": "+9"
+        },
+        {
+          "id": 1068398,
+          "team": {
+            "name": "Jacuipense",
+            "slug": "jacuipense",
+            "shortName": "Jacuipense",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3611,
+            "nameCode": "JAC",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 87166,
+            "teamColors": {
+              "primary": "#890009",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "جاكويبنس",
+                "ru": "Джакупенс БА"
+              },
+              "shortNameTranslation": {
+                "ar": "جاكويبنس"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 3,
+          "matches": 14,
+          "wins": 7,
+          "losses": 5,
+          "draws": 2,
+          "scoresFor": 15,
+          "scoresAgainst": 13,
+          "points": 23,
+          "scoreDiffFormatted": "+2"
+        },
+        {
+          "id": 1068395,
+          "team": {
+            "name": "ASA",
+            "slug": "asa",
+            "shortName": "ASA",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 5243,
+            "nameCode": "ARA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 2019,
+            "teamColors": {
+              "primary": "#272324",
+              "secondary": "#222226",
+              "text": "#222226"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إيه إس إيه",
+                "ru": "ФК Аса АЛ"
+              },
+              "shortNameTranslation": {
+                "ar": "إيه إس إيه"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 4,
+          "matches": 14,
+          "wins": 6,
+          "losses": 5,
+          "draws": 3,
+          "scoresFor": 15,
+          "scoresAgainst": 13,
+          "points": 21,
+          "scoreDiffFormatted": "+2"
+        },
+        {
+          "id": 1068400,
+          "team": {
+            "name": "CSE",
+            "slug": "cse",
+            "shortName": "CSE",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1015,
+            "nameCode": "ESP",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 336565,
+            "teamColors": {
+              "primary": "#007800",
+              "secondary": "#ec0000",
+              "text": "#ec0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سي إس إي",
+                "ru": "ЦСЕ"
+              },
+              "shortNameTranslation": {
+                "ar": "سي إس إي",
+                "ru": "ЦСЕ"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 5,
+          "matches": 14,
+          "wins": 6,
+          "losses": 5,
+          "draws": 3,
+          "scoresFor": 18,
+          "scoresAgainst": 17,
+          "points": 21,
+          "scoreDiffFormatted": "+1"
+        },
+        {
+          "id": 1068397,
+          "team": {
+            "name": "Juazeirense",
+            "slug": "juazeirense",
+            "shortName": "Juazeirense",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3315,
+            "nameCode": "JUA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 61724,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "جوازيرينسي",
+                "ru": "Жуазейренсе БА"
+              },
+              "shortNameTranslation": {
+                "ar": "جوازيرينسي"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 6,
+          "matches": 14,
+          "wins": 6,
+          "losses": 5,
+          "draws": 3,
+          "scoresFor": 13,
+          "scoresAgainst": 13,
+          "points": 21,
+          "scoreDiffFormatted": "0"
+        },
+        {
+          "id": 1068399,
+          "team": {
+            "name": "Petrolina SFC",
+            "slug": "petrolina",
+            "shortName": "Petrolina",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 794,
+            "nameCode": "PET",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21985,
+            "teamColors": {
+              "primary": "#007100",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "بيترولينا بي أي",
+                "ru": "Петролина ПЕ"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "descriptions": [],
+          "position": 7,
+          "matches": 14,
+          "wins": 2,
+          "losses": 8,
+          "draws": 4,
+          "scoresFor": 6,
+          "scoresAgainst": 19,
+          "points": 10,
+          "scoreDiffFormatted": "-13"
+        },
+        {
+          "id": 1068402,
+          "team": {
+            "name": "Sergipe",
+            "slug": "sergipe",
+            "shortName": "Sergipe",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3915,
+            "nameCode": "SER",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 2016,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سيرجيبي",
+                "ru": "Сержипе СЕ"
+              },
+              "shortNameTranslation": {
+                "ar": "سيرجيبي"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 8,
+          "matches": 14,
+          "wins": 2,
+          "losses": 9,
+          "draws": 3,
+          "scoresFor": 11,
+          "scoresAgainst": 22,
+          "points": 9,
+          "scoreDiffFormatted": "-11"
+        }
+      ]
+    },
+    {
+      "id": 122992,
+      "type": "total",
+      "tournament": {
+        "name": "Brasileirão Série D, Group A5",
+        "slug": "brasileirao-serie-d-group-a5",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "البرازيل",
+              "ru": "Бразилия"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "uniqueTournament": {
+          "name": "Brasileirão Série D",
+          "slug": "brasileirao-serie-d",
+          "primaryColorHex": "#debe04",
+          "secondaryColorHex": "#384ba9",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "البرازيل",
+                "ru": "Бразилия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 10290,
+          "hasPerformanceGraphFeature": false,
+          "liveActivityEnabled": false,
+          "country": {},
+          "id": 10326,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دوري الدرجة الرابعة البرازيلي",
+              "bn": "ব্রাজিলেইরাও সিরিজ ডি",
+              "hi": "ब्राज़ीलेइराओ सेरी डी",
+              "ru": "Бразилейран Série D"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "priority": 0,
+        "isGroup": true,
+        "groupName": "Group A5",
+        "isLive": false,
+        "id": 59482,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بطولة الدوري البرازيلي D، المجموعة A5",
+            "bn": "ব্রেসিলিরাও সেরি ডি, গ্রুপ এ5",
+            "hi": "ब्रासीलीराओ सेरी डी, ग्रुप A5",
+            "ru": "Бразилейран Серия D, Группа A5"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "name": "Group A5",
+      "descriptions": [],
+      "tieBreakingRule": {
+        "id": 140,
+        "text": "In the event that two (or more) teams have an equal number of points, the following rules break the tie: 1. Number of victories 2. Goal difference 3. Goals scored"
+      },
+      "rows": [
+        {
+          "id": 1068407,
+          "team": {
+            "name": "Brasiliense",
+            "slug": "brasiliense",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3586,
+            "nameCode": "BDF",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 2024,
+            "teamColors": {
+              "primary": "#ffcb00",
+              "secondary": "#ffeca1",
+              "text": "#ffeca1"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "برازيليينسي",
+                "ru": "ФК Бразильенс ДФ"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 1,
+          "matches": 14,
+          "wins": 10,
+          "losses": 2,
+          "draws": 2,
+          "scoresFor": 27,
+          "scoresAgainst": 10,
+          "points": 32,
+          "scoreDiffFormatted": "+17"
+        },
+        {
+          "id": 1068406,
+          "team": {
+            "name": "Anápolis FC",
+            "slug": "anapolis",
+            "shortName": "Anápolis",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 5972,
+            "nameCode": "ANA",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21872,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#1c1718",
+              "text": "#1c1718"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أنابوليس",
+                "ru": "Анаполис"
+              },
+              "shortNameTranslation": {
+                "ar": "أنابوليس",
+                "ru": "Анаполис"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 2,
+          "matches": 14,
+          "wins": 7,
+          "losses": 3,
+          "draws": 4,
+          "scoresFor": 18,
+          "scoresAgainst": 10,
+          "points": 25,
+          "scoreDiffFormatted": "+8"
+        },
+        {
+          "id": 1068409,
+          "team": {
+            "name": "Mixto",
+            "slug": "mixto",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2155,
+            "nameCode": "MIX",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 34005,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ميكستو",
+                "ru": "ФК Миксто МТ"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 3,
+          "matches": 14,
+          "wins": 5,
+          "losses": 2,
+          "draws": 7,
+          "scoresFor": 18,
+          "scoresAgainst": 13,
+          "points": 22,
+          "scoreDiffFormatted": "+5"
+        },
+        {
+          "id": 1068408,
+          "team": {
+            "name": "CRAC",
+            "slug": "crac",
+            "shortName": "CRAC",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1483,
+            "nameCode": "CAT",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21893,
+            "teamColors": {
+              "primary": "#0099ff",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سي آر إيه سي",
+                "ru": "КРАК"
+              },
+              "shortNameTranslation": {
+                "ar": "سي آر إيه سي",
+                "ru": "КРАК"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 4,
+          "matches": 14,
+          "wins": 5,
+          "losses": 2,
+          "draws": 7,
+          "scoresFor": 13,
+          "scoresAgainst": 8,
+          "points": 22,
+          "scoreDiffFormatted": "+5"
+        },
+        {
+          "id": 1068404,
+          "team": {
+            "name": "Iporá",
+            "slug": "ipora",
+            "shortName": "Iporá",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 562,
+            "nameCode": "IPO",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 243793,
+            "teamColors": {
+              "primary": "#ffe900",
+              "secondary": "#0000ff",
+              "text": "#0000ff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إيبورا",
+                "ru": "Ипора"
+              },
+              "shortNameTranslation": {
+                "ar": "إيبورا",
+                "ru": "Ипора"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 5,
+          "matches": 14,
+          "wins": 5,
+          "losses": 7,
+          "draws": 2,
+          "scoresFor": 16,
+          "scoresAgainst": 21,
+          "points": 17,
+          "scoreDiffFormatted": "-5"
+        },
+        {
+          "id": 1068405,
+          "team": {
+            "name": "União Rondonópolis",
+            "slug": "uniao-rondonopolis",
+            "shortName": "União Rondonópolis",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1219,
+            "nameCode": "UNI",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 34007,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أونيون روندونوبوليس",
+                "ru": "ФК Униао МТ"
+              },
+              "shortNameTranslation": {
+                "ar": "أونيون روندونوبوليس"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 6,
+          "matches": 14,
+          "wins": 3,
+          "losses": 4,
+          "draws": 7,
+          "scoresFor": 14,
+          "scoresAgainst": 15,
+          "points": 16,
+          "scoreDiffFormatted": "-1"
+        },
+        {
+          "id": 1068410,
+          "team": {
+            "name": "Real Brasília FC",
+            "slug": "real-brasilia-fc",
+            "shortName": "Real Brasília",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 807,
+            "nameCode": "REAL",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 308206,
+            "teamColors": {
+              "primary": "#0a87f9",
+              "secondary": "#16115f",
+              "text": "#16115f"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إف سي ريال برازيليا",
+                "ru": "ФК Реал Бразилия"
+              },
+              "shortNameTranslation": {
+                "ar": "ريال برازيليا",
+                "ru": "ФК Реал Бразилия"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 7,
+          "matches": 14,
+          "wins": 2,
+          "losses": 9,
+          "draws": 3,
+          "scoresFor": 10,
+          "scoresAgainst": 20,
+          "points": 9,
+          "scoreDiffFormatted": "-10"
+        },
+        {
+          "id": 1068403,
+          "team": {
+            "name": "Capital FC",
+            "slug": "capital-fc-to",
+            "shortName": "Capital-TO",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 543,
+            "nameCode": "CAP",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 339670,
+            "teamColors": {
+              "primary": "#000000",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "كابيتال FC TO",
+                "ru": "Капитал ФК"
+              },
+              "shortNameTranslation": {
+                "ru": "Капитал-ТО"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 8,
+          "matches": 14,
+          "wins": 2,
+          "losses": 10,
+          "draws": 2,
+          "scoresFor": 10,
+          "scoresAgainst": 29,
+          "points": 8,
+          "scoreDiffFormatted": "-19"
+        }
+      ]
+    },
+    {
+      "id": 122993,
+      "type": "total",
+      "tournament": {
+        "name": "Brasileirão Série D, Group A6",
+        "slug": "brasileirao-serie-d-group-a6",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "البرازيل",
+              "ru": "Бразилия"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "uniqueTournament": {
+          "name": "Brasileirão Série D",
+          "slug": "brasileirao-serie-d",
+          "primaryColorHex": "#debe04",
+          "secondaryColorHex": "#384ba9",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "البرازيل",
+                "ru": "Бразилия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 10290,
+          "hasPerformanceGraphFeature": false,
+          "liveActivityEnabled": false,
+          "country": {},
+          "id": 10326,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دوري الدرجة الرابعة البرازيلي",
+              "bn": "ব্রাজিলেইরাও সিরিজ ডি",
+              "hi": "ब्राज़ीलेइराओ सेरी डी",
+              "ru": "Бразилейран Série D"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "priority": 0,
+        "isGroup": true,
+        "groupName": "Group A6",
+        "isLive": false,
+        "id": 59483,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بطولة الدوري البرازيلي D، المجموعة A6",
+            "bn": "ব্রেসিলিরাও সেরি ডি, গ্রুপ এ6",
+            "hi": "ब्रासीलीराओ सेरी डी, ग्रुप A6",
+            "ru": "Бразилейран Серия D, Группа A6"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "name": "Group A6",
+      "descriptions": [],
+      "tieBreakingRule": {
+        "id": 140,
+        "text": "In the event that two (or more) teams have an equal number of points, the following rules break the tie: 1. Number of victories 2. Goal difference 3. Goals scored"
+      },
+      "rows": [
+        {
+          "id": 1068416,
+          "team": {
+            "name": "Nova Iguaçu",
+            "slug": "nova-iguacu",
+            "shortName": "Nova Iguaçu",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7569,
+            "nameCode": "NRJ",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 6981,
+            "teamColors": {
+              "primary": "#ff932e",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "نوفا إيغواسو",
+                "ru": "Нова Игуаку РЖ"
+              },
+              "shortNameTranslation": {
+                "ar": "نوفا إيغواسو"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 1,
+          "matches": 14,
+          "wins": 9,
+          "losses": 1,
+          "draws": 4,
+          "scoresFor": 19,
+          "scoresAgainst": 5,
+          "points": 31,
+          "scoreDiffFormatted": "+14"
+        },
+        {
+          "id": 1068412,
+          "team": {
+            "name": "Portuguesa-RJ",
+            "slug": "portuguesa-rj",
+            "shortName": "Portuguesa-RJ",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 5702,
+            "nameCode": "POR",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 208067,
+            "teamColors": {
+              "primary": "#cc0014",
+              "secondary": "#005400",
+              "text": "#005400"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "بورتوغيزا-آر جي",
+                "ru": "Португеза-РЖ"
+              },
+              "shortNameTranslation": {
+                "ar": "بورتوغيزا-آر جي",
+                "ru": "Португеза-РЖ"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 2,
+          "matches": 14,
+          "wins": 6,
+          "losses": 1,
+          "draws": 7,
+          "scoresFor": 18,
+          "scoresAgainst": 6,
+          "points": 25,
+          "scoreDiffFormatted": "+12"
+        },
+        {
+          "id": 1068415,
+          "team": {
+            "name": "Itabuna EC",
+            "slug": "itabuna",
+            "shortName": "Itabuna",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 979,
+            "nameCode": "ITA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21973,
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إيتابونا",
+                "ru": "Итабуна"
+              },
+              "shortNameTranslation": {
+                "ar": "إيتابونا",
+                "ru": "Итабуна"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 3,
+          "matches": 14,
+          "wins": 6,
+          "losses": 2,
+          "draws": 6,
+          "scoresFor": 16,
+          "scoresAgainst": 9,
+          "points": 24,
+          "scoreDiffFormatted": "+7"
+        },
+        {
+          "id": 1068417,
+          "team": {
+            "name": "Real Noroeste",
+            "slug": "real-noroeste",
+            "shortName": "Real Noroeste",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1894,
+            "nameCode": "RNO",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 65494,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#004703",
+              "text": "#004703"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ريال نورويست",
+                "ru": "Реал Нороэсте ЕС"
+              },
+              "shortNameTranslation": {
+                "ar": "ريال نورويست"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 4,
+          "matches": 14,
+          "wins": 5,
+          "losses": 4,
+          "draws": 5,
+          "scoresFor": 16,
+          "scoresAgainst": 15,
+          "points": 20,
+          "scoreDiffFormatted": "+1"
+        },
+        {
+          "id": 1068411,
+          "team": {
+            "name": "Serra FC",
+            "slug": "serra-fc",
+            "shortName": "Serra",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1645,
+            "nameCode": "SER",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 34013,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سيرا إف سي",
+                "ru": "ФК Серра ЕС"
+              },
+              "shortNameTranslation": {
+                "ar": "سيرا"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 5,
+          "matches": 14,
+          "wins": 5,
+          "losses": 5,
+          "draws": 4,
+          "scoresFor": 16,
+          "scoresAgainst": 18,
+          "points": 19,
+          "scoreDiffFormatted": "-2"
+        },
+        {
+          "id": 1068414,
+          "team": {
+            "name": "Ipatinga",
+            "slug": "ipatinga",
+            "shortName": "Ipatinga",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1302,
+            "nameCode": "IPA",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 7297,
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إيباتينغا",
+                "ru": "Ипатига"
+              },
+              "shortNameTranslation": {
+                "ar": "إيباتينغا",
+                "ru": "Ипатига"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 6,
+          "matches": 14,
+          "wins": 2,
+          "losses": 7,
+          "draws": 5,
+          "scoresFor": 8,
+          "scoresAgainst": 18,
+          "points": 11,
+          "scoreDiffFormatted": "-10"
+        },
+        {
+          "id": 1068413,
+          "team": {
+            "name": "Democrata FC",
+            "slug": "democrata-fc",
+            "shortName": "Democrata (SL)",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1090,
+            "nameCode": "DEM",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 343628,
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ديموقراطا إف سي",
+                "ru": "Демократа ФК"
+              },
+              "shortNameTranslation": {
+                "ar": "ديموقراطا (إس إل)",
+                "ru": "Демократа (СЛ)"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 7,
+          "matches": 14,
+          "wins": 2,
+          "losses": 8,
+          "draws": 4,
+          "scoresFor": 8,
+          "scoresAgainst": 21,
+          "points": 10,
+          "scoreDiffFormatted": "-13"
+        },
+        {
+          "id": 1068418,
+          "team": {
+            "name": "Audax Rio",
+            "slug": "audax-rj",
+            "shortName": "Audax",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1592,
+            "nameCode": "ADX",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 85341,
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أوداكس-RJ",
+                "ru": "Аудакс Рио РЖ"
+              },
+              "shortNameTranslation": {
+                "ar": "أوداكس"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 8,
+          "matches": 14,
+          "wins": 2,
+          "losses": 9,
+          "draws": 3,
+          "scoresFor": 10,
+          "scoresAgainst": 19,
+          "points": 9,
+          "scoreDiffFormatted": "-9"
+        }
+      ]
+    },
+    {
+      "id": 122994,
+      "type": "total",
+      "tournament": {
+        "name": "Brasileirão Série D, Group A7",
+        "slug": "brasileirao-serie-d-group-a7",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "البرازيل",
+              "ru": "Бразилия"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "uniqueTournament": {
+          "name": "Brasileirão Série D",
+          "slug": "brasileirao-serie-d",
+          "primaryColorHex": "#debe04",
+          "secondaryColorHex": "#384ba9",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "البرازيل",
+                "ru": "Бразилия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 10290,
+          "hasPerformanceGraphFeature": false,
+          "liveActivityEnabled": false,
+          "country": {},
+          "id": 10326,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دوري الدرجة الرابعة البرازيلي",
+              "bn": "ব্রাজিলেইরাও সিরিজ ডি",
+              "hi": "ब्राज़ीलेइराओ सेरी डी",
+              "ru": "Бразилейран Série D"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "priority": 0,
+        "isGroup": true,
+        "groupName": "Group A7",
+        "isLive": false,
+        "id": 59484,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بطولة الدوري البرازيلي D، المجموعة A7",
+            "bn": "ব্রেসিলিরাও সেরি ডি, গ্রুপ এ7",
+            "hi": "ब्रासीलीराओ सेरी डी, ग्रुप A7",
+            "ru": "Бразилейран Серия D, Группа A7"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "name": "Group A7",
+      "descriptions": [],
+      "tieBreakingRule": {
+        "id": 140,
+        "text": "In the event that two (or more) teams have an equal number of points, the following rules break the tie: 1. Number of victories 2. Goal difference 3. Goals scored"
+      },
+      "rows": [
+        {
+          "id": 1068423,
+          "team": {
+            "name": "Maringá FC",
+            "slug": "maringa",
+            "shortName": "Maringá",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 10134,
+            "nameCode": "MA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 135324,
+            "teamColors": {
+              "primary": "#000000",
+              "secondary": "#00802d",
+              "text": "#00802d"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "مارينغا إف سي",
+                "ru": "ФК Маринга"
+              },
+              "shortNameTranslation": {
+                "ar": "مارينغا",
+                "ru": "Маринга"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 1,
+          "matches": 14,
+          "wins": 10,
+          "losses": 2,
+          "draws": 2,
+          "scoresFor": 25,
+          "scoresAgainst": 10,
+          "points": 32,
+          "scoreDiffFormatted": "+15"
+        },
+        {
+          "id": 1068420,
+          "team": {
+            "name": "Inter de Limeira",
+            "slug": "inter-de-limeira",
+            "shortName": "Inter de Limeira",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7351,
+            "nameCode": "INT",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 135526,
+            "teamColors": {
+              "primary": "#000000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إنتر دي ليميرا",
+                "ru": "Интер де Лимейра"
+              },
+              "shortNameTranslation": {
+                "ar": "إنتر دي ليميرا",
+                "ru": "Интер де Лимейра"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 2,
+          "matches": 14,
+          "wins": 7,
+          "losses": 4,
+          "draws": 3,
+          "scoresFor": 16,
+          "scoresAgainst": 7,
+          "points": 24,
+          "scoreDiffFormatted": "+9"
+        },
+        {
+          "id": 1068419,
+          "team": {
+            "name": "Água Santa",
+            "slug": "agua-santa",
+            "shortName": "Água Santa",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 4228,
+            "nameCode": "AGU",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 135510,
+            "teamColors": {
+              "primary": "#153160",
+              "secondary": "#cca24b",
+              "text": "#cca24b"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أغوا سانتا",
+                "ru": "Агуа Санта"
+              },
+              "shortNameTranslation": {
+                "ar": "أغوا سانتا",
+                "ru": "Агуа Санта"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 3,
+          "matches": 14,
+          "wins": 6,
+          "losses": 4,
+          "draws": 4,
+          "scoresFor": 12,
+          "scoresAgainst": 10,
+          "points": 22,
+          "scoreDiffFormatted": "+2"
+        },
+        {
+          "id": 1068421,
+          "team": {
+            "name": "Costa Rica-MS",
+            "slug": "costa-rica-ms",
+            "shortName": "Costa Rica-MS",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 460,
+            "nameCode": "CRI",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 308001,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#0000ff",
+              "text": "#0000ff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "كوستاريكا-MS",
+                "ru": "Коста-Рика-МС"
+              },
+              "shortNameTranslation": {
+                "ar": "كوستاريكا-MS",
+                "ru": "Коста-Рика-МС"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 4,
+          "matches": 14,
+          "wins": 6,
+          "losses": 5,
+          "draws": 3,
+          "scoresFor": 16,
+          "scoresAgainst": 17,
+          "points": 21,
+          "scoreDiffFormatted": "-1"
+        },
+        {
+          "id": 1068422,
+          "team": {
+            "name": "EC Santo André",
+            "slug": "santo-andre",
+            "shortName": "Santo André",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3097,
+            "nameCode": "SAN",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 6966,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#000080",
+              "text": "#000080"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "إي سي سانتو أندريه",
+                "ru": "ЭК Санто Андре"
+              },
+              "shortNameTranslation": {
+                "ar": "سانتو أندريه",
+                "ru": "Санто Андре"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 5,
+          "matches": 14,
+          "wins": 5,
+          "losses": 4,
+          "draws": 5,
+          "scoresFor": 15,
+          "scoresAgainst": 13,
+          "points": 20,
+          "scoreDiffFormatted": "+2"
+        },
+        {
+          "id": 1068425,
+          "team": {
+            "name": "Pouso Alegre FC",
+            "slug": "pouso-alegre",
+            "shortName": "Pouso Alegre",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2929,
+            "nameCode": "POU",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 343540,
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "بوسو أليغري",
+                "ru": "Пузо Алегре ФК"
+              },
+              "shortNameTranslation": {
+                "ru": "Пузо Алегре"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 6,
+          "matches": 14,
+          "wins": 3,
+          "losses": 6,
+          "draws": 5,
+          "scoresFor": 11,
+          "scoresAgainst": 9,
+          "points": 14,
+          "scoreDiffFormatted": "+2"
+        },
+        {
+          "id": 1068424,
+          "team": {
+            "name": "São José EC",
+            "slug": "sao-jose-ec",
+            "shortName": "São José",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 4737,
+            "nameCode": "SAJ",
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 88744,
+            "teamColors": {
+              "primary": "#000060",
+              "secondary": "#0000ff",
+              "text": "#0000ff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "ساو خوسيه إي سي",
+                "ru": "Сан-Жозе ЭК"
+              },
+              "shortNameTranslation": {
+                "ar": "ساو خوسيه",
+                "ru": "Сан-Жозе"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 7,
+          "matches": 14,
+          "wins": 2,
+          "losses": 4,
+          "draws": 8,
+          "scoresFor": 13,
+          "scoresAgainst": 16,
+          "points": 14,
+          "scoreDiffFormatted": "-3"
+        },
+        {
+          "id": 1068426,
+          "team": {
+            "name": "Patrocinense",
+            "slug": "patrocinense",
+            "shortName": "Patrocinense",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 990,
+            "nameCode": "PAT",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 274036,
+            "teamColors": {
+              "primary": "#9a0000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "باتروسينينسي",
+                "ru": "Патросиненсе"
+              },
+              "shortNameTranslation": {
+                "ar": "باتروسينينسي",
+                "ru": "Патросиненсе"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 8,
+          "matches": 14,
+          "wins": 1,
+          "losses": 11,
+          "draws": 2,
+          "scoresFor": 6,
+          "scoresAgainst": 32,
+          "points": 5,
+          "scoreDiffFormatted": "-26"
+        }
+      ]
+    },
+    {
+      "id": 122995,
+      "type": "total",
+      "tournament": {
+        "name": "Brasileirão Série D, Group A8",
+        "slug": "brasileirao-serie-d-group-a8",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "البرازيل",
+              "ru": "Бразилия"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "uniqueTournament": {
+          "name": "Brasileirão Série D",
+          "slug": "brasileirao-serie-d",
+          "primaryColorHex": "#debe04",
+          "secondaryColorHex": "#384ba9",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "priority": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR",
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "البرازيل",
+                "ru": "Бразилия"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "userCount": 10290,
+          "hasPerformanceGraphFeature": false,
+          "liveActivityEnabled": false,
+          "country": {},
+          "id": 10326,
+          "displayInverseHomeAwayTeams": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دوري الدرجة الرابعة البرازيلي",
+              "bn": "ব্রাজিলেইরাও সিরিজ ডি",
+              "hi": "ब्राज़ीलेइराओ सेरी डी",
+              "ru": "Бразилейран Série D"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "priority": 0,
+        "isGroup": true,
+        "groupName": "Group A8",
+        "isLive": false,
+        "id": 59485,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بطولة الدوري البرازيلي D، المجموعة A8",
+            "bn": "ব্রেসিলিরাও সেরি ডি, গ্রুপ এ8",
+            "hi": "ब्रासीलीराओ सेरी डी, ग्रुप A8",
+            "ru": "Бразилейран Серия D, Группа A8"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "name": "Group A8",
+      "descriptions": [],
+      "tieBreakingRule": {
+        "id": 140,
+        "text": "In the event that two (or more) teams have an equal number of points, the following rules break the tie: 1. Number of victories 2. Goal difference 3. Goals scored"
+      },
+      "rows": [
+        {
+          "id": 1068429,
+          "team": {
+            "name": "Cianorte",
+            "slug": "cianorte",
+            "shortName": "Cianorte",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2834,
+            "nameCode": "CIA",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21892,
+            "teamColors": {
+              "primary": "#003399",
+              "secondary": "#002481",
+              "text": "#002481"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "سيانورتي",
+                "ru": "ФК Чианорте"
+              },
+              "shortNameTranslation": {
+                "ar": "سيانورتي"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 1,
+          "matches": 14,
+          "wins": 6,
+          "losses": 4,
+          "draws": 4,
+          "scoresFor": 14,
+          "scoresAgainst": 12,
+          "points": 22,
+          "scoreDiffFormatted": "+2"
+        },
+        {
+          "id": 1068432,
+          "team": {
+            "name": "Grêmio Esportivo Brasil",
+            "slug": "gremio-esportivo-brasil",
+            "shortName": "Brasil de Pelotas",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 6231,
+            "nameCode": "GEB",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 1986,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "غريميو إسبورتيفو برازيل",
+                "ru": "Бразил де Пелотас"
+              },
+              "shortNameTranslation": {
+                "ar": "برازيل دي بيلوتاس"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 2,
+          "matches": 14,
+          "wins": 6,
+          "losses": 5,
+          "draws": 3,
+          "scoresFor": 17,
+          "scoresAgainst": 14,
+          "points": 21,
+          "scoreDiffFormatted": "+3"
+        },
+        {
+          "id": 1068434,
+          "team": {
+            "name": "EC Avenida",
+            "slug": "avenida",
+            "shortName": "Avenida",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1962,
+            "nameCode": "ARS",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 32765,
+            "teamColors": {
+              "primary": "#004200",
+              "secondary": "#00ff00",
+              "text": "#00ff00"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "أفينيدا آر إس",
+                "ru": "ФК Авенида"
+              },
+              "shortNameTranslation": {}
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 3,
+          "matches": 14,
+          "wins": 5,
+          "losses": 5,
+          "draws": 4,
+          "scoresFor": 14,
+          "scoresAgainst": 19,
+          "points": 19,
+          "scoreDiffFormatted": "-5"
+        },
+        {
+          "id": 1068431,
+          "team": {
+            "name": "Novo Hamburgo",
+            "slug": "novo-hamburgo",
+            "shortName": "Novo Hamburgo",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1866,
+            "nameCode": "NOH",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 480376,
+            "teamColors": {
+              "primary": "#0095f7",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "نوفو هامبورغو",
+                "ru": "Ново-Гамбурго"
+              },
+              "shortNameTranslation": {
+                "ar": "نوفو هامبورغو",
+                "ru": "Ново-Гамбурго"
+              }
+            }
+          },
+          "descriptions": [],
+          "promotion": {
+            "id": 6,
+            "text": "Playoffs"
+          },
+          "position": 4,
+          "matches": 14,
+          "wins": 4,
+          "losses": 4,
+          "draws": 6,
+          "scoresFor": 14,
+          "scoresAgainst": 15,
+          "points": 18,
+          "scoreDiffFormatted": "-1"
+        },
+        {
+          "id": 1068433,
+          "team": {
+            "name": "Hercílio Luz FC",
+            "slug": "hercilio-luz",
+            "shortName": "Hercílio Luz",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 2149,
+            "nameCode": "HER",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 234222,
+            "teamColors": {
+              "primary": "#ff0000",
+              "secondary": "#ffffff",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "هيرسيلو لوز إف سي",
+                "ru": "Герсилиу Луз ФК"
+              },
+              "shortNameTranslation": {
+                "ar": "هيرسيلو لوز",
+                "ru": "Герсилиу Луз"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 5,
+          "matches": 14,
+          "wins": 3,
+          "losses": 2,
+          "draws": 9,
+          "scoresFor": 11,
+          "scoresAgainst": 10,
+          "points": 18,
+          "scoreDiffFormatted": "+1"
+        },
+        {
+          "id": 1068430,
+          "team": {
+            "name": "Concórdia AC",
+            "slug": "concordia-atletico-clube",
+            "shortName": "Concórdia",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 1750,
+            "nameCode": "CON",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 257674,
+            "teamColors": {
+              "primary": "#006000",
+              "secondary": "#ff0000",
+              "text": "#ff0000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "كونكورديا إيه سي",
+                "ru": "Конкордия АС"
+              },
+              "shortNameTranslation": {
+                "ar": "كونكورديا",
+                "ru": "Конкордия"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 6,
+          "matches": 14,
+          "wins": 4,
+          "losses": 5,
+          "draws": 5,
+          "scoresFor": 13,
+          "scoresAgainst": 12,
+          "points": 17,
+          "scoreDiffFormatted": "+1"
+        },
+        {
+          "id": 1068428,
+          "team": {
+            "name": "Barra FC",
+            "slug": "barra",
+            "shortName": "Barra",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 7029,
+            "nameCode": "BRR",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 257673,
+            "teamColors": {
+              "primary": "#374df5",
+              "secondary": "#374df5",
+              "text": "#ffffff"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "بارا إف سي",
+                "ru": "Барра ФК"
+              },
+              "shortNameTranslation": {
+                "ar": "بارا",
+                "ru": "Барра"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 7,
+          "matches": 14,
+          "wins": 3,
+          "losses": 4,
+          "draws": 7,
+          "scoresFor": 15,
+          "scoresAgainst": 12,
+          "points": 16,
+          "scoreDiffFormatted": "+3"
+        },
+        {
+          "id": 1068427,
+          "team": {
+            "name": "Cascavel",
+            "slug": "cascavel",
+            "shortName": "Cascavel",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "userCount": 3229,
+            "nameCode": "CAS",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 21891,
+            "teamColors": {
+              "primary": "#000000",
+              "secondary": "#ffdd00",
+              "text": "#ffdd00"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "كاسكافيل",
+                "ru": "ФК Каскавел"
+              },
+              "shortNameTranslation": {
+                "ar": "كاسكافيل"
+              }
+            }
+          },
+          "descriptions": [],
+          "position": 8,
+          "matches": 14,
+          "wins": 3,
+          "losses": 5,
+          "draws": 6,
+          "scoresFor": 8,
+          "scoresAgainst": 12,
+          "points": 15,
+          "scoreDiffFormatted": "-4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+﻿event_id,ano,divisao,rodada,data,data_formatada,status,time_mandante_id,time_mandante_nome,time_mandante_chave,time_visitante_id,time_visitante_nome,time_visitante_chave
+15235440,2026,Serie_A,21,2026-07-30,30/07/2026,postponed,21845,Chapecoense,chapecoense,1974,Vasco da Gama,vasco da gama
+15238205,2026,Serie_A,33,2026-10-28,28/10/2026,notstarted,1961,Fluminense,fluminense,1966,Internacional,internacional
+15238222,2026,Serie_A,33,2026-10-28,28/10/2026,notstarted,1999,Red Bull Bragantino,red bull bragantino,21845,Chapecoense,chapecoense
+15238210,2026,Serie_A,33,2026-10-28,28/10/2026,notstarted,1968,Santos,santos,1963,Palmeiras,palmeiras
+15238228,2026,Serie_A,33,2026-10-29,29/10/2026,notstarted,1955,Bahia,bahia,1981,São Paulo,sao paulo
+15238245,2026,Serie_A,33,2026-10-29,29/10/2026,notstarted,2012,Remo,remo,1958,Botafogo,botafogo
+15238216,2026,Serie_A,33,2026-10-29,29/10/2026,notstarted,1977,Atlético Mineiro,atletico mineiro,1954,Cruzeiro,cruzeiro
+15238212,2026,Serie_A,33,2026-10-29,29/10/2026,notstarted,1974,Vasco da Gama,vasco da gama,5981,Flamengo,flamengo
+15238226,2026,Serie_A,33,2026-10-30,30/10/2026,notstarted,5926,Grêmio,gremio,1967,Athletico,athletico
+15238218,2026,Serie_A,33,2026-10-30,30/10/2026,notstarted,1957,Corinthians,corinthians,21982,Mirassol,mirassol
+15238227,2026,Serie_A,33,2026-10-31,31/10/2026,notstarted,1982,Coritiba,coritiba,1962,Vitória,vitoria
+15238234,2026,Serie_A,34,2026-11-02,02/11/2026,notstarted,1999,Red Bull Bragantino,red bull bragantino,1968,Santos,santos
+15238238,2026,Serie_A,34,2026-11-03,03/11/2026,notstarted,21845,Chapecoense,chapecoense,21982,Mirassol,mirassol
+15238232,2026,Serie_A,34,2026-11-04,04/11/2026,notstarted,1966,Internacional,internacional,1982,Coritiba,coritiba
+15238239,2026,Serie_A,34,2026-11-04,04/11/2026,notstarted,1967,Athletico,athletico,1974,Vasco da Gama,vasco da gama
+15238230,2026,Serie_A,34,2026-11-04,04/11/2026,notstarted,5981,Flamengo,flamengo,5926,Grêmio,gremio
+15238231,2026,Serie_A,34,2026-11-05,05/11/2026,notstarted,1958,Botafogo,botafogo,1977,Atlético Mineiro,atletico mineiro
+15238229,2026,Serie_A,34,2026-11-05,05/11/2026,notstarted,1981,São Paulo,sao paulo,1957,Corinthians,corinthians
+15238233,2026,Serie_A,34,2026-11-05,05/11/2026,notstarted,1963,Palmeiras,palmeiras,2012,Remo,remo
+15238235,2026,Serie_A,34,2026-11-06,06/11/2026,notstarted,1954,Cruzeiro,cruzeiro,1955,Bahia,bahia
+15238237,2026,Serie_A,34,2026-11-06,06/11/2026,notstarted,1962,Vitória,vitoria,1961,Fluminense,fluminense
+15238243,2026,Serie_A,35,2026-11-18,18/11/2026,notstarted,1957,Corinthians,corinthians,1958,Botafogo,botafogo
+15235658,2026,Serie_A,35,2026-11-18,18/11/2026,notstarted,1982,Coritiba,coritiba,1968,Santos,santos
+15235656,2026,Serie_A,35,2026-11-18,18/11/2026,notstarted,1954,Cruzeiro,cruzeiro,1963,Palmeiras,palmeiras
+15238236,2026,Serie_A,35,2026-11-18,18/11/2026,notstarted,5981,Flamengo,flamengo,1967,Athletico,athletico
+15235657,2026,Serie_A,35,2026-11-18,18/11/2026,notstarted,5926,Grêmio,gremio,1955,Bahia,bahia
+15238244,2026,Serie_A,35,2026-11-18,18/11/2026,notstarted,21982,Mirassol,mirassol,1977,Atlético Mineiro,atletico mineiro
+15235659,2026,Serie_A,35,2026-11-18,18/11/2026,notstarted,2012,Remo,remo,21845,Chapecoense,chapecoense
+15238241,2026,Serie_A,35,2026-11-18,18/11/2026,notstarted,1981,São Paulo,sao paulo,1961,Fluminense,fluminense
+15238240,2026,Serie_A,35,2026-11-18,18/11/2026,notstarted,1974,Vasco da Gama,vasco da gama,1966,Internacional,internacional
+15235666,2026,Serie_A,35,2026-11-18,18/11/2026,notstarted,1962,Vitória,vitoria,1999,Red Bull Bragantino,red bull bragantino
+15235673,2026,Serie_A,36,2026-11-22,22/11/2026,notstarted,1967,Athletico,athletico,2012,Remo,remo
+15235664,2026,Serie_A,36,2026-11-22,22/11/2026,notstarted,1977,Atlético Mineiro,atletico mineiro,1957,Corinthians,corinthians
+15235678,2026,Serie_A,36,2026-11-22,22/11/2026,notstarted,1955,Bahia,bahia,1982,Coritiba,coritiba
+15235660,2026,Serie_A,36,2026-11-22,22/11/2026,notstarted,1958,Botafogo,botafogo,1981,São Paulo,sao paulo
+15235668,2026,Serie_A,36,2026-11-22,22/11/2026,notstarted,21845,Chapecoense,chapecoense,1954,Cruzeiro,cruzeiro
+15235662,2026,Serie_A,36,2026-11-22,22/11/2026,notstarted,1961,Fluminense,fluminense,21982,Mirassol,mirassol
+15235667,2026,Serie_A,36,2026-11-22,22/11/2026,notstarted,1966,Internacional,internacional,1962,Vitória,vitoria
+15235665,2026,Serie_A,36,2026-11-22,22/11/2026,notstarted,1963,Palmeiras,palmeiras,5981,Flamengo,flamengo
+15235663,2026,Serie_A,36,2026-11-22,22/11/2026,notstarted,1999,Red Bull Bragantino,red bull bragantino,1974,Vasco da Gama,vasco da gama
+15235661,2026,Serie_A,36,2026-11-22,22/11/2026,notstarted,1968,Santos,santos,5926,Grêmio,gremio
+15235669,2026,Serie_A,37,2026-11-29,29/11/2026,notstarted,1977,Atlético Mineiro,atletico mineiro,1974,Vasco da Gama,vasco da gama
+15235677,2026,Serie_A,37,2026-11-29,29/11/2026,notstarted,1958,Botafogo,botafogo,1955,Bahia,bahia
+15235680,2026,Serie_A,37,2026-11-29,29/11/2026,notstarted,21845,Chapecoense,chapecoense,1963,Palmeiras,palmeiras
+15235672,2026,Serie_A,37,2026-11-29,29/11/2026,notstarted,1957,Corinthians,corinthians,5926,Grêmio,gremio
+15235675,2026,Serie_A,37,2026-11-29,29/11/2026,notstarted,1982,Coritiba,coritiba,5981,Flamengo,flamengo
+15235671,2026,Serie_A,37,2026-11-29,29/11/2026,notstarted,1961,Fluminense,fluminense,1954,Cruzeiro,cruzeiro
+15235679,2026,Serie_A,37,2026-11-29,29/11/2026,notstarted,1966,Internacional,internacional,1999,Red Bull Bragantino,red bull bragantino
+15235676,2026,Serie_A,37,2026-11-29,29/11/2026,notstarted,21982,Mirassol,mirassol,1967,Athletico,athletico
+15235670,2026,Serie_A,37,2026-11-29,29/11/2026,notstarted,1981,São Paulo,sao paulo,2012,Remo,remo
+15235674,2026,Serie_A,37,2026-11-29,29/11/2026,notstarted,1962,Vitória,vitoria,1968,Santos,santos
+15235688,2026,Serie_A,38,2026-12-02,02/12/2026,notstarted,1967,Athletico,athletico,1981,São Paulo,sao paulo
+15235689,2026,Serie_A,38,2026-12-02,02/12/2026,notstarted,1955,Bahia,bahia,1977,Atlético Mineiro,atletico mineiro
+15235686,2026,Serie_A,38,2026-12-02,02/12/2026,notstarted,1954,Cruzeiro,cruzeiro,1966,Internacional,internacional
+15235682,2026,Serie_A,38,2026-12-02,02/12/2026,notstarted,5981,Flamengo,flamengo,21845,Chapecoense,chapecoense
+15235687,2026,Serie_A,38,2026-12-02,02/12/2026,notstarted,5926,Grêmio,gremio,21982,Mirassol,mirassol
+15235684,2026,Serie_A,38,2026-12-02,02/12/2026,notstarted,1963,Palmeiras,palmeiras,1982,Coritiba,coritiba
+15235685,2026,Serie_A,38,2026-12-02,02/12/2026,notstarted,1999,Red Bull Bragantino,red bull bragantino,1961,Fluminense,fluminense
+15235690,2026,Serie_A,38,2026-12-02,02/12/2026,notstarted,2012,Remo,remo,1957,Corinthians,corinthians
+15235683,2026,Serie_A,38,2026-12-02,02/12/2026,notstarted,1968,Santos,santos,1958,Botafogo,botafogo
+15235681,2026,Serie_A,38,2026-12-02,02/12/2026,notstarted,1974,Vasco da Gama,vasco da gama,1962,Vitória,vitoria

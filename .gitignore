@@ -1,0 +1,62 @@
+# ==============================================================================
+# .gitignore - Brasileirão 2026 Analytics & Machine Learning
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Variáveis de Ambiente e Segredos
+.env
+.env.*
+.streamlit/secrets.toml
+
+# SQLite Journal / Temporary Locks
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite-journal
+
+# Arquivos Temporários de Escrita Atômica e Cache Local
+*.tmp
+*.bak
+*.swp
+*~
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+assets/fotos_jogadores/*.img
+assets/fotos_jogadores/*.none
+
+# Atalhos e Arquivos de Sistema Operacional (Windows / macOS / Linux)
+*.lnk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs e Diagnósticos
+*.log
+npm-debug.log*
+
+

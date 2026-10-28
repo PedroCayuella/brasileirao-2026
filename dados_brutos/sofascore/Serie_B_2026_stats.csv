@@ -1,0 +1,748 @@
+﻿sofascore_player_id,jogador_nome,jogador_chave,sofascore_team_id,clube_nome,clube_chave,ano,divisao,peso_divisao,jogos,minutos,gols,assistencias,gols_por_90,assistencias_por_90,participacoes_gol_por_90,finalizacoes,dribles_certos,desarmes,interceptacoes,duelos_aereos_ganhos,passes_certos_pct,nota_media_sofascore,producao_ofensiva_ajustada_divisao,nota_ajustada_divisao
+871291,Thiago Couto,thiago couto,1959,Sport Recife,sport recife,2026,Serie_B,0.72,35,3150,0,0,0.0,0.0,0.0,0,1,0,0,19,74.16,7.13,0.0,6.531
+880117,Luan Polli,luan polli,342775,Athletic Club,athletic club,2026,Serie_B,0.72,34,3060,0,0,0.0,0.0,0.0,0,1,0,0,4,59.74,7.13,0.0,6.531
+329081,Helton Leite,helton leite,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,34,3057,0,0,0.0,0.0,0.0,0,0,0,0,10,59.12,7.1,0.0,6.504
+1177012,Vilar,vilar,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,34,3045,3,0,0.089,0.0,0.089,29,1,27,46,109,85.24,6.94,0.064,6.357
+783490,Marcelo Hermes,marcelo hermes,1984,Criciúma,criciuma,2026,Serie_B,0.72,34,3039,4,2,0.118,0.059,0.177,48,11,60,30,31,77.58,7.06,0.127,6.467
+870760,Raul,raul,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,34,3015,0,0,0.0,0.0,0.0,27,10,62,51,11,87.82,7.1,0.0,6.504
+875206,Alex Alves,alex alves,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,34,3015,0,0,0.0,0.0,0.0,0,0,0,0,9,75.74,7.01,0.0,6.421
+861003,Paulo Vítor,paulo vitor,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,33,2970,0,0,0.0,0.0,0.0,0,0,0,0,12,62.05,7.29,0.0,6.678
+108486,Muriel,muriel,2011,Náutico,nautico,2026,Serie_B,0.72,33,2970,0,0,0.0,0.0,0.0,0,2,1,0,6,72.24,7.1,0.0,6.504
+874979,Jandrei,jandrei,1980,Juventude,juventude,2026,Serie_B,0.72,32,2880,0,0,0.0,0.0,0.0,0,0,0,1,18,68.26,7.18,0.0,6.577
+958676,Wenderson,wenderson,2011,Náutico,nautico,2026,Serie_B,0.72,33,2851,0,2,0.0,0.063,0.063,31,16,69,48,18,90.42,7.07,0.045,6.476
+870898,Janderson,janderson,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,34,2848,9,7,0.284,0.221,0.505,71,54,37,12,5,78.49,7.05,0.364,6.458
+1048150,Rodrigo Ferreira,rodrigo ferreira,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,32,2816,5,2,0.16,0.064,0.224,34,13,47,42,34,82.52,6.83,0.161,6.256
+926786,Dadá Belmonte,dada belmonte,22032,CRB,crb,2026,Serie_B,0.72,33,2798,5,6,0.161,0.193,0.354,100,54,50,17,11,84.06,7.33,0.255,6.714
+1652832,Vinicius Diniz,vinicius diniz,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,33,2797,7,1,0.225,0.032,0.257,64,20,39,30,50,86.29,7.06,0.185,6.467
+1130040,Lucas Belezi,lucas belezi,342775,Athletic Club,athletic club,2026,Serie_B,0.72,32,2787,1,2,0.032,0.065,0.097,13,1,32,36,57,85.69,6.88,0.07,6.302
+850955,João Basso,joao basso,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,32,2778,2,1,0.065,0.032,0.097,16,4,44,45,87,83.9,7.02,0.07,6.43
+1097858,Guilherme Lopes,guilherme lopes,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,33,2776,2,3,0.065,0.097,0.162,22,33,50,35,27,81.61,6.84,0.117,6.265
+1105078,Rômulo,romulo,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,35,2773,12,10,0.389,0.325,0.714,73,14,28,13,18,73.74,7.31,0.514,6.696
+871192,Patrick Brey,patrick brey,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,31,2773,5,6,0.162,0.195,0.357,38,37,78,42,56,68.09,7.07,0.257,6.476
+329057,Igor Fernandes,igor fernandes,2011,Náutico,nautico,2026,Serie_B,0.72,33,2763,1,1,0.033,0.033,0.066,19,7,38,24,71,85.06,6.87,0.048,6.293
+928137,Everton Morelli,everton morelli,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,33,2757,10,2,0.326,0.065,0.391,61,19,40,26,52,77.95,6.99,0.282,6.403
+794640,Rodrigo Sam,rodrigo sam,1980,Juventude,juventude,2026,Serie_B,0.72,31,2735,1,2,0.033,0.066,0.099,11,12,69,63,49,90.01,7.07,0.071,6.476
+243185,Pedro Castro,pedro castro,22032,CRB,crb,2026,Serie_B,0.72,34,2712,3,0,0.1,0.0,0.1,47,18,32,35,20,86.03,6.92,0.072,6.339
+1017251,Dudu Miraíma,dudu miraima,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,34,2700,3,5,0.1,0.167,0.267,57,19,36,39,10,84.98,7.26,0.192,6.65
+869424,Victor Souza,victor souza,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,30,2700,0,0,0.0,0.0,0.0,0,0,0,0,9,57.07,6.93,0.0,6.348
+1516708,Kauan Rodrigues,kauan rodrigues,342775,Athletic Club,athletic club,2026,Serie_B,0.72,32,2687,3,4,0.1,0.134,0.234,38,18,23,21,6,81.94,6.89,0.168,6.311
+1645786,Calebe Costa,calebe costa,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,32,2671,2,0,0.067,0.0,0.067,31,11,39,35,42,88.92,7.02,0.048,6.43
+840076,Perotti,perotti,1959,Sport Recife,sport recife,2026,Serie_B,0.72,34,2668,12,1,0.405,0.034,0.439,87,18,21,8,53,73.27,6.87,0.316,6.293
+869676,Crystopher,crystopher,22032,CRB,crb,2026,Serie_B,0.72,31,2661,7,8,0.237,0.271,0.508,72,11,37,19,11,81.97,7.17,0.366,6.568
+1103705,Lucas Gazal,lucas gazal,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,31,2639,0,1,0.0,0.034,0.034,20,1,17,23,85,90.11,6.98,0.024,6.394
+994017,Mikael,mikael,22032,CRB,crb,2026,Serie_B,0.72,33,2633,17,4,0.581,0.137,0.718,122,23,13,4,44,75.0,7.04,0.517,6.449
+110843,Vágner,vagner,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,30,2623,0,0,0.0,0.0,0.0,0,0,0,0,8,73.05,6.86,0.0,6.284
+2032278,Joao Miguel,joao miguel,342775,Athletic Club,athletic club,2026,Serie_B,0.72,33,2616,3,0,0.103,0.0,0.103,22,8,58,46,54,85.88,7.03,0.074,6.439
+1148340,Patrick,patrick,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,31,2601,1,1,0.035,0.035,0.07,20,4,33,24,98,82.69,7.09,0.05,6.494
+1175321,Raí,rai,1980,Juventude,juventude,2026,Serie_B,0.72,34,2579,9,5,0.314,0.174,0.488,64,21,53,27,9,85.17,7.4,0.351,6.778
+90812,Marquinhos Gabriel,marquinhos gabriel,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,32,2553,3,7,0.106,0.247,0.353,54,15,21,9,8,82.53,6.95,0.254,6.366
+850987,Robson,robson,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,32,2537,17,5,0.603,0.177,0.78,86,12,34,4,60,70.42,7.07,0.562,6.476
+1046490,João Vieira,joao vieira,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,30,2526,3,5,0.107,0.178,0.285,29,8,32,20,11,90.04,6.97,0.205,6.385
+1035765,Chrystian Barletta,chrystian barletta,1959,Sport Recife,sport recife,2026,Serie_B,0.72,29,2520,13,4,0.464,0.143,0.607,73,45,35,14,8,77.89,7.2,0.437,6.595
+879859,Kozlinski,kozlinski,2022,Londrina,londrina,2026,Serie_B,0.72,28,2520,0,0,0.0,0.0,0.0,0,0,0,0,10,69.6,6.9,0.0,6.32
+1467761,Jhonathan,jhonathan,342775,Athletic Club,athletic club,2026,Serie_B,0.72,29,2496,0,0,0.0,0.0,0.0,23,2,26,42,62,87.85,6.72,0.0,6.156
+1640631,Geovany Soares,geovany soares,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,34,2494,4,8,0.144,0.289,0.433,58,48,17,14,5,82.11,7.14,0.312,6.54
+883906,Richard,richard,2001,Ceará,ceara,2026,Serie_B,0.72,28,2475,0,0,0.0,0.0,0.0,0,0,0,0,7,61.82,6.82,0.0,6.247
+358540,Gabriel Boschilia,gabriel boschilia,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,28,2474,13,4,0.473,0.146,0.619,89,21,33,5,2,87.46,7.37,0.446,6.751
+809194,Allyson,allyson,7315,Avaí,avai,2026,Serie_B,0.72,29,2474,1,1,0.036,0.036,0.072,9,4,17,34,66,86.02,6.83,0.052,6.256
+1170913,Marcos Paulo,marcos paulo,1980,Juventude,juventude,2026,Serie_B,0.72,29,2467,2,2,0.073,0.073,0.146,25,5,55,27,74,82.2,7.09,0.105,6.494
+845110,Luciano Castan,luciano castan,1984,Criciúma,criciuma,2026,Serie_B,0.72,28,2467,2,1,0.073,0.036,0.109,11,9,26,31,71,85.38,6.97,0.078,6.385
+931558,Vitor Caetano,vitor caetano,22032,CRB,crb,2026,Serie_B,0.72,28,2456,0,0,0.0,0.0,0.0,0,0,2,0,14,72.08,7.02,0.0,6.43
+865321,Fellipe Mateus,fellipe mateus,1984,Criciúma,criciuma,2026,Serie_B,0.72,32,2440,5,1,0.184,0.037,0.221,44,25,33,20,18,83.42,6.9,0.159,6.32
+902684,Jean Lucas,jean lucas,7315,Avaí,avai,2026,Serie_B,0.72,33,2412,3,6,0.112,0.224,0.336,67,32,33,11,7,77.63,6.78,0.242,6.21
+1173455,Junior Barreto,junior barreto,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,27,2410,0,0,0.0,0.0,0.0,12,5,34,41,94,87.32,7.13,0.0,6.531
+874778,Luiz Otávio,luiz otavio,2001,Ceará,ceara,2026,Serie_B,0.72,27,2405,3,0,0.112,0.0,0.112,29,5,23,19,94,82.09,6.96,0.081,6.375
+870920,Rafael Gava,rafael gava,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,32,2400,3,7,0.112,0.263,0.375,31,11,18,13,12,84.44,6.97,0.27,6.385
+922570,Luís Oyama,luis oyama,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,31,2396,3,3,0.113,0.113,0.226,28,12,32,36,14,83.65,6.93,0.163,6.348
+552188,Pará,para,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,30,2383,2,1,0.076,0.038,0.114,10,18,33,29,23,82.59,6.7,0.082,6.137
+1015283,Luiz Henrique,luiz henrique,7315,Avaí,avai,2026,Serie_B,0.72,33,2375,2,0,0.076,0.0,0.076,22,5,47,30,25,86.43,6.77,0.055,6.201
+973857,Maílton,mailton,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,30,2355,9,3,0.344,0.115,0.459,59,36,28,23,15,77.66,7.22,0.33,6.614
+839761,João Ricardo,joao ricardo,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,26,2340,0,1,0.0,0.038,0.038,0,0,0,0,16,71.64,7.27,0.027,6.659
+797866,Airton,airton,1984,Criciúma,criciuma,2026,Serie_B,0.72,26,2340,0,0,0.0,0.0,0.0,0,0,0,0,6,71.01,7.24,0.0,6.632
+794840,Jordi,jordi,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,27,2325,0,1,0.0,0.039,0.039,0,0,2,0,16,56.81,6.89,0.028,6.311
+1609565,Douglas Teixeira,douglas teixeira,7315,Avaí,avai,2026,Serie_B,0.72,30,2325,1,1,0.039,0.039,0.078,31,31,75,51,50,73.7,6.83,0.056,6.256
+1991456,Higor,higor,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,29,2323,0,2,0.0,0.077,0.077,25,19,42,43,46,76.6,6.82,0.055,6.247
+1008459,Adriano Martins,adriano martins,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,28,2308,2,0,0.078,0.0,0.078,15,6,20,41,52,91.28,7.1,0.056,6.504
+840218,Danielzinho,danielzinho,22032,CRB,crb,2026,Serie_B,0.72,33,2297,4,6,0.157,0.235,0.392,49,13,17,7,4,85.64,7.0,0.282,6.412
+124807,Vinícius,vinicius,2011,Náutico,nautico,2026,Serie_B,0.72,27,2265,9,3,0.358,0.119,0.477,75,22,32,8,19,75.28,7.09,0.343,6.494
+2118168,João Gabriel,joao gabriel,2001,Ceará,ceara,2026,Serie_B,0.72,28,2253,2,2,0.08,0.08,0.16,19,15,44,24,26,80.55,6.79,0.115,6.22
+826355,Augusto,augusto,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,25,2250,0,0,0.0,0.0,0.0,13,14,26,30,72,86.5,7.07,0.0,6.476
+328519,Jemerson,jemerson,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,28,2247,2,0,0.08,0.0,0.08,15,4,35,19,52,90.34,7.09,0.058,6.494
+886773,Rodrigo Fagundes,rodrigo fagundes,1984,Criciúma,criciuma,2026,Serie_B,0.72,26,2242,0,1,0.0,0.04,0.04,19,4,25,49,88,87.92,6.97,0.029,6.385
+992512,Ewerthon,ewerthon,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,27,2237,1,1,0.04,0.04,0.08,33,9,46,25,25,81.89,6.96,0.058,6.375
+852556,Matheus Trindade,matheus trindade,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,31,2236,1,0,0.04,0.0,0.04,15,7,65,28,27,87.27,6.77,0.029,6.201
+329107,César Martins,cesar martins,1984,Criciúma,criciuma,2026,Serie_B,0.72,26,2228,3,1,0.121,0.04,0.161,23,3,25,46,58,83.82,7.16,0.116,6.559
+888385,Foguinho,foguinho,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,32,2213,3,0,0.122,0.0,0.122,18,6,20,24,11,86.66,6.73,0.088,6.165
+1166468,Zé Hugo,ze hugo,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,34,2198,2,3,0.082,0.123,0.205,40,47,44,8,14,73.76,6.78,0.148,6.21
+844601,Filipe Machado,filipe machado,1960,Goiás,goias,2026,Serie_B,0.72,27,2194,0,0,0.0,0.0,0.0,8,13,28,33,21,89.29,7.11,0.0,6.513
+2440251,Melk,melk,2001,Ceará,ceara,2026,Serie_B,0.72,30,2188,8,5,0.329,0.206,0.535,72,31,29,9,11,72.42,6.91,0.385,6.33
+874143,Luiz Fernando,luiz fernando,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,30,2176,3,2,0.124,0.083,0.207,58,16,9,13,14,83.65,6.74,0.149,6.174
+981595,Gustavo Coutinho,gustavo coutinho,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,30,2162,13,0,0.541,0.0,0.541,82,6,14,5,44,72.7,6.81,0.39,6.238
+1185832,Júlio César,julio cesar,2001,Ceará,ceara,2026,Serie_B,0.72,30,2158,2,1,0.083,0.042,0.125,12,7,36,27,33,86.49,6.83,0.09,6.256
+1067652,Mikael Doka,mikael doka,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,29,2152,0,5,0.0,0.209,0.209,23,29,39,15,20,87.25,7.02,0.15,6.43
+1098309,José Cuenú,jose cuenu,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,24,2149,1,0,0.042,0.0,0.042,8,1,18,32,43,80.29,7.05,0.03,6.458
+841808,Marcelo Benevenuto,marcelo benevenuto,1959,Sport Recife,sport recife,2026,Serie_B,0.72,26,2144,1,0,0.042,0.0,0.042,17,5,36,29,52,91.52,7.08,0.03,6.485
+924251,Waguininho,waguininho,1984,Criciúma,criciuma,2026,Serie_B,0.72,33,2131,4,2,0.169,0.084,0.253,43,9,21,6,55,72.77,6.71,0.182,6.146
+810689,Lucas Lovat,lucas lovat,22032,CRB,crb,2026,Serie_B,0.72,30,2118,0,2,0.0,0.085,0.085,24,19,27,25,10,83.89,6.51,0.061,5.963
+840132,Zé Ricardo,ze ricardo,7315,Avaí,avai,2026,Serie_B,0.72,27,2093,0,1,0.0,0.043,0.043,15,13,43,27,20,85.35,6.78,0.031,6.21
+926871,Marrony,marrony,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,27,2062,5,2,0.218,0.087,0.305,61,29,42,10,23,79.69,7.1,0.22,6.504
+1485499,Rafael Barcelos,rafael barcelos,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,24,2062,0,0,0.0,0.0,0.0,13,0,21,19,62,91.7,6.8,0.0,6.229
+992611,Heron,heron,2022,Londrina,londrina,2026,Serie_B,0.72,31,2057,0,2,0.0,0.088,0.088,19,12,38,24,55,74.89,6.68,0.063,6.119
+1135930,Dudu Dos Santos,dudu dos santos,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,30,2048,3,0,0.132,0.0,0.132,44,7,66,18,51,75.14,6.95,0.095,6.366
+243107,Diogo Barbosa,diogo barbosa,1980,Juventude,juventude,2026,Serie_B,0.72,27,2048,0,0,0.0,0.0,0.0,15,22,45,24,16,83.82,6.89,0.0,6.311
+1148301,Guilherme Lobo,guilherme lobo,1984,Criciúma,criciuma,2026,Serie_B,0.72,31,2043,0,2,0.0,0.088,0.088,31,15,34,26,14,86.62,6.9,0.063,6.32
+244589,Lucas Lima,lucas lima,1960,Goiás,goias,2026,Serie_B,0.72,30,2039,0,4,0.0,0.177,0.177,17,18,41,5,0,84.41,6.96,0.127,6.375
+926868,Miranda,miranda,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,25,2025,0,0,0.0,0.0,0.0,6,3,33,31,42,87.27,6.86,0.0,6.284
+832472,Hygor,hygor,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,28,2022,9,0,0.401,0.0,0.401,59,3,18,6,40,65.57,6.73,0.289,6.165
+831993,Luiz Felipe,luiz felipe,1960,Goiás,goias,2026,Serie_B,0.72,25,2021,0,1,0.0,0.045,0.045,13,1,25,26,53,88.19,6.73,0.032,6.165
+123225,Lucas Sasha,lucas sasha,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,29,2018,3,2,0.134,0.089,0.223,18,10,50,28,15,88.07,6.82,0.161,6.247
+868076,Willean Lepo,willean lepo,1984,Criciúma,criciuma,2026,Serie_B,0.72,28,2004,3,3,0.135,0.135,0.27,29,34,40,23,34,79.71,7.01,0.194,6.421
+911123,Romisson,romisson,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,28,1998,1,4,0.045,0.18,0.225,22,13,22,10,7,87.9,6.99,0.162,6.403
+57869,Felipe Garcia,felipe garcia,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,28,1996,4,2,0.18,0.09,0.27,22,8,14,6,48,75.32,6.66,0.194,6.101
+839765,Messias,messias,1980,Juventude,juventude,2026,Serie_B,0.72,25,1994,1,0,0.045,0.0,0.045,17,0,21,19,46,90.43,6.87,0.032,6.293
+1463925,Gabriel Feliciano,gabriel feliciano,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,29,1990,1,4,0.045,0.181,0.226,29,28,41,33,18,80.84,6.98,0.163,6.394
+312114,Bressan,bressan,22032,CRB,crb,2026,Serie_B,0.72,26,1990,2,0,0.09,0.0,0.09,16,0,21,30,49,87.47,6.93,0.065,6.348
+1588320,Diogo Batista de Souza,diogo batista de souza,342775,Athletic Club,athletic club,2026,Serie_B,0.72,26,1977,1,2,0.046,0.091,0.137,22,12,59,9,9,75.44,6.85,0.099,6.275
+877139,Moraes Júnior,moraes junior,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,29,1970,2,0,0.091,0.0,0.091,30,22,34,35,35,81.37,6.73,0.066,6.165
+870927,Alisson Safira,alisson ira,1980,Juventude,juventude,2026,Serie_B,0.72,33,1967,6,3,0.275,0.137,0.412,62,9,21,3,58,70.33,6.75,0.297,6.183
+1836781,Maykon Jesus,maykon jesus,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,26,1966,0,1,0.0,0.046,0.046,23,9,29,20,38,75.92,6.63,0.033,6.073
+1047847,Gabriel Lacerda,gabriel lacerda,2022,Londrina,londrina,2026,Serie_B,0.72,24,1954,1,0,0.046,0.0,0.046,8,1,15,14,54,85.4,6.88,0.033,6.302
+124766,Gustavo,gustavo,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,22,1951,0,0,0.0,0.0,0.0,0,1,1,0,0,76.85,6.97,0.0,6.385
+962027,Marcos Paulo,marcos paulo,1980,Juventude,juventude,2026,Serie_B,0.72,30,1943,5,1,0.232,0.046,0.278,34,20,21,5,15,79.7,6.87,0.2,6.293
+243439,Madson,madson,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,25,1933,2,3,0.093,0.14,0.233,13,1,17,33,43,81.39,6.96,0.168,6.375
+1048276,Felipinho,felipinho,1959,Sport Recife,sport recife,2026,Serie_B,0.72,22,1928,1,2,0.047,0.093,0.14,23,19,24,18,32,80.66,7.07,0.101,6.476
+1047680,Gabriel Inocêncio,gabriel inocencio,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,25,1927,0,0,0.0,0.0,0.0,11,31,58,13,32,80.74,6.83,0.0,6.256
+1633878,David,david,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,31,1910,0,0,0.0,0.0,0.0,37,6,34,13,38,80.42,6.62,0.0,6.064
+352880,Hildeberto Pereira,hildeberto pereira,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,32,1908,4,2,0.189,0.094,0.283,23,30,13,5,16,80.21,6.69,0.204,6.128
+794139,Lucas Cunha,lucas cunha,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,22,1902,0,0,0.0,0.0,0.0,8,0,17,27,23,80.21,6.47,0.0,5.927
+1148361,Betão,betao,2011,Náutico,nautico,2026,Serie_B,0.72,25,1901,0,1,0.0,0.047,0.047,8,1,22,29,52,84.57,6.8,0.034,6.229
+243463,Marcelo Carné,marcelo carne,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,22,1896,0,0,0.0,0.0,0.0,0,0,0,0,4,61.4,6.71,0.0,6.146
+842072,Éder,eder,2001,Ceará,ceara,2026,Serie_B,0.72,22,1891,0,0,0.0,0.0,0.0,10,5,19,12,48,87.8,6.67,0.0,6.11
+981296,Thiaguinho,thiaguinho,22032,CRB,crb,2026,Serie_B,0.72,27,1889,4,3,0.191,0.143,0.334,70,29,28,7,15,81.41,7.07,0.24,6.476
+1650429,Tiago Pagnussat,tiago pagnussat,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,27,1877,0,1,0.0,0.048,0.048,10,3,33,19,70,83.05,6.89,0.035,6.311
+1197893,Maurício Lima,mauricio lima,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,28,1863,0,2,0.0,0.097,0.097,20,22,45,24,26,84.27,6.77,0.07,6.201
+945578,Lucas Ribeiro,lucas ribeiro,1960,Goiás,goias,2026,Serie_B,0.72,25,1861,0,0,0.0,0.0,0.0,7,10,13,11,29,91.7,6.94,0.0,6.357
+845323,Rómulo Otero,romulo otero,1984,Criciúma,criciuma,2026,Serie_B,0.72,32,1852,3,5,0.146,0.243,0.389,63,25,23,5,14,82.9,7.02,0.28,6.43
+1101061,Leo Naldi,leo naldi,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,28,1850,1,1,0.049,0.049,0.098,27,1,35,22,31,83.22,6.72,0.071,6.156
+1592238,Yago Lincoln,yago lincoln,2022,Londrina,londrina,2026,Serie_B,0.72,21,1845,1,0,0.049,0.0,0.049,16,2,37,31,55,86.78,6.79,0.035,6.22
+1642625,Max,max,342775,Athletic Club,athletic club,2026,Serie_B,0.72,27,1836,2,4,0.098,0.196,0.294,38,23,18,5,7,73.11,6.79,0.212,6.22
+988873,Vitor Mendes,vitor mendes,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,23,1824,2,0,0.099,0.0,0.099,12,1,26,23,66,86.12,6.97,0.071,6.385
+1634992,Marcelo Ajul,marcelo ajul,1959,Sport Recife,sport recife,2026,Serie_B,0.72,22,1820,1,0,0.049,0.0,0.049,12,14,32,27,38,89.39,6.93,0.035,6.348
+862256,Daniel Penha,daniel penha,7315,Avaí,avai,2026,Serie_B,0.72,23,1818,6,1,0.297,0.05,0.347,57,28,31,13,11,75.31,7.0,0.25,6.412
+1174770,Rodriguinho,rodriguinho,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,27,1807,2,0,0.1,0.0,0.1,33,13,39,11,18,86.06,6.85,0.072,6.275
+981295,Diogo Hereda,diogo hereda,22032,CRB,crb,2026,Serie_B,0.72,27,1801,2,4,0.1,0.2,0.3,18,28,46,16,33,88.68,6.88,0.216,6.302
+1066241,Bruno Ferreira,bruno ferreira,7315,Avaí,avai,2026,Serie_B,0.72,20,1800,0,0,0.0,0.0,0.0,0,0,0,0,6,64.95,6.65,0.0,6.091
+374486,Pablo,pablo,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,23,1787,5,3,0.252,0.151,0.403,47,8,11,5,18,78.84,6.74,0.29,6.174
+988622,Matías Segovia,matias segovia,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,27,1783,4,3,0.202,0.151,0.353,41,27,26,9,3,83.66,7.02,0.254,6.43
+1633708,Thayllon Roberth,thayllon roberth,7315,Avaí,avai,2026,Serie_B,0.72,24,1782,3,3,0.152,0.152,0.304,34,22,9,9,9,79.47,6.87,0.219,6.293
+1021866,Cristiano,cristiano,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,30,1782,0,0,0.0,0.0,0.0,19,16,29,40,7,89.34,6.83,0.0,6.256
+146308,Willian Bigode,willian bigode,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,30,1781,4,2,0.202,0.101,0.303,59,11,15,7,9,84.71,6.74,0.218,6.174
+1631777,Kauan Cristtyan,kauan cristtyan,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,31,1771,6,3,0.305,0.152,0.457,38,18,30,8,14,77.39,6.81,0.329,6.238
+879871,Lourenço,lourenco,1960,Goiás,goias,2026,Serie_B,0.72,26,1765,1,0,0.051,0.0,0.051,46,9,23,14,7,85.86,6.96,0.037,6.375
+841336,Nicolas,nicolas,1960,Goiás,goias,2026,Serie_B,0.72,25,1759,0,0,0.0,0.0,0.0,17,8,26,14,12,82.69,6.61,0.0,6.055
+1631271,Kauê Leonardo,kaue leonardo,2022,Londrina,londrina,2026,Serie_B,0.72,24,1753,0,1,0.0,0.051,0.051,5,11,37,15,23,82.8,6.62,0.037,6.064
+2494521,Biel Fonseca,biel fonseca,1959,Sport Recife,sport recife,2026,Serie_B,0.72,28,1751,1,3,0.051,0.154,0.205,24,8,51,34,15,86.94,6.89,0.148,6.311
+924423,Derek Freitas,derek freitas,2011,Náutico,nautico,2026,Serie_B,0.72,29,1745,3,1,0.155,0.052,0.207,62,28,24,8,35,78.0,6.66,0.149,6.101
+1200923,Fábio Lima,fabio lima,1980,Juventude,juventude,2026,Serie_B,0.72,31,1736,4,1,0.207,0.052,0.259,45,11,9,8,13,80.0,6.8,0.186,6.229
+876286,André Luís,andre luis,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,25,1726,9,2,0.469,0.104,0.573,38,8,21,6,32,69.3,6.96,0.413,6.375
+822935,Matheus Sales,matheus sales,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,29,1722,0,0,0.0,0.0,0.0,6,2,32,13,20,83.48,6.66,0.0,6.101
+551576,Danilo Barcelos,danilo barcelos,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,24,1719,1,1,0.052,0.052,0.104,24,5,18,21,19,77.33,6.5,0.075,5.954
+552172,Tadeu,tadeu,1960,Goiás,goias,2026,Serie_B,0.72,19,1710,2,0,0.105,0.0,0.105,4,0,0,0,6,73.83,7.23,0.076,6.623
+1488136,Paulo Vitor,paulo vitor,7315,Avaí,avai,2026,Serie_B,0.72,29,1704,2,0,0.106,0.0,0.106,16,11,58,28,31,80.59,6.83,0.076,6.256
+1066721,Vitinho,vitinho,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,28,1699,6,0,0.318,0.0,0.318,41,12,17,3,3,85.2,6.79,0.229,6.22
+796100,Lucas Marques,lucas marques,2022,Londrina,londrina,2026,Serie_B,0.72,25,1683,2,2,0.107,0.107,0.214,28,3,33,21,12,80.66,6.83,0.154,6.256
+1588737,Jean Carlos,jean carlos,1960,Goiás,goias,2026,Serie_B,0.72,28,1680,3,1,0.161,0.054,0.215,40,27,32,7,10,85.19,6.69,0.155,6.128
+1107995,Paulo Victor,paulo victor,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,26,1669,2,2,0.108,0.108,0.216,39,14,33,24,32,77.22,6.62,0.156,6.064
+1201949,Felipe Amaral,felipe amaral,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,29,1665,1,1,0.054,0.054,0.108,24,9,34,25,26,82.12,6.77,0.078,6.201
+2440936,Kadu,kadu,1960,Goiás,goias,2026,Serie_B,0.72,23,1657,9,1,0.489,0.054,0.543,64,18,33,16,37,72.91,6.84,0.391,6.265
+1116646,André Lima,andre lima,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,21,1650,0,0,0.0,0.0,0.0,15,7,32,23,10,83.45,6.72,0.0,6.156
+1105307,Tito,tito,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,22,1646,0,1,0.0,0.055,0.055,12,3,20,20,50,85.44,6.74,0.04,6.174
+1017710,Pierre,pierre,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,23,1640,0,1,0.0,0.055,0.055,6,2,42,15,14,91.86,7.03,0.04,6.439
+807767,Hayner,hayner,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,33,1635,1,1,0.055,0.055,0.11,8,21,30,21,10,79.21,6.83,0.079,6.256
+1003721,Juan Miritello,juan miritello,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,23,1629,5,1,0.276,0.055,0.331,44,4,2,1,36,81.78,6.53,0.238,5.981
+1464655,Brandão,brandao,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,24,1627,5,1,0.277,0.055,0.332,34,3,7,1,47,65.87,6.63,0.239,6.073
+840077,Lucas Mineiro,lucas mineiro,1980,Juventude,juventude,2026,Serie_B,0.72,26,1607,0,0,0.0,0.0,0.0,7,13,43,20,28,87.62,6.84,0.0,6.265
+988852,Zé Gabriel,ze gabriel,1959,Sport Recife,sport recife,2026,Serie_B,0.72,27,1604,0,0,0.0,0.0,0.0,4,6,30,16,22,89.27,6.78,0.0,6.21
+77244,Wallace Reis,wallace reis,2022,Londrina,londrina,2026,Serie_B,0.72,21,1603,0,0,0.0,0.0,0.0,8,5,23,22,23,87.3,6.91,0.0,6.33
+555456,Reginaldo,reginaldo,2011,Náutico,nautico,2026,Serie_B,0.72,28,1603,1,1,0.056,0.056,0.112,5,2,26,17,15,84.66,6.75,0.081,6.183
+869675,Kelvin,kelvin,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,27,1594,0,3,0.0,0.169,0.169,28,20,21,9,4,83.82,6.71,0.122,6.146
+914471,Ericson da Silva,ericson da silva,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,18,1583,0,0,0.0,0.0,0.0,3,5,15,8,16,81.41,6.71,0.0,6.146
+870753,Sánchez,sanchez,2001,Ceará,ceara,2026,Serie_B,0.72,24,1578,1,0,0.057,0.0,0.057,16,13,27,17,37,72.99,6.68,0.041,6.119
+804765,Rodrigo Soares,rodrigo soares,1960,Goiás,goias,2026,Serie_B,0.72,26,1576,0,1,0.0,0.057,0.057,15,11,18,5,13,88.01,6.7,0.041,6.137
+1525493,Sergio Palacios,sergio palacios,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,19,1568,0,1,0.0,0.057,0.057,6,8,44,20,21,73.27,6.42,0.041,5.881
+555454,Zeca,zeca,342775,Athletic Club,athletic club,2026,Serie_B,0.72,23,1557,0,3,0.0,0.173,0.173,10,6,31,6,4,82.03,6.76,0.125,6.192
+981746,Matheus Bianqui,matheus bianqui,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,27,1555,5,0,0.289,0.0,0.289,46,6,40,25,54,76.23,6.83,0.208,6.256
+2125637,Victor Hugo de Faria Mota,victor hugo de faria mota,2022,Londrina,londrina,2026,Serie_B,0.72,26,1552,1,4,0.058,0.232,0.29,24,21,45,8,11,81.9,6.9,0.209,6.32
+1463561,Lyncon,lyncon,22032,CRB,crb,2026,Serie_B,0.72,19,1550,1,0,0.058,0.0,0.058,17,6,23,28,46,93.23,7.0,0.042,6.412
+364528,Aylon,aylon,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,30,1544,2,3,0.117,0.175,0.292,24,9,30,7,22,78.0,6.64,0.21,6.082
+243501,William Pottker,william pottker,2022,Londrina,londrina,2026,Serie_B,0.72,24,1543,4,0,0.233,0.0,0.233,39,22,13,3,20,81.42,6.81,0.168,6.238
+1487513,Gabriel Bahia,gabriel bahia,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,18,1539,0,0,0.0,0.0,0.0,15,5,21,20,45,85.61,7.07,0.0,6.476
+1104714,David da Hora,david da hora,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,26,1538,2,1,0.117,0.059,0.176,32,22,13,7,16,74.46,6.74,0.127,6.174
+584432,Aderlan,aderlan,1980,Juventude,juventude,2026,Serie_B,0.72,21,1531,1,5,0.059,0.294,0.353,16,8,63,20,14,75.44,7.3,0.254,6.687
+1589405,Vinicius Ferrari Andreoli,vinicius ferrari andreoli,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,17,1530,0,0,0.0,0.0,0.0,0,0,0,0,7,43.81,6.92,0.0,6.339
+599700,Ricardo Silva,ricardo silva,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,18,1524,0,0,0.0,0.0,0.0,10,0,12,17,45,90.67,7.06,0.0,6.467
+882748,Bryan Borges,bryan borges,2001,Ceará,ceara,2026,Serie_B,0.72,18,1524,1,0,0.059,0.0,0.059,30,18,38,12,15,86.73,6.84,0.042,6.265
+1491470,Enzo,enzo,342775,Athletic Club,athletic club,2026,Serie_B,0.72,21,1522,1,0,0.059,0.0,0.059,14,11,30,15,23,77.21,6.68,0.042,6.119
+975380,Gabriel Barbosa Pinheiro,gabriel barbosa pinheiro,1980,Juventude,juventude,2026,Serie_B,0.72,23,1520,1,0,0.059,0.0,0.059,5,3,24,24,37,86.67,7.12,0.042,6.522
+973933,Djalma,djalma,1960,Goiás,goias,2026,Serie_B,0.72,27,1509,2,1,0.119,0.06,0.179,27,11,23,21,27,76.21,6.71,0.129,6.146
+911436,Fábio Alemão,fabio alemao,22032,CRB,crb,2026,Serie_B,0.72,19,1490,0,0,0.0,0.0,0.0,4,4,26,16,19,87.79,6.92,0.0,6.339
+2114147,Lorenzo,lorenzo,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,19,1481,1,0,0.061,0.0,0.061,17,24,44,11,14,85.82,6.93,0.044,6.348
+1647542,Reidiney,reidiney,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,21,1480,1,3,0.061,0.182,0.243,24,21,42,19,28,75.06,6.99,0.175,6.403
+946945,Pepê,pepe,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,21,1479,1,3,0.061,0.183,0.244,13,10,26,8,13,84.56,6.87,0.176,6.293
+988671,Wallison,wallison,7315,Avaí,avai,2026,Serie_B,0.72,23,1470,1,1,0.061,0.061,0.122,22,17,33,27,14,80.48,6.67,0.088,6.11
+1200993,Jota,jota,342775,Athletic Club,athletic club,2026,Serie_B,0.72,27,1452,1,3,0.062,0.186,0.248,17,11,46,13,8,86.14,6.78,0.179,6.21
+896248,Pedrinho,pedrinho,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,24,1451,6,0,0.372,0.0,0.372,40,39,19,14,6,83.05,6.97,0.268,6.385
+850475,Jean Carlos,jean carlos,2011,Náutico,nautico,2026,Serie_B,0.72,17,1442,3,4,0.187,0.25,0.437,56,9,10,1,6,74.43,7.07,0.315,6.476
+1467379,Luis Fellipe,luis fellipe,1960,Goiás,goias,2026,Serie_B,0.72,19,1440,0,0,0.0,0.0,0.0,3,6,18,10,35,88.47,6.75,0.0,6.183
+839516,Ramon Menezes,ramon menezes,1960,Goiás,goias,2026,Serie_B,0.72,18,1434,0,0,0.0,0.0,0.0,11,1,12,18,30,92.0,6.92,0.0,6.339
+1173040,Rodrigo Santos,rodrigo santos,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,31,1424,1,0,0.063,0.0,0.063,23,14,31,22,34,88.96,6.78,0.045,6.21
+1199473,Cadu,cadu,1960,Goiás,goias,2026,Serie_B,0.72,26,1422,2,2,0.127,0.127,0.254,32,6,26,10,16,88.42,6.54,0.183,5.991
+870933,Marlon Lopes,marlon lopes,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,18,1409,1,0,0.064,0.0,0.064,9,6,23,22,12,83.03,6.93,0.046,6.348
+1047213,Railan,railan,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,19,1408,0,0,0.0,0.0,0.0,24,20,29,26,17,77.02,6.73,0.0,6.165
+980777,Helder Maciel,helder maciel,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,17,1402,1,1,0.064,0.064,0.128,5,1,20,18,38,89.22,6.9,0.092,6.32
+954327,Rodrigo Rodrigues,rodrigo rodrigues,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,28,1401,0,3,0.0,0.193,0.193,48,18,11,5,11,77.03,6.51,0.139,5.963
+1105781,Bruno Santos,bruno santos,2022,Londrina,londrina,2026,Serie_B,0.72,16,1395,11,3,0.71,0.194,0.904,40,13,11,1,34,71.96,7.3,0.651,6.687
+1634692,Ryan Lima,ryan lima,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,22,1375,4,3,0.262,0.196,0.458,47,9,17,3,6,81.2,6.84,0.33,6.265
+1002617,Matheus Araújo,matheus araujo,2001,Ceará,ceara,2026,Serie_B,0.72,26,1372,3,2,0.197,0.131,0.328,30,7,25,5,14,80.44,6.74,0.236,6.174
+1018871,Dodô,dodo,2011,Náutico,nautico,2026,Serie_B,0.72,16,1358,5,2,0.331,0.133,0.464,45,22,5,3,1,80.54,7.18,0.334,6.577
+871013,Leandro Vilela,leandro vilela,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,21,1351,0,1,0.0,0.067,0.067,9,0,28,10,12,84.48,6.81,0.048,6.238
+840026,Thiago Rodrigues,thiago rodrigues,1960,Goiás,goias,2026,Serie_B,0.72,15,1350,0,0,0.0,0.0,0.0,0,0,0,0,2,76.34,6.95,0.0,6.366
+156028,Elvis,elvis,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,19,1345,2,3,0.134,0.201,0.335,30,6,4,3,12,77.34,7.04,0.241,6.449
+946791,Tárik,tarik,2022,Londrina,londrina,2026,Serie_B,0.72,20,1345,2,0,0.134,0.0,0.134,12,5,13,18,11,86.87,6.8,0.096,6.229
+1016673,André Luiz,andre luiz,2022,Londrina,londrina,2026,Serie_B,0.72,16,1342,2,0,0.134,0.0,0.134,11,9,24,21,21,83.94,7.13,0.096,6.531
+1888138,Lucas Rodrigues,lucas rodrigues,1960,Goiás,goias,2026,Serie_B,0.72,18,1341,2,0,0.134,0.0,0.134,15,14,36,9,13,84.47,6.89,0.096,6.311
+976852,Pedro Vitor,pedro vitor,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,26,1331,4,3,0.27,0.203,0.473,46,15,43,10,33,71.01,6.86,0.341,6.284
+1465222,João Vitor,joao vitor,2022,Londrina,londrina,2026,Serie_B,0.72,15,1323,5,5,0.34,0.34,0.68,50,13,14,14,7,76.68,7.38,0.49,6.76
+1046496,Ian Luccas,ian luccas,342775,Athletic Club,athletic club,2026,Serie_B,0.72,17,1321,4,2,0.273,0.136,0.409,34,6,22,8,30,73.45,6.61,0.294,6.055
+1199426,Jefferson Maciel,jefferson maciel,7315,Avaí,avai,2026,Serie_B,0.72,15,1308,1,0,0.069,0.0,0.069,10,8,15,13,33,82.88,6.76,0.05,6.192
+840847,Leandro Maciel,leandro maciel,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,26,1305,1,0,0.069,0.0,0.069,36,4,15,14,7,84.55,6.66,0.05,6.101
+1047201,Jean Dias,jean dias,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,20,1304,3,1,0.207,0.069,0.276,30,5,5,3,7,78.32,6.9,0.199,6.32
+2120751,Luan Martins Gonçalves,luan martins goncalves,1980,Juventude,juventude,2026,Serie_B,0.72,26,1304,0,2,0.0,0.138,0.138,14,9,26,6,10,82.8,6.81,0.099,6.238
+990160,Vinicius Paiva,vinicius paiva,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,23,1296,1,1,0.069,0.069,0.138,22,33,14,5,5,79.78,6.83,0.099,6.256
+385386,Dalbert,dalbert,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,17,1287,0,1,0.0,0.07,0.07,6,5,21,18,33,79.58,6.58,0.05,6.027
+870800,Eduardo Biasi,eduardo biasi,1984,Criciúma,criciuma,2026,Serie_B,0.72,22,1283,0,0,0.0,0.0,0.0,3,4,34,13,5,89.62,6.62,0.0,6.064
+2027140,Augusto Pucci,augusto pucci,1959,Sport Recife,sport recife,2026,Serie_B,0.72,27,1279,1,3,0.07,0.211,0.281,6,9,27,10,7,82.12,6.7,0.202,6.137
+345847,Gonzalo Mastriani,gonzalo mastriani,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,21,1273,4,1,0.283,0.071,0.354,32,3,9,4,24,71.51,6.74,0.255,6.174
+1634078,Samuel Felix Rodrigues,samuel felix rodrigues,2011,Náutico,nautico,2026,Serie_B,0.72,23,1263,0,0,0.0,0.0,0.0,15,0,41,16,18,82.51,6.5,0.0,5.954
+167109,Diogo Silva,diogo silva,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,14,1260,0,0,0.0,0.0,0.0,0,0,1,0,4,51.32,6.91,0.0,6.33
+795227,João Carlos,joao carlos,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,14,1254,0,0,0.0,0.0,0.0,0,0,0,0,2,73.78,6.9,0.0,6.32
+1145122,Igor Inocencio,igor inocencio,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,16,1249,0,1,0.0,0.072,0.072,25,8,22,11,28,70.43,6.84,0.052,6.265
+1048254,Lucas Lima,lucas lima,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,25,1246,5,3,0.361,0.217,0.578,27,8,18,18,12,82.4,6.84,0.416,6.265
+1400331,João Tavares,joao tavares,2022,Londrina,londrina,2026,Serie_B,0.72,24,1244,1,1,0.072,0.072,0.144,12,5,36,16,10,81.55,6.69,0.104,6.128
+823980,Guilherme Parede,guilherme parede,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,18,1230,1,2,0.073,0.146,0.219,33,6,4,8,2,77.66,6.85,0.158,6.275
+125032,Anselmo Ramon,anselmo ramon,1960,Goiás,goias,2026,Serie_B,0.72,23,1227,5,3,0.367,0.22,0.587,27,8,10,3,14,78.57,6.73,0.423,6.165
+810691,Kevin,kevin,22032,CRB,crb,2026,Serie_B,0.72,20,1206,1,0,0.075,0.0,0.075,6,3,15,17,16,88.55,6.86,0.054,6.284
+1111235,Luiz Felipe,luiz felipe,2011,Náutico,nautico,2026,Serie_B,0.72,18,1201,0,1,0.0,0.075,0.075,13,8,25,8,15,84.14,6.66,0.054,6.101
+1389980,Kevyson,kevyson,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,18,1196,0,0,0.0,0.0,0.0,13,21,33,15,28,76.15,6.69,0.0,6.128
+1199453,Nathan Camargo,nathan camargo,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,25,1188,1,0,0.076,0.0,0.076,6,3,27,13,11,83.33,6.65,0.055,6.091
+551810,Bruno Alves,bruno alves,1984,Criciúma,criciuma,2026,Serie_B,0.72,18,1186,2,0,0.152,0.0,0.152,8,1,23,22,46,78.17,6.87,0.109,6.293
+39656,Alan Kardec,alan kardec,1980,Juventude,juventude,2026,Serie_B,0.72,27,1184,4,2,0.304,0.152,0.456,26,4,6,3,43,61.38,6.7,0.328,6.137
+1199435,Lucca,lucca,2001,Ceará,ceara,2026,Serie_B,0.72,21,1179,1,2,0.076,0.153,0.229,33,12,17,4,30,71.37,6.59,0.165,6.036
+849020,Tomás Cardona,tomas cardona,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,15,1171,1,0,0.077,0.0,0.077,9,1,19,19,27,86.97,7.18,0.055,6.577
+981442,Joseph,joseph,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,13,1170,0,0,0.0,0.0,0.0,8,0,13,15,25,91.42,6.77,0.0,6.201
+1016874,Juninho,juninho,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,33,1169,5,5,0.385,0.385,0.77,44,20,24,6,5,87.43,6.89,0.554,6.311
+1002459,Henri Santos,henri santos,22032,CRB,crb,2026,Serie_B,0.72,14,1166,0,0,0.0,0.0,0.0,7,2,9,20,33,85.71,6.59,0.0,6.036
+219190,Pedro Henrique,pedro henrique,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,20,1155,2,0,0.156,0.0,0.156,33,6,12,5,14,75.88,6.56,0.112,6.009
+869574,Caio Dantas,caio dantas,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,29,1149,5,0,0.392,0.0,0.392,23,4,10,2,14,84.91,6.76,0.282,6.192
+981418,Echaporã,echapora,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,20,1139,0,2,0.0,0.158,0.158,21,8,23,5,8,82.29,6.61,0.114,6.055
+1197424,Dixon Vera,dixon vera,342775,Athletic Club,athletic club,2026,Serie_B,0.72,28,1126,4,1,0.32,0.08,0.4,19,17,35,8,10,73.75,6.8,0.288,6.229
+1488035,Léo Aragão,leo aragao,7315,Avaí,avai,2026,Serie_B,0.72,13,1124,0,0,0.0,0.0,0.0,0,0,1,0,3,74.7,7.19,0.0,6.586
+1103059,Marcio Silva,marcio silva,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,14,1120,0,1,0.0,0.08,0.08,1,1,23,5,23,82.49,6.34,0.058,5.807
+295167,Willian Oliveira,willian oliveira,1959,Sport Recife,sport recife,2026,Serie_B,0.72,14,1115,0,2,0.0,0.161,0.161,11,1,28,31,12,88.25,6.84,0.116,6.265
+2084576,Julio de Oliveira,julio de oliveira,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,16,1114,0,0,0.0,0.0,0.0,4,20,47,16,19,71.91,6.52,0.0,5.972
+1112488,Léo Índio,leo indio,2011,Náutico,nautico,2026,Serie_B,0.72,16,1111,1,0,0.081,0.0,0.081,6,11,16,28,27,82.98,7.01,0.058,6.421
+840148,Marcinho,marcinho,1984,Criciúma,criciuma,2026,Serie_B,0.72,19,1106,0,0,0.0,0.0,0.0,21,10,13,9,12,83.59,6.81,0.0,6.238
+2440888,Diego Leão,diego leao,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,16,1092,0,0,0.0,0.0,0.0,3,1,15,14,21,83.93,6.69,0.0,6.128
+2364097,Pedrinho,pedrinho,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,18,1084,0,1,0.0,0.083,0.083,7,8,24,12,10,80.31,6.66,0.06,6.101
+1049781,Peixoto,peixoto,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,14,1083,0,1,0.0,0.083,0.083,23,13,13,11,15,83.56,6.76,0.06,6.192
+599688,Barreto,barreto,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,13,1078,0,1,0.0,0.083,0.083,6,7,19,9,9,90.18,6.86,0.06,6.284
+811308,Clayson,clayson,1959,Sport Recife,sport recife,2026,Serie_B,0.72,21,1076,1,3,0.084,0.251,0.335,19,11,9,6,3,83.78,6.7,0.241,6.137
+800407,Wallace,wallace,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,16,1076,0,0,0.0,0.0,0.0,12,0,10,21,40,80.04,6.67,0.0,6.11
+801074,Arnaldo,arnaldo,2011,Náutico,nautico,2026,Serie_B,0.72,20,1074,0,1,0.0,0.084,0.084,1,14,29,13,5,79.56,6.62,0.06,6.064
+789395,Emanuel Brítez,emanuel britez,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,12,1073,0,1,0.0,0.084,0.084,4,5,11,16,21,85.39,7.03,0.06,6.439
+992131,Tobías Ostchega,tobias ostchega,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,15,1073,1,1,0.084,0.084,0.168,14,6,17,14,16,82.6,6.66,0.121,6.101
+974329,Bruno José,bruno jose,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,27,1065,2,4,0.169,0.338,0.507,23,16,10,8,23,75.85,6.8,0.365,6.229
+931521,Ronald,ronald,1984,Criciúma,criciuma,2026,Serie_B,0.72,17,1050,0,1,0.0,0.086,0.086,10,18,30,13,5,89.39,7.01,0.062,6.421
+1134472,Douglas Mendes,douglas mendes,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,12,1046,1,0,0.086,0.0,0.086,6,3,7,12,20,85.39,7.08,0.062,6.485
+986064,Luan Freitas,luan freitas,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,15,1045,0,1,0.0,0.086,0.086,3,1,15,9,13,91.06,6.99,0.062,6.403
+998494,Jhonata Robert,jhonata robert,1984,Criciúma,criciuma,2026,Serie_B,0.72,24,1045,1,1,0.086,0.086,0.172,34,21,15,2,14,75.86,6.93,0.124,6.348
+1116677,Luis Mandaca,luis mandaca,1980,Juventude,juventude,2026,Serie_B,0.72,18,1043,2,2,0.173,0.173,0.346,22,12,28,13,23,79.43,6.92,0.249,6.339
+901700,Zé Marcos,ze marcos,1959,Sport Recife,sport recife,2026,Serie_B,0.72,13,1042,0,0,0.0,0.0,0.0,10,1,12,7,20,86.5,6.92,0.0,6.339
+795014,Sander,sander,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,13,1041,1,0,0.086,0.0,0.086,12,4,26,14,13,83.26,7.14,0.062,6.54
+927551,Gabriel Fuentes,gabriel fuentes,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,14,1041,0,0,0.0,0.0,0.0,3,9,17,10,18,84.78,6.82,0.0,6.247
+1125099,Iago Teles,iago teles,2022,Londrina,londrina,2026,Serie_B,0.72,13,1036,3,3,0.261,0.261,0.522,41,23,25,2,12,81.73,6.97,0.376,6.385
+1123398,Diego Porfirio,diego porfirio,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,17,1030,0,0,0.0,0.0,0.0,6,13,20,6,8,78.23,6.65,0.0,6.091
+166503,Dellatorre,dellatorre,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,19,1028,2,1,0.175,0.088,0.263,23,6,2,2,21,68.79,6.56,0.189,6.009
+1086482,Diego Hernández,diego hernandez,1959,Sport Recife,sport recife,2026,Serie_B,0.72,16,1027,3,1,0.263,0.088,0.351,35,12,21,7,3,83.76,6.97,0.253,6.385
+109610,Guilherme Marques,guilherme marques,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,20,1015,3,3,0.266,0.266,0.532,20,8,18,2,5,79.86,6.88,0.383,6.302
+789668,Luca Sosa,luca sosa,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,13,1012,0,0,0.0,0.0,0.0,6,4,15,13,20,84.15,6.72,0.0,6.156
+866721,William Klaus,william klaus,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,13,1012,0,0,0.0,0.0,0.0,9,1,8,9,32,84.8,6.41,0.0,5.872
+871209,Maguinho,maguinho,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,19,1009,0,0,0.0,0.0,0.0,11,10,19,9,20,80.89,6.46,0.0,5.917
+866564,Nicolas,nicolas,1984,Criciúma,criciuma,2026,Serie_B,0.72,21,1008,3,1,0.268,0.089,0.357,24,0,5,1,26,74.5,6.54,0.257,5.991
+1632180,Caio Rodrigues,caio rodrigues,2022,Londrina,londrina,2026,Serie_B,0.72,13,1004,1,0,0.09,0.0,0.09,5,0,17,13,6,93.08,6.85,0.065,6.275
+243189,Victor Andrade,victor andrade,2011,Náutico,nautico,2026,Serie_B,0.72,22,996,2,1,0.181,0.09,0.271,48,36,12,6,8,80.93,7.05,0.195,6.458
+1875994,Vinicius Peixoto,vinicius peixoto,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,28,994,4,0,0.362,0.0,0.362,47,13,10,2,19,76.35,6.62,0.261,6.064
+2040561,Zé Lucas,ze lucas,1959,Sport Recife,sport recife,2026,Serie_B,0.72,14,993,0,0,0.0,0.0,0.0,4,3,13,12,7,83.88,6.77,0.0,6.201
+341145,Paulinho Moccelin,paulinho moccelin,2022,Londrina,londrina,2026,Serie_B,0.72,21,984,1,2,0.091,0.183,0.274,22,16,22,5,5,71.38,6.69,0.197,6.128
+871162,Everton Galdino,everton galdino,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,16,983,4,0,0.366,0.0,0.366,19,11,11,4,11,81.05,6.73,0.264,6.165
+1631189,Enzo Valentim Lodovico,enzo valentim lodovico,2001,Ceará,ceara,2026,Serie_B,0.72,21,983,2,2,0.183,0.183,0.366,15,6,27,10,12,75.21,6.68,0.264,6.119
+1182919,Kaua Almeida da Costa,kaua almeida da costa,2011,Náutico,nautico,2026,Serie_B,0.72,18,982,3,1,0.275,0.092,0.367,40,3,6,4,25,76.22,6.53,0.264,5.981
+1467119,Carlinhos,carlinhos,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,14,980,0,0,0.0,0.0,0.0,3,0,7,15,23,82.14,6.78,0.0,6.21
+868120,Willian Maranhão,willian maranhao,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,21,976,0,0,0.0,0.0,0.0,7,6,11,17,10,82.12,6.56,0.0,6.009
+335187,Alex Silva,alex silva,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,14,974,0,0,0.0,0.0,0.0,7,5,15,10,27,81.15,6.85,0.0,6.275
+311394,Carlos De Pena,carlos de pena,1959,Sport Recife,sport recife,2026,Serie_B,0.72,21,973,2,2,0.185,0.185,0.37,31,4,11,8,13,77.67,6.95,0.266,6.366
+335807,Gegê,gege,1960,Goiás,goias,2026,Serie_B,0.72,21,970,2,0,0.186,0.0,0.186,27,2,16,9,2,83.11,6.81,0.134,6.238
+1067632,Wesley Pinheiro,wesley pinheiro,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,21,967,2,1,0.186,0.093,0.279,21,24,31,5,8,85.53,6.77,0.201,6.201
+929687,Willian Formiga,willian formiga,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,22,964,1,0,0.093,0.0,0.093,6,0,19,14,21,82.93,6.57,0.067,6.018
+344077,Diego Gonçalves,diego goncalves,1984,Criciúma,criciuma,2026,Serie_B,0.72,23,959,2,0,0.188,0.0,0.188,28,11,7,4,25,73.94,6.57,0.135,6.018
+983526,Benjamín Borasi,benjamin borasi,2011,Náutico,nautico,2026,Serie_B,0.72,15,954,1,0,0.094,0.0,0.094,24,10,27,13,6,78.97,6.73,0.068,6.165
+330691,Juninho,juninho,1960,Goiás,goias,2026,Serie_B,0.72,22,952,1,1,0.095,0.095,0.19,9,2,13,13,8,84.05,6.65,0.137,6.091
+550248,Pablo Dyego,pablo dyego,2022,Londrina,londrina,2026,Serie_B,0.72,23,945,2,0,0.19,0.0,0.19,23,7,11,5,11,82.52,6.65,0.137,6.091
+788195,Rafael Ramos,rafael ramos,2001,Ceará,ceara,2026,Serie_B,0.72,16,931,0,1,0.0,0.097,0.097,10,6,25,8,16,80.21,6.83,0.07,6.256
+329079,Bruno Brígido,bruno brigido,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,11,929,0,0,0.0,0.0,0.0,0,0,0,0,1,65.84,6.89,0.0,6.311
+833742,Nilson Castrillón,nilson castrillon,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,12,928,0,1,0.0,0.097,0.097,3,0,13,10,18,82.27,6.9,0.07,6.32
+877470,Reynaldo,reynaldo,7315,Avaí,avai,2026,Serie_B,0.72,12,927,0,0,0.0,0.0,0.0,2,1,13,13,12,84.47,6.61,0.0,6.055
+1020259,Gabriel Barros,gabriel barros,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,15,924,1,1,0.097,0.097,0.194,18,9,8,3,9,78.42,6.67,0.14,6.11
+875906,Juan Alano,juan alano,1959,Sport Recife,sport recife,2026,Serie_B,0.72,22,921,2,3,0.195,0.293,0.488,16,15,11,5,3,80.46,6.84,0.351,6.265
+1099301,Gian Cabezas,gian cabezas,342775,Athletic Club,athletic club,2026,Serie_B,0.72,20,920,0,0,0.0,0.0,0.0,9,7,11,9,3,86.52,6.49,0.0,5.945
+1023049,Gustavo Maia,gustavo maia,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,16,915,1,0,0.098,0.0,0.098,29,8,6,5,2,86.02,6.83,0.071,6.256
+1101714,Vina,vina,2001,Ceará,ceara,2026,Serie_B,0.72,19,895,3,0,0.302,0.0,0.302,33,7,4,2,2,80.05,6.85,0.217,6.275
+880215,Todinho,todinho,2011,Náutico,nautico,2026,Serie_B,0.72,19,895,3,1,0.302,0.101,0.403,23,13,15,4,16,84.27,6.79,0.29,6.22
+1485488,Yago Souza,yago souza,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,18,893,0,0,0.0,0.0,0.0,5,14,23,7,8,84.7,6.76,0.0,6.192
+995699,Thalys,thalys,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,12,891,0,0,0.0,0.0,0.0,3,9,22,16,8,78.42,6.54,0.0,5.991
+1148584,Neto Paraíba,neto paraiba,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,28,883,0,0,0.0,0.0,0.0,21,14,14,9,13,80.37,6.65,0.0,6.091
+856357,Thalis Cantanhede,thalis cantanhede,2022,Londrina,londrina,2026,Serie_B,0.72,17,869,0,1,0.0,0.104,0.104,22,4,11,9,6,82.89,6.71,0.075,6.146
+871476,Wanderson,wanderson,2011,Náutico,nautico,2026,Serie_B,0.72,18,869,0,0,0.0,0.0,0.0,9,1,16,19,47,77.41,6.71,0.0,6.146
+931758,Kevyn,kevyn,2022,Londrina,londrina,2026,Serie_B,0.72,18,868,0,0,0.0,0.0,0.0,5,4,11,6,13,80.49,6.6,0.0,6.046
+1117470,Edson Lucas,edson lucas,1959,Sport Recife,sport recife,2026,Serie_B,0.72,18,864,0,1,0.0,0.104,0.104,10,10,32,20,10,83.15,6.85,0.075,6.275
+979868,Patrick De Lucca,patrick de lucca,22032,CRB,crb,2026,Serie_B,0.72,22,864,0,2,0.0,0.208,0.208,9,0,19,10,10,88.1,6.68,0.15,6.119
+2440891,Gustavo Almeida,gustavo almeida,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,11,855,1,0,0.105,0.0,0.105,2,1,19,12,15,73.67,6.31,0.076,5.78
+1111658,Douglas Pele,douglas pele,342775,Athletic Club,athletic club,2026,Serie_B,0.72,16,851,0,2,0.0,0.212,0.212,10,12,22,9,7,77.22,6.7,0.153,6.137
+1019166,Wenderson,wenderson,7315,Avaí,avai,2026,Serie_B,0.72,24,850,1,0,0.106,0.0,0.106,13,10,11,6,5,84.75,6.63,0.076,6.073
+865380,Reverson,reverson,22032,CRB,crb,2026,Serie_B,0.72,15,839,0,1,0.0,0.107,0.107,10,12,13,7,9,89.14,6.77,0.077,6.201
+1643776,Joao Vitor,joao vitor,7315,Avaí,avai,2026,Serie_B,0.72,10,836,0,2,0.0,0.215,0.215,8,5,18,9,16,77.78,7.06,0.155,6.467
+931751,Léo Gomes,leo gomes,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,12,834,1,0,0.108,0.0,0.108,12,3,9,11,11,79.3,6.44,0.078,5.899
+909487,Fábio Gomes,fabio gomes,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,13,832,2,2,0.216,0.216,0.432,20,5,1,1,33,62.6,6.63,0.311,6.073
+870758,Richardson,richardson,2001,Ceará,ceara,2026,Serie_B,0.72,17,831,0,0,0.0,0.0,0.0,2,2,16,9,12,87.96,6.82,0.0,6.247
+922629,Anderson,anderson,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,11,830,0,0,0.0,0.0,0.0,2,0,11,7,20,88.73,6.69,0.0,6.128
+870904,César,cesar,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,10,825,0,0,0.0,0.0,0.0,0,0,0,0,4,81.12,7.09,0.0,6.494
+606612,Nicolas Careca,nicolas careca,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,18,816,2,1,0.221,0.11,0.331,23,3,17,11,21,68.59,6.67,0.238,6.11
+2035942,Murilo,murilo,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,12,815,0,0,0.0,0.0,0.0,11,6,14,4,5,79.91,6.56,0.0,6.009
+1126701,Nathan Cardoso,nathan cardoso,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,10,812,1,0,0.111,0.0,0.111,5,2,16,10,25,90.15,6.8,0.08,6.229
+794878,Matheus Ribeiro,matheus ribeiro,2011,Náutico,nautico,2026,Serie_B,0.72,14,811,0,0,0.0,0.0,0.0,7,9,24,5,5,80.29,6.68,0.0,6.119
+857733,Yuri,yuri,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,17,810,0,3,0.0,0.333,0.333,8,5,22,7,11,85.14,6.75,0.24,6.183
+2055361,Bruno Baldini,bruno baldini,7315,Avaí,avai,2026,Serie_B,0.72,9,810,0,0,0.0,0.0,0.0,7,2,11,4,8,85.29,6.56,0.0,6.009
+869443,Daniel Amorim,daniel amorim,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,21,806,2,1,0.223,0.112,0.335,9,4,6,2,18,68.89,6.56,0.241,6.009
+922564,Carlão,carlao,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,33,805,5,1,0.559,0.112,0.671,28,2,18,4,27,69.18,6.65,0.483,6.091
+551348,Hyoran,hyoran,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,21,804,1,1,0.112,0.112,0.224,33,9,10,1,2,76.74,6.61,0.161,6.055
+1485598,Felipe Negrucci,felipe negrucci,342775,Athletic Club,athletic club,2026,Serie_B,0.72,14,801,1,0,0.112,0.0,0.112,6,3,10,12,6,78.37,6.59,0.081,6.036
+986945,Warley,warley,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,10,799,0,3,0.0,0.338,0.338,2,3,15,13,9,80.11,6.89,0.243,6.311
+824626,Tomás Pochettino,tomas pochettino,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,12,799,0,0,0.0,0.0,0.0,15,8,11,10,4,70.22,6.73,0.0,6.165
+1017746,Fernando,fernando,2001,Ceará,ceara,2026,Serie_B,0.72,12,797,0,0,0.0,0.0,0.0,12,7,14,5,13,78.27,6.59,0.0,6.036
+981621,Índio,indio,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,18,786,0,1,0.0,0.115,0.115,6,3,10,8,10,86.94,6.73,0.083,6.165
+1899903,Jhan Pool Torres,jhan pool torres,342775,Athletic Club,athletic club,2026,Serie_B,0.72,15,783,0,0,0.0,0.0,0.0,1,1,25,9,10,80.75,6.8,0.0,6.229
+1066548,Alexis Alvarino,alexis alvarino,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,14,774,0,0,0.0,0.0,0.0,2,3,13,12,12,82.85,6.92,0.0,6.339
+973841,Vinicius Zanocelo,vinicius zanocelo,2001,Ceará,ceara,2026,Serie_B,0.72,11,773,1,1,0.116,0.116,0.232,16,0,18,10,8,88.27,6.84,0.167,6.265
+870300,Mateus Silva,mateus silva,2011,Náutico,nautico,2026,Serie_B,0.72,10,773,0,0,0.0,0.0,0.0,6,0,9,5,28,87.93,6.66,0.0,6.101
+340143,Manuel Castro,manuel castro,1980,Juventude,juventude,2026,Serie_B,0.72,18,772,0,1,0.0,0.117,0.117,11,4,9,2,9,78.61,6.62,0.084,6.064
+178407,Gabriel Pires,gabriel pires,1980,Juventude,juventude,2026,Serie_B,0.72,15,764,2,3,0.236,0.353,0.589,25,7,29,15,11,81.95,6.97,0.424,6.385
+1022300,Guilherme Portuga,guilherme portuga,2022,Londrina,londrina,2026,Serie_B,0.72,13,763,1,0,0.118,0.0,0.118,15,8,13,7,3,86.7,6.83,0.085,6.256
+795035,Douglas Baggio,douglas baggio,22032,CRB,crb,2026,Serie_B,0.72,22,760,1,1,0.118,0.118,0.236,21,9,20,3,10,82.78,6.6,0.17,6.046
+870756,Herbert,herbert,2022,Londrina,londrina,2026,Serie_B,0.72,10,759,2,1,0.237,0.119,0.356,35,3,8,4,7,77.72,6.77,0.256,6.201
+84845,Manoel,manoel,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,9,754,0,0,0.0,0.0,0.0,1,0,4,2,10,92.37,6.79,0.0,6.22
+1170779,Ryan Gustavo,ryan gustavo,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,20,754,0,0,0.0,0.0,0.0,5,7,26,10,4,92.73,6.77,0.0,6.201
+829832,Arthur Caíke,arthur caike,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,22,754,1,1,0.119,0.119,0.238,18,1,3,2,22,63.56,6.49,0.171,5.945
+538130,Rodrigo de Souza,rodrigo de souza,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,14,751,0,1,0.0,0.12,0.12,5,3,22,18,13,77.68,6.76,0.086,6.192
+866775,Eduardo Brock,eduardo brock,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,9,750,2,1,0.24,0.12,0.36,7,0,6,6,6,81.08,7.48,0.259,6.852
+1185449,Jhonny,jhonny,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,11,748,0,0,0.0,0.0,0.0,3,4,5,4,9,81.25,6.35,0.0,5.817
+355810,Mário Sergio,mario sergio,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,12,743,2,3,0.242,0.363,0.605,6,1,15,9,6,84.12,6.88,0.436,6.302
+1640518,Eric Melo,eric melo,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,15,739,1,0,0.122,0.0,0.122,4,5,12,16,22,82.68,6.85,0.088,6.275
+879591,Raí Ramos,rai ramos,1980,Juventude,juventude,2026,Serie_B,0.72,12,737,0,0,0.0,0.0,0.0,8,3,11,5,1,82.59,6.68,0.0,6.119
+243435,Titi,titi,1980,Juventude,juventude,2026,Serie_B,0.72,12,735,0,0,0.0,0.0,0.0,3,1,6,10,9,90.5,6.84,0.0,6.265
+1897879,Sorriso,sorriso,7315,Avaí,avai,2026,Serie_B,0.72,18,733,2,1,0.246,0.123,0.369,15,10,11,6,1,82.42,6.84,0.266,6.265
+992791,Claudinho,claudinho,1959,Sport Recife,sport recife,2026,Serie_B,0.72,12,731,1,1,0.123,0.123,0.246,3,4,26,7,3,82.8,6.88,0.177,6.302
+1464528,Kayky Almeida,kayky almeida,1959,Sport Recife,sport recife,2026,Serie_B,0.72,9,729,0,0,0.0,0.0,0.0,3,2,3,6,20,86.85,7.04,0.0,6.449
+1016912,Nathan,nathan,1980,Juventude,juventude,2026,Serie_B,0.72,15,727,0,0,0.0,0.0,0.0,3,33,19,7,7,81.49,6.78,0.0,6.21
+871003,Diego Tavares,diego tavares,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,12,726,1,3,0.124,0.372,0.496,12,10,4,1,6,77.88,6.66,0.357,6.101
+552164,Yago Felipe,yago felipe,1959,Sport Recife,sport recife,2026,Serie_B,0.72,16,722,0,0,0.0,0.0,0.0,10,1,17,3,4,80.84,6.64,0.0,6.082
+1190330,Nicolás Ferreira,nicolas ferreira,2001,Ceará,ceara,2026,Serie_B,0.72,11,722,1,1,0.125,0.125,0.25,13,11,13,8,6,78.99,6.59,0.18,6.036
+965796,Marlon,marlon,1959,Sport Recife,sport recife,2026,Serie_B,0.72,23,721,1,2,0.125,0.25,0.375,17,9,13,2,7,82.76,6.8,0.27,6.229
+1587711,Ronald,ronald,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,13,719,1,0,0.125,0.0,0.125,9,2,10,6,20,91.95,6.89,0.09,6.311
+866754,Marcão Silva,marcao silva,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,21,718,0,0,0.0,0.0,0.0,3,3,18,6,15,89.94,6.58,0.0,6.027
+1836632,Marcelo Henrique,marcelo henrique,342775,Athletic Club,athletic club,2026,Serie_B,0.72,15,716,0,0,0.0,0.0,0.0,3,6,15,12,10,70.83,6.65,0.0,6.091
+871204,Luiz Otávio,luiz otavio,2001,Ceará,ceara,2026,Serie_B,0.72,12,709,0,1,0.0,0.127,0.127,3,0,17,13,31,91.09,6.98,0.091,6.394
+2026354,Otávio Gonçalves,otavio goncalves,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,14,705,0,0,0.0,0.0,0.0,16,5,10,3,2,86.81,6.68,0.0,6.119
+1588297,Luiz Otavio Maria,luiz otavio maria,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,19,696,2,1,0.259,0.129,0.388,11,11,13,4,3,81.28,6.73,0.279,6.165
+794897,Matheus Albino,matheus albino,22032,CRB,crb,2026,Serie_B,0.72,8,694,0,0,0.0,0.0,0.0,0,0,0,0,4,86.39,6.7,0.0,6.137
+938482,Eduardo Person,eduardo person,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,12,690,0,0,0.0,0.0,0.0,8,4,13,9,5,85.09,6.83,0.0,6.256
+989892,Welliton,welliton,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,23,685,1,0,0.131,0.0,0.131,21,28,12,9,2,78.95,6.68,0.094,6.119
+1167540,Habraão,habraao,1959,Sport Recife,sport recife,2026,Serie_B,0.72,9,684,0,0,0.0,0.0,0.0,7,0,12,5,31,92.17,6.88,0.0,6.302
+822523,Matheusinho,matheusinho,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,18,684,0,1,0.0,0.132,0.132,18,8,10,5,3,79.31,6.68,0.095,6.119
+1587920,Guilherme Baldória,guilherme baldoria,1960,Goiás,goias,2026,Serie_B,0.72,17,683,0,0,0.0,0.0,0.0,3,5,18,18,6,84.27,6.74,0.0,6.174
+881483,Igor Bohn,igor bohn,7315,Avaí,avai,2026,Serie_B,0.72,8,676,0,0,0.0,0.0,0.0,0,0,0,0,4,45.41,7.43,0.0,6.806
+1391413,Eliel,eliel,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,16,676,0,4,0.0,0.533,0.533,13,2,3,1,2,74.24,6.58,0.384,6.027
+789084,Jonathan Costa,jonathan costa,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,8,675,1,0,0.133,0.0,0.133,4,0,4,9,21,86.44,7.05,0.096,6.458
+2649997,Breno,breno,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,8,674,1,0,0.134,0.0,0.134,3,1,9,14,22,83.94,7.09,0.096,6.494
+2032258,Bruninho,bruninho,342775,Athletic Club,athletic club,2026,Serie_B,0.72,21,672,2,1,0.268,0.134,0.402,21,13,11,4,4,87.88,6.66,0.289,6.101
+1137850,Wilinton Aponzá,wilinton aponza,342775,Athletic Club,athletic club,2026,Serie_B,0.72,14,671,4,0,0.537,0.0,0.537,26,12,5,2,18,74.04,6.81,0.387,6.238
+795020,Iury Castilho,iury castilho,1959,Sport Recife,sport recife,2026,Serie_B,0.72,13,669,1,1,0.135,0.135,0.27,21,4,15,1,7,85.83,6.73,0.194,6.165
+1093892,Everton,everton,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,10,667,0,0,0.0,0.0,0.0,8,6,13,5,5,83.51,6.62,0.0,6.064
+877571,Jorge Roa Jiménez,jorge roa jimenez,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,17,665,0,0,0.0,0.0,0.0,11,1,17,12,10,88.02,6.68,0.0,6.119
+373740,Alan Empereur,alan empereur,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,8,663,0,0,0.0,0.0,0.0,0,0,7,3,14,82.79,6.58,0.0,6.027
+839635,Felipe Vizeu,felipe vizeu,7315,Avaí,avai,2026,Serie_B,0.72,9,663,0,0,0.0,0.0,0.0,19,3,0,0,6,80.49,6.23,0.0,5.707
+1651675,Diego Galo,diego galo,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,16,662,1,2,0.136,0.272,0.408,18,9,5,6,8,84.62,6.71,0.294,6.146
+1086990,Ryan,ryan,2011,Náutico,nautico,2026,Serie_B,0.72,11,658,0,0,0.0,0.0,0.0,4,1,9,5,9,82.96,6.77,0.0,6.201
+1109043,Daniel Baianinho,daniel baianinho,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,15,653,1,0,0.138,0.0,0.138,11,13,8,3,7,72.34,6.51,0.099,5.963
+1465464,Igor Bahia,igor bahia,2022,Londrina,londrina,2026,Serie_B,0.72,9,652,3,0,0.414,0.0,0.414,18,2,7,3,29,71.83,6.8,0.298,6.229
+865400,Igor Henrique,igor henrique,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,13,647,0,0,0.0,0.0,0.0,16,2,19,13,5,83.12,6.63,0.0,6.073
+852534,Carlinhos,carlinhos,342775,Athletic Club,athletic club,2026,Serie_B,0.72,11,646,2,1,0.279,0.139,0.418,19,4,7,0,18,71.0,6.83,0.301,6.256
+1010635,Netinho,netinho,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,12,645,0,3,0.0,0.419,0.419,39,12,8,7,3,87.35,7.02,0.302,6.43
+2168369,Miguel Morais,miguel morais,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,17,639,1,0,0.141,0.0,0.141,16,10,7,8,7,80.17,6.54,0.102,5.991
+871219,Fernandinho,fernandinho,2001,Ceará,ceara,2026,Serie_B,0.72,11,638,1,1,0.141,0.141,0.282,11,23,20,0,6,73.68,6.77,0.203,6.201
+1632328,Luisão,luisao,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,14,637,0,0,0.0,0.0,0.0,6,0,9,9,21,85.41,6.75,0.0,6.183
+1893682,Lucas Rian,lucas rian,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,16,636,2,1,0.283,0.142,0.425,14,10,6,4,4,74.37,6.75,0.306,6.183
+870578,Romarinho,romarinho,1984,Criciúma,criciuma,2026,Serie_B,0.72,21,632,0,3,0.0,0.427,0.427,6,6,3,4,2,86.04,6.69,0.307,6.128
+931580,Luan,luan,2022,Londrina,londrina,2026,Serie_B,0.72,7,630,0,0,0.0,0.0,0.0,0,0,0,0,1,69.35,7.41,0.0,6.788
+1631864,Pedro Henrique,pedro henrique,1984,Criciúma,criciuma,2026,Serie_B,0.72,7,630,0,0,0.0,0.0,0.0,0,0,0,0,0,67.65,7.2,0.0,6.595
+1147690,Gabriel Caran,gabriel caran,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,7,630,0,0,0.0,0.0,0.0,3,1,6,13,14,89.66,6.89,0.0,6.311
+953718,Caio Marcelo,caio marcelo,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,10,630,0,0,0.0,0.0,0.0,2,2,15,8,15,86.55,6.67,0.0,6.11
+937265,Wendel,wendel,2001,Ceará,ceara,2026,Serie_B,0.72,14,630,0,1,0.0,0.143,0.143,10,3,7,0,12,68.6,6.46,0.103,5.917
+1631554,Kauan Lindes,kauan lindes,342775,Athletic Club,athletic club,2026,Serie_B,0.72,10,623,3,0,0.433,0.0,0.433,17,13,6,4,3,86.71,6.89,0.312,6.311
+338839,Dodô,dodo,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,20,618,1,3,0.146,0.437,0.583,18,4,5,5,1,81.25,6.76,0.42,6.192
+848630,Jean Irmer,jean irmer,1984,Criciúma,criciuma,2026,Serie_B,0.72,17,618,0,0,0.0,0.0,0.0,12,1,28,11,8,80.25,6.7,0.0,6.137
+77375,Nino Paraíba,nino paraiba,2022,Londrina,londrina,2026,Serie_B,0.72,15,617,0,0,0.0,0.0,0.0,2,2,5,9,11,72.09,6.7,0.0,6.137
+2117906,Juan Rodrigues Leopoldino,juan rodrigues leopoldino,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,17,617,0,0,0.0,0.0,0.0,4,3,9,2,3,69.7,6.46,0.0,5.917
+869564,Alê,ale,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,11,616,0,0,0.0,0.0,0.0,7,3,16,4,4,88.22,6.62,0.0,6.064
+1125086,Yago Santos,yago santos,342775,Athletic Club,athletic club,2026,Serie_B,0.72,13,615,1,1,0.146,0.146,0.292,9,1,7,8,5,86.57,6.64,0.21,6.082
+1106499,Weverson,weverson,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,23,614,0,1,0.0,0.147,0.147,8,12,15,11,19,61.02,6.72,0.106,6.156
+2034254,Redney Emanuel de Jesus Assis,redney emanuel de jesus assis,342775,Athletic Club,athletic club,2026,Serie_B,0.72,16,614,0,1,0.0,0.147,0.147,11,6,8,7,4,81.67,6.4,0.106,5.862
+866369,Sávio,savio,2001,Ceará,ceara,2026,Serie_B,0.72,9,612,0,0,0.0,0.0,0.0,5,2,11,4,5,85.63,6.73,0.0,6.165
+1631206,Gustavo Telles,gustavo telles,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,17,610,0,1,0.0,0.148,0.148,6,3,6,11,5,78.89,6.62,0.107,6.064
+1845396,Fábio,fabio,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,9,604,0,0,0.0,0.0,0.0,6,2,6,7,4,78.14,6.69,0.0,6.128
+994479,Wesley Gasolina,wesley gasolina,7315,Avaí,avai,2026,Serie_B,0.72,12,603,0,1,0.0,0.149,0.149,6,5,11,4,5,84.13,6.71,0.107,6.146
+1476558,Dantas,dantas,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,7,602,0,0,0.0,0.0,0.0,2,0,2,5,15,87.27,6.76,0.0,6.192
+1845365,Guilherme Aquino,guilherme aquino,7315,Avaí,avai,2026,Serie_B,0.72,9,600,0,0,0.0,0.0,0.0,5,0,8,9,25,79.28,6.67,0.0,6.11
+1468270,Diego Caito,diego caito,1960,Goiás,goias,2026,Serie_B,0.72,12,600,0,2,0.0,0.3,0.3,7,7,7,6,4,82.91,6.61,0.216,6.055
+1105945,Léo Alaba,leo alaba,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,9,599,0,0,0.0,0.0,0.0,5,5,9,6,8,82.37,6.46,0.0,5.917
+1591290,Gabriel Silva Rocha,gabriel silva rocha,2001,Ceará,ceara,2026,Serie_B,0.72,7,598,1,1,0.151,0.151,0.302,2,0,15,3,20,86.26,6.87,0.217,6.293
+911263,Pedro Henrique,pedro henrique,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,14,598,1,0,0.151,0.0,0.151,23,1,3,2,40,59.14,6.61,0.109,6.055
+808786,Léo Gamalho,leo gamalho,7315,Avaí,avai,2026,Serie_B,0.72,15,596,1,0,0.151,0.0,0.151,8,2,2,2,35,62.04,6.51,0.109,5.963
+1047819,Henrique Freitas,henrique freitas,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,13,583,1,1,0.154,0.154,0.308,17,3,8,2,4,80.3,6.68,0.222,6.119
+1631766,Giulio,giulio,2001,Ceará,ceara,2026,Serie_B,0.72,13,579,1,3,0.155,0.466,0.621,14,17,8,1,5,75.89,6.75,0.447,6.183
+1116953,Luizão,luizao,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,9,577,0,0,0.0,0.0,0.0,1,1,1,11,9,89.28,6.74,0.0,6.174
+1927514,Ruan Rodrigues Carvalho,ruan rodrigues carvalho,1984,Criciúma,criciuma,2026,Serie_B,0.72,8,565,0,1,0.0,0.159,0.159,4,2,15,7,14,80.46,6.83,0.114,6.256
+1002528,Patryck,patryck,1980,Juventude,juventude,2026,Serie_B,0.72,9,563,1,0,0.16,0.0,0.16,10,4,3,6,3,70.5,6.68,0.115,6.119
+1128767,Fabrício Daniel,fabricio daniel,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,19,563,2,2,0.32,0.32,0.64,9,1,4,4,4,75.6,6.65,0.461,6.091
+249911,Fernando Elizari,fernando elizari,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,17,562,2,1,0.32,0.16,0.48,7,3,9,4,0,86.69,6.79,0.346,6.22
+1494452,Gustavo Henrique,gustavo henrique,2011,Náutico,nautico,2026,Serie_B,0.72,10,561,1,0,0.16,0.0,0.16,3,0,8,3,7,83.96,6.71,0.115,6.146
+2660888,Julio César,julio cesar,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,11,559,0,0,0.0,0.0,0.0,12,7,14,10,0,84.41,6.65,0.0,6.091
+840247,Neris,neris,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,9,552,1,0,0.163,0.0,0.163,4,2,6,11,16,88.24,7.03,0.117,6.439
+985888,Weverton,weverton,2022,Londrina,londrina,2026,Serie_B,0.72,8,548,0,1,0.0,0.164,0.164,0,8,6,2,0,83.39,6.53,0.118,5.981
+1019977,Esli García,esli garcia,1960,Goiás,goias,2026,Serie_B,0.72,15,545,2,3,0.33,0.495,0.825,17,14,9,1,2,81.01,6.71,0.594,6.146
+559582,Vinicius Silvestre,vinicius silvestre,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,6,540,0,0,0.0,0.0,0.0,0,0,0,0,3,65.85,7.25,0.0,6.641
+1636415,Kaio Henrique,kaio henrique,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,9,539,0,0,0.0,0.0,0.0,0,2,2,5,3,87.87,6.6,0.0,6.046
+1473192,João Andrade,joao andrade,2022,Londrina,londrina,2026,Serie_B,0.72,11,538,0,1,0.0,0.167,0.167,13,8,17,2,2,80.33,6.86,0.12,6.284
+2436887,Walace dos Santos França,walace dos santos franca,7315,Avaí,avai,2026,Serie_B,0.72,12,534,3,0,0.506,0.0,0.506,12,3,1,1,18,66.67,6.57,0.364,6.018
+954090,Ángel Torres,angel torres,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,8,530,1,2,0.17,0.34,0.51,8,13,6,2,6,77.16,6.74,0.367,6.174
+34168,Paulo Sérgio,paulo sergio,2011,Náutico,nautico,2026,Serie_B,0.72,12,529,1,1,0.17,0.17,0.34,16,0,2,0,7,84.07,6.49,0.245,5.945
+874777,Elias Martello,elias martello,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,6,527,0,0,0.0,0.0,0.0,0,0,0,0,1,58.44,7.22,0.0,6.614
+973845,Higor Meritão,higor meritao,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,12,521,0,2,0.0,0.345,0.345,4,5,15,11,7,83.46,6.65,0.248,6.091
+2437584,William Fernando,william fernando,7315,Avaí,avai,2026,Serie_B,0.72,12,520,0,0,0.0,0.0,0.0,5,7,9,9,10,76.64,6.61,0.0,6.055
+1589390,Thauan Willians,thauan willians,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,10,517,0,0,0.0,0.0,0.0,18,24,10,5,2,75.71,6.63,0.0,6.073
+870111,Luiz Otavio,luiz otavio,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,15,517,0,0,0.0,0.0,0.0,11,1,3,5,0,91.09,6.63,0.0,6.073
+844015,Emerson Santos,emerson santos,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,8,508,1,0,0.177,0.0,0.177,5,2,6,6,14,88.46,6.66,0.127,6.101
+1192068,Wadson,wadson,1980,Juventude,juventude,2026,Serie_B,0.72,17,506,1,1,0.178,0.178,0.356,7,4,12,14,6,78.2,6.82,0.256,6.247
+1016930,Dieguinho,dieguinho,2001,Ceará,ceara,2026,Serie_B,0.72,8,506,0,0,0.0,0.0,0.0,5,4,7,5,2,91.14,6.76,0.0,6.192
+1462709,Leo Jacó,leo jaco,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,17,506,4,0,0.711,0.0,0.711,13,3,2,0,16,76.06,6.65,0.512,6.091
+835259,Jefferson Nem,jefferson nem,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,17,503,0,0,0.0,0.0,0.0,10,13,7,4,5,87.1,6.63,0.0,6.073
+892875,Felipe Vieira,felipe vieira,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,12,498,1,0,0.181,0.0,0.181,2,2,5,4,10,80.1,6.73,0.13,6.165
+158561,Gilberto,gilberto,2022,Londrina,londrina,2026,Serie_B,0.72,15,498,2,0,0.361,0.0,0.361,22,0,7,1,10,74.23,6.53,0.26,5.981
+1485293,Rafael Monteiro,rafael monteiro,2022,Londrina,londrina,2026,Serie_B,0.72,9,496,0,0,0.0,0.0,0.0,4,2,12,3,3,79.06,6.51,0.0,5.963
+2052653,Yuri Felipe Santos da Conceicao,yuri felipe santos da conceicao,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,11,489,0,0,0.0,0.0,0.0,3,4,10,5,3,84.78,6.49,0.0,5.945
+1015291,Patrick de Paula,patrick de paula,1959,Sport Recife,sport recife,2026,Serie_B,0.72,9,487,2,0,0.37,0.0,0.37,19,2,6,4,3,83.87,7.03,0.266,6.439
+871205,Vinicius Barata,vinicius barata,22032,CRB,crb,2026,Serie_B,0.72,18,487,0,0,0.0,0.0,0.0,15,16,9,3,2,90.0,6.73,0.0,6.165
+1106488,Pedro Martins,pedro martins,1959,Sport Recife,sport recife,2026,Serie_B,0.72,15,482,0,0,0.0,0.0,0.0,5,2,5,6,11,91.61,6.68,0.0,6.119
+1636364,Thiaguinho,thiaguinho,1984,Criciúma,criciuma,2026,Serie_B,0.72,16,480,0,0,0.0,0.0,0.0,4,4,10,5,3,87.34,6.56,0.0,6.009
+1185811,Marco Antonio Batistussi,marco antonio batistussi,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,16,475,0,0,0.0,0.0,0.0,6,1,10,3,3,82.76,6.69,0.0,6.128
+1174206,Paulo Baya,paulo baya,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,19,472,1,3,0.191,0.572,0.763,30,6,3,2,4,74.29,6.72,0.549,6.156
+882351,Jonathan,jonathan,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,11,468,0,1,0.0,0.192,0.192,4,2,19,10,7,83.41,6.86,0.138,6.284
+975339,Felipe Clemente,felipe clemente,1960,Goiás,goias,2026,Serie_B,0.72,9,467,2,1,0.385,0.193,0.578,16,4,6,1,3,75.36,6.72,0.416,6.156
+1588722,Gabriel Pereira Simples,gabriel pereira simples,7315,Avaí,avai,2026,Serie_B,0.72,7,461,0,0,0.0,0.0,0.0,3,0,9,4,4,82.25,6.56,0.0,6.009
+926513,Renzo López,renzo lopez,2001,Ceará,ceara,2026,Serie_B,0.72,11,456,0,1,0.0,0.197,0.197,10,0,11,0,39,55.32,6.62,0.142,6.064
+1868762,Kauã Rocha,kaua rocha,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,7,450,0,0,0.0,0.0,0.0,1,0,5,3,12,87.73,6.87,0.0,6.293
+1018606,Rai Lopes,rai lopes,1959,Sport Recife,sport recife,2026,Serie_B,0.72,6,450,0,0,0.0,0.0,0.0,1,6,16,12,12,76.08,6.75,0.0,6.183
+865373,Jordan,jordan,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,5,450,0,0,0.0,0.0,0.0,0,0,0,0,0,61.54,6.68,0.0,6.119
+249881,Lucas Mugni,lucas mugni,2001,Ceará,ceara,2026,Serie_B,0.72,13,447,0,1,0.0,0.201,0.201,4,8,9,4,1,81.5,6.73,0.145,6.165
+828707,Ronaldo Tavares,ronaldo tavares,342775,Athletic Club,athletic club,2026,Serie_B,0.72,6,445,5,0,1.011,0.0,1.011,15,5,5,0,11,70.77,7.52,0.728,6.888
+1021850,Leonai,leonai,2011,Náutico,nautico,2026,Serie_B,0.72,10,445,0,0,0.0,0.0,0.0,3,4,10,5,6,84.19,6.48,0.0,5.936
+1148575,João Maistro,joao maistro,7315,Avaí,avai,2026,Serie_B,0.72,7,438,0,0,0.0,0.0,0.0,0,2,6,5,9,90.61,6.61,0.0,6.055
+869573,Saulo Mineiro,saulo mineiro,2001,Ceará,ceara,2026,Serie_B,0.72,5,436,2,0,0.413,0.0,0.413,9,4,1,1,16,58.18,6.86,0.297,6.284
+927770,Hugo,hugo,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,10,434,1,0,0.207,0.0,0.207,1,2,5,4,4,81.61,6.65,0.149,6.091
+795178,Lucas Crispim,lucas crispim,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,16,432,0,0,0.0,0.0,0.0,9,5,9,2,6,90.91,6.76,0.0,6.192
+1175752,Pedro Oliveira,pedro oliveira,342775,Athletic Club,athletic club,2026,Serie_B,0.72,15,430,1,0,0.209,0.0,0.209,8,2,4,9,5,75.36,6.72,0.15,6.156
+1645835,Denis,denis,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,7,427,0,0,0.0,0.0,0.0,7,8,8,1,3,82.98,6.51,0.0,5.963
+360160,Artur,artur,2022,Londrina,londrina,2026,Serie_B,0.72,10,425,0,0,0.0,0.0,0.0,4,0,11,4,9,80.1,6.71,0.0,6.146
+981812,Elias,elias,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,9,420,0,0,0.0,0.0,0.0,3,1,10,9,7,68.22,6.46,0.0,5.917
+831516,Cauê,caue,1984,Criciúma,criciuma,2026,Serie_B,0.72,15,416,1,0,0.216,0.0,0.216,14,2,4,2,16,73.76,6.58,0.156,6.027
+1417920,Pedro Romano,pedro romano,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,7,406,0,0,0.0,0.0,0.0,7,2,9,4,10,83.54,6.67,0.0,6.11
+243963,Rafael Silva,rafael silva,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,5,401,3,0,0.673,0.0,0.673,11,0,1,0,5,80.85,6.84,0.485,6.265
+1177384,André Dhominique,andre dhominique,2022,Londrina,londrina,2026,Serie_B,0.72,8,400,0,0,0.0,0.0,0.0,0,3,4,5,8,82.0,6.5,0.0,5.954
+362966,João Pedro Silva,joao pedro silva,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,12,394,3,0,0.685,0.0,0.685,17,2,1,1,2,77.94,6.61,0.493,6.055
+1485496,Paulinho,paulinho,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,7,392,0,1,0.0,0.23,0.23,4,2,4,4,2,79.87,6.39,0.166,5.853
+1831095,Caio Suassuna,caio suassuna,7315,Avaí,avai,2026,Serie_B,0.72,7,391,1,0,0.23,0.0,0.23,7,1,4,1,6,73.91,6.61,0.166,6.055
+1009937,Pedro Vilhena,pedro vilhena,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,16,387,0,0,0.0,0.0,0.0,5,6,13,9,4,88.41,6.76,0.0,6.192
+2026435,Daniel Davi Simão Roque,daniel davi simao roque,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,18,387,1,1,0.233,0.233,0.466,16,13,6,4,1,87.62,6.66,0.336,6.101
+1589311,Felipe Vieira,felipe vieira,342775,Athletic Club,athletic club,2026,Serie_B,0.72,9,386,0,0,0.0,0.0,0.0,3,0,21,7,9,81.25,6.61,0.0,6.055
+1467723,Fabio Matheus,fabio matheus,1959,Sport Recife,sport recife,2026,Serie_B,0.72,7,376,1,0,0.239,0.0,0.239,6,7,7,1,9,86.38,6.89,0.172,6.311
+1843731,Wallace,wallace,22032,CRB,crb,2026,Serie_B,0.72,6,373,0,0,0.0,0.0,0.0,6,2,6,4,13,89.95,6.42,0.0,5.881
+291707,Luiz Phellype,luiz phellype,22032,CRB,crb,2026,Serie_B,0.72,15,368,2,0,0.489,0.0,0.489,16,1,3,1,6,80.85,6.61,0.352,6.055
+837871,Lucas Fernandes,lucas fernandes,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,10,365,1,0,0.247,0.0,0.247,5,1,4,3,3,87.22,6.75,0.178,6.183
+1476398,Guilherme Viana,guilherme viana,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,4,360,0,0,0.0,0.0,0.0,0,1,0,0,0,52.44,6.63,0.0,6.073
+976884,Hernandes,hernandes,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,5,358,2,1,0.503,0.251,0.754,7,2,2,3,3,76.74,7.16,0.543,6.559
+1009933,Léo Chú,leo chu,7315,Avaí,avai,2026,Serie_B,0.72,10,358,0,1,0.0,0.251,0.251,4,4,9,2,2,78.13,6.59,0.181,6.036
+46942,David Braz,david braz,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,5,356,0,0,0.0,0.0,0.0,2,2,4,4,9,78.57,6.75,0.0,6.183
+1131921,Thiago Moraes,thiago moraes,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,18,354,0,1,0.0,0.254,0.254,7,3,23,2,9,80.56,6.61,0.183,6.055
+2584981,Luidy,luidy,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,10,354,0,0,0.0,0.0,0.0,4,2,6,2,3,83.65,6.36,0.0,5.826
+2062666,Gabriel Cipriano,gabriel cipriano,7315,Avaí,avai,2026,Serie_B,0.72,9,347,0,0,0.0,0.0,0.0,3,8,7,6,2,75.95,6.48,0.0,5.936
+979864,Indio,indio,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,8,346,0,0,0.0,0.0,0.0,4,2,3,4,2,87.72,6.56,0.0,6.009
+934638,Nathan Fogaça,nathan fogaca,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,9,343,0,0,0.0,0.0,0.0,10,3,3,1,2,75.41,6.59,0.0,6.036
+1177383,Geovane,geovane,22032,CRB,crb,2026,Serie_B,0.72,19,342,1,0,0.263,0.0,0.263,7,0,12,2,3,91.41,6.74,0.189,6.174
+974310,Luis Phelipe,luis phelipe,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,8,341,1,1,0.264,0.264,0.528,8,5,7,1,4,73.08,6.86,0.38,6.284
+874195,Igor Cariús,igor carius,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,8,341,0,0,0.0,0.0,0.0,2,0,9,7,4,78.47,6.54,0.0,5.991
+1022676,Carlão,carlao,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,4,339,0,0,0.0,0.0,0.0,0,0,4,6,8,77.78,6.8,0.0,6.229
+340265,Luis Amarilla,luis amarilla,1980,Juventude,juventude,2026,Serie_B,0.72,7,339,1,0,0.265,0.0,0.265,10,7,2,4,6,72.55,6.69,0.191,6.128
+880134,Maxwell,maxwell,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,12,338,1,0,0.266,0.0,0.266,7,5,6,1,6,85.12,6.71,0.192,6.146
+1118339,Luizão,luizao,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,7,338,1,0,0.266,0.0,0.266,5,1,3,1,30,60.27,6.63,0.192,6.073
+965313,Léo Tocantins,leo tocantins,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,11,335,0,0,0.0,0.0,0.0,2,1,9,2,4,81.05,6.61,0.0,6.055
+308058,Felipe Avenatti,felipe avenatti,7315,Avaí,avai,2026,Serie_B,0.72,8,326,1,0,0.276,0.0,0.276,4,1,5,1,8,60.61,6.59,0.199,6.036
+871681,Val Soares,val soares,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,6,323,0,0,0.0,0.0,0.0,12,4,5,5,1,85.19,6.98,0.0,6.394
+1176815,Giovanni Pavani,giovanni pavani,2001,Ceará,ceara,2026,Serie_B,0.72,8,323,0,1,0.0,0.279,0.279,7,3,6,6,3,83.6,6.7,0.201,6.137
+1177548,Emiliano Rodriguez,emiliano rodriguez,2022,Londrina,londrina,2026,Serie_B,0.72,7,321,1,0,0.28,0.0,0.28,6,3,4,2,6,73.68,6.7,0.202,6.137
+293235,Christian Ortíz,christian ortiz,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,15,317,1,0,0.284,0.0,0.284,10,2,6,3,1,75.89,6.62,0.204,6.064
+1217904,Pedrinho,pedrinho,1960,Goiás,goias,2026,Serie_B,0.72,8,315,0,0,0.0,0.0,0.0,4,5,6,2,0,86.36,6.6,0.0,6.046
+885854,Luizão,luizao,22032,CRB,crb,2026,Serie_B,0.72,10,314,0,0,0.0,0.0,0.0,3,4,8,1,5,85.31,6.69,0.0,6.128
+2440201,Alemão,alemao,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,6,313,0,0,0.0,0.0,0.0,2,4,9,3,4,77.08,6.83,0.0,6.256
+1495892,Ruan Lucas de Assis,ruan lucas de assis,342775,Athletic Club,athletic club,2026,Serie_B,0.72,7,311,0,1,0.0,0.289,0.289,1,6,6,2,1,76.25,6.63,0.208,6.073
+1465497,Danilo Peu,danilo peu,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,5,309,1,0,0.291,0.0,0.291,3,3,7,4,2,63.49,6.88,0.21,6.302
+576004,Juninho,juninho,2011,Náutico,nautico,2026,Serie_B,0.72,6,307,0,0,0.0,0.0,0.0,5,2,6,1,3,79.12,6.65,0.0,6.091
+1175603,Natã,nata,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,9,300,0,0,0.0,0.0,0.0,1,0,6,4,7,84.09,6.61,0.0,6.055
+992025,Neto Pessoa,neto pessoa,1959,Sport Recife,sport recife,2026,Serie_B,0.72,8,297,3,0,0.909,0.0,0.909,11,3,1,1,9,68.75,6.94,0.654,6.357
+877626,Yuri,yuri,1984,Criciúma,criciuma,2026,Serie_B,0.72,11,295,2,0,0.61,0.0,0.61,14,1,1,1,11,75.0,6.65,0.439,6.091
+847089,Felipe Augusto,felipe augusto,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,14,295,0,0,0.0,0.0,0.0,13,1,2,4,5,80.72,6.45,0.0,5.908
+1655308,Luiz Claudio,luiz claudio,2011,Náutico,nautico,2026,Serie_B,0.72,12,289,3,0,0.934,0.0,0.934,12,3,5,0,4,74.6,6.65,0.672,6.091
+840040,Guilherme Queiróz,guilherme queiroz,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,10,286,0,0,0.0,0.0,0.0,4,2,2,0,9,67.5,6.39,0.0,5.853
+1018259,Romildo Del Piage,romildo del piage,7315,Avaí,avai,2026,Serie_B,0.72,9,278,1,0,0.324,0.0,0.324,6,0,5,7,11,78.85,6.66,0.233,6.101
+1633524,Filipe Pereira Dahora,filipe pereira dahora,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,5,277,0,0,0.0,0.0,0.0,0,0,3,3,2,85.71,6.26,0.0,5.734
+988782,Allanzinho,allanzinho,1980,Juventude,juventude,2026,Serie_B,0.72,9,276,1,0,0.326,0.0,0.326,6,5,4,0,0,83.02,6.72,0.235,6.156
+989407,Vinicius Mingotti,vinicius mingotti,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,12,276,1,0,0.326,0.0,0.326,11,2,3,0,5,84.13,6.63,0.235,6.073
+2104437,Lucas Emanoel,lucas emanoel,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,7,271,0,0,0.0,0.0,0.0,5,0,1,3,7,65.38,6.5,0.0,5.954
+1491281,Pedro Rocha,pedro rocha,1980,Juventude,juventude,2026,Serie_B,0.72,3,270,0,0,0.0,0.0,0.0,0,0,0,0,0,83.33,7.37,0.0,6.751
+975363,William,william,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,3,270,0,0,0.0,0.0,0.0,0,0,0,0,0,76.47,6.7,0.0,6.137
+1105974,Emerson Urso,emerson urso,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,17,270,0,0,0.0,0.0,0.0,5,8,6,5,5,81.82,6.59,0.0,6.036
+914481,Brenno,brenno,1959,Sport Recife,sport recife,2026,Serie_B,0.72,3,270,0,0,0.0,0.0,0.0,0,0,0,0,0,69.39,6.4,0.0,5.862
+1914330,Hiago Alves,hiago alves,1984,Criciúma,criciuma,2026,Serie_B,0.72,10,269,0,0,0.0,0.0,0.0,10,5,5,2,2,83.57,6.74,0.0,6.174
+1468837,Gabriel Moyses,gabriel moyses,342775,Athletic Club,athletic club,2026,Serie_B,0.72,9,268,0,0,0.0,0.0,0.0,7,1,1,1,13,67.44,6.43,0.0,5.89
+2148143,Matheus Souza Santos,matheus souza santos,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,5,268,0,0,0.0,0.0,0.0,3,3,6,1,3,68.33,6.1,0.0,5.588
+1911373,Manu,manu,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,7,267,0,0,0.0,0.0,0.0,5,0,0,0,0,87.04,6.37,0.0,5.835
+942054,Marcos Vinícius,marcos vinicius,1960,Goiás,goias,2026,Serie_B,0.72,7,265,0,0,0.0,0.0,0.0,0,3,2,4,4,83.49,6.63,0.0,6.073
+855966,Edwin Torres,edwin torres,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,7,263,0,0,0.0,0.0,0.0,7,3,7,2,3,75.51,6.47,0.0,5.927
+874360,Mateus Quaresma,mateus quaresma,7315,Avaí,avai,2026,Serie_B,0.72,5,262,0,0,0.0,0.0,0.0,1,3,4,3,2,87.29,6.33,0.0,5.798
+790103,Jonathan Cafú,jonathan cafu,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,10,256,0,0,0.0,0.0,0.0,3,1,4,2,2,84.13,6.37,0.0,5.835
+865356,Wellington Rato,wellington rato,1960,Goiás,goias,2026,Serie_B,0.72,10,255,0,0,0.0,0.0,0.0,5,1,6,0,1,78.87,6.67,0.0,6.11
+1609822,Jonathan da Cruz Silva,jonathan da cruz silva,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,3,255,0,1,0.0,0.353,0.353,0,4,4,3,4,74.07,6.47,0.254,5.927
+1631235,Lucca Prior,lucca prior,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,12,254,1,0,0.354,0.0,0.354,8,6,9,0,4,77.88,6.7,0.255,6.137
+887310,Wesley,wesley,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,9,252,1,0,0.357,0.0,0.357,4,2,6,5,2,83.33,6.77,0.257,6.201
+1888591,Klebert,klebert,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,8,250,1,0,0.36,0.0,0.36,4,2,7,1,0,85.25,6.85,0.259,6.275
+1018095,Guilherme Pato,guilherme pato,22032,CRB,crb,2026,Serie_B,0.72,15,250,1,0,0.36,0.0,0.36,10,1,10,2,3,87.61,6.65,0.259,6.091
+2026824,Felipe Di Mauro,felipe di mauro,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,5,249,0,0,0.0,0.0,0.0,1,0,4,6,0,92.45,6.6,0.0,6.046
+901455,Bruno Xavier,bruno xavier,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,8,248,1,0,0.363,0.0,0.363,8,0,2,0,1,78.05,6.63,0.261,6.073
+1521960,Justen,justen,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,5,246,0,0,0.0,0.0,0.0,2,1,5,8,4,84.72,6.48,0.0,5.936
+1465498,Gabriel Knesowitsch,gabriel knesowitsch,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,4,243,0,0,0.0,0.0,0.0,2,1,6,4,8,80.37,6.95,0.0,6.366
+355836,Juan Zuluaga,juan zuluaga,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,6,235,0,0,0.0,0.0,0.0,4,0,6,5,4,91.55,6.65,0.0,6.091
+1105062,Weverton,weverton,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,3,233,0,0,0.0,0.0,0.0,2,1,4,4,8,82.81,6.87,0.0,6.293
+1401933,Geovane Santana Meurer,geovane santana meurer,2022,Londrina,londrina,2026,Serie_B,0.72,3,231,0,0,0.0,0.0,0.0,1,3,3,1,3,84.44,6.8,0.0,6.229
+1147005,Rodriguinho,rodriguinho,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,9,226,0,0,0.0,0.0,0.0,10,1,2,1,4,81.63,6.4,0.0,5.862
+345789,Matheus Salustiano,matheus salustiano,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,3,225,0,0,0.0,0.0,0.0,0,0,2,5,4,85.98,6.83,0.0,6.256
+937743,Dudu Teodora,dudu teodora,1959,Sport Recife,sport recife,2026,Serie_B,0.72,9,224,0,0,0.0,0.0,0.0,3,6,7,0,1,84.91,6.53,0.0,5.981
+1199411,Darlan,darlan,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,4,222,0,0,0.0,0.0,0.0,0,0,2,6,3,79.13,6.57,0.0,6.018
+2124981,Marcelo Enrique Macola Filho,marcelo enrique macola filho,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,9,221,0,0,0.0,0.0,0.0,6,2,3,1,7,76.74,6.51,0.0,5.963
+1645838,Guilherme Mariano,guilherme mariano,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,4,219,0,0,0.0,0.0,0.0,0,0,4,6,2,79.84,6.53,0.0,5.981
+924872,Rodrigo Piñeiro,rodrigo pineiro,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,7,211,1,0,0.427,0.0,0.427,5,4,2,0,1,92.71,6.79,0.307,6.22
+931479,Fernando Sobral,fernando sobral,1959,Sport Recife,sport recife,2026,Serie_B,0.72,5,210,0,0,0.0,0.0,0.0,2,0,11,1,2,90.08,7.0,0.0,6.412
+959005,Rafael Bilú,rafael bilu,7315,Avaí,avai,2026,Serie_B,0.72,5,209,1,0,0.431,0.0,0.431,5,4,0,1,3,74.6,6.62,0.31,6.064
+882076,Felipe Saraiva,felipe saraiva,2011,Náutico,nautico,2026,Serie_B,0.72,8,205,0,0,0.0,0.0,0.0,4,5,1,1,1,78.46,6.66,0.0,6.101
+1802523,Enzo,enzo,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,7,205,0,1,0.0,0.439,0.439,4,1,4,2,0,88.13,6.61,0.316,6.055
+1486805,Oluwasegun Samuel Otusanya,oluwasegun samuel otusanya,342775,Athletic Club,athletic club,2026,Serie_B,0.72,6,205,0,0,0.0,0.0,0.0,2,0,0,0,9,72.22,6.54,0.0,5.991
+1047095,Rildo,rildo,7315,Avaí,avai,2026,Serie_B,0.72,5,204,0,0,0.0,0.0,0.0,2,5,6,0,0,83.33,6.74,0.0,6.174
+241482,Auremir,auremir,2011,Náutico,nautico,2026,Serie_B,0.72,8,204,0,0,0.0,0.0,0.0,0,0,6,1,7,74.63,6.66,0.0,6.101
+2032550,Rian Santana,rian santana,2001,Ceará,ceara,2026,Serie_B,0.72,7,203,1,0,0.443,0.0,0.443,8,4,9,2,3,82.22,6.83,0.319,6.256
+2282980,Gabriel Indio,gabriel indio,342775,Athletic Club,athletic club,2026,Serie_B,0.72,4,203,0,0,0.0,0.0,0.0,0,0,1,0,6,80.0,6.65,0.0,6.091
+1112862,Rodrigo Saravia,rodrigo saravia,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,3,202,0,0,0.0,0.0,0.0,0,0,3,2,4,85.29,6.57,0.0,6.018
+2034257,Gustavo Puskas,gustavo puskas,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,9,196,1,0,0.459,0.0,0.459,3,1,2,1,3,75.86,6.44,0.33,5.899
+840066,Bruno Sávio,bruno savio,1960,Goiás,goias,2026,Serie_B,0.72,8,191,1,0,0.471,0.0,0.471,6,1,3,1,5,74.19,6.64,0.339,6.082
+1466533,Ronald Barcellos,ronald barcellos,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,9,187,1,1,0.481,0.481,0.962,10,1,3,0,3,76.19,6.77,0.693,6.201
+1171645,Brayann,brayann,1960,Goiás,goias,2026,Serie_B,0.72,7,184,0,0,0.0,0.0,0.0,5,8,9,0,0,83.33,6.61,0.0,6.055
+1836052,Vitinho,vitinho,2011,Náutico,nautico,2026,Serie_B,0.72,5,183,0,0,0.0,0.0,0.0,4,0,4,2,1,78.57,6.68,0.0,6.119
+1110033,João Neto,joao neto,22032,CRB,crb,2026,Serie_B,0.72,7,183,1,0,0.492,0.0,0.492,11,2,4,0,7,87.04,6.61,0.354,6.055
+2030554,Isaías Pereira,isaias pereira,7315,Avaí,avai,2026,Serie_B,0.72,10,183,0,0,0.0,0.0,0.0,8,2,1,0,3,58.33,6.43,0.0,5.89
+867599,Raí Nascimento,rai nascimento,2022,Londrina,londrina,2026,Serie_B,0.72,6,182,0,0,0.0,0.0,0.0,10,1,2,1,1,73.17,6.62,0.0,6.064
+589614,Gastón Guruceaga,gaston guruceaga,2011,Náutico,nautico,2026,Serie_B,0.72,2,180,0,0,0.0,0.0,0.0,0,0,0,0,0,72.73,7.6,0.0,6.962
+215956,Bastos,bastos,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,2,180,0,0,0.0,0.0,0.0,0,0,5,3,1,90.63,7.25,0.0,6.641
+1485595,Willian Chumbinho,willian chumbinho,2022,Londrina,londrina,2026,Serie_B,0.72,5,180,0,0,0.0,0.0,0.0,2,2,1,1,1,83.05,6.68,0.0,6.119
+1588756,Gustavo Daniel,gustavo daniel,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,5,180,0,0,0.0,0.0,0.0,1,6,9,5,7,82.93,6.65,0.0,6.091
+840166,Alisson,alisson,1984,Criciúma,criciuma,2026,Serie_B,0.72,2,180,0,0,0.0,0.0,0.0,0,0,0,0,0,68.57,6.6,0.0,6.046
+1462654,João Carlos,joao carlos,1984,Criciúma,criciuma,2026,Serie_B,0.72,10,180,0,0,0.0,0.0,0.0,7,5,3,3,6,73.53,6.59,0.0,6.036
+1631686,Léo Jance,leo jance,2011,Náutico,nautico,2026,Serie_B,0.72,5,180,0,0,0.0,0.0,0.0,1,3,2,2,1,83.54,6.54,0.0,5.991
+2440893,João Damião,joao damiao,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,7,180,0,0,0.0,0.0,0.0,3,0,1,0,1,57.89,6.4,0.0,5.862
+866847,Chico da Costa,chico da costa,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,3,180,0,0,0.0,0.0,0.0,5,0,0,0,0,56.25,6.2,0.0,5.679
+1019256,Hélio Borges,helio borges,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,8,178,0,0,0.0,0.0,0.0,2,2,5,4,7,79.17,6.57,0.0,6.018
+806101,Karl Junior,karl junior,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,3,178,0,0,0.0,0.0,0.0,0,1,2,1,2,70.91,6.47,0.0,5.927
+1174880,Juan Cantillo,juan cantillo,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,5,174,0,1,0.0,0.517,0.517,6,1,2,2,1,63.16,6.58,0.372,6.027
+904837,Mateus Criciuma,mateus criciuma,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,6,167,0,0,0.0,0.0,0.0,8,1,3,0,0,70.83,6.67,0.0,6.11
+1634144,Guilherme Estrella,guilherme estrella,22032,CRB,crb,2026,Serie_B,0.72,6,165,0,1,0.0,0.545,0.545,4,3,4,0,2,78.21,6.52,0.392,5.972
+1047852,Gustavinho,gustavinho,342775,Athletic Club,athletic club,2026,Serie_B,0.72,5,162,0,0,0.0,0.0,0.0,5,1,2,1,0,89.23,6.64,0.0,6.082
+1545706,Brenno Pereira Silva,brenno pereira silva,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,3,160,0,0,0.0,0.0,0.0,2,1,4,1,0,67.44,6.6,0.0,6.046
+842076,Zé Roberto,ze roberto,1959,Sport Recife,sport recife,2026,Serie_B,0.72,7,159,0,0,0.0,0.0,0.0,6,1,0,0,4,73.68,6.4,0.0,5.862
+1104316,Lenny Lobato,lenny lobato,2001,Ceará,ceara,2026,Serie_B,0.72,5,158,1,0,0.57,0.0,0.57,4,1,2,2,2,87.3,6.98,0.41,6.394
+1114219,Patricio Núñez,patricio nunez,2011,Náutico,nautico,2026,Serie_B,0.72,6,158,0,0,0.0,0.0,0.0,6,1,6,1,0,84.78,6.55,0.0,6.0
+931595,Pablo,pablo,1980,Juventude,juventude,2026,Serie_B,0.72,5,154,1,0,0.584,0.0,0.584,4,3,2,0,0,80.85,6.78,0.42,6.21
+1117065,Kervin Andrade,kervin andrade,1959,Sport Recife,sport recife,2026,Serie_B,0.72,5,153,0,0,0.0,0.0,0.0,4,1,5,2,0,80.56,6.42,0.0,5.881
+958169,Ramon,ramon,2011,Náutico,nautico,2026,Serie_B,0.72,6,152,0,0,0.0,0.0,0.0,3,1,0,2,3,85.71,6.65,0.0,6.091
+1047223,Diego Mathias,diego mathias,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,4,149,0,1,0.0,0.604,0.604,6,3,6,1,1,79.07,7.1,0.435,6.504
+1176784,Ramon,ramon,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,6,146,0,0,0.0,0.0,0.0,6,0,2,1,0,85.42,6.52,0.0,5.972
+1467756,Gaspar,gaspar,7315,Avaí,avai,2026,Serie_B,0.72,6,145,0,0,0.0,0.0,0.0,1,1,0,0,1,80.0,6.48,0.0,5.936
+2027332,Hebert Willian  Badaró Oliveira,hebert willian badaro oliveira,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,8,143,1,0,0.629,0.0,0.629,1,0,6,2,3,83.33,7.03,0.453,6.439
+1470521,André Cardoso,andre cardoso,2022,Londrina,londrina,2026,Serie_B,0.72,6,142,1,0,0.634,0.0,0.634,2,0,4,1,3,85.0,6.63,0.456,6.073
+2488155,Jhonatan Lima,jhonatan lima,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,5,139,0,0,0.0,0.0,0.0,3,2,4,1,3,75.51,6.68,0.0,6.119
+1493337,Nicolas Silva,nicolas silva,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,6,138,0,0,0.0,0.0,0.0,2,1,6,3,2,80.0,6.5,0.0,5.954
+977806,Matheus Nogueira,matheus nogueira,2001,Ceará,ceara,2026,Serie_B,0.72,2,135,0,0,0.0,0.0,0.0,0,0,0,1,2,60.53,7.05,0.0,6.458
+611896,Júnior Oliveira,junior oliveira,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,2,135,0,0,0.0,0.0,0.0,0,0,0,0,0,72.73,6.7,0.0,6.137
+1656040,Hyan,hyan,7315,Avaí,avai,2026,Serie_B,0.72,7,134,1,0,0.672,0.0,0.672,2,0,7,2,3,88.64,6.76,0.484,6.192
+323557,Yamil Asad,yamil asad,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,4,130,0,0,0.0,0.0,0.0,3,1,2,0,3,71.43,6.5,0.0,5.954
+1485220,Gustavo Prado,gustavo prado,2001,Ceará,ceara,2026,Serie_B,0.72,3,125,0,0,0.0,0.0,0.0,1,2,3,0,0,76.0,6.5,0.0,5.954
+125034,Leo Campos,leo campos,22032,CRB,crb,2026,Serie_B,0.72,5,123,0,1,0.0,0.732,0.732,5,0,1,2,6,81.58,6.88,0.527,6.302
+1462713,Guilherme Cachoeira,guilherme cachoeira,2022,Londrina,londrina,2026,Serie_B,0.72,5,119,0,1,0.0,0.756,0.756,2,1,3,2,0,75.0,6.85,0.544,6.275
+232910,Marcos Júnior,marcos junior,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,6,118,0,0,0.0,0.0,0.0,5,0,1,0,3,90.91,6.57,0.0,6.018
+2644232,Ryan Andrade,ryan andrade,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,3,116,0,0,0.0,0.0,0.0,2,1,4,2,2,62.07,6.47,0.0,5.927
+1107010,Lucas Alves,lucas alves,1980,Juventude,juventude,2026,Serie_B,0.72,7,109,1,0,0.826,0.0,0.826,5,3,2,1,1,72.55,6.7,0.595,6.137
+852518,Léo Jabá,leo jaba,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,6,108,0,0,0.0,0.0,0.0,4,0,3,0,2,80.65,6.55,0.0,6.0
+870638,Dalberson,dalberson,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,2,107,0,0,0.0,0.0,0.0,0,0,0,0,0,40.0,7.0,0.0,6.412
+1802226,Eduardo Franzon Mosconi,eduardo franzon mosconi,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,3,104,0,1,0.0,0.865,0.865,4,0,3,2,2,83.33,6.67,0.623,6.11
+1871902,Felipe Guimarães,felipe guimaraes,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,7,103,0,0,0.0,0.0,0.0,0,0,1,0,1,81.48,6.71,0.0,6.146
+2030576,Juninho,juninho,2022,Londrina,londrina,2026,Serie_B,0.72,5,101,0,0,0.0,0.0,0.0,0,0,0,1,0,78.57,6.48,0.0,5.936
+1199393,Caio Rafael,caio rafael,2022,Londrina,londrina,2026,Serie_B,0.72,5,100,0,0,0.0,0.0,0.0,1,1,2,0,2,67.86,6.64,0.0,6.082
+2577200,Italo Gabriel,italo gabriel,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,7,100,0,0,0.0,0.0,0.0,1,2,4,3,2,72.5,6.55,0.0,6.0
+2196421,Luiz Fernando,luiz fernando,342775,Athletic Club,athletic club,2026,Serie_B,0.72,4,95,0,0,0.0,0.0,0.0,3,0,0,0,1,100.0,6.4,0.0,5.862
+1109577,Thalisson Gabriel,thalisson gabriel,2001,Ceará,ceara,2026,Serie_B,0.72,2,94,0,0,0.0,0.0,0.0,2,0,1,2,5,91.38,6.65,0.0,6.091
+1184843,Ariel Gomes,ariel gomes,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,5,91,0,0,0.0,0.0,0.0,0,0,2,2,2,73.33,6.53,0.0,5.981
+215954,Cristiano,cristiano,7315,Avaí,avai,2026,Serie_B,0.72,3,91,0,0,0.0,0.0,0.0,2,0,0,1,1,68.0,6.4,0.0,5.862
+839760,Glauco Tadeu,glauco tadeu,342775,Athletic Club,athletic club,2026,Serie_B,0.72,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,65.0,6.9,0.0,6.32
+1631403,Yuri Alves de Aquino,yuri alves de aquino,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,1,90,0,0,0.0,0.0,0.0,1,0,2,3,1,75.0,6.9,0.0,6.32
+345119,Paulo,paulo,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,84.21,6.7,0.0,6.137
+2012993,Ruan Vitor,ruan vitor,1984,Criciúma,criciuma,2026,Serie_B,0.72,1,90,0,0,0.0,0.0,0.0,2,0,1,0,6,72.22,6.3,0.0,5.771
+124996,Vladimir,vladimir,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,33.33,5.6,0.0,5.13
+2454253,Gabriel Amaral,gabriel amaral,2001,Ceará,ceara,2026,Serie_B,0.72,2,88,0,0,0.0,0.0,0.0,0,0,0,0,0,76.92,6.35,0.0,5.817
+2025593,Pedro Esli da Silva,pedro esli da silva,2001,Ceará,ceara,2026,Serie_B,0.72,4,85,0,0,0.0,0.0,0.0,1,0,4,2,4,39.13,6.6,0.0,6.046
+1412631,Juan Christian,juan christian,1980,Juventude,juventude,2026,Serie_B,0.72,5,84,0,0,0.0,0.0,0.0,4,3,1,1,0,80.85,6.54,0.0,5.991
+1911817,José Wilson Neto,jose wilson neto,2001,Ceará,ceara,2026,Serie_B,0.72,3,84,0,0,0.0,0.0,0.0,0,1,1,1,1,70.37,6.5,0.0,5.954
+1807776,Yarlen,yarlen,342775,Athletic Club,athletic club,2026,Serie_B,0.72,5,81,0,0,0.0,0.0,0.0,4,2,5,1,1,68.18,6.58,0.0,6.027
+794861,Jailson,jailson,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,1,80,0,0,0.0,0.0,0.0,0,1,1,0,1,86.67,6.9,0.0,6.32
+1401921,Murilo Sousa,murilo sousa,2022,Londrina,londrina,2026,Serie_B,0.72,3,79,0,0,0.0,0.0,0.0,2,0,1,1,2,79.59,6.53,0.0,5.981
+1640626,Márcio Carlos Maranhão,marcio carlos maranhao,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,5,76,0,0,0.0,0.0,0.0,3,1,0,0,1,75.0,6.48,0.0,5.936
+1589365,Pedro Gilmar,pedro gilmar,2001,Ceará,ceara,2026,Serie_B,0.72,1,76,0,0,0.0,0.0,0.0,0,0,0,1,0,63.64,6.3,0.0,5.771
+924424,Ygor Catatau,ygor catatau,22032,CRB,crb,2026,Serie_B,0.72,7,74,0,0,0.0,0.0,0.0,5,2,1,1,3,72.22,6.45,0.0,5.908
+1819690,Fabiano,fabiano,2022,Londrina,londrina,2026,Serie_B,0.72,5,72,0,0,0.0,0.0,0.0,1,1,4,1,2,82.81,6.52,0.0,5.972
+1631272,Kayke,kayke,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,3,72,0,1,0.0,0.0,0.0,2,0,0,0,2,60.0,6.37,0.0,5.835
+1887834,Danilo Cunha,danilo cunha,1960,Goiás,goias,2026,Serie_B,0.72,4,71,0,0,0.0,0.0,0.0,2,3,6,2,0,73.08,6.75,0.0,6.183
+1116660,Estêvão,estevao,22032,CRB,crb,2026,Serie_B,0.72,5,71,0,0,0.0,0.0,0.0,6,2,1,2,0,83.33,6.64,0.0,6.082
+1652635,Felipe Cardoso,felipe cardoso,2011,Náutico,nautico,2026,Serie_B,0.72,4,71,0,0,0.0,0.0,0.0,2,0,1,0,1,83.87,6.6,0.0,6.046
+1198224,Gabriel Índio,gabriel indio,2011,Náutico,nautico,2026,Serie_B,0.72,1,69,0,0,0.0,0.0,0.0,0,0,0,2,5,89.74,6.5,0.0,5.954
+1520882,Victor Hugo,victor hugo,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,4,67,0,0,0.0,0.0,0.0,3,3,0,0,1,75.0,6.58,0.0,6.027
+1105092,Heitor,heitor,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,3,67,0,0,0.0,0.0,0.0,2,0,1,1,0,78.26,6.47,0.0,5.927
+1485601,Iba Ly,iba ly,1980,Juventude,juventude,2026,Serie_B,0.72,6,65,0,0,0.0,0.0,0.0,1,2,4,4,0,84.21,6.62,0.0,6.064
+1485388,Halerrandrio dos Santos Feitosa,halerrandrio dos santos feitosa,1960,Goiás,goias,2026,Serie_B,0.72,4,65,0,0,0.0,0.0,0.0,2,0,3,2,0,76.19,6.53,0.0,5.981
+905454,Lincoln,lincoln,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,3,64,0,0,0.0,0.0,0.0,1,0,1,0,2,50.0,6.5,0.0,5.954
+789931,Kevin Ramírez,kevin ramirez,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,1,60,0,0,0.0,0.0,0.0,1,0,0,0,1,66.67,6.1,0.0,5.588
+1834751,Juan Sousa Rocha Leandro,juan sousa rocha leandro,7315,Avaí,avai,2026,Serie_B,0.72,2,59,0,1,0.0,0.0,0.0,0,0,1,0,3,100.0,6.75,0.0,6.183
+866574,Marlon,marlon,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,6,58,0,0,0.0,0.0,0.0,1,0,2,1,0,68.75,6.5,0.0,5.954
+588996,Philipe Sampaio,philipe sampaio,342775,Athletic Club,athletic club,2026,Serie_B,0.72,2,57,0,0,0.0,0.0,0.0,0,0,2,1,3,79.17,6.75,0.0,6.183
+1005176,Jhilmar Lora,jhilmar lora,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,2,53,0,0,0.0,0.0,0.0,0,0,3,0,1,75.0,6.6,0.0,6.046
+1474281,Juninho,juninho,2022,Londrina,londrina,2026,Serie_B,0.72,2,52,0,0,0.0,0.0,0.0,0,1,2,0,0,78.95,6.65,0.0,6.091
+1657072,Kauã Ziegler,kaua ziegler,2001,Ceará,ceara,2026,Serie_B,0.72,3,51,0,0,0.0,0.0,0.0,2,0,1,0,2,55.56,6.67,0.0,6.11
+2172213,Kaique Zizero Moreira Dorna,kaique zizero moreira dorna,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,2,51,0,0,0.0,0.0,0.0,0,1,3,0,0,81.82,6.4,0.0,5.862
+1217828,Pedrão,pedrao,7315,Avaí,avai,2026,Serie_B,0.72,2,47,0,0,0.0,0.0,0.0,2,0,0,0,1,85.71,6.8,0.0,6.229
+243251,Júnior Urso,junior urso,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,2,47,0,0,0.0,0.0,0.0,1,0,0,0,0,79.17,6.6,0.0,6.046
+842682,Matheus Rossetto,matheus rossetto,2020,Fortaleza,fortaleza,2026,Serie_B,0.72,1,45,0,1,0.0,0.0,0.0,0,0,0,1,0,94.44,6.6,0.0,6.046
+2664794,Kauã Gabriel,kaua gabriel,7315,Avaí,avai,2026,Serie_B,0.72,2,45,0,0,0.0,0.0,0.0,1,1,1,0,0,90.48,6.55,0.0,6.0
+2055851,Murilo Camara,murilo camara,1960,Goiás,goias,2026,Serie_B,0.72,1,45,0,0,0.0,0.0,0.0,0,0,0,1,0,80.0,6.1,0.0,5.588
+1882211,Jamerson dos Santos Nascimento,jamerson dos santos nascimento,7315,Avaí,avai,2026,Serie_B,0.72,4,44,0,0,0.0,0.0,0.0,0,0,0,1,1,88.24,6.6,0.0,6.046
+874398,Rodrigo Andrade,rodrigo andrade,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,1,42,0,0,0.0,0.0,0.0,1,0,2,0,0,95.0,6.5,0.0,5.954
+342145,Bruno Lopes,bruno lopes,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,2,41,0,0,0.0,0.0,0.0,0,0,1,0,0,66.67,6.55,0.0,6.0
+2026087,Gabriel Dias Pae,gabriel dias pae,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,3,41,0,0,0.0,0.0,0.0,0,0,1,0,0,71.43,6.33,0.0,5.798
+1471217,Caio Maia,caio maia,2022,Londrina,londrina,2026,Serie_B,0.72,3,39,0,0,0.0,0.0,0.0,0,2,1,2,0,66.67,6.57,0.0,6.018
+1907736,Breno Melo,breno melo,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,2,39,0,0,0.0,0.0,0.0,0,0,0,0,0,91.3,6.55,0.0,6.0
+817554,Luiz Paulo,luiz paulo,2011,Náutico,nautico,2026,Serie_B,0.72,2,38,0,0,0.0,0.0,0.0,3,0,1,0,2,95.24,6.4,0.0,5.862
+1634576,Thevyn dos Anjos Souza,thevyn dos anjos souza,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,2,36,0,0,0.0,0.0,0.0,0,1,0,1,0,66.67,6.5,0.0,5.954
+1113560,Danielzinho,danielzinho,2011,Náutico,nautico,2026,Serie_B,0.72,2,34,1,0,0.0,0.0,0.0,2,1,1,0,0,87.5,6.85,0.0,6.275
+2057354,Marcio Vitor Barbosa da Silva,marcio vitor barbosa da silva,7315,Avaí,avai,2026,Serie_B,0.72,2,33,0,0,0.0,0.0,0.0,0,0,0,0,0,66.67,6.3,0.0,5.771
+1170769,Léo Mana,leo mana,1984,Criciúma,criciuma,2026,Serie_B,0.72,2,32,0,0,0.0,0.0,0.0,0,0,0,1,1,76.0,6.75,0.0,6.183
+1128847,Jader Gentil,jader gentil,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,2,32,0,0,0.0,0.0,0.0,2,0,0,0,0,100.0,6.6,0.0,6.046
+2543317,Carlinhos,carlinhos,1980,Juventude,juventude,2026,Serie_B,0.72,3,32,0,0,0.0,0.0,0.0,1,0,1,0,0,50.0,6.5,0.0,5.954
+1444697,Ray Breno,ray breno,1980,Juventude,juventude,2026,Serie_B,0.72,3,31,0,0,0.0,0.0,0.0,1,0,1,0,0,87.5,6.67,0.0,6.11
+1654423,Thalles,thalles,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,1,31,0,0,0.0,0.0,0.0,0,1,0,0,0,100.0,6.6,0.0,6.046
+2664798,Vinicius Miguel,vinicius miguel,7315,Avaí,avai,2026,Serie_B,0.72,2,30,0,0,0.0,0.0,0.0,0,0,0,1,0,66.67,6.65,0.0,6.091
+1189439,David Braw,david braw,22032,CRB,crb,2026,Serie_B,0.72,1,30,0,0,0.0,0.0,0.0,2,0,1,0,0,92.31,6.6,0.0,6.046
+1589397,Cauã Felipi Silva Coelho,caua felipi silva coelho,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,1,26,0,0,0.0,0.0,0.0,0,0,4,0,0,66.67,7.0,0.0,6.412
+2025875,Filipe Rios,filipe rios,7315,Avaí,avai,2026,Serie_B,0.72,1,25,0,0,0.0,0.0,0.0,0,0,1,0,0,75.0,6.6,0.0,6.046
+2537131,Aloísio Barbosa de Abreu Neto,aloisio barbosa de abreu neto,2001,Ceará,ceara,2026,Serie_B,0.72,2,23,0,0,0.0,0.0,0.0,1,1,0,1,0,70.0,6.9,0.0,6.32
+2033880,Patrick,patrick,1959,Sport Recife,sport recife,2026,Serie_B,0.72,1,23,0,0,0.0,0.0,0.0,0,0,1,0,0,75.0,6.6,0.0,6.046
+586662,David Terans,david terans,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,1,23,0,0,0.0,0.0,0.0,2,0,0,0,0,100.0,6.4,0.0,5.862
+2454219,Arthur Maron,arthur maron,1959,Sport Recife,sport recife,2026,Serie_B,0.72,2,23,0,0,0.0,0.0,0.0,0,0,0,0,0,50.0,6.3,0.0,5.771
+2442339,Caio Vinicius Nogueira do Nascimento,caio vinicius nogueira do nascimento,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,1,22,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.9,0.0,6.32
+2034528,Halan,halan,2011,Náutico,nautico,2026,Serie_B,0.72,1,22,0,0,0.0,0.0,0.0,1,0,2,0,0,88.89,6.8,0.0,6.229
+852413,Victor Feitosa,victor feitosa,2022,Londrina,londrina,2026,Serie_B,0.72,1,22,0,0,0.0,0.0,0.0,2,0,1,0,1,94.74,6.7,0.0,6.137
+2543464,Gui Mansano,gui mansano,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,1,22,0,0,0.0,0.0,0.0,1,0,0,0,0,100.0,6.5,0.0,5.954
+1462231,Jadson Alves,jadson alves,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,2,22,0,0,0.0,0.0,0.0,0,0,0,0,0,90.0,6.4,0.0,5.862
+1395018,Gabriel Domingos,gabriel domingos,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,2,21,0,0,0.0,0.0,0.0,0,0,1,0,1,66.67,6.65,0.0,6.091
+1922957,Leonardo Erig Daitx,leonardo erig daitx,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,1,21,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,6.6,0.0,6.046
+2439260,Marcos Gleidson dos Santos Rosa,marcos gleidson dos santos rosa,2011,Náutico,nautico,2026,Serie_B,0.72,2,21,0,0,0.0,0.0,0.0,0,1,0,0,0,100.0,6.4,0.0,5.862
+2664791,João Vittor,joao vittor,7315,Avaí,avai,2026,Serie_B,0.72,1,20,0,0,0.0,0.0,0.0,1,0,2,0,0,100.0,7.1,0.0,6.504
+2718855,Gabriel Mineiro,gabriel mineiro,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,1,20,0,0,0.0,0.0,0.0,0,0,0,0,0,83.33,6.4,0.0,5.862
+2453671,Caio,caio,2011,Náutico,nautico,2026,Serie_B,0.72,1,19,0,0,0.0,0.0,0.0,0,0,2,0,0,87.5,6.7,0.0,6.137
+1631401,João Gabriel Rodrigues Botão,joao gabriel rodrigues botao,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,1,19,0,0,0.0,0.0,0.0,0,0,1,0,0,80.0,6.5,0.0,5.954
+1589309,Guilherme Henrique,guilherme henrique,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,1,18,0,0,0.0,0.0,0.0,0,0,0,0,0,83.33,6.4,0.0,5.862
+1919858,Micael de Barros Viturino,micael de barros viturino,1959,Sport Recife,sport recife,2026,Serie_B,0.72,1,18,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,6.4,0.0,5.862
+1873287,Dedé,dede,1959,Sport Recife,sport recife,2026,Serie_B,0.72,1,18,0,0,0.0,0.0,0.0,2,0,0,0,1,66.67,6.3,0.0,5.771
+1005743,Wellington Manzoli,wellington manzoli,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,1,17,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.8,0.0,6.229
+1632178,Erik Rebello de Castro,erik rebello de castro,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,1,17,0,0,0.0,0.0,0.0,0,0,0,0,2,100.0,6.7,0.0,6.137
+2076555,Aiyran,aiyran,49202,Cuiabá,cuiaba,2026,Serie_B,0.72,1,16,1,0,0.0,0.0,0.0,2,0,1,0,0,0.0,7.2,0.0,6.595
+1507546,Ruan Ribeiro,ruan ribeiro,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,1,16,0,0,0.0,0.0,0.0,0,0,1,0,0,0.0,6.6,0.0,6.046
+1631875,Jardiel,jardiel,135514,Grêmio Novorizontino,gremio novorizontino,2026,Serie_B,0.72,1,16,0,0,0.0,0.0,0.0,2,0,0,0,0,33.33,6.6,0.0,6.046
+2067817,Rodrigo Esmeraldo Caixeta Junior,rodrigo esmeraldo caixeta junior,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,1,15,0,0,0.0,0.0,0.0,0,0,0,0,0,84.21,6.7,0.0,6.137
+2025473,Janderson Gabriel,janderson gabriel,2001,Ceará,ceara,2026,Serie_B,0.72,1,15,0,0,0.0,0.0,0.0,0,0,0,0,0,50.0,6.6,0.0,6.046
+1147010,Marquinho,marquinho,1979,Botafogo-SP,botafogo-sp,2026,Serie_B,0.72,2,14,0,0,0.0,0.0,0.0,0,0,0,0,0,77.78,6.9,0.0,6.32
+937938,Charles,charles,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,1,14,0,0,0.0,0.0,0.0,0,0,0,1,1,0.0,6.8,0.0,6.229
+2558895,Guilherme Kauan,guilherme kauan,22032,CRB,crb,2026,Serie_B,0.72,1,14,0,0,0.0,0.0,0.0,2,0,0,0,0,50.0,6.3,0.0,5.771
+1587853,Fellipinho,fellipinho,2022,Londrina,londrina,2026,Serie_B,0.72,1,13,0,0,0.0,0.0,0.0,0,0,2,1,0,100.0,6.5,0.0,5.954
+1491420,André Simplicio,andre simplicio,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,1,13,0,0,0.0,0.0,0.0,1,0,0,0,0,0.0,6.4,0.0,5.862
+1216302,Caique Jesus,caique jesus,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,1,12,0,0,0.0,0.0,0.0,0,0,0,0,1,0.0,6.5,0.0,5.954
+2440890,Gabriel Cicala,gabriel cicala,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,1,11,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,6.7,0.0,6.137
+1105838,Max,max,1959,Sport Recife,sport recife,2026,Serie_B,0.72,2,11,0,0,0.0,0.0,0.0,0,0,0,0,0,90.0,6.7,0.0,6.137
+1818806,Gustavo Silva,gustavo silva,342775,Athletic Club,athletic club,2026,Serie_B,0.72,1,11,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.6,0.0,6.046
+2463033,Juan Rikelme,juan rikelme,2011,Náutico,nautico,2026,Serie_B,0.72,1,11,0,0,0.0,0.0,0.0,0,0,0,0,0,60.0,6.5,0.0,5.954
+2026288,Wendell Miranda Azevedo,wendell miranda azevedo,2011,Náutico,nautico,2026,Serie_B,0.72,1,10,0,1,0.0,0.0,0.0,1,0,0,0,0,50.0,6.5,0.0,5.954
+1176159,Vitinho,vitinho,7314,Atlético Goianiense,atletico goianiense,2026,Serie_B,0.72,1,10,0,0,0.0,0.0,0.0,0,0,1,0,1,33.33,6.4,0.0,5.862
+1634864,Murilo Rodrigues Povoa,murilo rodrigues povoa,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,1,10,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,6.3,0.0,5.771
+2579912,Assis,assis,1960,Goiás,goias,2026,Serie_B,0.72,1,9,0,0,0.0,0.0,0.0,1,0,1,0,0,100.0,6.6,0.0,6.046
+1883286,Caio Brazil,caio brazil,7315,Avaí,avai,2026,Serie_B,0.72,1,9,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.5,0.0,5.954
+2035989,Adriel,adriel,1959,Sport Recife,sport recife,2026,Serie_B,0.72,1,9,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.4,0.0,5.862
+2440220,Lipão,lipao,1959,Sport Recife,sport recife,2026,Serie_B,0.72,1,9,0,0,0.0,0.0,0.0,0,0,0,0,1,66.67,6.4,0.0,5.862
+2025544,Maycon,maycon,22032,CRB,crb,2026,Serie_B,0.72,1,9,0,0,0.0,0.0,0.0,0,0,0,1,0,50.0,6.3,0.0,5.771
+2028682,Bidu,bidu,1984,Criciúma,criciuma,2026,Serie_B,0.72,1,8,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,6.4,0.0,5.862
+1069410,Léo Gaúcho,leo gaucho,39634,Operário-PR,operario-pr,2026,Serie_B,0.72,1,8,0,0,0.0,0.0,0.0,0,0,0,0,0,50.0,6.2,0.0,5.679
+2405626,Gabriel Oliveira,gabriel oliveira,1973,América Mineiro,america mineiro,2026,Serie_B,0.72,1,8,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,6.1,0.0,5.588
+2128181,Samuel Lucas,samuel lucas,2021,Vila Nova FC,vila nova,2026,Serie_B,0.72,1,6,0,0,0.0,0.0,0.0,0,0,1,0,1,100.0,0.0,0.0,0.0
+1186956,Lucas Reis,lucas reis,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,1,2,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1808042,Alexandre Pena,alexandre pena,342775,Athletic Club,athletic club,2026,Serie_B,0.72,2,2,0,0,0.0,0.0,0.0,0,0,1,0,0,0.0,0.0,0.0,0.0
+2470408,Galdino,galdino,47504,São Bernardo,sao bernardo,2026,Serie_B,0.72,1,1,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,0.0,0.0,0.0
+1036307,Vitor Ribeiro,vitor ribeiro,1969,Ponte Preta,ponte preta,2026,Serie_B,0.72,1,1,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0

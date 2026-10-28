@@ -1,0 +1,65 @@
+﻿sofascore_team_id,clube_nome,clube_chave,ano,divisao,grupo,posicao,jogos,vitorias,empates,derrotas,gols_pro,gols_contra,saldo_gols,pontos,aproveitamento_pct
+333422,Tuna Luso,tuna luso,2025,Serie_D,"Brasileiro Serie D 2025, Group A1",1,14,8,3,3,24,10,14,27,64.29
+393104,Manauara EC,manauara,2025,Serie_D,"Brasileiro Serie D 2025, Group A1",2,14,7,5,2,27,11,16,26,61.9
+283918,Manaus,manaus,2025,Serie_D,"Brasileiro Serie D 2025, Group A1",3,14,6,5,3,21,17,4,23,54.76
+308986,Independência,independencia,2025,Serie_D,"Brasileiro Serie D 2025, Group A1",4,14,6,3,5,18,19,-1,21,50.0
+33998,Águia de Marabá FC,aguia de maraba,2025,Serie_D,"Brasileiro Serie D 2025, Group A1",5,14,5,5,4,22,14,8,20,47.62
+21865,Trem,trem,2025,Serie_D,"Brasileiro Serie D 2025, Group A1",6,14,5,3,6,23,24,-1,18,42.86
+342308,GAS,gas,2025,Serie_D,"Brasileiro Serie D 2025, Group A1",7,14,4,3,7,17,24,-7,15,35.71
+293460,Humaitá,humaita,2025,Serie_D,"Brasileiro Serie D 2025, Group A1",8,14,1,1,12,12,45,-33,4,9.52
+228199,AA Altos,aa altos,2025,Serie_D,"Brasileiro Serie D 2025, Group A2",1,14,7,5,2,22,14,8,26,61.9
+214031,Imperatriz,imperatriz,2025,Serie_D,"Brasileiro Serie D 2025, Group A2",2,14,7,3,4,17,15,2,24,57.14
+2005,Sampaio Corrêa,sampaio correa,2025,Serie_D,"Brasileiro Serie D 2025, Group A2",3,14,5,6,3,17,11,6,21,50.0
+21858,Maranhão AC,maranhao,2025,Serie_D,"Brasileiro Serie D 2025, Group A2",4,14,4,7,3,18,12,6,19,45.24
+274287,AD Iguatu,ad iguatu,2025,Serie_D,"Brasileiro Serie D 2025, Group A2",5,14,5,3,6,15,15,0,18,42.86
+215371,Tocantinópolis,tocantinopolis,2025,Serie_D,"Brasileiro Serie D 2025, Group A2",6,14,3,6,5,11,17,-6,15,35.71
+35282,Parnahyba SC,parnahyba,2025,Serie_D,"Brasileiro Serie D 2025, Group A2",7,14,3,5,6,16,22,-6,14,33.33
+87156,Maracanã,maracana,2025,Serie_D,"Brasileiro Serie D 2025, Group A2",8,14,3,3,8,12,22,-10,9,21.43
+2023,América-RN,america-rn,2025,Serie_D,"Brasileiro Serie D 2025, Group A3",1,14,8,3,3,21,9,12,27,64.29
+1976,Santa Cruz,santa cruz,2025,Serie_D,"Brasileiro Serie D 2025, Group A3",2,14,8,3,3,20,10,10,27,64.29
+21844,Central SC,central,2025,Serie_D,"Brasileiro Serie D 2025, Group A3",3,14,7,5,2,15,7,8,26,61.9
+32672,Ferroviário,ferroviario,2025,Serie_D,"Brasileiro Serie D 2025, Group A3",4,14,5,3,6,15,19,-4,18,42.86
+21968,Horizonte FC,horizonte,2025,Serie_D,"Brasileiro Serie D 2025, Group A3",5,14,5,2,7,14,17,-3,17,40.48
+65506,Santa Cruz-RN,santa cruz-rn,2025,Serie_D,"Brasileiro Serie D 2025, Group A3",6,14,5,2,7,13,20,-7,17,40.48
+2018,Treze,treze,2025,Serie_D,"Brasileiro Serie D 2025, Group A3",7,14,4,1,9,7,20,-13,13,30.95
+21864,Sousa EC,sousa,2025,Serie_D,"Brasileiro Serie D 2025, Group A3",8,14,3,3,8,11,14,-3,12,28.57
+2019,ASA,asa,2025,Serie_D,"Brasileiro Serie D 2025, Group A4",1,14,9,4,1,27,8,19,31,73.81
+144856,Lagarto FC,lagarto,2025,Serie_D,"Brasileiro Serie D 2025, Group A4",2,14,7,2,5,20,16,4,23,54.76
+2016,Sergipe,sergipe,2025,Serie_D,"Brasileiro Serie D 2025, Group A4",3,14,6,4,4,16,10,6,22,52.38
+61724,Juazeirense,juazeirense,2025,Serie_D,"Brasileiro Serie D 2025, Group A4",4,14,6,4,4,12,15,-3,22,52.38
+405017,União-TO,uniao-to,2025,Serie_D,"Brasileiro Serie D 2025, Group A4",5,14,5,4,5,14,16,-2,19,45.24
+274285,AD Jequié,ad jequie,2025,Serie_D,"Brasileiro Serie D 2025, Group A4",6,14,4,4,6,15,16,-1,16,38.1
+386170,Barcelona de Ilhéus,barcelona de ilheus,2025,Serie_D,"Brasileiro Serie D 2025, Group A4",7,14,2,5,7,9,20,-11,11,26.19
+477783,SC Penedense,sc penedense,2025,Serie_D,"Brasileiro Serie D 2025, Group A4",8,14,1,5,8,5,17,-12,8,19.05
+32794,AA Aparecidense,aa aparecidense,2025,Serie_D,"Brasileiro Serie D 2025, Group A5",1,14,10,2,2,32,12,20,32,76.19
+35279,Ceilândia,ceilandia,2025,Serie_D,"Brasileiro Serie D 2025, Group A5",2,14,8,4,2,23,14,9,28,66.67
+40161,Luverdense,luverdense,2025,Serie_D,"Brasileiro Serie D 2025, Group A5",3,14,7,4,3,14,12,2,25,59.52
+34005,Mixto,mixto,2025,Serie_D,"Brasileiro Serie D 2025, Group A5",4,14,6,6,2,22,13,9,24,57.14
+308213,Capital CF,capital cf,2025,Serie_D,"Brasileiro Serie D 2025, Group A5",5,14,4,5,5,14,12,2,17,40.48
+260064,Goiânia,goiania,2025,Serie_D,"Brasileiro Serie D 2025, Group A5",6,14,2,4,8,12,22,-10,10,23.81
+47499,Goianésia,goianesia,2025,Serie_D,"Brasileiro Serie D 2025, Group A5",7,14,1,5,8,11,22,-11,8,19.05
+339705,Gazin Porto Velho,gazin porto velho,2025,Serie_D,"Brasileiro Serie D 2025, Group A5",8,14,1,4,9,9,30,-21,7,16.67
+21896,Portuguesa,portuguesa,2025,Serie_D,"Brasileiro Serie D 2025, Group A6",1,14,9,3,2,22,13,9,30,71.43
+49199,Rio Branco-ES,rio branco-es,2025,Serie_D,"Brasileiro Serie D 2025, Group A6",2,14,8,2,4,19,9,10,26,61.9
+135510,Água Santa,agua santa,2025,Serie_D,"Brasileiro Serie D 2025, Group A6",3,14,6,3,5,20,18,2,21,50.0
+288535,Maricá FC,marica,2025,Serie_D,"Brasileiro Serie D 2025, Group A6",4,14,5,4,5,14,14,0,19,45.24
+458774,Porto Vitória,porto vitoria,2025,Serie_D,"Brasileiro Serie D 2025, Group A6",5,14,4,5,5,14,13,1,17,40.48
+343540,Pouso Alegre FC,pouso alegre,2025,Serie_D,"Brasileiro Serie D 2025, Group A6",6,14,5,2,7,13,18,-5,17,40.48
+6981,Nova Iguaçu,nova iguacu,2025,Serie_D,"Brasileiro Serie D 2025, Group A6",7,14,3,6,5,13,16,-3,15,35.71
+6977,Boavista,boavista,2025,Serie_D,"Brasileiro Serie D 2025, Group A6",8,14,2,3,9,9,23,-14,9,21.43
+135526,Inter de Limeira,inter de limeira,2025,Serie_D,"Brasileiro Serie D 2025, Group A7",1,14,9,3,2,21,7,14,30,71.43
+21892,Cianorte,cianorte,2025,Serie_D,"Brasileiro Serie D 2025, Group A7",2,14,6,4,4,22,17,5,22,52.38
+333545,Goiatuba EC,goiatuba,2025,Serie_D,"Brasileiro Serie D 2025, Group A7",3,14,6,4,4,21,16,5,22,52.38
+21891,Cascavel,cascavel,2025,Serie_D,"Brasileiro Serie D 2025, Group A7",4,14,5,6,3,15,15,0,21,50.0
+32873,Uberlândia EC,uberlandia,2025,Serie_D,"Brasileiro Serie D 2025, Group A7",5,14,4,4,6,21,20,1,16,38.1
+39617,Monte Azul,monte azul,2025,Serie_D,"Brasileiro Serie D 2025, Group A7",6,14,3,5,6,13,18,-5,14,33.33
+247089,Operário-MS,operario-ms,2025,Serie_D,"Brasileiro Serie D 2025, Group A7",7,14,3,5,6,13,22,-9,14,33.33
+454864,Itabirito FC,itabirito,2025,Serie_D,"Brasileiro Serie D 2025, Group A7",8,14,1,7,6,11,22,-11,10,23.81
+257673,Barra FC,barra,2025,Serie_D,"Brasileiro Serie D 2025, Group A8",1,14,8,2,4,20,10,10,26,61.9
+480379,EC São José,ec sao jose,2025,Serie_D,"Brasileiro Serie D 2025, Group A8",2,14,7,5,2,21,11,10,26,61.9
+1987,Joinville,joinville,2025,Serie_D,"Brasileiro Serie D 2025, Group A8",3,14,6,3,5,11,11,0,21,50.0
+21978,CN Marcílio Dias,cn marcilio dias,2025,Serie_D,"Brasileiro Serie D 2025, Group A8",4,14,5,6,3,17,15,2,21,50.0
+232080,Guarany de Bagé,guarany de bage,2025,Serie_D,"Brasileiro Serie D 2025, Group A8",5,14,5,4,5,11,14,-3,19,45.24
+1986,Grêmio Esportivo Brasil,gremio esportivo brasil,2025,Serie_D,"Brasileiro Serie D 2025, Group A8",6,14,5,1,8,11,12,-1,16,38.1
+32768,São Luiz,sao luiz,2025,Serie_D,"Brasileiro Serie D 2025, Group A8",7,14,4,1,9,10,20,-10,13,30.95
+375853,Azuriz,azuriz,2025,Serie_D,"Brasileiro Serie D 2025, Group A8",8,14,3,4,7,6,14,-8,13,30.95

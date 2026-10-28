@@ -1,0 +1,988 @@
+{
+  "cruzeiro": {
+    "sofascore_team_id": 1954,
+    "nome": "Cruzeiro",
+    "clube_chave": "cruzeiro",
+    "sigla": "CRU",
+    "cor_primaria": "#0033cc",
+    "cor_secundaria": "#0033cc",
+    "cor_texto": "#0033cc",
+    "tecnico_atual": "Artur Jorge",
+    "estadio": "Governador Magalhães Pinto",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\cruzeiro.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cruzeiro_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cruzeiro_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cruzeiro_3.png"
+    }
+  },
+  "1954": {
+    "sofascore_team_id": 1954,
+    "nome": "Cruzeiro",
+    "clube_chave": "cruzeiro",
+    "sigla": "CRU",
+    "cor_primaria": "#0033cc",
+    "cor_secundaria": "#0033cc",
+    "cor_texto": "#0033cc",
+    "tecnico_atual": "Artur Jorge",
+    "estadio": "Governador Magalhães Pinto",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\cruzeiro.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cruzeiro_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cruzeiro_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cruzeiro_3.png"
+    }
+  },
+  "bahia": {
+    "sofascore_team_id": 1955,
+    "nome": "Bahia",
+    "clube_chave": "bahia",
+    "sigla": "BAH",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#333399",
+    "cor_texto": "#333399",
+    "tecnico_atual": "Rogério Ceni",
+    "estadio": "Arena Fonte Nova",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\bahia.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\bahia_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\bahia_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\bahia_3.png"
+    }
+  },
+  "1955": {
+    "sofascore_team_id": 1955,
+    "nome": "Bahia",
+    "clube_chave": "bahia",
+    "sigla": "BAH",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#333399",
+    "cor_texto": "#333399",
+    "tecnico_atual": "Rogério Ceni",
+    "estadio": "Arena Fonte Nova",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\bahia.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\bahia_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\bahia_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\bahia_3.png"
+    }
+  },
+  "corinthians": {
+    "sofascore_team_id": 1957,
+    "nome": "Corinthians",
+    "clube_chave": "corinthians",
+    "sigla": "COR",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Clarence Seedorf",
+    "estadio": "Neo Química Arena",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\corinthians.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\corinthians_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\corinthians_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\corinthians_3.png"
+    }
+  },
+  "1957": {
+    "sofascore_team_id": 1957,
+    "nome": "Corinthians",
+    "clube_chave": "corinthians",
+    "sigla": "COR",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Clarence Seedorf",
+    "estadio": "Neo Química Arena",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\corinthians.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\corinthians_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\corinthians_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\corinthians_3.png"
+    }
+  },
+  "botafogo": {
+    "sofascore_team_id": 1958,
+    "nome": "Botafogo",
+    "clube_chave": "botafogo",
+    "sigla": "BOT",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Tite",
+    "estadio": "Estádio Nilton Santos",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\botafogo.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\botafogo_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\botafogo_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\botafogo_3.png"
+    }
+  },
+  "1958": {
+    "sofascore_team_id": 1958,
+    "nome": "Botafogo",
+    "clube_chave": "botafogo",
+    "sigla": "BOT",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Tite",
+    "estadio": "Estádio Nilton Santos",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\botafogo.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\botafogo_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\botafogo_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\botafogo_3.png"
+    }
+  },
+  "sport recife": {
+    "sofascore_team_id": 1959,
+    "nome": "Sport Recife",
+    "clube_chave": "sport recife",
+    "sigla": "SPO",
+    "cor_primaria": "#cc0000",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Mariano Soso",
+    "estadio": "Ilha do Retiro",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\sport recife.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sport recife_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sport recife_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sport recife_3.png"
+    }
+  },
+  "1959": {
+    "sofascore_team_id": 1959,
+    "nome": "Sport Recife",
+    "clube_chave": "sport recife",
+    "sigla": "SPO",
+    "cor_primaria": "#cc0000",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Mariano Soso",
+    "estadio": "Ilha do Retiro",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\sport recife.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sport recife_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sport recife_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sport recife_3.png"
+    }
+  },
+  "goias": {
+    "sofascore_team_id": 1960,
+    "nome": "Goiás",
+    "clube_chave": "goias",
+    "sigla": "GGO",
+    "cor_primaria": "#006633",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Mozart Santos",
+    "estadio": "Estádio da Serrinha",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\goias.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\goias_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\goias_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\goias_3.png"
+    }
+  },
+  "1960": {
+    "sofascore_team_id": 1960,
+    "nome": "Goiás",
+    "clube_chave": "goias",
+    "sigla": "GGO",
+    "cor_primaria": "#006633",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Mozart Santos",
+    "estadio": "Estádio da Serrinha",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\goias.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\goias_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\goias_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\goias_3.png"
+    }
+  },
+  "fluminense": {
+    "sofascore_team_id": 1961,
+    "nome": "Fluminense",
+    "clube_chave": "fluminense",
+    "sigla": "FLU",
+    "cor_primaria": "#660000",
+    "cor_secundaria": "#006633",
+    "cor_texto": "#006633",
+    "tecnico_atual": "Marcão",
+    "estadio": "Estádio do Maracanã",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\fluminense.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fluminense_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fluminense_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fluminense_3.png"
+    }
+  },
+  "1961": {
+    "sofascore_team_id": 1961,
+    "nome": "Fluminense",
+    "clube_chave": "fluminense",
+    "sigla": "FLU",
+    "cor_primaria": "#660000",
+    "cor_secundaria": "#006633",
+    "cor_texto": "#006633",
+    "tecnico_atual": "Marcão",
+    "estadio": "Estádio do Maracanã",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\fluminense.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fluminense_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fluminense_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fluminense_3.png"
+    }
+  },
+  "vitoria": {
+    "sofascore_team_id": 1962,
+    "nome": "Vitória",
+    "clube_chave": "vitoria",
+    "sigla": "VIT",
+    "cor_primaria": "#ff0000",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Jair Ventura",
+    "estadio": "Estádio Manoel Barradas",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\vitoria.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vitoria_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vitoria_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vitoria_3.png"
+    }
+  },
+  "1962": {
+    "sofascore_team_id": 1962,
+    "nome": "Vitória",
+    "clube_chave": "vitoria",
+    "sigla": "VIT",
+    "cor_primaria": "#ff0000",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Jair Ventura",
+    "estadio": "Estádio Manoel Barradas",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\vitoria.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vitoria_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vitoria_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vitoria_3.png"
+    }
+  },
+  "palmeiras": {
+    "sofascore_team_id": 1963,
+    "nome": "Palmeiras",
+    "clube_chave": "palmeiras",
+    "sigla": "PAL",
+    "cor_primaria": "#339966",
+    "cor_secundaria": "#336633",
+    "cor_texto": "#336633",
+    "tecnico_atual": "Abel Ferreira",
+    "estadio": "Nubank Parque",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\palmeiras.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\palmeiras_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\palmeiras_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\palmeiras_3.png"
+    }
+  },
+  "1963": {
+    "sofascore_team_id": 1963,
+    "nome": "Palmeiras",
+    "clube_chave": "palmeiras",
+    "sigla": "PAL",
+    "cor_primaria": "#339966",
+    "cor_secundaria": "#336633",
+    "cor_texto": "#336633",
+    "tecnico_atual": "Abel Ferreira",
+    "estadio": "Nubank Parque",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\palmeiras.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\palmeiras_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\palmeiras_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\palmeiras_3.png"
+    }
+  },
+  "internacional": {
+    "sofascore_team_id": 1966,
+    "nome": "Internacional",
+    "clube_chave": "internacional",
+    "sigla": "INT",
+    "cor_primaria": "#cc0000",
+    "cor_secundaria": "#cc0000",
+    "cor_texto": "#cc0000",
+    "tecnico_atual": "Eduardo Baptista",
+    "estadio": "Estádio Beira-Rio",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\internacional.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\internacional_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\internacional_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\internacional_3.png"
+    }
+  },
+  "1966": {
+    "sofascore_team_id": 1966,
+    "nome": "Internacional",
+    "clube_chave": "internacional",
+    "sigla": "INT",
+    "cor_primaria": "#cc0000",
+    "cor_secundaria": "#cc0000",
+    "cor_texto": "#cc0000",
+    "tecnico_atual": "Eduardo Baptista",
+    "estadio": "Estádio Beira-Rio",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\internacional.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\internacional_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\internacional_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\internacional_3.png"
+    }
+  },
+  "athletico": {
+    "sofascore_team_id": 1967,
+    "nome": "Athletico",
+    "clube_chave": "athletico",
+    "sigla": "CAP",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#cc0000",
+    "cor_texto": "#cc0000",
+    "tecnico_atual": "Odair Hellmann",
+    "estadio": "Arena da Baixada",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\athletico.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\athletico_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\athletico_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\athletico_3.png"
+    }
+  },
+  "1967": {
+    "sofascore_team_id": 1967,
+    "nome": "Athletico",
+    "clube_chave": "athletico",
+    "sigla": "CAP",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#cc0000",
+    "cor_texto": "#cc0000",
+    "tecnico_atual": "Odair Hellmann",
+    "estadio": "Arena da Baixada",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\athletico.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\athletico_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\athletico_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\athletico_3.png"
+    }
+  },
+  "santos": {
+    "sofascore_team_id": 1968,
+    "nome": "Santos",
+    "clube_chave": "santos",
+    "sigla": "SAN",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Cuca",
+    "estadio": "Estádio Urbano Caldeira",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\santos.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\santos_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\santos_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\santos_3.png"
+    }
+  },
+  "1968": {
+    "sofascore_team_id": 1968,
+    "nome": "Santos",
+    "clube_chave": "santos",
+    "sigla": "SAN",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Cuca",
+    "estadio": "Estádio Urbano Caldeira",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\santos.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\santos_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\santos_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\santos_3.png"
+    }
+  },
+  "america mineiro": {
+    "sofascore_team_id": 1973,
+    "nome": "América Mineiro",
+    "clube_chave": "america mineiro",
+    "sigla": "AMG",
+    "cor_primaria": "#056635",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Moacir Júnior",
+    "estadio": "Arena Independência",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\america mineiro.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\america mineiro_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\america mineiro_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\america mineiro_3.png"
+    }
+  },
+  "1973": {
+    "sofascore_team_id": 1973,
+    "nome": "América Mineiro",
+    "clube_chave": "america mineiro",
+    "sigla": "AMG",
+    "cor_primaria": "#056635",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Moacir Júnior",
+    "estadio": "Arena Independência",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\america mineiro.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\america mineiro_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\america mineiro_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\america mineiro_3.png"
+    }
+  },
+  "vasco da gama": {
+    "sofascore_team_id": 1974,
+    "nome": "Vasco da Gama",
+    "clube_chave": "vasco da gama",
+    "sigla": "VAS",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Pedro Emanuel",
+    "estadio": "Estádio São Januário",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\vasco da gama.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vasco da gama_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vasco da gama_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vasco da gama_3.png"
+    }
+  },
+  "1974": {
+    "sofascore_team_id": 1974,
+    "nome": "Vasco da Gama",
+    "clube_chave": "vasco da gama",
+    "sigla": "VAS",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Pedro Emanuel",
+    "estadio": "Estádio São Januário",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\vasco da gama.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vasco da gama_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vasco da gama_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\vasco da gama_3.png"
+    }
+  },
+  "atletico mineiro": {
+    "sofascore_team_id": 1977,
+    "nome": "Atlético Mineiro",
+    "clube_chave": "atletico mineiro",
+    "sigla": "CAM",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Eduardo Dominguez",
+    "estadio": "Arena MRV",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\atletico mineiro.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico mineiro_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico mineiro_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico mineiro_3.png"
+    }
+  },
+  "1977": {
+    "sofascore_team_id": 1977,
+    "nome": "Atlético Mineiro",
+    "clube_chave": "atletico mineiro",
+    "sigla": "CAM",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Eduardo Dominguez",
+    "estadio": "Arena MRV",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\atletico mineiro.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico mineiro_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico mineiro_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico mineiro_3.png"
+    }
+  },
+  "juventude": {
+    "sofascore_team_id": 1980,
+    "nome": "Juventude",
+    "clube_chave": "juventude",
+    "sigla": "JUV",
+    "cor_primaria": "#006600",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Mauricio Barbieri",
+    "estadio": "Estádio Alfredo Jaconi",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\juventude.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\juventude_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\juventude_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\juventude_3.png"
+    }
+  },
+  "1980": {
+    "sofascore_team_id": 1980,
+    "nome": "Juventude",
+    "clube_chave": "juventude",
+    "sigla": "JUV",
+    "cor_primaria": "#006600",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Mauricio Barbieri",
+    "estadio": "Estádio Alfredo Jaconi",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\juventude.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\juventude_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\juventude_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\juventude_3.png"
+    }
+  },
+  "sao paulo": {
+    "sofascore_team_id": 1981,
+    "nome": "São Paulo",
+    "clube_chave": "sao paulo",
+    "sigla": "SPA",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Dorival Júnior",
+    "estadio": "MorumBIS",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\sao paulo.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sao paulo_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sao paulo_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sao paulo_3.png"
+    }
+  },
+  "1981": {
+    "sofascore_team_id": 1981,
+    "nome": "São Paulo",
+    "clube_chave": "sao paulo",
+    "sigla": "SPA",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Dorival Júnior",
+    "estadio": "MorumBIS",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\sao paulo.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sao paulo_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sao paulo_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\sao paulo_3.png"
+    }
+  },
+  "coritiba": {
+    "sofascore_team_id": 1982,
+    "nome": "Coritiba",
+    "clube_chave": "coritiba",
+    "sigla": "CFC",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#009966",
+    "cor_texto": "#009966",
+    "tecnico_atual": "Fernando Seabra",
+    "estadio": "Estádio Major Antônio Couto Pereira",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\coritiba.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\coritiba_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\coritiba_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\coritiba_3.png"
+    }
+  },
+  "1982": {
+    "sofascore_team_id": 1982,
+    "nome": "Coritiba",
+    "clube_chave": "coritiba",
+    "sigla": "CFC",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#009966",
+    "cor_texto": "#009966",
+    "tecnico_atual": "Fernando Seabra",
+    "estadio": "Estádio Major Antônio Couto Pereira",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\coritiba.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\coritiba_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\coritiba_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\coritiba_3.png"
+    }
+  },
+  "criciuma": {
+    "sofascore_team_id": 1984,
+    "nome": "Criciúma",
+    "clube_chave": "criciuma",
+    "sigla": "CRI",
+    "cor_primaria": "#ffff00",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Umberto Louzer",
+    "estadio": "Estádio Heriberto Hülse",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\criciuma.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\criciuma_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\criciuma_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\criciuma_3.png"
+    }
+  },
+  "1984": {
+    "sofascore_team_id": 1984,
+    "nome": "Criciúma",
+    "clube_chave": "criciuma",
+    "sigla": "CRI",
+    "cor_primaria": "#ffff00",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Umberto Louzer",
+    "estadio": "Estádio Heriberto Hülse",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\criciuma.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\criciuma_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\criciuma_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\criciuma_3.png"
+    }
+  },
+  "red bull bragantino": {
+    "sofascore_team_id": 1999,
+    "nome": "Red Bull Bragantino",
+    "clube_chave": "red bull bragantino",
+    "sigla": "BRA",
+    "cor_primaria": "#363636",
+    "cor_secundaria": "#d8d8d6",
+    "cor_texto": "#d8d8d6",
+    "tecnico_atual": "Vagner Mancini",
+    "estadio": "Estádio Nabi Abi Chedid",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\red bull bragantino.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\red bull bragantino_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\red bull bragantino_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\red bull bragantino_3.png"
+    }
+  },
+  "1999": {
+    "sofascore_team_id": 1999,
+    "nome": "Red Bull Bragantino",
+    "clube_chave": "red bull bragantino",
+    "sigla": "BRA",
+    "cor_primaria": "#363636",
+    "cor_secundaria": "#d8d8d6",
+    "cor_texto": "#d8d8d6",
+    "tecnico_atual": "Vagner Mancini",
+    "estadio": "Estádio Nabi Abi Chedid",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\red bull bragantino.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\red bull bragantino_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\red bull bragantino_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\red bull bragantino_3.png"
+    }
+  },
+  "ceara": {
+    "sofascore_team_id": 2001,
+    "nome": "Ceará",
+    "clube_chave": "ceara",
+    "sigla": "CEA",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Daniel Paulista",
+    "estadio": "Estádio Governador Plácido Castelo",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\ceara.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\ceara_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\ceara_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\ceara_3.png"
+    }
+  },
+  "2001": {
+    "sofascore_team_id": 2001,
+    "nome": "Ceará",
+    "clube_chave": "ceara",
+    "sigla": "CEA",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Daniel Paulista",
+    "estadio": "Estádio Governador Plácido Castelo",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\ceara.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\ceara_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\ceara_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\ceara_3.png"
+    }
+  },
+  "remo": {
+    "sofascore_team_id": 2012,
+    "nome": "Remo",
+    "clube_chave": "remo",
+    "sigla": "CDR",
+    "cor_primaria": "#182748",
+    "cor_secundaria": "#222226",
+    "cor_texto": "#222226",
+    "tecnico_atual": "Thiago Carpini",
+    "estadio": "Mangueirão",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\remo.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\remo_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\remo_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\remo_3.png"
+    }
+  },
+  "2012": {
+    "sofascore_team_id": 2012,
+    "nome": "Remo",
+    "clube_chave": "remo",
+    "sigla": "CDR",
+    "cor_primaria": "#182748",
+    "cor_secundaria": "#222226",
+    "cor_texto": "#222226",
+    "tecnico_atual": "Thiago Carpini",
+    "estadio": "Mangueirão",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\remo.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\remo_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\remo_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\remo_3.png"
+    }
+  },
+  "fortaleza": {
+    "sofascore_team_id": 2020,
+    "nome": "Fortaleza",
+    "clube_chave": "fortaleza",
+    "sigla": "FOR",
+    "cor_primaria": "#0000ff",
+    "cor_secundaria": "#ff0000",
+    "cor_texto": "#ff0000",
+    "tecnico_atual": "Paulo Autuori",
+    "estadio": "Estádio Governador Plácido Castelo",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\fortaleza.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fortaleza_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fortaleza_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fortaleza_3.png"
+    }
+  },
+  "2020": {
+    "sofascore_team_id": 2020,
+    "nome": "Fortaleza",
+    "clube_chave": "fortaleza",
+    "sigla": "FOR",
+    "cor_primaria": "#0000ff",
+    "cor_secundaria": "#ff0000",
+    "cor_texto": "#ff0000",
+    "tecnico_atual": "Paulo Autuori",
+    "estadio": "Estádio Governador Plácido Castelo",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\fortaleza.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fortaleza_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fortaleza_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\fortaleza_3.png"
+    }
+  },
+  "gremio": {
+    "sofascore_team_id": 5926,
+    "nome": "Grêmio",
+    "clube_chave": "gremio",
+    "sigla": "GRE",
+    "cor_primaria": "#3399ff",
+    "cor_secundaria": "#000033",
+    "cor_texto": "#000033",
+    "tecnico_atual": "Renato Portaluppi",
+    "estadio": "Arena do Grêmio",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\gremio.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\gremio_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\gremio_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\gremio_3.png"
+    }
+  },
+  "5926": {
+    "sofascore_team_id": 5926,
+    "nome": "Grêmio",
+    "clube_chave": "gremio",
+    "sigla": "GRE",
+    "cor_primaria": "#3399ff",
+    "cor_secundaria": "#000033",
+    "cor_texto": "#000033",
+    "tecnico_atual": "Renato Portaluppi",
+    "estadio": "Arena do Grêmio",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\gremio.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\gremio_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\gremio_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\gremio_3.png"
+    }
+  },
+  "flamengo": {
+    "sofascore_team_id": 5981,
+    "nome": "Flamengo",
+    "clube_chave": "flamengo",
+    "sigla": "FLA",
+    "cor_primaria": "#ff0000",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Leonardo Jardim",
+    "estadio": "Estádio do Maracanã",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\flamengo.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\flamengo_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\flamengo_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\flamengo_3.png"
+    }
+  },
+  "5981": {
+    "sofascore_team_id": 5981,
+    "nome": "Flamengo",
+    "clube_chave": "flamengo",
+    "sigla": "FLA",
+    "cor_primaria": "#ff0000",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Leonardo Jardim",
+    "estadio": "Estádio do Maracanã",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\flamengo.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\flamengo_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\flamengo_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\flamengo_3.png"
+    }
+  },
+  "atletico goianiense": {
+    "sofascore_team_id": 7314,
+    "nome": "Atlético Goianiense",
+    "clube_chave": "atletico goianiense",
+    "sigla": "GOI",
+    "cor_primaria": "#ff0000",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Roger Rodrigues da Silva",
+    "estadio": "Estádio Antônio Accioly",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\atletico goianiense.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico goianiense_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico goianiense_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico goianiense_3.png"
+    }
+  },
+  "7314": {
+    "sofascore_team_id": 7314,
+    "nome": "Atlético Goianiense",
+    "clube_chave": "atletico goianiense",
+    "sigla": "GOI",
+    "cor_primaria": "#ff0000",
+    "cor_secundaria": "#000000",
+    "cor_texto": "#000000",
+    "tecnico_atual": "Roger Rodrigues da Silva",
+    "estadio": "Estádio Antônio Accioly",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\atletico goianiense.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico goianiense_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico goianiense_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\atletico goianiense_3.png"
+    }
+  },
+  "chapecoense": {
+    "sofascore_team_id": 21845,
+    "nome": "Chapecoense",
+    "clube_chave": "chapecoense",
+    "sigla": "CHA",
+    "cor_primaria": "#009966",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Rafael Lacerda",
+    "estadio": "Arena Condá",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\chapecoense.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\chapecoense_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\chapecoense_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\chapecoense_3.png"
+    }
+  },
+  "21845": {
+    "sofascore_team_id": 21845,
+    "nome": "Chapecoense",
+    "clube_chave": "chapecoense",
+    "sigla": "CHA",
+    "cor_primaria": "#009966",
+    "cor_secundaria": "#ffffff",
+    "cor_texto": "#ffffff",
+    "tecnico_atual": "Rafael Lacerda",
+    "estadio": "Arena Condá",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\chapecoense.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\chapecoense_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\chapecoense_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\chapecoense_3.png"
+    }
+  },
+  "mirassol": {
+    "sofascore_team_id": 21982,
+    "nome": "Mirassol",
+    "clube_chave": "mirassol",
+    "sigla": "MIR",
+    "cor_primaria": "#e8c728",
+    "cor_secundaria": "#174c30",
+    "cor_texto": "#174c30",
+    "tecnico_atual": "Rafael Guanaes",
+    "estadio": "Estádio José Maria de Campos Maia",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\mirassol.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\mirassol_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\mirassol_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\mirassol_3.png"
+    }
+  },
+  "21982": {
+    "sofascore_team_id": 21982,
+    "nome": "Mirassol",
+    "clube_chave": "mirassol",
+    "sigla": "MIR",
+    "cor_primaria": "#e8c728",
+    "cor_secundaria": "#174c30",
+    "cor_texto": "#174c30",
+    "tecnico_atual": "Rafael Guanaes",
+    "estadio": "Estádio José Maria de Campos Maia",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\mirassol.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\mirassol_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\mirassol_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\mirassol_3.png"
+    }
+  },
+  "cuiaba": {
+    "sofascore_team_id": 49202,
+    "nome": "Cuiabá",
+    "clube_chave": "cuiaba",
+    "sigla": "CUI",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#006600",
+    "cor_texto": "#006600",
+    "tecnico_atual": "Eduardo Barros",
+    "estadio": "Arena Pantanal",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\cuiaba.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cuiaba_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cuiaba_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cuiaba_3.png"
+    }
+  },
+  "49202": {
+    "sofascore_team_id": 49202,
+    "nome": "Cuiabá",
+    "clube_chave": "cuiaba",
+    "sigla": "CUI",
+    "cor_primaria": "#ffffff",
+    "cor_secundaria": "#006600",
+    "cor_texto": "#006600",
+    "tecnico_atual": "Eduardo Barros",
+    "estadio": "Arena Pantanal",
+    "escudo_path": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\escudos\\cuiaba.png",
+    "camisas": {
+      "1": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cuiaba_1.png",
+      "2": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cuiaba_2.png",
+      "3": "C:\\Users\\Pepe\\Desktop\\Python projetos\\Projeto Fut\\assets\\camisas\\cuiaba_3.png"
+    }
+  }
+}

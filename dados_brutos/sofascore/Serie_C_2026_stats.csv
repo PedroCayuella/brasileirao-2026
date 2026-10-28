@@ -1,0 +1,726 @@
+﻿sofascore_player_id,jogador_nome,jogador_chave,sofascore_team_id,clube_nome,clube_chave,ano,divisao,peso_divisao,jogos,minutos,gols,assistencias,gols_por_90,assistencias_por_90,participacoes_gol_por_90,finalizacoes,dribles_certos,desarmes,interceptacoes,duelos_aereos_ganhos,passes_certos_pct,nota_media_sofascore,producao_ofensiva_ajustada_divisao,nota_ajustada_divisao
+972566,Denis Júnior,denis junior,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,26,2340,0,0,0.0,0.0,0.0,0,0,0,0,6,89.73,7.02,0.0,6.051
+973940,Dheimison,dheimison,274286,Floresta,floresta,2026,Serie_C,0.54,25,2250,0,0,0.0,0.0,0.0,0,0,0,0,10,76.5,6.97,0.0,6.008
+1200594,Edison Negueba,edison negueba,135324,Maringá FC,maringa,2026,Serie_C,0.54,27,2227,4,5,0.162,0.202,0.364,44,38,0,0,22,79.56,7.23,0.197,6.232
+1017008,Matheus Nogueira,matheus nogueira,21884,Brusque,brusque,2026,Serie_C,0.54,24,2160,0,0,0.0,0.0,0.0,0,0,0,0,18,83.22,7.13,0.0,6.146
+1514505,João Victor,joao victor,274286,Floresta,floresta,2026,Serie_C,0.54,24,2160,1,0,0.042,0.0,0.042,10,7,0,0,88,77.75,7.04,0.023,6.068
+870903,Guilherme Neto,guilherme neto,135324,Maringá FC,maringa,2026,Serie_C,0.54,24,2160,0,0,0.0,0.0,0.0,0,0,0,0,11,82.66,6.89,0.0,5.939
+993066,Edílson Júnior,edilson junior,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,25,2052,0,2,0.0,0.088,0.088,11,17,0,0,35,82.31,6.69,0.048,5.767
+1111012,Lucas Santos,lucas santos,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,23,2051,0,0,0.0,0.0,0.0,6,5,0,0,59,85.05,7.02,0.0,6.051
+1122890,Bernardo,bernardo,21884,Brusque,brusque,2026,Serie_C,0.54,24,2048,1,0,0.044,0.0,0.044,13,8,0,0,27,86.13,6.98,0.024,6.017
+378642,Miguel Bianconi,miguel bianconi,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,24,2039,10,5,0.441,0.221,0.662,56,12,0,0,89,75.72,7.29,0.357,6.284
+1174625,Zé Vitor,ze vitor,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,23,2036,1,1,0.044,0.044,0.088,13,2,0,0,72,88.81,7.22,0.048,6.224
+1066686,Jonathan Alecxander,jonathan alecxander,135324,Maringá FC,maringa,2026,Serie_C,0.54,25,2029,0,1,0.0,0.044,0.044,9,4,0,0,91,85.07,6.86,0.024,5.913
+841926,Caique,caique,274286,Floresta,floresta,2026,Serie_C,0.54,24,1992,2,3,0.09,0.136,0.226,13,7,0,0,16,71.65,6.92,0.122,5.965
+868039,Yan Silva,yan silva,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,23,1991,2,1,0.09,0.045,0.135,19,34,0,0,20,75.26,6.7,0.073,5.775
+870333,Rodolfo,rodolfo,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,24,1955,7,5,0.322,0.23,0.552,51,29,0,0,14,69.37,7.01,0.298,6.043
+1105083,Caique Calito,caique calito,135324,Maringá FC,maringa,2026,Serie_C,0.54,27,1949,6,3,0.277,0.139,0.416,40,34,0,0,33,79.56,7.0,0.225,6.034
+879595,Marcinho,marcinho,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,23,1911,1,5,0.047,0.235,0.282,56,18,0,0,7,78.93,7.38,0.152,6.362
+1465704,Pedro Favela,pedro favela,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,23,1893,3,0,0.143,0.0,0.143,47,13,0,0,48,86.15,7.01,0.077,6.043
+984887,Gabriel Mesquita,gabriel mesquita,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,21,1890,0,0,0.0,0.0,0.0,0,0,0,0,8,88.24,6.91,0.0,5.956
+1524110,Fabrício Dias,fabricio dias,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,24,1868,0,0,0.0,0.0,0.0,13,2,0,0,33,86.44,6.75,0.0,5.818
+1170955,Petterson,petterson,21884,Brusque,brusque,2026,Serie_C,0.54,24,1861,2,5,0.097,0.242,0.339,55,93,0,0,3,73.07,7.17,0.183,6.181
+2405479,Eduardo,eduardo,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,22,1851,0,2,0.0,0.097,0.097,14,17,0,0,21,80.34,6.85,0.052,5.905
+2205095,Adrianinho,adrianinho,21884,Brusque,brusque,2026,Serie_C,0.54,24,1839,5,6,0.245,0.294,0.539,31,51,0,0,10,70.65,6.88,0.291,5.931
+874410,Albano,albano,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,22,1836,1,5,0.049,0.245,0.294,53,31,0,0,1,81.11,7.55,0.159,6.508
+1117181,Gazão,gazao,21884,Brusque,brusque,2026,Serie_C,0.54,23,1811,3,2,0.149,0.099,0.248,23,8,0,0,36,88.63,6.8,0.134,5.862
+551762,Eurico Lima,eurico lima,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,21,1796,2,0,0.1,0.0,0.1,15,2,0,0,57,82.33,6.9,0.054,5.948
+1107075,Ronald Camarão,ronald camarao,135324,Maringá FC,maringa,2026,Serie_C,0.54,23,1779,7,1,0.354,0.051,0.405,80,60,0,0,16,72.78,7.24,0.219,6.241
+1491634,Lucas Bonifácio,lucas bonifacio,135324,Maringá FC,maringa,2026,Serie_C,0.54,25,1776,2,5,0.101,0.253,0.354,20,11,0,0,27,83.66,6.96,0.191,6.0
+1111123,Cipriano,cipriano,21884,Brusque,brusque,2026,Serie_C,0.54,20,1765,3,1,0.153,0.051,0.204,13,2,0,0,97,86.21,7.12,0.11,6.137
+1129413,Paulinho,paulinho,135324,Maringá FC,maringa,2026,Serie_C,0.54,23,1754,1,2,0.051,0.103,0.154,50,16,0,0,37,81.83,6.96,0.083,6.0
+156322,Willian Alves,willian alves,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,20,1753,0,1,0.0,0.051,0.051,8,0,0,0,42,89.07,6.92,0.028,5.965
+1175622,Islan,islan,274286,Floresta,floresta,2026,Serie_C,0.54,21,1745,1,0,0.052,0.0,0.052,7,4,0,0,85,78.91,7.09,0.028,6.112
+1176038,Yan Souto,yan souto,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,20,1745,1,0,0.052,0.0,0.052,20,7,0,0,67,85.16,7.08,0.028,6.103
+5672,Nenê,nene,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,20,1738,7,5,0.362,0.259,0.621,45,25,0,0,7,69.8,7.78,0.335,6.706
+799667,Caíque França,caique franca,1972,Guarani,guarani,2026,Serie_C,0.54,19,1710,0,0,0.0,0.0,0.0,0,1,0,0,10,88.0,7.16,0.0,6.172
+1109540,Willian Gomes,willian gomes,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,19,1710,0,2,0.0,0.105,0.105,22,2,0,0,34,79.47,6.79,0.057,5.853
+1047687,Vitor Leque,vitor leque,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,24,1694,2,2,0.106,0.106,0.212,40,29,0,0,15,78.35,6.93,0.114,5.974
+1533964,Alencar,alencar,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,24,1690,1,1,0.053,0.053,0.106,18,3,0,0,29,89.26,6.82,0.057,5.879
+923057,Ronald,ronald,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,22,1685,2,4,0.107,0.214,0.321,19,59,0,0,12,71.95,7.06,0.173,6.086
+1113096,Raimar,raimar,21884,Brusque,brusque,2026,Serie_C,0.54,24,1650,1,3,0.055,0.164,0.219,20,11,0,0,24,76.3,6.9,0.118,5.948
+981692,Caio Mello,caio mello,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,20,1641,3,1,0.165,0.055,0.22,39,3,0,0,35,79.47,7.09,0.119,6.112
+2456856,Pedro Gonçalves,pedro goncalves,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,20,1634,0,1,0.0,0.055,0.055,20,11,0,0,17,85.56,6.74,0.03,5.81
+816636,Wendel da Cruz,wendel da cruz,135324,Maringá FC,maringa,2026,Serie_C,0.54,19,1629,0,0,0.0,0.0,0.0,3,7,0,0,68,81.23,7.07,0.0,6.094
+885691,Rodrigo Alves,rodrigo alves,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,19,1628,3,0,0.166,0.0,0.166,52,47,0,0,11,73.54,7.13,0.09,6.146
+871185,Jean,jean,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,18,1620,0,0,0.0,0.0,0.0,0,0,0,0,5,83.0,7.4,0.0,6.379
+1487516,Léo Gobo,leo gobo,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,18,1620,1,1,0.056,0.056,0.112,11,3,0,0,81,83.01,7.24,0.06,6.241
+1117659,Avelino,avelino,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,18,1620,0,0,0.0,0.0,0.0,0,0,0,0,4,84.95,7.11,0.0,6.129
+866862,Éverton Alemão,everton alemao,257673,Barra FC,barra,2026,Serie_C,0.54,18,1620,3,0,0.167,0.0,0.167,10,0,0,0,36,86.98,7.06,0.09,6.086
+243739,Gustavo Busatto,gustavo busatto,2000,Caxias,caxias,2026,Serie_C,0.54,18,1620,0,0,0.0,0.0,0.0,0,0,0,0,7,86.45,7.03,0.0,6.06
+870789,Ianson,ianson,2000,Caxias,caxias,2026,Serie_C,0.54,18,1607,0,0,0.0,0.0,0.0,4,3,0,0,44,87.7,7.19,0.0,6.198
+1018088,Garraty,garraty,274286,Floresta,floresta,2026,Serie_C,0.54,23,1606,4,2,0.224,0.112,0.336,51,18,0,0,19,80.94,7.0,0.181,6.034
+1020050,Ramon,ramon,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,18,1584,0,0,0.0,0.0,0.0,5,5,0,0,7,89.61,6.84,0.0,5.896
+931478,Nonato,nonato,274286,Floresta,floresta,2026,Serie_C,0.54,20,1570,0,1,0.0,0.057,0.057,6,3,0,0,30,81.13,6.72,0.031,5.793
+1046696,Kleiton,kleiton,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,22,1565,4,1,0.23,0.058,0.288,55,28,0,0,65,81.63,6.84,0.156,5.896
+929196,Vander,vander,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,18,1563,1,0,0.058,0.0,0.058,15,5,0,0,3,86.87,6.99,0.031,6.025
+1465450,Vitor Barreto,vitor barreto,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,21,1562,6,1,0.346,0.058,0.404,50,35,0,0,31,74.81,7.13,0.218,6.146
+1472001,Renilson,renilson,2017,Confiança,confianca,2026,Serie_C,0.54,19,1556,0,0,0.0,0.0,0.0,8,2,0,0,38,84.22,6.73,0.0,5.801
+1474303,André Radija,andre radija,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,18,1541,4,1,0.234,0.058,0.292,14,8,0,0,16,77.22,7.13,0.158,6.146
+865327,Luiz Daniel,luiz daniel,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,17,1530,0,0,0.0,0.0,0.0,0,0,0,0,5,80.5,7.31,0.0,6.301
+870897,Ligger,ligger,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,17,1530,0,1,0.0,0.059,0.059,9,4,0,0,63,81.8,7.11,0.032,6.129
+1109055,Jean Pierre,jean pierre,257673,Barra FC,barra,2026,Serie_C,0.54,17,1530,0,0,0.0,0.0,0.0,3,0,0,0,45,88.82,6.78,0.0,5.844
+1474329,Rosivan,rosivan,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,17,1505,3,0,0.179,0.0,0.179,17,11,0,0,43,79.58,7.12,0.097,6.137
+1069158,Gustavo Crecci,gustavo crecci,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,17,1502,0,0,0.0,0.0,0.0,11,2,0,0,24,80.33,6.71,0.0,5.784
+1589179,Ryan Santos de Paulo,ryan santos de paulo,21884,Brusque,brusque,2026,Serie_C,0.54,18,1495,2,0,0.12,0.0,0.12,10,0,0,0,43,86.2,6.94,0.065,5.982
+1020448,Ítalo,italo,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,22,1488,9,0,0.544,0.0,0.544,31,14,0,0,23,70.7,6.92,0.294,5.965
+981745,Lucas Dias Costa,lucas dias costa,1985,Figueirense,figueirense,2026,Serie_C,0.54,17,1485,0,0,0.0,0.0,0.0,10,3,0,0,40,87.12,6.98,0.0,6.017
+1465440,Adeílson Maranhão,adeilson maranhao,135324,Maringá FC,maringa,2026,Serie_C,0.54,20,1485,2,1,0.121,0.061,0.182,26,17,0,0,28,76.02,6.9,0.098,5.948
+1050354,Will,will,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,18,1483,0,0,0.0,0.0,0.0,23,46,0,0,13,78.01,6.91,0.0,5.956
+1016884,João Pedro,joao pedro,21884,Brusque,brusque,2026,Serie_C,0.54,21,1473,7,0,0.428,0.0,0.428,24,17,0,0,11,78.04,6.82,0.231,5.879
+1117584,Dionísio,dionisio,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,18,1470,0,2,0.0,0.122,0.122,26,11,0,0,9,88.46,6.94,0.066,5.982
+875167,Jhonata,jhonata,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,20,1455,0,1,0.0,0.062,0.062,24,8,0,0,27,87.21,6.81,0.033,5.87
+1009011,Igor Morais,igor morais,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,17,1444,0,0,0.0,0.0,0.0,3,0,0,0,45,92.29,6.86,0.0,5.913
+795185,Ícaro,icaro,2017,Confiança,confianca,2026,Serie_C,0.54,16,1440,3,0,0.188,0.0,0.188,12,1,0,0,45,87.17,7.28,0.102,6.275
+1185997,Lucão Gomes,lucao gomes,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,17,1438,1,1,0.063,0.063,0.126,13,1,0,0,88,84.11,7.21,0.068,6.215
+914491,Felipe Albuquerque,felipe albuquerque,2000,Caxias,caxias,2026,Serie_C,0.54,17,1438,0,1,0.0,0.063,0.063,2,7,0,0,25,78.65,7.01,0.034,6.043
+923951,Everaldo,everaldo,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,21,1437,1,3,0.063,0.188,0.251,28,31,0,0,11,80.97,7.12,0.136,6.137
+329137,Jefferson,jefferson,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,16,1420,0,0,0.0,0.0,0.0,0,0,0,0,9,72.27,6.72,0.0,5.793
+1164681,Eliandro Carvalho,eliandro carvalho,274286,Floresta,floresta,2026,Serie_C,0.54,20,1413,1,2,0.064,0.127,0.191,19,24,0,0,21,67.64,6.87,0.103,5.922
+849183,Bruno Bispo,bruno bispo,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,18,1408,1,1,0.064,0.064,0.128,7,1,0,0,63,88.43,6.87,0.069,5.922
+1148431,Buchecha,buchecha,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,21,1403,2,2,0.128,0.128,0.256,15,8,0,0,12,70.0,6.85,0.138,5.905
+869433,João Paulo,joao paulo,1972,Guarani,guarani,2026,Serie_C,0.54,16,1377,4,2,0.261,0.131,0.392,37,25,0,0,3,80.74,7.19,0.212,6.198
+840145,Jean Victor,jean victor,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,16,1373,1,0,0.066,0.0,0.066,16,3,0,0,17,80.27,6.89,0.036,5.939
+840248,Roberto,roberto,2000,Caxias,caxias,2026,Serie_C,0.54,17,1366,0,1,0.0,0.066,0.066,13,12,0,0,34,78.6,7.03,0.036,6.06
+1418477,Raynan Martins de Souza,raynan martins de souza,1985,Figueirense,figueirense,2026,Serie_C,0.54,17,1365,0,1,0.0,0.066,0.066,27,8,0,0,24,79.6,7.04,0.036,6.068
+1021725,Romarinho,romarinho,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,23,1361,4,2,0.265,0.132,0.397,29,4,0,0,3,77.0,7.01,0.214,6.043
+981591,Wagninho,wagninho,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,16,1361,1,0,0.066,0.0,0.066,16,12,0,0,29,83.65,6.81,0.036,5.87
+870377,Felipe Rodrigues,felipe rodrigues,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,18,1360,1,1,0.066,0.066,0.132,15,17,0,0,64,77.02,7.16,0.071,6.172
+1019248,Thiago Coelho,thiago coelho,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,16,1358,0,0,0.0,0.0,0.0,0,0,0,0,9,68.3,7.04,0.0,6.068
+1003739,Rafael Matheus,rafael matheus,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,15,1350,0,0,0.0,0.0,0.0,5,2,0,0,44,87.24,7.06,0.0,6.086
+1150174,Léo Coltro,leo coltro,2025,Ituano,ituano,2026,Serie_C,0.54,15,1350,0,0,0.0,0.0,0.0,7,1,0,0,32,79.51,6.97,0.0,6.008
+1174555,Cleiton Garcia,cleiton garcia,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,16,1346,2,2,0.134,0.134,0.268,15,14,0,0,36,73.55,7.13,0.145,6.146
+975444,Lucas Mota,lucas mota,2025,Ituano,ituano,2026,Serie_C,0.54,15,1328,0,0,0.0,0.0,0.0,9,6,0,0,27,79.84,6.84,0.0,5.896
+950329,Iury,iury,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,16,1324,0,2,0.0,0.136,0.136,4,6,0,0,10,74.9,7.01,0.073,6.043
+1468786,Maranhao,maranhao,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,19,1322,5,1,0.34,0.068,0.408,29,8,0,0,60,75.73,6.9,0.22,5.948
+892126,Patrick,patrick,2017,Confiança,confianca,2026,Serie_C,0.54,17,1321,2,2,0.136,0.136,0.272,31,37,0,0,6,80.23,7.13,0.147,6.146
+928133,Getúlio,getulio,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,23,1305,6,0,0.414,0.0,0.414,32,15,0,0,46,65.07,6.8,0.224,5.862
+1034314,Igor Bolt,igor bolt,1985,Figueirense,figueirense,2026,Serie_C,0.54,18,1302,4,0,0.276,0.0,0.276,27,39,0,0,23,75.06,7.28,0.149,6.275
+1017000,Gustavo Medina,gustavo medina,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,15,1286,0,0,0.0,0.0,0.0,5,7,0,0,28,86.07,7.25,0.0,6.25
+1186155,Emerson Freitas,emerson freitas,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,16,1282,3,2,0.211,0.14,0.351,34,15,0,0,15,84.91,7.18,0.19,6.189
+1640677,Matheus Vinicius da Silva,matheus vinicius da silva,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,15,1275,3,2,0.212,0.141,0.353,15,3,0,0,48,74.83,7.06,0.191,6.086
+987168,Patric Calmon,patric calmon,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,18,1274,0,0,0.0,0.0,0.0,4,8,0,0,25,86.34,6.77,0.0,5.836
+1082813,João Victor,joao victor,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,18,1271,0,1,0.0,0.071,0.071,10,22,0,0,21,78.97,6.96,0.038,6.0
+839773,Xavier,xavier,2025,Ituano,ituano,2026,Serie_C,0.54,16,1267,3,1,0.213,0.071,0.284,42,7,0,0,8,83.18,7.33,0.153,6.318
+583824,Maurício Antônio,mauricio antonio,1972,Guarani,guarani,2026,Serie_C,0.54,16,1263,2,0,0.143,0.0,0.143,8,3,0,0,33,93.0,6.99,0.077,6.025
+870684,Rafael Pascoal,rafael pascoal,2017,Confiança,confianca,2026,Serie_C,0.54,14,1260,0,0,0.0,0.0,0.0,0,0,0,0,11,84.67,7.23,0.0,6.232
+1175672,Gabriel Werner,gabriel werner,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,14,1260,0,0,0.0,0.0,0.0,0,0,0,0,14,81.55,7.18,0.0,6.189
+978674,Ewerton,ewerton,257673,Barra FC,barra,2026,Serie_C,0.54,14,1260,0,0,0.0,0.0,0.0,0,0,0,0,2,80.8,7.03,0.0,6.06
+1066552,Emerson  Júnior,emerson junior,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,14,1260,0,0,0.0,0.0,0.0,0,0,0,0,3,80.5,6.97,0.0,6.008
+553652,Diogo Mateus,diogo mateus,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,19,1248,0,1,0.0,0.072,0.072,6,24,0,0,12,79.81,6.83,0.039,5.887
+981380,Alan,alan,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,15,1240,0,0,0.0,0.0,0.0,6,3,0,0,55,87.03,6.9,0.0,5.948
+1188374,Léo Maia,leo maia,1985,Figueirense,figueirense,2026,Serie_C,0.54,18,1239,1,2,0.073,0.145,0.218,8,10,0,0,19,78.46,6.92,0.118,5.965
+1474281,Juninho,juninho,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,17,1236,1,1,0.073,0.073,0.146,23,23,0,0,7,78.73,7.03,0.079,6.06
+770251,Leonan,leonan,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,15,1233,2,0,0.146,0.0,0.146,13,6,0,0,10,78.66,6.98,0.079,6.017
+795258,Adniellyson Silva,adniellyson silva,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,19,1230,0,0,0.0,0.0,0.0,13,3,0,0,10,75.52,6.69,0.0,5.767
+1106139,Thiago Rosa,thiago rosa,135324,Maringá FC,maringa,2026,Serie_C,0.54,16,1229,0,1,0.0,0.073,0.073,6,10,0,0,32,77.68,6.86,0.039,5.913
+1498671,Kauan Richard,kauan richard,2025,Ituano,ituano,2026,Serie_C,0.54,16,1222,0,0,0.0,0.0,0.0,6,6,0,0,10,84.02,6.69,0.0,5.767
+1507941,Leonan,leonan,1985,Figueirense,figueirense,2026,Serie_C,0.54,14,1221,0,0,0.0,0.0,0.0,11,4,0,0,47,85.71,7.23,0.0,6.232
+953752,Felipe Cruz,felipe cruz,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,19,1218,4,0,0.296,0.0,0.296,22,4,0,0,12,72.66,6.73,0.16,5.801
+1465855,Gabriel Travassos,gabriel travassos,135324,Maringá FC,maringa,2026,Serie_C,0.54,20,1213,4,0,0.297,0.0,0.297,12,0,0,0,63,82.35,6.84,0.16,5.896
+1609792,Marcos Luiz Tiburcio,marcos luiz tiburcio,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,16,1209,1,0,0.074,0.0,0.074,8,3,0,0,63,87.5,6.93,0.04,5.974
+981620,Igor Maduro,igor maduro,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,16,1207,1,2,0.075,0.149,0.224,19,9,0,0,19,81.24,6.86,0.121,5.913
+1117034,Gabriel Zeca,gabriel zeca,2017,Confiança,confianca,2026,Serie_C,0.54,16,1203,0,2,0.0,0.15,0.15,25,1,0,0,64,82.37,6.73,0.081,5.801
+871012,Jhony Douglas,jhony douglas,274286,Floresta,floresta,2026,Serie_C,0.54,19,1200,1,1,0.075,0.075,0.15,17,10,0,0,23,74.23,6.86,0.081,5.913
+886085,Leilson,leilson,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,16,1199,1,1,0.075,0.075,0.15,19,14,0,0,10,67.32,6.95,0.081,5.991
+1462713,Guilherme Cachoeira,guilherme cachoeira,1972,Guarani,guarani,2026,Serie_C,0.54,16,1197,5,3,0.376,0.226,0.602,35,45,0,0,8,68.59,7.27,0.325,6.267
+243111,Renato,renato,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,19,1190,3,1,0.227,0.076,0.303,16,13,0,0,24,75.07,6.83,0.164,5.887
+1175544,Edson Alves,edson alves,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,18,1184,1,0,0.076,0.0,0.076,6,2,0,0,45,86.1,6.95,0.041,5.991
+1091074,Dudu Hatamoto,dudu hatamoto,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,19,1180,3,0,0.229,0.0,0.229,32,40,0,0,3,76.35,6.95,0.124,5.991
+1517440,João Pedro Jotta,joao pedro jotta,2017,Confiança,confianca,2026,Serie_C,0.54,17,1175,2,0,0.153,0.0,0.153,29,17,0,0,17,75.95,6.84,0.083,5.896
+1845668,Lucas Cunha,lucas cunha,2017,Confiança,confianca,2026,Serie_C,0.54,13,1170,0,0,0.0,0.0,0.0,5,3,0,0,14,87.5,6.77,0.0,5.836
+866432,Matheus Mancini,matheus mancini,2025,Ituano,ituano,2026,Serie_C,0.54,13,1162,1,0,0.077,0.0,0.077,16,1,0,0,53,80.8,7.05,0.042,6.077
+868018,Pedro,pedro,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,15,1153,1,1,0.078,0.078,0.156,8,8,0,0,14,77.78,6.91,0.084,5.956
+1589395,Thiago Montelo,thiago montelo,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,23,1147,1,2,0.078,0.157,0.235,16,7,0,0,27,74.27,6.63,0.127,5.715
+344951,Calyson Rosa,calyson rosa,2000,Caxias,caxias,2026,Serie_C,0.54,18,1143,1,2,0.079,0.157,0.236,22,9,0,0,7,85.29,6.94,0.127,5.982
+870802,Ricardinho,ricardinho,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,16,1130,0,0,0.0,0.0,0.0,10,3,0,0,15,90.41,6.89,0.0,5.939
+817782,Arthur Henrique,arthur henrique,1985,Figueirense,figueirense,2026,Serie_C,0.54,14,1123,0,1,0.0,0.08,0.08,7,21,0,0,5,86.44,6.77,0.043,5.836
+1412633,Ricardo Cerqueira,ricardo cerqueira,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,17,1117,0,1,0.0,0.081,0.081,8,9,0,0,31,70.21,6.95,0.044,5.991
+243239,Willian Farias,willian farias,1972,Guarani,guarani,2026,Serie_C,0.54,14,1116,2,0,0.161,0.0,0.161,13,5,0,0,18,88.62,6.94,0.087,5.982
+863354,Mauricio,mauricio,2000,Caxias,caxias,2026,Serie_C,0.54,14,1115,0,0,0.0,0.0,0.0,2,0,0,0,20,87.87,6.84,0.0,5.896
+1177521,Nicolas Schulz,nicolas hulz,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,15,1109,4,0,0.325,0.0,0.325,9,8,0,0,25,72.68,6.81,0.176,5.87
+2031365,Gabriel William,gabriel william,2025,Ituano,ituano,2026,Serie_C,0.54,14,1102,1,1,0.082,0.082,0.164,10,5,0,0,40,77.99,6.76,0.089,5.827
+1465508,Matheus Martins,matheus martins,274286,Floresta,floresta,2026,Serie_C,0.54,19,1100,3,0,0.245,0.0,0.245,28,26,0,0,9,77.94,6.94,0.132,5.982
+1047809,Thassio,thassio,2025,Ituano,ituano,2026,Serie_C,0.54,16,1099,1,1,0.082,0.082,0.164,8,20,0,0,17,74.04,6.98,0.089,6.017
+1021672,Kelvyn,kelvyn,2017,Confiança,confianca,2026,Serie_C,0.54,14,1094,0,1,0.0,0.082,0.082,3,2,0,0,9,86.52,7.04,0.044,6.068
+870314,Cléo Silva,cleo silva,257673,Barra FC,barra,2026,Serie_C,0.54,18,1091,1,0,0.082,0.0,0.082,13,8,0,0,12,73.21,6.58,0.044,5.672
+358526,Jeferson,jeferson,21884,Brusque,brusque,2026,Serie_C,0.54,14,1088,1,0,0.083,0.0,0.083,7,0,0,0,28,73.09,6.65,0.045,5.732
+789084,Jonathan Costa,jonathan costa,1972,Guarani,guarani,2026,Serie_C,0.54,12,1080,2,0,0.167,0.0,0.167,15,5,0,0,40,91.73,7.44,0.09,6.413
+1118119,Pedro,pedro,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,12,1080,1,0,0.083,0.0,0.083,5,0,0,0,58,91.6,6.93,0.045,5.974
+753660,Saulo,saulo,2025,Ituano,ituano,2026,Serie_C,0.54,12,1080,0,0,0.0,0.0,0.0,0,0,0,0,0,84.62,6.75,0.0,5.818
+938619,Denilson,denilson,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,18,1064,8,1,0.677,0.085,0.762,27,13,0,0,25,72.85,7.13,0.411,6.146
+865403,Renan Castro,renan castro,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,15,1061,0,1,0.0,0.085,0.085,10,7,0,0,17,83.42,6.99,0.046,6.025
+844536,Iago,iago,2017,Confiança,confianca,2026,Serie_C,0.54,18,1061,0,0,0.0,0.0,0.0,24,21,0,0,1,72.88,6.87,0.0,5.922
+973885,Salatiel,salatiel,2000,Caxias,caxias,2026,Serie_C,0.54,12,1060,5,0,0.425,0.0,0.425,16,9,0,0,19,74.87,6.83,0.23,5.887
+1175785,Tetê,tete,257673,Barra FC,barra,2026,Serie_C,0.54,14,1057,3,0,0.255,0.0,0.255,10,2,0,0,29,83.65,6.75,0.138,5.818
+1113560,Danielzinho,danielzinho,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,12,1043,2,3,0.173,0.259,0.432,36,37,0,0,7,82.26,7.66,0.233,6.603
+924424,Ygor Catatau,ygor catatau,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,13,1042,4,0,0.345,0.0,0.345,26,14,0,0,49,73.13,7.02,0.186,6.051
+1469518,Vitinho,vitinho,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,15,1042,0,1,0.0,0.086,0.086,24,16,0,0,4,84.59,6.89,0.046,5.939
+1462809,Emerson Galego,emerson galego,1985,Figueirense,figueirense,2026,Serie_C,0.54,14,1040,6,1,0.519,0.087,0.606,24,0,0,0,38,75.47,6.96,0.327,6.0
+1066226,Ronald,ronald,135324,Maringá FC,maringa,2026,Serie_C,0.54,13,1037,0,1,0.0,0.087,0.087,1,1,0,0,39,84.81,7.15,0.047,6.163
+1845396,Fábio,fabio,257673,Barra FC,barra,2026,Serie_C,0.54,12,1036,0,1,0.0,0.087,0.087,6,4,0,0,8,74.74,6.98,0.047,6.017
+931054,Afonso,afonso,274286,Floresta,floresta,2026,Serie_C,0.54,12,1032,1,0,0.087,0.0,0.087,4,2,0,0,28,78.84,6.77,0.047,5.836
+870809,Jean,jean,1985,Figueirense,figueirense,2026,Serie_C,0.54,13,1016,0,0,0.0,0.0,0.0,9,3,0,0,54,85.58,6.86,0.0,5.913
+1188034,Gabriel Souza,gabriel souza,135324,Maringá FC,maringa,2026,Serie_C,0.54,20,1014,0,1,0.0,0.089,0.089,10,18,0,0,32,75.79,6.78,0.048,5.844
+870697,Gabriel Dias,gabriel dias,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,20,1004,2,2,0.179,0.179,0.358,10,3,0,0,20,82.42,6.75,0.193,5.818
+1148441,Matheus Nunes,matheus nunes,2000,Caxias,caxias,2026,Serie_C,0.54,17,994,0,0,0.0,0.0,0.0,9,10,0,0,19,88.97,6.75,0.0,5.818
+981701,Igo Gabriel,igo gabriel,1985,Figueirense,figueirense,2026,Serie_C,0.54,11,990,0,0,0.0,0.0,0.0,0,0,0,0,5,76.19,6.84,0.0,5.896
+1587716,Castro,castro,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,12,989,0,0,0.0,0.0,0.0,10,2,0,0,44,83.46,6.91,0.0,5.956
+1191409,Everton Kanela,everton kanela,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,15,987,3,0,0.274,0.0,0.274,27,8,0,0,31,68.22,6.76,0.148,5.827
+1527130,Carlos Eduardo,carlos eduardo,1972,Guarani,guarani,2026,Serie_C,0.54,15,983,2,4,0.183,0.366,0.549,36,16,0,0,13,80.67,7.21,0.296,6.215
+1818858,Da Rocha,da rocha,257673,Barra FC,barra,2026,Serie_C,0.54,15,979,0,1,0.0,0.092,0.092,4,1,0,0,24,80.11,6.75,0.05,5.818
+387766,Ronaldo Henrique Silva,ronaldo henrique silva,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,15,978,4,1,0.368,0.092,0.46,30,3,0,0,28,74.59,6.87,0.248,5.922
+914475,Emerson,emerson,1972,Guarani,guarani,2026,Serie_C,0.54,15,977,1,3,0.092,0.276,0.368,17,13,0,0,20,81.65,6.97,0.199,6.008
+924851,Facundo Bonifazi,facundo bonifazi,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,14,976,0,0,0.0,0.0,0.0,2,8,0,0,12,73.27,6.66,0.0,5.741
+1646302,Breno Santos,breno santos,2000,Caxias,caxias,2026,Serie_C,0.54,15,974,2,0,0.185,0.0,0.185,20,3,0,0,11,87.98,6.9,0.1,5.948
+877549,Frazan,frazan,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,11,967,0,0,0.0,0.0,0.0,5,0,0,0,32,91.29,6.94,0.0,5.982
+866851,Rafael Carrilho,rafael carrilho,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,17,956,0,0,0.0,0.0,0.0,14,5,0,0,22,85.29,6.84,0.0,5.896
+922628,Isaque,isaque,1972,Guarani,guarani,2026,Serie_C,0.54,15,947,1,1,0.095,0.095,0.19,11,7,0,0,6,86.47,6.74,0.103,5.81
+992498,Léo Coelho,leo coelho,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,11,946,1,0,0.095,0.0,0.095,2,1,0,0,15,84.27,6.84,0.051,5.896
+329219,Henrique Dourado,henrique dourado,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,19,944,0,1,0.0,0.095,0.095,18,7,0,0,13,81.94,6.71,0.051,5.784
+937943,Rafael Tavares,rafael tavares,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,16,930,2,1,0.194,0.097,0.291,24,9,0,0,4,76.76,7.04,0.157,6.068
+987089,Luciano Naninho,luciano naninho,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,17,920,0,2,0.0,0.196,0.196,25,27,0,0,3,76.43,6.87,0.106,5.922
+866350,Tiago Marques,tiago marques,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,17,912,1,1,0.099,0.099,0.198,9,5,0,0,12,80.6,6.55,0.107,5.646
+878048,Marlyson,marlyson,21884,Brusque,brusque,2026,Serie_C,0.54,12,910,4,0,0.396,0.0,0.396,31,4,0,0,33,74.56,6.99,0.214,6.025
+1174599,Guilherme Dal Pian,guilherme dal pian,2025,Ituano,ituano,2026,Serie_C,0.54,14,909,0,3,0.0,0.297,0.297,17,12,0,0,9,77.46,6.83,0.16,5.887
+1589752,Pedro Medeiros Assunção,pedro medeiros assuncao,21884,Brusque,brusque,2026,Serie_C,0.54,15,909,0,1,0.0,0.099,0.099,5,7,0,0,12,77.11,6.57,0.053,5.663
+822525,Eron,eron,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,18,908,3,0,0.297,0.0,0.297,17,5,0,0,8,72.44,6.61,0.16,5.698
+870756,Herbert,herbert,1972,Guarani,guarani,2026,Serie_C,0.54,18,902,5,2,0.499,0.2,0.699,32,35,0,0,8,75.71,6.87,0.377,5.922
+804978,Ravel Pelegrini,ravel pelegrini,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,10,900,0,0,0.0,0.0,0.0,0,0,0,0,3,84.86,7.01,0.0,6.043
+1175733,Lucas Adell,lucas adell,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,10,897,0,0,0.0,0.0,0.0,3,6,0,0,25,89.21,7.0,0.0,6.034
+1017015,Danrley,danrley,274286,Floresta,floresta,2026,Serie_C,0.54,21,890,0,1,0.0,0.101,0.101,4,5,0,0,6,82.96,6.53,0.055,5.629
+866784,Matheus Lagoa,matheus lagoa,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,15,888,5,0,0.507,0.0,0.507,23,24,0,0,4,57.52,7.03,0.274,6.06
+1114219,Patricio Núñez,patricio nunez,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,14,888,0,2,0.0,0.203,0.203,18,16,0,0,5,76.07,6.94,0.11,5.982
+1523441,Fábio Fau,fabio fau,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,20,887,3,2,0.304,0.203,0.507,18,17,0,0,6,81.41,6.92,0.274,5.965
+1590366,Rubinho,rubinho,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,11,876,0,0,0.0,0.0,0.0,3,7,0,0,13,72.12,6.73,0.0,5.801
+1066975,Gustavo Henrique,gustavo henrique,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,15,875,0,1,0.0,0.103,0.103,12,9,0,0,16,75.0,6.67,0.056,5.75
+873115,Bruno Barra,bruno barra,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,14,874,1,0,0.103,0.0,0.103,11,3,0,0,25,85.71,6.66,0.056,5.741
+1174660,Gustavo Brischke,gustavo brischke,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,11,873,0,0,0.0,0.0,0.0,1,1,0,0,28,78.73,6.54,0.0,5.637
+1174598,Luis Gustavo,luis gustavo,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,15,872,1,1,0.103,0.103,0.206,14,14,0,0,9,76.67,6.69,0.111,5.767
+870911,Marcondes,marcondes,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,11,871,0,0,0.0,0.0,0.0,4,0,0,0,25,85.02,6.82,0.0,5.879
+1047664,Tarcísio,tarcisio,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,14,871,0,0,0.0,0.0,0.0,4,8,0,0,19,80.72,6.76,0.0,5.827
+870696,Fabiano,fabiano,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,10,871,0,0,0.0,0.0,0.0,4,5,0,0,10,75.78,6.56,0.0,5.655
+868098,Lucas Rocha,lucas rocha,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,11,869,1,0,0.104,0.0,0.104,2,0,0,0,23,84.24,6.92,0.056,5.965
+1644897,Heitor,heitor,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,10,869,0,0,0.0,0.0,0.0,8,12,0,0,16,71.5,6.83,0.0,5.887
+1176212,Lucas Milla,lucas milla,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,14,867,0,0,0.0,0.0,0.0,2,3,0,0,6,87.2,6.76,0.0,5.827
+552192,Jeam,jeam,274286,Floresta,floresta,2026,Serie_C,0.54,11,865,2,1,0.208,0.104,0.312,18,3,0,0,41,77.42,6.9,0.168,5.948
+1150869,Keven,keven,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,10,863,0,0,0.0,0.0,0.0,5,3,0,0,30,81.82,6.87,0.0,5.922
+869437,Natan Costa,natan costa,274286,Floresta,floresta,2026,Serie_C,0.54,15,863,0,0,0.0,0.0,0.0,15,4,0,0,22,83.04,6.74,0.0,5.81
+831286,Nicolás Schiappacasse,nicolas hiappacasse,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,18,861,7,1,0.732,0.105,0.837,25,10,0,0,18,76.03,7.05,0.452,6.077
+1090721,Helder,helder,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,12,859,1,0,0.105,0.0,0.105,6,0,0,0,22,81.75,6.83,0.057,5.887
+79097,Neto Berola,neto berola,2025,Ituano,ituano,2026,Serie_C,0.54,13,858,3,1,0.315,0.105,0.42,36,44,0,0,4,72.69,7.29,0.227,6.284
+973884,Ynaiã,ynaia,1972,Guarani,guarani,2026,Serie_C,0.54,13,858,1,0,0.105,0.0,0.105,9,12,0,0,4,82.57,6.83,0.057,5.887
+966130,Warley,warley,257673,Barra FC,barra,2026,Serie_C,0.54,17,855,3,0,0.316,0.0,0.316,16,10,0,0,10,81.79,7.03,0.171,6.06
+1148378,Tiago Silva,tiago silva,2025,Ituano,ituano,2026,Serie_C,0.54,13,851,1,0,0.106,0.0,0.106,6,26,0,0,9,76.72,6.88,0.057,5.931
+1587911,Gabriel Razera,gabriel razera,2025,Ituano,ituano,2026,Serie_C,0.54,17,849,2,0,0.212,0.0,0.212,30,4,0,0,20,66.34,6.69,0.114,5.767
+922957,Vavá,vava,257673,Barra FC,barra,2026,Serie_C,0.54,12,848,2,0,0.212,0.0,0.212,6,1,0,0,30,79.09,6.73,0.114,5.801
+329115,Rafinha,rafinha,274286,Floresta,floresta,2026,Serie_C,0.54,15,841,3,1,0.321,0.107,0.428,19,10,0,0,18,75.4,6.76,0.231,5.827
+1895554,Marcos Vinicius da Silva,marcos vinicius da silva,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,16,841,1,0,0.107,0.0,0.107,6,21,0,0,2,66.67,6.57,0.058,5.663
+1467756,Gaspar,gaspar,2000,Caxias,caxias,2026,Serie_C,0.54,16,835,0,1,0.0,0.108,0.108,22,20,0,0,13,77.2,7.04,0.058,6.068
+1463339,Juninho,juninho,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,17,835,6,1,0.647,0.108,0.755,28,11,0,0,33,69.44,6.89,0.408,5.939
+1105818,Kelvi,kelvi,135324,Maringá FC,maringa,2026,Serie_C,0.54,12,834,1,0,0.108,0.0,0.108,14,3,0,0,18,85.75,6.78,0.058,5.844
+1105976,Guilherme Pira,guilherme pira,135324,Maringá FC,maringa,2026,Serie_C,0.54,20,833,1,1,0.108,0.108,0.216,23,25,0,0,14,83.64,6.99,0.117,6.025
+2062666,Gabriel Cipriano,gabriel cipriano,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,10,828,3,0,0.326,0.0,0.326,17,13,0,0,3,66.39,6.96,0.176,6.0
+1105420,Maurício,mauricio,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,12,823,0,0,0.0,0.0,0.0,4,6,0,0,15,80.08,6.55,0.0,5.646
+840153,Renan Gorne,renan gorne,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,12,821,3,0,0.329,0.0,0.329,18,4,0,0,20,80.75,6.8,0.178,5.862
+806101,Karl Junior,karl junior,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,11,821,1,0,0.11,0.0,0.11,18,7,0,0,13,76.53,6.7,0.059,5.775
+871073,Alex Ruan,alex ruan,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,17,818,0,1,0.0,0.11,0.11,8,6,0,0,9,79.62,6.69,0.059,5.767
+1017642,Valdir,valdir,2017,Confiança,confianca,2026,Serie_C,0.54,14,815,0,0,0.0,0.0,0.0,9,12,0,0,16,79.68,6.9,0.0,5.948
+1019257,Giovane Gomez,giovane gomez,135324,Maringá FC,maringa,2026,Serie_C,0.54,19,812,1,0,0.111,0.0,0.111,11,6,0,0,40,81.33,6.6,0.06,5.689
+39999,Renan,renan,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,9,810,0,0,0.0,0.0,0.0,0,0,0,0,4,87.96,7.06,0.0,6.086
+868100,João Lopes,joao lopes,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,9,810,0,0,0.0,0.0,0.0,0,0,0,0,5,88.46,7.03,0.0,6.06
+920961,Ignacio Panzariello,ignacio panzariello,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,10,810,0,1,0.0,0.111,0.111,6,4,0,0,5,79.79,6.96,0.06,6.0
+876624,Léo Passos,leo passos,2025,Ituano,ituano,2026,Serie_C,0.54,15,810,1,0,0.111,0.0,0.111,13,12,0,0,29,72.59,6.7,0.06,5.775
+1843338,Renan Bernabé,renan bernabe,257673,Barra FC,barra,2026,Serie_C,0.54,17,810,1,1,0.111,0.111,0.222,12,2,0,0,22,76.19,6.66,0.12,5.741
+829492,Marcelo Freitas,marcelo freitas,2000,Caxias,caxias,2026,Serie_C,0.54,15,806,0,0,0.0,0.0,0.0,22,5,0,0,15,83.71,6.75,0.0,5.818
+1117033,Gabriel Souza,gabriel souza,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,9,799,0,0,0.0,0.0,0.0,0,0,0,0,7,67.52,7.09,0.0,6.112
+1017246,Carlão,carlao,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,12,798,0,0,0.0,0.0,0.0,7,2,0,0,37,86.85,7.02,0.0,6.051
+1523873,Eduardo,eduardo,274286,Floresta,floresta,2026,Serie_C,0.54,10,795,0,0,0.0,0.0,0.0,1,0,0,0,22,86.11,6.9,0.0,5.948
+1588276,Fabrício Gonçalves de Moura,fabricio goncalves de moura,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,15,787,1,0,0.114,0.0,0.114,4,7,0,0,8,78.12,6.73,0.062,5.801
+994108,Renan Areias,renan areias,1985,Figueirense,figueirense,2026,Serie_C,0.54,15,786,0,0,0.0,0.0,0.0,5,1,0,0,9,85.48,6.76,0.0,5.827
+863015,Jonathan Ribeiro,jonathan ribeiro,2000,Caxias,caxias,2026,Serie_C,0.54,15,786,0,1,0.0,0.115,0.115,7,10,0,0,9,73.28,6.75,0.062,5.818
+870642,Rafael Vitor,rafael vitor,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,9,785,0,0,0.0,0.0,0.0,0,1,0,0,39,83.07,6.88,0.0,5.931
+1463340,Rafael Henrique Milhorim,rafael henrique milhorim,21884,Brusque,brusque,2026,Serie_C,0.54,13,780,0,0,0.0,0.0,0.0,3,1,0,0,23,82.24,6.82,0.0,5.879
+973875,Eduardo Nardini,eduardo nardini,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,9,776,0,0,0.0,0.0,0.0,11,4,0,0,6,84.96,6.7,0.0,5.775
+1085865,Lucas Rodrigues,lucas rodrigues,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,13,775,1,1,0.116,0.116,0.232,17,10,0,0,14,77.71,7.12,0.125,6.137
+870922,Marcelinho,marcelinho,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,13,774,0,1,0.0,0.116,0.116,15,6,0,0,4,78.18,6.71,0.063,5.784
+978903,Gonzalo Fornari,gonzalo fornari,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,15,772,0,0,0.0,0.0,0.0,22,6,0,0,76,73.19,7.01,0.0,6.043
+1174303,Kayon,kayon,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,18,772,3,0,0.35,0.0,0.35,14,23,0,0,18,74.21,6.79,0.189,5.853
+1017879,Thayllon,thayllon,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,18,764,2,0,0.236,0.0,0.236,27,18,0,0,3,72.97,6.76,0.127,5.827
+974555,Walce Costa,walce costa,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,15,760,0,0,0.0,0.0,0.0,7,2,0,0,38,80.48,6.66,0.0,5.741
+1527137,Jorge Rocha,jorge rocha,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,15,757,1,0,0.119,0.0,0.119,26,10,0,0,9,80.9,7.03,0.064,6.06
+123352,Saimon,saimon,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,10,752,1,0,0.12,0.0,0.12,2,0,0,0,28,84.68,7.06,0.065,6.086
+1046975,Léo Rafael,leo rafael,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,14,752,2,2,0.239,0.239,0.478,17,6,0,0,4,74.24,6.74,0.258,5.81
+1501708,Richard,richard,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,17,752,0,0,0.0,0.0,0.0,9,30,0,0,2,64.04,6.65,0.0,5.732
+1199400,Allison,allison,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,12,745,3,1,0.362,0.121,0.483,21,10,0,0,4,76.34,7.11,0.261,6.129
+1463498,Macário,macario,21884,Brusque,brusque,2026,Serie_C,0.54,15,745,1,0,0.121,0.0,0.121,19,6,0,0,27,77.55,6.65,0.065,5.732
+1086464,Diego Quirino,diego quirino,2000,Caxias,caxias,2026,Serie_C,0.54,14,743,1,0,0.121,0.0,0.121,14,3,0,0,27,75.96,6.59,0.065,5.681
+843077,Thiago Ennes,thiago ennes,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,14,742,0,0,0.0,0.0,0.0,4,4,0,0,7,73.78,6.93,0.0,5.974
+220359,Zé Mário,ze mario,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,14,738,0,1,0.0,0.122,0.122,6,5,0,0,6,81.66,6.92,0.066,5.965
+840107,Thallyson,thallyson,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,18,738,0,0,0.0,0.0,0.0,13,2,0,0,12,79.94,6.58,0.0,5.672
+1201986,Marcelinho,marcelinho,257673,Barra FC,barra,2026,Serie_C,0.54,16,736,2,0,0.245,0.0,0.245,26,10,0,0,3,76.63,6.75,0.132,5.818
+866510,Wilhelms,wilhelms,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,9,735,0,0,0.0,0.0,0.0,2,0,0,0,15,87.62,6.9,0.0,5.948
+1139528,Lucas Cardoso,lucas cardoso,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,22,733,1,1,0.123,0.123,0.246,15,22,0,0,9,71.76,6.68,0.133,5.758
+1107939,Raphael,raphael,1972,Guarani,guarani,2026,Serie_C,0.54,12,733,0,0,0.0,0.0,0.0,4,2,0,0,27,88.21,6.53,0.0,5.629
+975423,Italo,italo,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,14,731,0,1,0.0,0.123,0.123,3,9,0,0,9,73.75,6.68,0.066,5.758
+981440,Gabriel Santos Silva,gabriel santos silva,257673,Barra FC,barra,2026,Serie_C,0.54,13,729,1,0,0.123,0.0,0.123,18,8,0,0,3,79.51,6.73,0.066,5.801
+1107010,Lucas Alves,lucas alves,1985,Figueirense,figueirense,2026,Serie_C,0.54,12,723,2,0,0.249,0.0,0.249,36,13,0,0,9,80.98,7.12,0.134,6.137
+1126214,João Lucas,joao lucas,2000,Caxias,caxias,2026,Serie_C,0.54,16,722,2,0,0.249,0.0,0.249,18,8,0,0,3,78.95,6.82,0.134,5.879
+883917,Fabricio,fabricio,1985,Figueirense,figueirense,2026,Serie_C,0.54,8,720,0,0,0.0,0.0,0.0,0,0,0,0,8,81.88,7.54,0.0,6.499
+1117600,Victor Hugo,victor hugo,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,8,720,0,0,0.0,0.0,0.0,0,0,0,0,1,75.0,6.83,0.0,5.887
+1472070,Leo Paraíso,leo paraiso,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,14,720,0,0,0.0,0.0,0.0,2,0,0,0,14,84.4,6.62,0.0,5.706
+1924580,Kauan Martins,kauan martins,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,9,716,0,0,0.0,0.0,0.0,3,3,0,0,20,82.55,6.8,0.0,5.862
+1187863,Mateus Ludke,mateus ludke,2017,Confiança,confianca,2026,Serie_C,0.54,12,715,0,1,0.0,0.126,0.126,3,4,0,0,14,79.24,6.91,0.068,5.956
+1506831,Buga,buga,274286,Floresta,floresta,2026,Serie_C,0.54,13,712,0,0,0.0,0.0,0.0,9,5,0,0,8,86.04,6.84,0.0,5.896
+937750,Dudu Feitoza,dudu feitoza,1985,Figueirense,figueirense,2026,Serie_C,0.54,12,704,0,1,0.0,0.128,0.128,17,17,0,0,10,84.5,6.94,0.069,5.982
+1587853,Fellipinho,fellipinho,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,12,699,0,1,0.0,0.129,0.129,13,20,0,0,0,87.02,6.83,0.07,5.887
+1019518,Luciano,luciano,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,16,698,1,0,0.129,0.0,0.129,16,4,0,0,16,73.94,6.62,0.07,5.706
+1395018,Gabriel Domingos,gabriel domingos,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,8,696,2,0,0.259,0.0,0.259,16,7,0,0,14,83.44,7.14,0.14,6.155
+2168433,Thalyson,thalyson,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,17,696,0,1,0.0,0.129,0.129,19,36,0,0,2,76.38,6.88,0.07,5.931
+1105280,Robson,robson,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,8,694,1,0,0.13,0.0,0.13,2,1,0,0,37,86.91,7.01,0.07,6.043
+1067637,Jhonnathan,jhonnathan,1985,Figueirense,figueirense,2026,Serie_C,0.54,9,687,1,0,0.131,0.0,0.131,3,4,0,0,15,88.63,7.05,0.071,6.077
+2564723,Gabriel de Jesus Moraes,gabriel de jesus moraes,2000,Caxias,caxias,2026,Serie_C,0.54,12,687,1,0,0.131,0.0,0.131,4,0,0,0,22,90.51,6.96,0.071,6.0
+794907,Fernando Viana,fernando viana,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,11,687,3,0,0.393,0.0,0.393,9,0,0,0,12,70.21,6.83,0.212,5.887
+1105825,Luiz Fernando Bull,luiz fernando bull,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,13,687,0,0,0.0,0.0,0.0,2,12,0,0,14,76.34,6.61,0.0,5.698
+243379,Rafael Donato,rafael donato,1972,Guarani,guarani,2026,Serie_C,0.54,11,685,0,0,0.0,0.0,0.0,10,1,0,0,32,90.72,6.92,0.0,5.965
+1028321,Rodolfo Tito de Moraes,rodolfo tito de moraes,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,14,677,0,0,0.0,0.0,0.0,2,2,0,0,17,62.45,6.42,0.0,5.534
+973922,Betão,betao,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,9,672,0,0,0.0,0.0,0.0,4,0,0,0,36,80.8,6.93,0.0,5.974
+992610,Breno,breno,1985,Figueirense,figueirense,2026,Serie_C,0.54,11,671,1,0,0.134,0.0,0.134,4,6,0,0,8,84.85,6.84,0.072,5.896
+2422453,Zé Carlos,ze carlos,1985,Figueirense,figueirense,2026,Serie_C,0.54,15,664,1,0,0.136,0.0,0.136,15,18,0,0,3,75.14,6.84,0.073,5.896
+1170707,Gustavo Silva Souza,gustavo silva souza,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,19,658,1,1,0.137,0.137,0.274,13,5,0,0,7,80.43,6.56,0.148,5.655
+1148585,Grígor Fernandes,grigor fernandes,2000,Caxias,caxias,2026,Serie_C,0.54,11,656,0,0,0.0,0.0,0.0,5,4,0,0,22,76.68,6.71,0.0,5.784
+1185430,Saymon Couto Guedes,saymon couto guedes,257673,Barra FC,barra,2026,Serie_C,0.54,16,651,1,1,0.138,0.138,0.276,23,14,0,0,5,73.39,6.84,0.149,5.896
+1200833,Lucas Rodrigues,lucas rodrigues,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,8,644,0,0,0.0,0.0,0.0,1,0,0,0,30,80.6,6.98,0.0,6.017
+878087,Renatinho,renatinho,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,15,631,1,0,0.143,0.0,0.143,12,5,0,0,5,76.92,6.82,0.077,5.879
+329235,Lucca,lucca,1972,Guarani,guarani,2026,Serie_C,0.54,16,631,1,1,0.143,0.143,0.286,15,8,0,0,12,76.47,6.81,0.154,5.87
+865372,Saulo,saulo,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,7,630,0,0,0.0,0.0,0.0,0,0,0,0,0,85.57,6.42,0.0,5.534
+243167,Dener,dener,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,12,627,0,0,0.0,0.0,0.0,14,4,0,0,22,85.49,6.79,0.0,5.853
+1104608,Alason Carioca,alason carioca,2025,Ituano,ituano,2026,Serie_C,0.54,14,627,1,1,0.144,0.144,0.288,7,20,0,0,6,72.04,6.76,0.156,5.827
+893524,Jhonny Lucas,jhonny lucas,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,11,623,0,0,0.0,0.0,0.0,8,2,0,0,5,80.38,6.54,0.0,5.637
+1435269,Cleiton Araújo,cleiton araujo,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,11,622,1,0,0.145,0.0,0.145,12,17,0,0,2,78.35,6.9,0.078,5.948
+865314,Maikon Aquino,maikon aquino,2017,Confiança,confianca,2026,Serie_C,0.54,12,616,3,0,0.438,0.0,0.438,6,5,0,0,34,67.65,6.81,0.237,5.87
+268407,Jonatan Lucca,jonatan lucca,21884,Brusque,brusque,2026,Serie_C,0.54,13,609,0,0,0.0,0.0,0.0,1,1,0,0,9,82.05,6.51,0.0,5.612
+1176162,Erick Henrique Pontes,erick henrique pontes,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,9,597,0,0,0.0,0.0,0.0,3,6,0,0,5,75.81,6.64,0.0,5.724
+1175023,Breyner Camilo,breyner camilo,2017,Confiança,confianca,2026,Serie_C,0.54,13,587,0,0,0.0,0.0,0.0,15,13,0,0,2,79.53,6.68,0.0,5.758
+870752,Valdo,valdo,274286,Floresta,floresta,2026,Serie_C,0.54,7,579,0,0,0.0,0.0,0.0,1,0,0,0,11,85.86,6.7,0.0,5.775
+875230,Cedric,cedric,274286,Floresta,floresta,2026,Serie_C,0.54,12,578,0,1,0.0,0.156,0.156,7,6,0,0,4,64.09,6.83,0.084,5.887
+576004,Juninho,juninho,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,13,571,2,0,0.315,0.0,0.315,17,7,0,0,6,80.11,6.92,0.17,5.965
+2440187,Pedro Lucas,pedro lucas,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,10,570,4,1,0.632,0.158,0.79,14,8,0,0,15,70.8,6.89,0.427,5.939
+995288,Kauã,kaua,1972,Guarani,guarani,2026,Serie_C,0.54,13,568,1,1,0.158,0.158,0.316,9,7,0,0,2,85.28,6.76,0.171,5.827
+912292,Lucas Bessa,lucas bessa,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,7,562,0,0,0.0,0.0,0.0,4,1,0,0,3,91.53,6.74,0.0,5.81
+870590,Matheus Barbosa,matheus barbosa,257673,Barra FC,barra,2026,Serie_C,0.54,11,558,1,0,0.161,0.0,0.161,5,2,0,0,2,79.06,6.64,0.087,5.724
+795254,Fabinho,fabinho,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,17,557,1,0,0.162,0.0,0.162,5,1,0,0,19,83.83,6.69,0.087,5.767
+1096099,Pablo Gabriel,pablo gabriel,257673,Barra FC,barra,2026,Serie_C,0.54,13,554,0,1,0.0,0.162,0.162,13,3,0,0,25,84.71,6.74,0.087,5.81
+1008699,Octavio Metzker,octavio metzker,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,8,553,0,0,0.0,0.0,0.0,2,2,0,0,23,83.92,6.94,0.0,5.982
+1588621,Luiz Felipe  Mathias Silva,luiz felipe mathias silva,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,14,548,0,1,0.0,0.164,0.164,9,5,0,0,7,83.84,6.7,0.089,5.775
+1545719,Dudu Dall'agnol,dudu dall'agnol,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,14,546,0,1,0.0,0.165,0.165,6,5,0,0,9,77.49,6.8,0.089,5.862
+1535988,Isaque,isaque,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,12,546,1,0,0.165,0.0,0.165,4,6,0,0,5,74.79,6.6,0.089,5.689
+1841330,Pablo Santos,pablo santos,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,11,545,1,1,0.165,0.165,0.33,18,14,0,0,5,67.74,7.06,0.178,6.086
+942083,Alvaro,alvaro,21884,Brusque,brusque,2026,Serie_C,0.54,18,544,2,0,0.331,0.0,0.331,11,3,0,0,38,69.31,6.66,0.179,5.741
+242359,Diego Ivo,diego ivo,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,7,543,0,0,0.0,0.0,0.0,7,0,0,0,21,88.37,7.27,0.0,6.267
+974442,Augusto Potiguar,augusto potiguar,257673,Barra FC,barra,2026,Serie_C,0.54,6,540,0,3,0.0,0.5,0.5,8,7,0,0,7,69.47,7.37,0.27,6.353
+870850,Max Walef,max walef,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,6,540,0,0,0.0,0.0,0.0,0,0,0,0,2,82.56,7.17,0.0,6.181
+1462674,Guilherme,guilherme,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,9,540,0,0,0.0,0.0,0.0,5,0,0,0,28,91.56,6.99,0.0,6.025
+942337,Marthã Fernando,martha fernando,2025,Ituano,ituano,2026,Serie_C,0.54,10,540,0,0,0.0,0.0,0.0,2,0,0,0,11,84.21,6.71,0.0,5.784
+1527528,Rafael Teixeira,rafael teixeira,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,16,539,0,0,0.0,0.0,0.0,7,10,0,0,9,75.41,6.64,0.0,5.724
+990170,Lucas Ramos,lucas ramos,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,13,533,1,1,0.169,0.169,0.338,5,12,0,0,10,80.54,6.98,0.183,6.017
+987173,Davi Gabriel,davi gabriel,21884,Brusque,brusque,2026,Serie_C,0.54,14,530,0,0,0.0,0.0,0.0,10,5,0,0,2,76.61,6.62,0.0,5.706
+2084238,Julio Cesar Gouvea de Souza,julio cesar gouvea de souza,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,9,528,0,0,0.0,0.0,0.0,2,9,0,0,7,71.1,6.7,0.0,5.775
+1016904,Rhuan,rhuan,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,8,525,0,0,0.0,0.0,0.0,5,2,0,0,4,70.86,6.48,0.0,5.586
+1116566,Danielzinho,danielzinho,2017,Confiança,confianca,2026,Serie_C,0.54,13,516,0,0,0.0,0.0,0.0,8,7,0,0,2,70.9,6.57,0.0,5.663
+1116660,Estêvão,estevao,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,9,513,4,0,0.702,0.0,0.702,21,13,0,0,5,78.85,7.33,0.379,6.318
+1997594,João Borim,joao borim,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,13,509,1,0,0.177,0.0,0.177,11,2,0,0,6,81.45,6.65,0.096,5.732
+1589491,Arthur Nether Schiling,arthur nether hiling,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,13,508,0,0,0.0,0.0,0.0,5,3,0,0,2,84.92,6.66,0.0,5.741
+166471,Felipe Azevedo,felipe azevedo,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,7,504,1,0,0.179,0.0,0.179,4,2,0,0,8,71.2,6.48,0.097,5.586
+1609834,Valdenilson Azevedo Júnior,valdenilson azevedo junior,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,6,495,0,0,0.0,0.0,0.0,0,0,0,0,21,91.61,7.22,0.0,6.224
+1007416,Douglas Skilo,douglas skilo,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,18,490,2,0,0.367,0.0,0.367,16,4,0,0,9,78.15,6.75,0.198,5.818
+1018097,Juliano Fabro,juliano fabro,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,11,490,1,0,0.184,0.0,0.184,12,8,0,0,4,75.81,6.68,0.099,5.758
+2456804,Raoni,raoni,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,11,485,0,0,0.0,0.0,0.0,3,5,0,0,4,83.69,6.64,0.0,5.724
+1463563,Matheus Julião,matheus juliao,2017,Confiança,confianca,2026,Serie_C,0.54,7,482,0,0,0.0,0.0,0.0,1,0,0,0,6,81.9,6.8,0.0,5.862
+1464654,Udeh Clinton,udeh clinton,21884,Brusque,brusque,2026,Serie_C,0.54,22,479,1,0,0.188,0.0,0.188,8,18,0,0,6,64.66,6.62,0.102,5.706
+867951,Vinícius Leite,vinicius leite,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,12,478,0,0,0.0,0.0,0.0,8,7,0,0,8,76.59,6.84,0.0,5.896
+86110,Alex Gonçalves,alex goncalves,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,6,469,1,0,0.192,0.0,0.192,10,0,0,0,19,74.47,6.67,0.104,5.75
+1105995,Vitor Ricardo,vitor ricardo,1985,Figueirense,figueirense,2026,Serie_C,0.54,10,463,0,2,0.0,0.389,0.389,6,0,0,0,3,75.0,6.85,0.21,5.905
+1589923,Juninho,juninho,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,11,461,0,0,0.0,0.0,0.0,5,1,0,0,4,76.19,6.47,0.0,5.577
+1016996,Claudinho,claudinho,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,12,460,1,1,0.196,0.196,0.392,17,7,0,0,6,81.16,7.23,0.212,6.232
+244087,Emerson Santos,emerson santos,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,15,459,0,0,0.0,0.0,0.0,0,0,0,0,9,83.95,6.53,0.0,5.629
+243469,Wellington Silva,wellington silva,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,9,455,0,0,0.0,0.0,0.0,2,3,0,0,7,87.98,6.62,0.0,5.706
+1117784,Matheus,matheus,2017,Confiança,confianca,2026,Serie_C,0.54,5,450,0,0,0.0,0.0,0.0,0,0,0,0,3,73.61,7.66,0.0,6.603
+1018906,Lucas Anselmo Maticoli,lucas anselmo maticoli,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,5,450,0,0,0.0,0.0,0.0,0,0,0,0,7,85.56,7.36,0.0,6.344
+1023576,Fabian Volpi,fabian volpi,257673,Barra FC,barra,2026,Serie_C,0.54,5,450,0,0,0.0,0.0,0.0,0,0,0,0,1,86.84,7.1,0.0,6.12
+807764,Ravanelli,ravanelli,2000,Caxias,caxias,2026,Serie_C,0.54,9,450,1,0,0.2,0.0,0.2,9,7,0,0,2,79.67,6.98,0.108,6.017
+1105052,Zulu,zulu,274286,Floresta,floresta,2026,Serie_C,0.54,5,450,0,0,0.0,0.0,0.0,3,0,0,0,9,77.03,6.94,0.0,5.982
+1490609,Bruno Cheron,bruno cheron,135324,Maringá FC,maringa,2026,Serie_C,0.54,12,447,2,0,0.403,0.0,0.403,14,10,0,0,7,78.71,6.86,0.218,5.913
+1083992,Wesley,wesley,2025,Ituano,ituano,2026,Serie_C,0.54,5,446,0,0,0.0,0.0,0.0,0,0,0,0,1,72.73,6.74,0.0,5.81
+1857203,Kaik Vicoza dos Anjos,kaik vicoza dos anjos,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,8,442,0,0,0.0,0.0,0.0,0,2,0,0,1,74.38,6.63,0.0,5.715
+1487164,Iarley,iarley,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,7,441,0,0,0.0,0.0,0.0,1,0,0,0,21,82.16,6.67,0.0,5.75
+1184843,Ariel Gomes,ariel gomes,21884,Brusque,brusque,2026,Serie_C,0.54,12,438,3,0,0.616,0.0,0.616,8,2,0,0,8,81.56,6.86,0.333,5.913
+1148443,Fernandinho Paiva,fernandinho paiva,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,13,437,1,0,0.206,0.0,0.206,12,8,0,0,3,82.21,6.77,0.111,5.836
+1148575,João Maistro,joao maistro,21884,Brusque,brusque,2026,Serie_C,0.54,7,435,0,0,0.0,0.0,0.0,1,0,0,0,15,89.18,6.79,0.0,5.853
+1836778,Kauan Guilherme,kauan guilherme,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,6,429,0,0,0.0,0.0,0.0,1,0,0,0,2,74.71,6.53,0.0,5.629
+1147010,Marquinho,marquinho,257673,Barra FC,barra,2026,Serie_C,0.54,5,426,1,0,0.211,0.0,0.211,10,3,0,0,2,81.25,7.16,0.114,6.172
+931484,Alyson,alyson,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,9,420,0,0,0.0,0.0,0.0,3,0,0,0,15,70.37,6.6,0.0,5.689
+1020469,Oswaldo Blanco,oswaldo blanco,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,8,420,1,0,0.214,0.0,0.214,4,5,0,0,7,80.49,6.54,0.116,5.637
+1086990,Ryan,ryan,1985,Figueirense,figueirense,2026,Serie_C,0.54,6,419,0,0,0.0,0.0,0.0,1,2,0,0,7,78.9,7.0,0.0,6.034
+2453623,Brian Wendell Melo de Souza,brian wendell melo de souza,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,9,410,0,0,0.0,0.0,0.0,4,1,0,0,11,81.62,6.59,0.0,5.681
+850880,Weriton Luiz Gutierre,weriton luiz gutierre,2017,Confiança,confianca,2026,Serie_C,0.54,9,409,0,0,0.0,0.0,0.0,2,5,0,0,4,87.04,6.78,0.0,5.844
+877571,Jorge Roa Jiménez,jorge roa jimenez,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,5,406,0,0,0.0,0.0,0.0,3,1,0,0,14,89.45,6.78,0.0,5.844
+1546666,Daniel Troiano,daniel troiano,274286,Floresta,floresta,2026,Serie_C,0.54,10,405,3,1,0.667,0.222,0.889,6,4,0,0,9,65.57,6.83,0.48,5.887
+2140769,Felipe,felipe,135324,Maringá FC,maringa,2026,Serie_C,0.54,8,405,1,0,0.222,0.0,0.222,5,3,0,0,16,77.46,6.66,0.12,5.741
+2023708,Alvaro Henrico Paiva,alvaro henrico paiva,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,15,405,0,0,0.0,0.0,0.0,6,7,0,0,11,80.47,6.54,0.0,5.637
+794910,Rafael Furlan,rafael furlan,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,5,404,0,0,0.0,0.0,0.0,8,5,0,0,3,86.9,7.28,0.0,6.275
+334713,Lucas Candido,lucas candido,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,9,403,2,0,0.447,0.0,0.447,7,1,0,0,10,80.34,6.83,0.241,5.887
+1114095,Luan Silva,luan silva,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,11,403,0,0,0.0,0.0,0.0,10,2,0,0,11,69.33,6.56,0.0,5.655
+1515293,Pedro Peçanha,pedro pecanha,257673,Barra FC,barra,2026,Serie_C,0.54,5,401,0,0,0.0,0.0,0.0,3,2,0,0,6,77.44,6.9,0.0,5.948
+1652653,Mailson,mailson,1985,Figueirense,figueirense,2026,Serie_C,0.54,8,388,0,0,0.0,0.0,0.0,8,5,0,0,7,70.89,6.5,0.0,5.603
+1117595,Vinicius Charopem,vinicius charopem,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,15,385,2,0,0.468,0.0,0.468,7,1,0,0,7,67.14,6.64,0.253,5.724
+242215,Giovanni,giovanni,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,15,384,2,0,0.469,0.0,0.469,14,6,0,0,3,86.15,6.85,0.253,5.905
+1148401,Romarinho,romarinho,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,12,384,0,1,0.0,0.234,0.234,10,4,0,0,2,68.75,6.65,0.126,5.732
+1589972,Rodrigo Jesse dos Santos Viana,rodrigo jesse dos santos viana,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,10,383,0,0,0.0,0.0,0.0,7,2,0,0,1,76.36,6.56,0.0,5.655
+931760,Madison,madison,2017,Confiança,confianca,2026,Serie_C,0.54,6,381,0,0,0.0,0.0,0.0,4,1,0,0,5,89.68,6.8,0.0,5.862
+1046433,Danielzinho,danielzinho,135324,Maringá FC,maringa,2026,Serie_C,0.54,11,381,1,1,0.236,0.236,0.472,12,11,0,0,2,75.63,6.72,0.255,5.793
+870560,Marco Antônio,marco antonio,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,14,378,2,0,0.476,0.0,0.476,15,7,0,0,6,80.25,6.86,0.257,5.913
+878089,Vitor Feijão,vitor feijao,2000,Caxias,caxias,2026,Serie_C,0.54,10,376,2,1,0.479,0.239,0.718,4,3,0,0,2,61.76,6.89,0.388,5.939
+1590490,Thálisson,thalisson,274286,Floresta,floresta,2026,Serie_C,0.54,10,376,1,0,0.239,0.0,0.239,8,8,0,0,9,77.11,6.79,0.129,5.853
+983861,Alisson Cassiano,alisson cassiano,21884,Brusque,brusque,2026,Serie_C,0.54,5,374,0,1,0.0,0.241,0.241,1,1,0,0,6,78.9,6.66,0.13,5.741
+60472,Bruno Mezenga,bruno mezenga,2025,Ituano,ituano,2026,Serie_C,0.54,15,371,1,0,0.243,0.0,0.243,23,1,0,0,29,67.21,6.74,0.131,5.81
+978542,Vinicius Popó,vinicius popo,257673,Barra FC,barra,2026,Serie_C,0.54,7,370,0,0,0.0,0.0,0.0,9,1,0,0,10,83.67,6.6,0.0,5.689
+2176567,Kauan Nascimento Firmo,kauan nascimento firmo,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,5,368,0,0,0.0,0.0,0.0,0,1,0,0,3,73.87,6.62,0.0,5.706
+329027,Marcelo Cirino,marcelo cirino,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,6,365,0,0,0.0,0.0,0.0,4,1,0,0,4,75.0,6.62,0.0,5.706
+2428101,Caetano,caetano,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,8,363,0,0,0.0,0.0,0.0,5,2,0,0,3,77.88,6.65,0.0,5.732
+551746,Ronaldo Henrique,ronaldo henrique,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,14,362,0,0,0.0,0.0,0.0,6,0,0,0,6,88.89,6.62,0.0,5.706
+2440869,Leandro Sergipe,leandro sergipe,2025,Ituano,ituano,2026,Serie_C,0.54,4,360,0,0,0.0,0.0,0.0,1,0,0,0,12,81.88,6.75,0.0,5.818
+1524117,Gustavo Cintra,gustavo cintra,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,5,347,0,0,0.0,0.0,0.0,2,0,0,0,8,71.32,6.76,0.0,5.827
+307894,Cássio Gabriel,cassio gabriel,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,4,346,1,0,0.26,0.0,0.26,7,4,0,0,3,87.91,7.53,0.14,6.491
+1145108,Gabriel Tota,gabriel tota,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,9,346,0,1,0.0,0.26,0.26,8,4,0,0,0,82.49,6.78,0.14,5.844
+959474,Vitinho,vitinho,2000,Caxias,caxias,2026,Serie_C,0.54,11,343,0,0,0.0,0.0,0.0,4,12,0,0,4,73.33,6.77,0.0,5.836
+1588628,Victor Reis,victor reis,2025,Ituano,ituano,2026,Serie_C,0.54,8,342,0,0,0.0,0.0,0.0,1,6,0,0,4,81.75,6.45,0.0,5.56
+923853,Matheusinho,matheusinho,274286,Floresta,floresta,2026,Serie_C,0.54,16,340,0,1,0.0,0.265,0.265,7,13,0,0,2,78.72,6.76,0.143,5.827
+1463922,João Celeri,joao celeri,274286,Floresta,floresta,2026,Serie_C,0.54,10,337,0,1,0.0,0.267,0.267,2,2,0,0,14,79.07,6.57,0.144,5.663
+1102255,Wagner Balotelli,wagner balotelli,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,4,336,0,0,0.0,0.0,0.0,1,4,0,0,13,79.02,6.9,0.0,5.948
+1467342,Felipe Santiago,felipe santiago,1985,Figueirense,figueirense,2026,Serie_C,0.54,7,333,0,0,0.0,0.0,0.0,2,0,0,0,12,85.79,6.46,0.0,5.569
+1466463,Dyego,dyego,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,6,332,0,0,0.0,0.0,0.0,8,2,0,0,1,71.7,6.58,0.0,5.672
+1174558,Dentinho,dentinho,2000,Caxias,caxias,2026,Serie_C,0.54,6,327,1,0,0.275,0.0,0.275,13,18,0,0,2,77.78,6.97,0.149,6.008
+1047819,Henrique Freitas,henrique freitas,257673,Barra FC,barra,2026,Serie_C,0.54,6,327,0,0,0.0,0.0,0.0,4,1,0,0,2,85.71,6.72,0.0,5.793
+1469520,Léo Guerra,leo guerra,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,8,323,0,0,0.0,0.0,0.0,5,12,0,0,5,68.42,6.7,0.0,5.775
+927097,Léo Pereira,leo pereira,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,6,316,0,0,0.0,0.0,0.0,2,3,0,0,9,71.05,6.68,0.0,5.758
+870807,Pimentinha,pimentinha,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,8,312,0,1,0.0,0.288,0.288,7,17,0,0,2,74.73,6.91,0.156,5.956
+1124166,Bryam,bryam,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,9,311,1,0,0.289,0.0,0.289,8,12,0,0,4,75.51,6.82,0.156,5.879
+1465708,Felipe Muranga,felipe muranga,2025,Ituano,ituano,2026,Serie_C,0.54,8,310,0,0,0.0,0.0,0.0,7,8,0,0,3,77.9,6.94,0.0,5.982
+880120,Alisson,alisson,2017,Confiança,confianca,2026,Serie_C,0.54,4,309,1,0,0.291,0.0,0.291,2,0,0,0,8,93.7,6.85,0.157,5.905
+870651,Patrick Allan,patrick allan,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,10,306,0,0,0.0,0.0,0.0,8,3,0,0,4,83.09,6.72,0.0,5.793
+2128550,Luis Otávio,luis otavio,1972,Guarani,guarani,2026,Serie_C,0.54,4,304,0,0,0.0,0.0,0.0,3,2,0,0,9,84.97,7.1,0.0,6.12
+1546653,Victor Leandro Ribeiro,victor leandro ribeiro,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,4,304,0,0,0.0,0.0,0.0,2,1,0,0,4,70.83,6.93,0.0,5.974
+870692,Marcel,marcel,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,5,301,0,0,0.0,0.0,0.0,0,0,0,0,2,89.13,6.6,0.0,5.689
+986867,Rafael Marcos,rafael marcos,274286,Floresta,floresta,2026,Serie_C,0.54,5,299,0,0,0.0,0.0,0.0,6,5,0,0,2,75.47,6.82,0.0,5.879
+1470187,Rian Pacheco,rian pacheco,1972,Guarani,guarani,2026,Serie_C,0.54,4,299,0,0,0.0,0.0,0.0,2,5,0,0,9,79.58,6.73,0.0,5.801
+1468801,Vitor Gabriel,vitor gabriel,2000,Caxias,caxias,2026,Serie_C,0.54,8,298,0,0,0.0,0.0,0.0,0,4,0,0,10,81.08,6.76,0.0,5.827
+2164990,Bernardo Daciolo,bernardo daciolo,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,8,296,0,0,0.0,0.0,0.0,6,3,0,0,5,74.07,6.74,0.0,5.81
+1863782,Cauã Tavares Cruz,caua tavares cruz,135324,Maringá FC,maringa,2026,Serie_C,0.54,7,295,0,1,0.0,0.305,0.305,4,0,0,0,12,82.47,6.64,0.165,5.724
+986376,Israel,israel,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,4,293,0,1,0.0,0.307,0.307,3,1,0,0,8,76.61,6.8,0.166,5.862
+1105842,Marcos Vinicius,marcos vinicius,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,4,288,0,0,0.0,0.0,0.0,6,4,0,0,1,87.32,6.75,0.0,5.818
+2026532,Lucas Vargas Cavalcanti,lucas vargas cavalcanti,257673,Barra FC,barra,2026,Serie_C,0.54,8,285,0,0,0.0,0.0,0.0,3,3,0,0,6,74.19,6.42,0.0,5.534
+1631936,Kauã Hinkel,kaua hinkel,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,7,281,0,0,0.0,0.0,0.0,7,12,0,0,4,63.64,6.73,0.0,5.801
+1856193,Rai,rai,135324,Maringá FC,maringa,2026,Serie_C,0.54,14,278,2,0,0.647,0.0,0.647,7,3,0,0,11,72.0,6.64,0.349,5.724
+871003,Diego Tavares,diego tavares,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,10,278,0,1,0.0,0.324,0.324,3,7,0,0,3,65.0,6.61,0.175,5.698
+1510236,Rafinha,rafinha,135324,Maringá FC,maringa,2026,Serie_C,0.54,11,275,2,0,0.655,0.0,0.655,9,7,0,0,7,87.84,6.84,0.354,5.896
+1467004,Lucão,lucao,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,8,273,0,0,0.0,0.0,0.0,1,2,0,0,10,79.31,6.59,0.0,5.681
+1191420,Nelsinho,nelsinho,2025,Ituano,ituano,2026,Serie_C,0.54,6,272,1,0,0.331,0.0,0.331,4,2,0,0,2,77.39,6.58,0.179,5.672
+859084,Renan Dida,renan dida,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,3,270,0,0,0.0,0.0,0.0,0,0,0,0,3,78.85,7.43,0.0,6.405
+986864,Jean Drosny,jean drosny,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,3,270,0,0,0.0,0.0,0.0,0,0,0,0,1,80.77,7.3,0.0,6.293
+842750,Tony,tony,135324,Maringá FC,maringa,2026,Serie_C,0.54,3,270,0,0,0.0,0.0,0.0,0,0,0,0,0,87.5,6.17,0.0,5.319
+822521,Guilherme Nunes,guilherme nunes,2017,Confiança,confianca,2026,Serie_C,0.54,5,269,0,0,0.0,0.0,0.0,2,2,0,0,5,83.59,6.48,0.0,5.586
+1507611,Jean Gabriel,jean gabriel,1985,Figueirense,figueirense,2026,Serie_C,0.54,3,267,0,0,0.0,0.0,0.0,8,6,0,0,2,81.72,6.97,0.0,6.008
+1174204,Nathan Melo,nathan melo,1972,Guarani,guarani,2026,Serie_C,0.54,5,264,1,0,0.341,0.0,0.341,5,2,0,0,14,88.68,6.76,0.184,5.827
+1655166,Ball,ball,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,5,263,0,0,0.0,0.0,0.0,2,3,0,0,4,77.59,6.73,0.0,5.801
+884753,Matheus Anjos,matheus anjos,2000,Caxias,caxias,2026,Serie_C,0.54,6,262,0,0,0.0,0.0,0.0,5,6,0,0,2,80.85,7.08,0.0,6.103
+1119894,Giva,giva,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,5,259,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.3,0.0,5.431
+931499,Diego Matos,diego matos,274286,Floresta,floresta,2026,Serie_C,0.54,13,258,0,0,0.0,0.0,0.0,2,2,0,0,3,71.25,6.58,0.0,5.672
+1644835,Adriel,adriel,257673,Barra FC,barra,2026,Serie_C,0.54,3,255,1,0,0.353,0.0,0.353,4,0,0,0,8,84.48,7.23,0.191,6.232
+1523834,Marcos Andre,marcos andre,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,7,251,2,0,0.717,0.0,0.717,8,2,0,0,13,73.17,6.91,0.387,5.956
+1087858,Samuel,samuel,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,5,251,1,0,0.359,0.0,0.359,4,0,0,0,1,94.07,6.76,0.194,5.827
+1587998,Paulo Henrique Novais,paulo henrique novais,2017,Confiança,confianca,2026,Serie_C,0.54,10,250,0,0,0.0,0.0,0.0,3,1,0,0,10,81.71,6.57,0.0,5.663
+1016658,Juninho,juninho,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,5,247,0,0,0.0,0.0,0.0,4,3,0,0,2,75.96,6.54,0.0,5.637
+842290,Jeferson Santos,jeferson santos,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,3,245,0,0,0.0,0.0,0.0,0,0,0,0,2,81.82,6.63,0.0,5.715
+325357,Serginho,serginho,135324,Maringá FC,maringa,2026,Serie_C,0.54,10,242,0,1,0.0,0.372,0.372,9,4,0,0,1,85.92,6.93,0.201,5.974
+1395900,Pedro Felipe,pedro felipe,2017,Confiança,confianca,2026,Serie_C,0.54,4,241,0,0,0.0,0.0,0.0,1,4,0,0,8,69.05,6.63,0.0,5.715
+243157,Sassá,sassa,2017,Confiança,confianca,2026,Serie_C,0.54,8,240,0,0,0.0,0.0,0.0,3,1,0,0,3,87.5,6.51,0.0,5.612
+1545711,João Vitor Gharib de Moraes,joao vitor gharib de moraes,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,7,239,0,0,0.0,0.0,0.0,4,3,0,0,3,90.96,6.86,0.0,5.913
+2457296,Lucas Stefanello,lucas stefanello,2025,Ituano,ituano,2026,Serie_C,0.54,8,238,1,0,0.378,0.0,0.378,4,7,0,0,1,77.23,6.69,0.204,5.767
+859083,Dudu,dudu,1972,Guarani,guarani,2026,Serie_C,0.54,3,237,1,1,0.38,0.38,0.76,5,2,0,0,0,81.62,7.1,0.41,6.12
+1590496,Matheus Lima,matheus lima,274286,Floresta,floresta,2026,Serie_C,0.54,9,236,2,0,0.763,0.0,0.763,8,0,0,0,14,79.55,6.54,0.412,5.637
+1109020,Edson Fernando Diniz,edson fernando diniz,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,7,234,0,0,0.0,0.0,0.0,2,0,0,0,10,69.84,6.43,0.0,5.543
+1463328,Arthur Martins,arthur martins,1985,Figueirense,figueirense,2026,Serie_C,0.54,10,227,1,0,0.396,0.0,0.396,3,2,0,0,2,88.41,6.63,0.214,5.715
+1110657,Vinni Faria,vinni faria,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,6,226,1,0,0.398,0.0,0.398,5,9,0,0,4,74.55,6.8,0.215,5.862
+1114844,Eduardo Moura,eduardo moura,2017,Confiança,confianca,2026,Serie_C,0.54,3,226,0,0,0.0,0.0,0.0,1,0,0,0,3,86.67,6.8,0.0,5.862
+846309,Yefferson Quintana,yefferson quintana,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,3,225,0,0,0.0,0.0,0.0,3,0,0,0,10,90.18,6.93,0.0,5.974
+2034646,Júlio Henrique,julio henrique,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,4,225,1,0,0.4,0.0,0.4,6,1,0,0,5,76.71,6.28,0.216,5.413
+990710,Fabinho,fabinho,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,5,223,0,0,0.0,0.0,0.0,1,3,0,0,3,88.98,6.5,0.0,5.603
+852413,Victor Feitosa,victor feitosa,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,3,222,0,0,0.0,0.0,0.0,2,0,0,0,5,90.48,6.77,0.0,5.836
+1485377,Vítor Castro,vitor castro,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,4,217,0,0,0.0,0.0,0.0,2,2,0,0,0,93.17,6.75,0.0,5.818
+1159638,Lucas Santos,lucas santos,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,9,213,0,0,0.0,0.0,0.0,0,1,0,0,4,62.5,6.53,0.0,5.629
+335365,Régis,regis,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,4,209,0,0,0.0,0.0,0.0,3,5,0,0,0,65.22,6.55,0.0,5.646
+1175615,Igor Silva,igor silva,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,9,207,0,0,0.0,0.0,0.0,0,0,0,0,6,84.09,6.44,0.0,5.551
+1471227,Wendel,wendel,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,5,206,0,0,0.0,0.0,0.0,5,4,0,0,4,63.64,6.72,0.0,5.793
+1546642,Guilherme Vieira Moraes da Silva,guilherme vieira moraes da silva,1985,Figueirense,figueirense,2026,Serie_C,0.54,5,205,0,1,0.0,0.439,0.439,2,2,0,0,1,86.49,6.76,0.237,5.827
+349534,Hyuri,hyuri,1985,Figueirense,figueirense,2026,Serie_C,0.54,11,203,2,0,0.887,0.0,0.887,9,2,0,0,8,81.58,6.63,0.479,5.715
+1109043,Daniel Baianinho,daniel baianinho,274286,Floresta,floresta,2026,Serie_C,0.54,5,201,0,0,0.0,0.0,0.0,2,3,0,0,1,71.43,6.48,0.0,5.586
+1488517,Léo Souza,leo souza,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,3,200,0,0,0.0,0.0,0.0,0,0,0,0,3,67.5,7.7,0.0,6.637
+557000,Rodrigo,rodrigo,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,5,199,0,0,0.0,0.0,0.0,0,0,0,0,4,83.02,6.43,0.0,5.543
+1861412,Raylison,raylison,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,8,199,0,0,0.0,0.0,0.0,0,0,0,0,6,67.35,6.35,0.0,5.474
+871021,Rafael Furtado,rafael furtado,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,7,198,0,0,0.0,0.0,0.0,5,2,0,0,12,78.95,6.7,0.0,5.775
+931510,João Pedro Florêncio Barbosa,joao pedro florencio barbosa,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,5,195,0,0,0.0,0.0,0.0,3,2,0,0,0,80.0,6.54,0.0,5.637
+1067451,Matheus Régis,matheus regis,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,3,193,0,0,0.0,0.0,0.0,9,10,0,0,2,83.13,7.03,0.0,6.06
+1465212,Yan Henrique,yan henrique,1972,Guarani,guarani,2026,Serie_C,0.54,3,193,0,0,0.0,0.0,0.0,0,2,0,0,2,78.57,6.87,0.0,5.922
+1214719,Antonio David Souza,antonio david souza,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,3,190,0,0,0.0,0.0,0.0,1,3,0,0,1,82.35,6.87,0.0,5.922
+2027356,Nicolas Eduardo da Silva,nicolas eduardo da silva,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,4,190,0,0,0.0,0.0,0.0,2,0,0,0,4,77.14,6.33,0.0,5.456
+922580,Arilson,arilson,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,7,189,0,0,0.0,0.0,0.0,1,0,0,0,2,83.33,6.66,0.0,5.741
+46825,Fabricio,fabricio,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,4,186,0,0,0.0,0.0,0.0,2,0,0,0,1,91.21,6.83,0.0,5.887
+869651,Lucas Wingert,lucas wingert,2025,Ituano,ituano,2026,Serie_C,0.54,3,184,0,0,0.0,0.0,0.0,0,0,0,0,0,75.0,6.9,0.0,5.948
+152510,Fernando Canesin,fernando canesin,2025,Ituano,ituano,2026,Serie_C,0.54,6,182,1,0,0.495,0.0,0.495,2,3,0,0,2,70.0,6.7,0.267,5.775
+551314,Alemão,alemao,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,3,182,0,0,0.0,0.0,0.0,0,0,0,0,7,88.19,6.57,0.0,5.663
+2027389,Gabriel Garcia Ticianelli,gabriel garcia ticianelli,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,3,181,0,0,0.0,0.0,0.0,0,0,0,0,4,76.71,6.47,0.0,5.577
+1493107,Leandro Mathias,leandro mathias,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,2,180,0,0,0.0,0.0,0.0,0,0,0,0,1,78.38,8.5,0.0,7.327
+1474923,Fernandinho Conceição,fernandinho conceicao,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,9,180,0,0,0.0,0.0,0.0,3,0,0,0,5,83.64,6.54,0.0,5.637
+1112340,Andrey Dias,andrey dias,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,5,178,0,1,0.0,0.506,0.506,2,4,0,0,2,82.81,6.68,0.273,5.758
+1118337,Gustavo Santos,gustavo santos,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,6,177,0,0,0.0,0.0,0.0,3,2,0,0,2,77.78,6.63,0.0,5.715
+1119305,Leonardo Ataíde,leonardo ataide,21884,Brusque,brusque,2026,Serie_C,0.54,6,177,0,0,0.0,0.0,0.0,0,2,0,0,4,79.81,6.6,0.0,5.689
+1462705,Gustavo Nicola,gustavo nicola,2017,Confiança,confianca,2026,Serie_C,0.54,3,174,0,0,0.0,0.0,0.0,4,0,0,0,1,83.33,7.0,0.0,6.034
+1187255,Willian Junior,willian junior,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,5,174,0,0,0.0,0.0,0.0,1,3,0,0,0,74.29,6.82,0.0,5.879
+956861,Mirandinha,mirandinha,1972,Guarani,guarani,2026,Serie_C,0.54,8,174,0,0,0.0,0.0,0.0,8,10,0,0,1,82.54,6.69,0.0,5.767
+893376,Felipe Pará,felipe para,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,5,173,0,1,0.0,0.52,0.52,1,3,0,0,0,81.94,6.82,0.281,5.879
+1467126,Alex Paulino,alex paulino,21884,Brusque,brusque,2026,Serie_C,0.54,7,172,0,0,0.0,0.0,0.0,0,0,0,0,8,87.69,6.42,0.0,5.534
+1485196,Caio Garcia,caio garcia,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,5,170,0,0,0.0,0.0,0.0,1,1,0,0,5,91.67,6.78,0.0,5.844
+1107063,Erverson,erverson,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,5,170,0,0,0.0,0.0,0.0,2,3,0,0,4,77.78,6.62,0.0,5.706
+1032936,Marquinhos,marquinhos,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,2,166,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+974023,Elvinho,elvinho,257673,Barra FC,barra,2026,Serie_C,0.54,3,166,0,0,0.0,0.0,0.0,1,3,0,0,0,92.54,7.3,0.0,6.293
+882657,Guilherme Borges,guilherme borges,274286,Floresta,floresta,2026,Serie_C,0.54,10,166,0,0,0.0,0.0,0.0,1,0,0,0,1,89.22,6.55,0.0,5.646
+1864316,Adrien Graffin,adrien graffin,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,7,165,1,1,0.545,0.545,1.09,6,1,0,0,2,78.57,6.66,0.589,5.741
+931472,Jonas Toró,jonas toro,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,6,165,0,0,0.0,0.0,0.0,5,0,0,0,3,82.22,6.6,0.0,5.689
+1491535,Luiz Thiago,luiz thiago,2017,Confiança,confianca,2026,Serie_C,0.54,3,164,0,0,0.0,0.0,0.0,1,0,0,0,5,77.27,6.47,0.0,5.577
+1148362,Iago Santana,iago santana,135324,Maringá FC,maringa,2026,Serie_C,0.54,14,162,1,0,0.556,0.0,0.556,2,1,0,0,16,80.6,6.59,0.3,5.681
+840279,Rafael Oller,rafael oller,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,6,158,0,0,0.0,0.0,0.0,4,7,0,0,1,86.21,6.76,0.0,5.827
+2565142,Matheuzinho,matheuzinho,257673,Barra FC,barra,2026,Serie_C,0.54,7,157,0,0,0.0,0.0,0.0,3,10,0,0,0,70.0,6.6,0.0,5.689
+1507280,Betinho,betinho,257673,Barra FC,barra,2026,Serie_C,0.54,5,157,0,0,0.0,0.0,0.0,2,3,0,0,1,62.22,6.46,0.0,5.569
+1900799,Vini Oliveira,vini oliveira,2025,Ituano,ituano,2026,Serie_C,0.54,2,156,0,0,0.0,0.0,0.0,3,2,0,0,5,66.67,6.75,0.0,5.818
+1647487,Francisco Joelson Ferreira,francisco joelson ferreira,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,9,153,0,0,0.0,0.0,0.0,1,0,0,0,4,76.47,6.41,0.0,5.525
+1589221,Lucas Kallyel,lucas kallyel,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,3,150,0,0,0.0,0.0,0.0,2,0,0,0,3,77.19,6.63,0.0,5.715
+1215121,Victor Jesus,victor jesus,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,5,147,0,0,0.0,0.0,0.0,2,1,0,0,2,70.83,6.68,0.0,5.758
+934805,Lorran,lorran,2017,Confiança,confianca,2026,Serie_C,0.54,4,147,0,0,0.0,0.0,0.0,2,4,0,0,6,80.0,6.65,0.0,5.732
+1561001,Railson Carvalho,railson carvalho,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,6,147,0,0,0.0,0.0,0.0,0,0,0,0,2,86.27,6.48,0.0,5.586
+2707734,Gustavo Henrique Santos,gustavo henrique santos,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,3,146,0,0,0.0,0.0,0.0,2,0,0,0,6,83.87,6.7,0.0,5.775
+2120742,Elimar,elimar,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,10,142,0,0,0.0,0.0,0.0,2,6,0,0,0,76.47,6.37,0.0,5.491
+959004,Fabrício Oya,fabricio oya,2017,Confiança,confianca,2026,Serie_C,0.54,6,141,0,0,0.0,0.0,0.0,6,1,0,0,1,78.33,6.84,0.0,5.896
+840034,Rafael Castro,rafael castro,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,3,141,0,0,0.0,0.0,0.0,0,0,0,0,7,95.29,6.53,0.0,5.629
+1467706,Alan Stence,alan stence,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,8,140,0,1,0.0,0.643,0.643,8,9,0,0,2,80.77,6.85,0.347,5.905
+822513,Andrey,andrey,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,5,140,0,0,0.0,0.0,0.0,3,0,0,0,2,89.09,6.72,0.0,5.793
+243499,Héber,heber,21884,Brusque,brusque,2026,Serie_C,0.54,2,139,1,0,0.647,0.0,0.647,1,0,0,0,2,71.43,6.7,0.349,5.775
+2453626,Matheus Capixaba,matheus capixaba,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,2,138,0,0,0.0,0.0,0.0,1,0,0,0,2,69.81,6.7,0.0,5.775
+1172990,Choco,choco,1985,Figueirense,figueirense,2026,Serie_C,0.54,5,138,0,0,0.0,0.0,0.0,8,1,0,0,1,89.87,6.62,0.0,5.706
+823980,Guilherme Parede,guilherme parede,1972,Guarani,guarani,2026,Serie_C,0.54,9,136,1,1,0.662,0.662,1.324,9,5,0,0,3,67.44,6.82,0.715,5.879
+866865,Marcelo,marcelo,2017,Confiança,confianca,2026,Serie_C,0.54,4,135,0,0,0.0,0.0,0.0,0,2,0,0,3,82.46,6.65,0.0,5.732
+2428103,Caio Henrique Pereira da Silva,caio henrique pereira da silva,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,4,132,0,0,0.0,0.0,0.0,5,2,0,0,0,80.56,6.7,0.0,5.775
+1492325,Felipe Sales,felipe sales,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,8,132,0,0,0.0,0.0,0.0,5,0,0,0,1,71.05,6.46,0.0,5.569
+2026934,Leonardo Souza de Oliveira,leonardo souza de oliveira,2025,Ituano,ituano,2026,Serie_C,0.54,3,127,0,0,0.0,0.0,0.0,2,0,0,0,3,91.38,6.7,0.0,5.775
+1860520,Kauã Ubá,kaua uba,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,4,123,0,0,0.0,0.0,0.0,0,2,0,0,0,76.92,6.67,0.0,5.75
+973844,Felipe Ferreira,felipe ferreira,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,6,123,0,0,0.0,0.0,0.0,2,0,0,0,1,75.0,6.58,0.0,5.672
+1526993,Mateus Cantarelli Gall,mateus cantarelli gall,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,4,121,0,0,0.0,0.0,0.0,2,0,0,0,2,70.0,6.38,0.0,5.5
+1588693,Felipe Rangel dos Santos,felipe rangel dos santos,2000,Caxias,caxias,2026,Serie_C,0.54,9,120,1,0,0.75,0.0,0.75,2,2,0,0,0,87.88,6.58,0.405,5.672
+1175669,Julio Vaz,julio vaz,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,6,120,0,0,0.0,0.0,0.0,1,0,0,0,2,70.27,6.4,0.0,5.517
+2405477,Gadu,gadu,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,3,119,0,0,0.0,0.0,0.0,0,0,0,0,1,74.19,6.2,0.0,5.344
+1830626,Kewen,kewen,1972,Guarani,guarani,2026,Serie_C,0.54,7,118,0,0,0.0,0.0,0.0,4,3,0,0,1,75.0,6.6,0.0,5.689
+828959,Bruno Alves,bruno alves,2025,Ituano,ituano,2026,Serie_C,0.54,6,116,0,0,0.0,0.0,0.0,4,6,0,0,1,73.08,6.57,0.0,5.663
+850478,Gustavo Bochecha,gustavo bochecha,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,7,113,0,0,0.0,0.0,0.0,2,1,0,0,1,83.33,6.69,0.0,5.767
+1105596,Matheus Cadorini,matheus cadorini,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,5,112,0,0,0.0,0.0,0.0,2,2,0,0,9,50.0,6.58,0.0,5.672
+1009925,Caio Felipe,caio felipe,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,7,108,0,0,0.0,0.0,0.0,0,1,0,0,2,63.16,6.43,0.0,5.543
+865400,Igor Henrique,igor henrique,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,4,107,0,0,0.0,0.0,0.0,4,0,0,0,6,90.48,6.78,0.0,5.844
+874035,Leo Costa,leo costa,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,3,107,0,0,0.0,0.0,0.0,0,0,0,0,2,66.67,6.63,0.0,5.715
+1589869,Nathan Zamith dos Santos,nathan zamith dos santos,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,4,107,0,0,0.0,0.0,0.0,2,3,0,0,2,68.57,6.48,0.0,5.586
+223592,Silvinho,silvinho,1985,Figueirense,figueirense,2026,Serie_C,0.54,5,105,0,0,0.0,0.0,0.0,3,1,0,0,3,71.11,6.68,0.0,5.758
+1464815,Tagarela,tagarela,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,6,104,0,0,0.0,0.0,0.0,4,1,0,0,1,82.86,6.63,0.0,5.715
+1589555,Ranisson Gonçalves,ranisson goncalves,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,3,102,0,0,0.0,0.0,0.0,0,0,0,0,2,69.7,6.63,0.0,5.715
+2639878,Victor Sá,victor sa,2000,Caxias,caxias,2026,Serie_C,0.54,2,101,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1491420,André Simplicio,andre simplicio,2000,Caxias,caxias,2026,Serie_C,0.54,2,99,0,0,0.0,0.0,0.0,0,0,0,0,3,84.0,6.85,0.0,5.905
+1587845,Nassom de Souza  Oliveira,nassom de souza oliveira,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,2,98,0,0,0.0,0.0,0.0,0,0,0,0,2,79.55,6.75,0.0,5.818
+977809,Windson,windson,2000,Caxias,caxias,2026,Serie_C,0.54,2,98,0,0,0.0,0.0,0.0,1,0,0,0,3,79.55,6.65,0.0,5.732
+1885685,Cassiano Bouzon,cassiano bouzon,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,5,94,0,0,0.0,0.0,0.0,6,4,0,0,1,83.87,6.5,0.0,5.603
+1892689,Luis Miguel,luis miguel,2000,Caxias,caxias,2026,Serie_C,0.54,3,93,0,0,0.0,0.0,0.0,1,2,0,0,1,0.0,6.7,0.0,5.775
+936488,Matheus Moresche,matheus moresche,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,4,91,0,0,0.0,0.0,0.0,1,0,0,0,1,77.14,6.63,0.0,5.715
+1020175,Gustavo Henrique,gustavo henrique,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2573050,Pedro Henrique,pedro henrique,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1931316,Gustavo Fagundes,gustavo fagundes,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2449969,Júlio Gouvea,julio gouvea,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1461971,Carioca,carioca,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2174606,Vinicius Oliveira,vinicius oliveira,2025,Ituano,ituano,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2580596,Caio Henrique,caio henrique,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2466930,Rafael Costa,rafael costa,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2550303,Victor Hugo Zorzenoni,victor hugo zorzenoni,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2577248,Vitao,vitao,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2688412,André Dantas,andre dantas,2000,Caxias,caxias,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2433431,Henry Leonardo   Vieira André,henry leonardo vieira andre,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2643376,Ramon Vinicius,ramon vinicius,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2456700,Nikolas Barros,nikolas barros,257673,Barra FC,barra,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2670413,William dos Anjos Nascimento,william dos anjos nascimento,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+981631,Paulo Gianezini,paulo gianezini,21884,Brusque,brusque,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,90.91,7.9,0.0,6.81
+1118346,Victor Guilherme,victor guilherme,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,81.82,7.6,0.0,6.551
+1019147,Marcelo,marcelo,2000,Caxias,caxias,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,1,68.75,7.5,0.0,6.465
+866941,Deivity,deivity,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,1,82.35,7.4,0.0,6.379
+2454260,Heitor Silva,heitor silva,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,1,82.35,7.4,0.0,6.379
+1174638,Léo Wall,leo wall,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,1,72.73,7.3,0.0,6.293
+871500,Axel,axel,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,84.21,6.6,0.0,5.689
+2084599,Pedro Barbosa Malheiros,pedro barbosa malheiros,2025,Ituano,ituano,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,78.79,6.6,0.0,5.689
+1047757,Rokenedy,rokenedy,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,82.35,6.5,0.0,5.603
+1647507,Marcos,marcos,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,81.25,6.4,0.0,5.517
+1112330,Geaze,geaze,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,71.43,6.4,0.0,5.517
+1463379,Pedro Nagel,pedro nagel,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,90.91,6.3,0.0,5.431
+1634855,Eduardo de Moura Souza,eduardo de moura souza,2025,Ituano,ituano,2026,Serie_C,0.54,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,88.89,5.9,0.0,5.086
+2037662,Tiago Costa de Sousa,tiago costa de sousa,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,6,89,0,0,0.0,0.0,0.0,4,0,0,0,5,74.29,6.72,0.0,5.793
+1510842,Darlisson,darlisson,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,2,89,0,0,0.0,0.0,0.0,0,1,0,0,1,79.41,6.45,0.0,5.56
+2579838,Antonilton Batista dos Santos,antonilton batista dos santos,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,3,88,0,0,0.0,0.0,0.0,1,3,0,0,1,82.61,6.57,0.0,5.663
+2607031,Pedrinho,pedrinho,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,5,87,0,0,0.0,0.0,0.0,1,5,0,0,1,87.5,6.63,0.0,5.715
+828838,Diego Torres,diego torres,1972,Guarani,guarani,2026,Serie_C,0.54,3,86,0,0,0.0,0.0,0.0,6,0,0,0,0,88.0,6.67,0.0,5.75
+1927485,Leonardo Schwalbert Renz,leonardo hwalbert renz,1985,Figueirense,figueirense,2026,Serie_C,0.54,4,84,0,0,0.0,0.0,0.0,0,0,0,0,3,74.36,6.65,0.0,5.732
+2643370,Mago,mago,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,1,83,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2708861,João Pedro Martins,joao pedro martins,21884,Brusque,brusque,2026,Serie_C,0.54,1,82,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+863294,Robinho,robinho,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,4,82,0,0,0.0,0.0,0.0,0,1,0,0,1,84.21,6.5,0.0,5.603
+2501100,Libonati,libonati,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,1,82,0,0,0.0,0.0,0.0,0,0,0,0,1,93.33,6.1,0.0,5.258
+1093892,Everton,everton,1972,Guarani,guarani,2026,Serie_C,0.54,2,80,0,0,0.0,0.0,0.0,1,2,0,0,0,68.42,6.85,0.0,5.905
+1633592,Viní Hora,vini hora,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,2,80,0,0,0.0,0.0,0.0,1,1,0,0,0,85.0,6.4,0.0,5.517
+1647596,Pedro Estevam,pedro estevam,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,2,79,0,0,0.0,0.0,0.0,1,1,0,0,1,81.25,6.5,0.0,5.603
+2440708,Fabricio Aguiar de Oliveira,fabricio aguiar de oliveira,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,78,0,0,0.0,0.0,0.0,0,0,0,0,1,84.0,6.8,0.0,5.862
+1022483,Rafinha Potiguar,rafinha potiguar,1985,Figueirense,figueirense,2026,Serie_C,0.54,5,78,0,0,0.0,0.0,0.0,0,0,0,0,2,90.41,6.55,0.0,5.646
+1176037,Pedro Igor Martins,pedro igor martins,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,5,76,0,0,0.0,0.0,0.0,1,7,0,0,1,68.57,6.76,0.0,5.827
+1067649,Nicolás,nicolas,257673,Barra FC,barra,2026,Serie_C,0.54,3,76,0,0,0.0,0.0,0.0,0,1,0,0,1,62.5,6.45,0.0,5.56
+2017783,João Prado,joao prado,21884,Brusque,brusque,2026,Serie_C,0.54,5,75,0,1,0.0,0.0,0.0,4,4,0,0,2,62.5,6.54,0.0,5.637
+1148275,Radsley,radsley,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,6,75,0,0,0.0,0.0,0.0,3,1,0,0,1,90.0,6.47,0.0,5.577
+2422840,Luis Gustavo,luis gustavo,21884,Brusque,brusque,2026,Serie_C,0.54,4,75,0,0,0.0,0.0,0.0,0,0,0,0,1,60.0,6.3,0.0,5.431
+2428203,Bruno Nobre de Oliveira,bruno nobre de oliveira,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,74,0,0,0.0,0.0,0.0,1,0,0,0,2,76.92,6.8,0.0,5.862
+2722768,Henry Leonardo,henry leonardo,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,74,0,0,0.0,0.0,0.0,0,2,0,0,1,75.0,6.7,0.0,5.775
+220709,Francinilson Meireles Maranhão,francinilson meireles maranhao,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,73,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1462117,William,william,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,1,73,0,0,0.0,0.0,0.0,2,1,0,0,0,78.95,7.0,0.0,6.034
+1829877,Renan Henrique Gomes Neves,renan henrique gomes neves,21884,Brusque,brusque,2026,Serie_C,0.54,5,73,0,0,0.0,0.0,0.0,2,3,0,0,3,71.88,6.62,0.0,5.706
+922722,Tito,tito,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,1,72,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2025345,Yaider Mena,yaider mena,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,2,72,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.5,0.0,5.603
+1116456,Gustavinho,gustavinho,274286,Floresta,floresta,2026,Serie_C,0.54,3,72,0,0,0.0,0.0,0.0,0,0,0,0,5,37.5,6.4,0.0,5.517
+2405478,Marcos Vinícius Da Silva,marcos vinicius da silva,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,72,0,0,0.0,0.0,0.0,0,0,0,0,0,84.62,6.3,0.0,5.431
+1829106,Marcos Vinícius De Campos Vieira,marcos vinicius de campos vieira,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,71,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1017589,Léo Duarte,leo duarte,257673,Barra FC,barra,2026,Serie_C,0.54,1,71,0,0,0.0,0.0,0.0,0,0,0,0,1,60.0,6.2,0.0,5.344
+2687470,Wellison Matheus Rodrigues Régis,wellison matheus rodrigues regis,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,69,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1588178,João Mandovani,joao mandovani,2017,Confiança,confianca,2026,Serie_C,0.54,1,68,0,0,0.0,0.0,0.0,0,0,0,0,0,82.35,6.3,0.0,5.431
+1019153,Júlio Rodrigues,julio rodrigues,135324,Maringá FC,maringa,2026,Serie_C,0.54,3,65,0,0,0.0,0.0,0.0,1,0,0,0,2,73.33,6.6,0.0,5.689
+2557480,Ranisson,ranisson,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,1,64,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2280323,Valdenilson da Paz Araújo,valdenilson da paz araujo,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,5,64,0,0,0.0,0.0,0.0,2,5,0,0,0,58.82,6.58,0.0,5.672
+811310,Matheus Vargas,matheus vargas,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,2,64,0,0,0.0,0.0,0.0,2,0,0,0,1,61.54,6.4,0.0,5.517
+2589819,Leo Souza,leo souza,2025,Ituano,ituano,2026,Serie_C,0.54,1,63,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2804294,Juninho,juninho,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,62,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1466537,João Vinícius Scardueli,joao vinicius ardueli,257673,Barra FC,barra,2026,Serie_C,0.54,2,62,0,0,0.0,0.0,0.0,0,1,0,0,5,75.0,7.05,0.0,6.077
+839772,Osman Menezes,osman menezes,2025,Ituano,ituano,2026,Serie_C,0.54,1,62,0,0,0.0,0.0,0.0,1,0,0,0,2,75.0,7.0,0.0,6.034
+1872964,Matheus Guilherme,matheus guilherme,1972,Guarani,guarani,2026,Serie_C,0.54,4,62,1,0,0.0,0.0,0.0,4,3,0,0,1,80.0,6.83,0.0,5.887
+2055835,Vinicius Meireles,vinicius meireles,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,3,62,0,0,0.0,0.0,0.0,1,0,0,0,0,60.87,6.27,0.0,5.405
+1170767,Andrey Quintino,andrey quintino,2017,Confiança,confianca,2026,Serie_C,0.54,4,61,0,0,0.0,0.0,0.0,1,2,0,0,1,76.19,6.53,0.0,5.629
+2445460,João Victor,joao victor,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,58,0,0,0.0,0.0,0.0,0,0,0,0,0,73.68,6.4,0.0,5.517
+981439,Anderson Chaves,anderson chaves,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,4,56,0,0,0.0,0.0,0.0,0,0,0,0,2,75.0,6.4,0.0,5.517
+882076,Felipe Saraiva,felipe saraiva,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,4,55,0,0,0.0,0.0,0.0,3,2,0,0,1,84.62,6.5,0.0,5.603
+1112391,Marco Antônio,marco antonio,274286,Floresta,floresta,2026,Serie_C,0.54,3,51,0,0,0.0,0.0,0.0,1,0,0,0,2,61.11,6.65,0.0,5.732
+1131641,João Marcos,joao marcos,1985,Figueirense,figueirense,2026,Serie_C,0.54,3,50,0,0,0.0,0.0,0.0,0,0,0,0,0,64.71,6.43,0.0,5.543
+1106488,Pedro Martins,pedro martins,21884,Brusque,brusque,2026,Serie_C,0.54,3,48,0,0,0.0,0.0,0.0,2,1,0,0,4,85.0,6.57,0.0,5.663
+1109065,Wendel,wendel,2017,Confiança,confianca,2026,Serie_C,0.54,3,48,0,0,0.0,0.0,0.0,5,1,0,0,2,84.62,6.5,0.0,5.603
+1604945,Luiz Felipe,luiz felipe,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,1,46,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2440899,Nikolas,nikolas,257673,Barra FC,barra,2026,Serie_C,0.54,1,46,0,1,0.0,0.0,0.0,1,0,0,0,0,84.62,6.6,0.0,5.689
+2182124,Carlinhos,carlinhos,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,46,0,0,0.0,0.0,0.0,0,0,0,0,1,62.5,6.6,0.0,5.689
+866818,Welder,welder,2017,Confiança,confianca,2026,Serie_C,0.54,2,46,0,0,0.0,0.0,0.0,1,1,0,0,0,100.0,6.25,0.0,5.388
+1645760,Marlon Cavalcanti,marlon cavalcanti,2025,Ituano,ituano,2026,Serie_C,0.54,2,45,0,0,0.0,0.0,0.0,0,2,0,0,0,68.75,6.6,0.0,5.689
+981613,Dione,dione,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,2,45,0,0,0.0,0.0,0.0,2,0,0,0,2,57.89,6.4,0.0,5.517
+243543,Guilherme Lazaroni,guilherme lazaroni,257673,Barra FC,barra,2026,Serie_C,0.54,1,45,0,0,0.0,0.0,0.0,0,0,0,0,0,40.0,6.3,0.0,5.431
+985491,Ronan Nunes,ronan nunes,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,44,1,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1014255,Ronan,ronan,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,44,1,0,0.0,0.0,0.0,3,3,0,0,1,75.0,8.2,0.0,7.068
+1487118,Guty,guty,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,44,0,0,0.0,0.0,0.0,3,1,0,0,0,86.21,7.9,0.0,6.81
+1015936,João Vitor,joao vitor,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,1,44,0,0,0.0,0.0,0.0,2,0,0,0,2,71.43,6.9,0.0,5.948
+1645736,Adilson,adilson,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,1,44,0,0,0.0,0.0,0.0,1,0,0,0,1,81.82,6.3,0.0,5.431
+1843760,Lucca Carvalho,lucca carvalho,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,2,43,0,0,0.0,0.0,0.0,0,0,0,0,1,73.68,6.4,0.0,5.517
+1021448,Ronald Makalysten,ronald makalysten,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,3,41,0,0,0.0,0.0,0.0,0,1,0,0,1,84.62,6.67,0.0,5.75
+1465510,Richard Cossoniche,richard cossoniche,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,2,40,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1067645,Luiz Guilherme,luiz guilherme,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,2,38,0,0,0.0,0.0,0.0,1,2,0,0,2,90.0,6.9,0.0,5.948
+981813,Flávio,flavio,1985,Figueirense,figueirense,2026,Serie_C,0.54,2,37,0,0,0.0,0.0,0.0,1,0,0,0,1,100.0,6.85,0.0,5.905
+928141,Neto Costa,neto costa,1972,Guarani,guarani,2026,Serie_C,0.54,3,35,0,0,0.0,0.0,0.0,3,0,0,0,3,75.0,6.63,0.0,5.715
+979876,Jhoninha,jhoninha,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,2,34,0,0,0.0,0.0,0.0,2,1,0,0,0,66.67,6.75,0.0,5.818
+1640517,Eduardo Ribeiro,eduardo ribeiro,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,2,33,0,0,0.0,0.0,0.0,0,0,0,0,0,61.11,6.95,0.0,5.991
+2722770,Yamilo Zúñiga,yamilo zuniga,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,32,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.6,0.0,5.689
+2724807,Yamilo Zuniga Piedrahita,yamilo zuniga piedrahita,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,32,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.6,0.0,5.689
+1915429,Bernardo de Carvalho Jardim,bernardo de carvalho jardim,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,32,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.1,0.0,5.258
+1856447,Matheus Melo,matheus melo,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,1,31,0,0,0.0,0.0,0.0,0,1,0,0,2,0.0,6.6,0.0,5.689
+243187,Geuvânio,geuvanio,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,30,0,0,0.0,0.0,0.0,3,3,0,0,0,0.0,7.2,0.0,6.206
+831772,Pablo Diogo,pablo diogo,1985,Figueirense,figueirense,2026,Serie_C,0.54,1,29,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1466780,Denilson,denilson,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,28,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2456433,Victor Sá,victor sa,2000,Caxias,caxias,2026,Serie_C,0.54,1,28,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1588325,Rafael Luiz de Oliveira Fonseca,rafael luiz de oliveira fonseca,21884,Brusque,brusque,2026,Serie_C,0.54,2,28,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.5,0.0,5.603
+2626625,Fabricio Dias,fabricio dias,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,1,27,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2428445,Jonas Bernardo Barreto da Silva,jonas bernardo barreto da silva,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,2,27,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.35,0.0,5.474
+1016911,Zé Eduardo,ze eduardo,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,3,26,0,0,0.0,0.0,0.0,2,0,0,0,2,0.0,6.7,0.0,5.775
+2067662,Guilherme Da Silva De Oliveira,guilherme da silva de oliveira,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,26,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.6,0.0,5.689
+1048607,Robson,robson,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,3,26,0,0,0.0,0.0,0.0,0,0,0,0,1,0.0,6.6,0.0,5.689
+1148352,Thailor,thailor,274286,Floresta,floresta,2026,Serie_C,0.54,2,26,0,0,0.0,0.0,0.0,1,0,0,0,4,0.0,6.4,0.0,5.517
+1590488,Carlos Henrique Bezerra da Silva,carlos henrique bezerra da silva,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,2,24,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.5,0.0,5.603
+1191479,Pedro Costa,pedro costa,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,22,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1634572,Jhonatan Garcia da Silva,jhonatan garcia da silva,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,22,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.5,0.0,5.603
+2555011,Mateus  de Lima Pereira,mateus de lima pereira,274286,Floresta,floresta,2026,Serie_C,0.54,1,21,1,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1631719,Thierri Martins Kraj,thierri martins kraj,1985,Figueirense,figueirense,2026,Serie_C,0.54,1,21,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+795190,Jesiel,jesiel,135324,Maringá FC,maringa,2026,Serie_C,0.54,1,21,0,0,0.0,0.0,0.0,0,0,0,0,2,0.0,6.7,0.0,5.775
+2428441,Thyerry Henrique Ferreira,thyerry henrique ferreira,1985,Figueirense,figueirense,2026,Serie_C,0.54,1,21,0,0,0.0,0.0,0.0,1,0,0,0,2,0.0,6.7,0.0,5.775
+2082774,João Pedro de Abreu Mendonça Santos,joao pedro de abreu mendonca santos,2025,Ituano,ituano,2026,Serie_C,0.54,1,21,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.1,0.0,5.258
+2111136,Kaua Hinkel Santos Vieira,kaua hinkel santos vieira,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,1,20,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2040641,Dudu,dudu,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,1,20,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2688312,Robson,robson,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,1,20,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2025982,Kessinho,kessinho,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,1,19,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2456803,Fabio Fau,fabio fau,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,18,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1656819,Kleberson Cícero Fraga dos Santos,kleberson cicero fraga dos santos,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,1,18,0,0,0.0,0.0,0.0,1,1,0,0,3,0.0,6.5,0.0,5.603
+1587856,Lipe Gadol,lipe gadol,2025,Ituano,ituano,2026,Serie_C,0.54,2,17,0,0,0.0,0.0,0.0,0,1,0,0,0,0.0,6.55,0.0,5.646
+1099458,Gabriel Santiago,gabriel santiago,135526,Inter de Limeira,inter de limeira,2026,Serie_C,0.54,5,16,0,0,0.0,0.0,0.0,0,3,0,0,2,68.75,6.63,0.0,5.715
+2456584,Joao Gabriel dos Santos Roza Silva,joao gabriel dos santos roza silva,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,16,0,0,0.0,0.0,0.0,1,0,0,0,1,0.0,6.6,0.0,5.689
+2722769,Levi dos Santos Pereira,levi dos santos pereira,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,16,0,0,0.0,0.0,0.0,0,1,0,0,0,0.0,6.6,0.0,5.689
+2468957,Kaua Mineiro,kaua mineiro,1972,Guarani,guarani,2026,Serie_C,0.54,1,15,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1845092,Édson,edson,1972,Guarani,guarani,2026,Serie_C,0.54,1,15,0,0,0.0,0.0,0.0,1,0,0,0,0,0.0,6.8,0.0,5.862
+2405483,João Victor,joao victor,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,15,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.1,0.0,5.258
+1395893,Juninho,juninho,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,14,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+105046,Ralf,ralf,1972,Guarani,guarani,2026,Serie_C,0.54,1,14,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.4,0.0,5.517
+2029776,Denílson,denilson,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,1,13,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2628067,Fernandinho,fernandinho,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,13,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1631778,Rian Patric Santos Batista,rian patric santos batista,135324,Maringá FC,maringa,2026,Serie_C,0.54,2,13,0,0,0.0,0.0,0.0,2,1,0,0,1,0.0,6.7,0.0,5.775
+2405486,Pedro Henrique,pedro henrique,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,13,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.4,0.0,5.517
+1887178,Tiaguinho,tiaguinho,2025,Ituano,ituano,2026,Serie_C,0.54,1,12,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1655550,Juninho Monteiro,juninho monteiro,6982,Volta Redonda,volta redonda,2026,Serie_C,0.54,1,11,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1887849,José Henrique Carvalho de Oliveira,jose henrique carvalho de oliveira,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,1,11,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.4,0.0,5.517
+2067560,Abner,abner,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,1,11,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.3,0.0,5.431
+1836635,Rian Patric,rian patric,135324,Maringá FC,maringa,2026,Serie_C,0.54,1,10,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1008010,Gabriel Rodrigues,gabriel rodrigues,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,1,10,0,0,0.0,0.0,0.0,2,0,0,0,0,0.0,6.8,0.0,5.862
+1654008,Gustavo Santos Costa,gustavo santos costa,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,1,10,0,0,0.0,0.0,0.0,0,0,0,0,1,0.0,6.6,0.0,5.689
+870764,Robinho,robinho,1976,Santa Cruz,santa cruz,2026,Serie_C,0.54,1,10,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.3,0.0,5.431
+1887819,Matheus Povoa Gonçalves,matheus povoa goncalves,1972,Guarani,guarani,2026,Serie_C,0.54,1,10,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.3,0.0,5.431
+2644602,Gustavo Guga,gustavo guga,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,9,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2645580,Gustavo dos Santos Pinto,gustavo dos santos pinto,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,9,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1430092,Rafael Freitas,rafael freitas,1972,Guarani,guarani,2026,Serie_C,0.54,2,8,0,0,0.0,0.0,0.0,0,0,0,0,1,0.0,6.6,0.0,5.689
+1590133,Danilo Regio de Oliveira,danilo regio de oliveira,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,1,8,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.5,0.0,5.603
+2671966,Jonas Jonas,jonas jonas,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,8,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.3,0.0,5.431
+1806741,Leonardo Storrer Barbosa,leonardo storrer barbosa,21884,Brusque,brusque,2026,Serie_C,0.54,1,7,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.6,0.0,5.689
+190175,Romario Baldé,romario balde,21853,AO Itabaiana,ao itabaiana,2026,Serie_C,0.54,1,7,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.2,0.0,5.344
+1470444,Richarles,richarles,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,1,5,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+243271,Cicinho,cicinho,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,4,0,0,0.0,0.0,0.0,1,0,0,0,2,0.0,6.8,0.0,5.862
+846701,Ignacio Neira,ignacio neira,135324,Maringá FC,maringa,2026,Serie_C,0.54,1,3,0,0,0.0,0.0,0.0,1,0,0,0,1,0.0,6.7,0.0,5.775
+2554498,Lucas Matheus Alves da Silva,lucas matheus alves da silva,49196,Botafogo-PB,botafogo-pb,2026,Serie_C,0.54,1,1,0,0,0.0,0.0,0.0,0,0,0,0,1,0.0,0.0,0.0,0.0
+2435834,Lucas de Brito Abbade,lucas de brito abbade,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,1,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2709985,Pedro Henrique Campos Viana,pedro henrique campos viana,336664,Amazonas FC,amazonas,2026,Serie_C,0.54,1,1,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2177934,Keven,keven,135324,Maringá FC,maringa,2026,Serie_C,0.54,1,1,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.7,0.0,5.775
+1640631,Geovany Soares,geovany soares,257673,Barra FC,barra,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1541871,Darlisson Pereira,darlisson pereira,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2032915,Matheus Capixaba,matheus capixaba,1997,Paysandu SC,paysandu,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1407207,Leandro,leandro,2025,Ituano,ituano,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1466535,Lucas Fogaça,lucas fogaca,32766,Ypiranga FC,ypiranga,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+552168,Dudu,dudu,1985,Figueirense,figueirense,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2002917,Paulo Henrique Novais,paulo henrique novais,2017,Confiança,confianca,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2194415,Bal,bal,21858,Maranhão AC,maranhao,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+1830263,Guilherme Vieira Moraes Da Silva,guilherme vieira moraes da silva,1985,Figueirense,figueirense,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2405481,Arthur Nether Schilling,arthur nether hilling,35285,Ferroviária,ferroviaria,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2565901,Jean Mangabeira,jean mangabeira,1985,Figueirense,figueirense,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2550300,Marlon Yan Cavalcanti da Silva,marlon yan cavalcanti da silva,2025,Ituano,ituano,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2550305,Vitor Fonseca Martins de Castro,vitor fonseca martins de castro,21872,Anápolis FC,anapolis,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2550299,Victor,victor,2025,Ituano,ituano,2026,Serie_C,0.54,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0

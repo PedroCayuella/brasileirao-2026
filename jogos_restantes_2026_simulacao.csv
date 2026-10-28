@@ -1,0 +1,62 @@
+﻿event_id,rodada,data_formatada,mandante_idx,visitante_idx,mandante_nome,visitante_nome,mandante_chave,visitante_chave,lambda_mandante,lambda_visitante,prob_mandante_pct,prob_empate_pct,prob_visitante_pct,placar_provavel
+15235440,21,30/07/2026,19,12,Chapecoense,Vasco da Gama,chapecoense,vasco da gama,1.27,1.84,25.0,25.5,49.5,1 x 1
+15238205,33,28/10/2026,4,15,Fluminense,Internacional,fluminense,internacional,1.71,0.8,59.8,24.2,16.0,1 x 0
+15238222,33,28/10/2026,9,19,Red Bull Bragantino,Chapecoense,red bull bragantino,chapecoense,1.76,0.62,64.4,23.4,12.2,1 x 0
+15238210,33,28/10/2026,7,1,Santos,Palmeiras,santos,palmeiras,0.85,2.07,14.5,22.4,63.1,0 x 2
+15238228,33,29/10/2026,6,8,Bahia,São Paulo,bahia,sao paulo,1.41,0.7,55.8,26.8,17.4,1 x 0
+15238245,33,29/10/2026,18,10,Remo,Botafogo,remo,botafogo,1.23,1.31,32.7,27.6,39.7,1 x 1
+15238216,33,29/10/2026,5,2,Atlético Mineiro,Cruzeiro,atletico mineiro,cruzeiro,2.11,1.41,51.8,23.4,24.8,2 x 1
+15238212,33,29/10/2026,12,0,Vasco da Gama,Flamengo,vasco da gama,flamengo,1.04,2.41,14.7,21.4,63.9,1 x 2
+15238226,33,30/10/2026,16,3,Grêmio,Athletico,gremio,athletico,1.36,1.65,30.9,25.9,43.2,1 x 1
+15238218,33,30/10/2026,17,14,Corinthians,Mirassol,corinthians,mirassol,0.95,0.81,38.6,31.8,29.6,0 x 0
+15238227,33,31/10/2026,11,13,Coritiba,Vitória,coritiba,vitoria,1.5,0.81,54.0,26.3,19.7,1 x 0
+15238234,34,02/11/2026,9,7,Red Bull Bragantino,Santos,red bull bragantino,santos,1.54,1.65,34.4,25.6,40.0,1 x 1
+15238238,34,03/11/2026,19,14,Chapecoense,Mirassol,chapecoense,mirassol,1.18,1.53,28.0,27.5,44.5,1 x 1
+15238232,34,04/11/2026,15,11,Internacional,Coritiba,internacional,coritiba,1.47,1.02,45.8,26.1,28.1,1 x 0
+15238239,34,04/11/2026,3,12,Athletico,Vasco da Gama,athletico,vasco da gama,1.9,0.84,62.6,22.3,15.1,1 x 0
+15238230,34,04/11/2026,0,16,Flamengo,Grêmio,flamengo,gremio,2.19,0.44,76.1,17.2,6.7,2 x 0
+15238231,34,05/11/2026,10,5,Botafogo,Atlético Mineiro,botafogo,atletico mineiro,1.39,1.27,40.1,27.2,32.7,1 x 1
+15238229,34,05/11/2026,8,17,São Paulo,Corinthians,sao paulo,corinthians,1.63,0.7,59.6,25.4,15.0,1 x 0
+15238233,34,05/11/2026,1,18,Palmeiras,Remo,palmeiras,remo,2.51,0.48,77.8,15.5,6.7,2 x 0
+15238235,34,06/11/2026,2,6,Cruzeiro,Bahia,cruzeiro,bahia,1.67,1.16,48.7,25.8,25.5,1 x 1
+15238237,34,06/11/2026,13,4,Vitória,Fluminense,vitoria,fluminense,1.43,0.89,50.8,26.9,22.3,1 x 0
+15238243,35,18/11/2026,17,10,Corinthians,Botafogo,corinthians,botafogo,1.07,1.03,36.1,29.1,34.8,1 x 1
+15235658,35,18/11/2026,11,7,Coritiba,Santos,coritiba,santos,1.15,1.86,22.2,24.9,52.9,1 x 1
+15235656,35,18/11/2026,2,1,Cruzeiro,Palmeiras,cruzeiro,palmeiras,0.97,1.66,21.6,25.8,52.6,0 x 1
+15238236,35,18/11/2026,0,3,Flamengo,Athletico,flamengo,athletico,2.2,0.98,63.3,21.4,15.3,2 x 1
+15235657,35,18/11/2026,16,6,Grêmio,Bahia,gremio,bahia,1.34,1.54,32.0,26.3,41.7,1 x 1
+15238244,35,18/11/2026,14,5,Mirassol,Atlético Mineiro,mirassol,atletico mineiro,1.27,1.19,38.8,28.3,32.9,1 x 1
+15235659,35,18/11/2026,18,19,Remo,Chapecoense,remo,chapecoense,1.32,0.72,51.3,28.2,20.5,1 x 0
+15238241,35,18/11/2026,8,4,São Paulo,Fluminense,sao paulo,fluminense,1.66,0.9,55.7,25.0,19.3,1 x 0
+15238240,35,18/11/2026,12,15,Vasco da Gama,Internacional,vasco da gama,internacional,1.49,1.01,48.3,27.3,24.4,1 x 1
+15235666,35,18/11/2026,13,9,Vitória,Red Bull Bragantino,vitoria,red bull bragantino,1.16,0.62,50.8,29.6,19.6,1 x 0
+15235673,36,22/11/2026,3,18,Athletico,Remo,athletico,remo,2.01,0.66,68.2,20.6,11.2,2 x 0
+15235664,36,22/11/2026,5,17,Atlético Mineiro,Corinthians,atletico mineiro,corinthians,1.83,0.87,60.1,23.6,16.3,1 x 0
+15235678,36,22/11/2026,6,11,Bahia,Coritiba,bahia,coritiba,1.66,0.92,53.9,25.6,20.5,1 x 0
+15235660,36,22/11/2026,10,8,Botafogo,São Paulo,botafogo,sao paulo,1.49,0.91,51.1,26.7,22.2,1 x 0
+15235668,36,22/11/2026,19,2,Chapecoense,Cruzeiro,chapecoense,cruzeiro,1.4,2.72,16.4,20.1,63.5,1 x 2
+15235662,36,22/11/2026,4,14,Fluminense,Mirassol,fluminense,mirassol,1.82,0.74,64.3,22.1,13.6,1 x 0
+15235667,36,22/11/2026,15,13,Internacional,Vitória,internacional,vitoria,1.73,0.71,60.7,24.0,15.3,1 x 0
+15235665,36,22/11/2026,1,0,Palmeiras,Flamengo,palmeiras,flamengo,1.45,1.3,40.5,26.8,32.7,1 x 1
+15235663,36,22/11/2026,9,12,Red Bull Bragantino,Vasco da Gama,red bull bragantino,vasco da gama,1.67,1.0,52.9,25.7,21.4,1 x 1
+15235661,36,22/11/2026,7,16,Santos,Grêmio,santos,gremio,1.44,0.69,55.5,27.4,17.1,1 x 0
+15235669,37,29/11/2026,5,12,Atlético Mineiro,Vasco da Gama,atletico mineiro,vasco da gama,1.95,0.92,61.8,22.6,15.6,1 x 0
+15235677,37,29/11/2026,10,6,Botafogo,Bahia,botafogo,bahia,1.41,1.62,32.0,25.8,42.2,1 x 1
+15235680,37,29/11/2026,19,1,Chapecoense,Palmeiras,chapecoense,palmeiras,0.68,2.75,7.0,15.0,78.0,0 x 2
+15235672,37,29/11/2026,17,16,Corinthians,Grêmio,corinthians,gremio,0.9,0.59,43.3,33.7,23.0,0 x 0
+15235675,37,29/11/2026,11,0,Coritiba,Flamengo,coritiba,flamengo,0.74,2.56,8.7,18.2,73.1,0 x 2
+15235671,37,29/11/2026,4,2,Fluminense,Cruzeiro,fluminense,cruzeiro,2.12,1.33,54.0,23.3,22.7,2 x 1
+15235679,37,29/11/2026,15,9,Internacional,Red Bull Bragantino,internacional,red bull bragantino,1.08,0.84,40.7,29.9,29.4,1 x 0
+15235676,37,29/11/2026,14,3,Mirassol,Athletico,mirassol,athletico,1.3,1.63,29.5,26.1,44.4,1 x 1
+15235670,37,29/11/2026,8,18,São Paulo,Remo,sao paulo,remo,1.86,0.58,68.0,21.4,10.6,1 x 0
+15235674,37,29/11/2026,13,7,Vitória,Santos,vitoria,santos,1.47,1.15,44.6,27.0,28.4,1 x 1
+15235688,38,02/12/2026,3,8,Athletico,São Paulo,athletico,sao paulo,1.66,0.64,62.7,24.0,13.3,1 x 0
+15235689,38,02/12/2026,6,5,Bahia,Atlético Mineiro,bahia,atletico mineiro,1.3,0.99,45.0,28.2,26.8,1 x 1
+15235686,38,02/12/2026,2,15,Cruzeiro,Internacional,cruzeiro,internacional,1.7,0.82,58.7,24.5,16.8,1 x 0
+15235682,38,02/12/2026,0,19,Flamengo,Chapecoense,flamengo,chapecoense,2.67,0.45,79.4,14.4,6.2,2 x 0
+15235687,38,02/12/2026,16,14,Grêmio,Mirassol,gremio,mirassol,1.5,0.95,50.2,27.1,22.7,1 x 0
+15235684,38,02/12/2026,1,11,Palmeiras,Coritiba,palmeiras,coritiba,2.49,0.6,74.0,17.6,8.4,2 x 0
+15235685,38,02/12/2026,9,4,Red Bull Bragantino,Fluminense,red bull bragantino,fluminense,1.58,1.21,45.8,26.5,27.7,1 x 1
+15235690,38,02/12/2026,18,17,Remo,Corinthians,remo,corinthians,1.1,1.17,32.8,28.8,38.4,1 x 1
+15235683,38,02/12/2026,7,10,Santos,Botafogo,santos,botafogo,1.75,1.19,49.6,25.6,24.8,1 x 1
+15235681,38,02/12/2026,12,13,Vasco da Gama,Vitória,vasco da gama,vitoria,2.03,0.79,64.4,22.4,13.2,2 x 0

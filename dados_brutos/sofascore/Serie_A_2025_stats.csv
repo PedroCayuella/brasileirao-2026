@@ -1,0 +1,738 @@
+﻿sofascore_player_id,jogador_nome,jogador_chave,sofascore_team_id,clube_nome,clube_chave,ano,divisao,peso_divisao,jogos,minutos,gols,assistencias,gols_por_90,assistencias_por_90,participacoes_gol_por_90,finalizacoes,dribles_certos,desarmes,interceptacoes,duelos_aereos_ganhos,passes_certos_pct,nota_media_sofascore,producao_ofensiva_ajustada_divisao,nota_ajustada_divisao
+17785,Fábio,fabio,1961,Fluminense,fluminense,2025,Serie_A,1.0,38,3420,0,0,0.0,0.0,0.0,0,1,0,1,3,75.9,6.96,0.0,6.96
+905448,Gabriel Brazão,gabriel brazao,1968,Santos,santos,2025,Serie_A,1.0,38,3398,0,0,0.0,0.0,0.0,0,0,1,1,12,69.37,7.09,0.0,7.09
+1140986,Agustín Rossi,agustin rossi,5981,Flamengo,flamengo,2025,Serie_A,1.0,37,3330,0,0,0.0,0.0,0.0,0,1,0,0,7,81.98,7.17,0.0,7.17
+1527129,Jemmes,jemmes,21982,Mirassol,mirassol,2025,Serie_A,1.0,37,3274,2,0,0.055,0.0,0.055,18,17,64,42,78,89.75,7.04,0.055,7.04
+356514,Danielzinho,danielzinho,21982,Mirassol,mirassol,2025,Serie_A,1.0,37,3269,0,2,0.0,0.055,0.055,31,9,60,23,33,88.05,7.13,0.055,7.13
+870748,Everson,everson,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,36,3240,0,0,0.0,0.0,0.0,0,0,0,1,16,69.08,7.16,0.0,7.16
+595598,Léo Jardim,leo jardim,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,36,3236,0,0,0.0,0.0,0.0,0,1,0,0,16,75.57,7.05,0.0,7.05
+925871,Willian Machado,willian machado,2001,Ceará,ceara,2025,Serie_A,1.0,36,3220,0,1,0.0,0.028,0.028,20,6,51,35,99,85.64,7.09,0.028,7.09
+33132,Rafael,rafael,1981,São Paulo,sao paulo,2025,Serie_A,1.0,35,3150,0,0,0.0,0.0,0.0,0,1,1,0,13,65.68,7.1,0.0,7.1
+883207,Antonio Galeano,antonio galeano,2001,Ceará,ceara,2025,Serie_A,1.0,38,3148,7,3,0.2,0.086,0.286,48,25,36,11,37,80.17,6.94,0.286,6.94
+844576,Cleiton,cleiton,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,34,3060,0,0,0.0,0.0,0.0,0,0,0,1,14,75.68,7.15,0.0,7.15
+863297,João Victor,joao victor,21982,Mirassol,mirassol,2025,Serie_A,1.0,34,3060,2,1,0.059,0.029,0.088,14,2,24,34,72,91.44,7.08,0.088,7.08
+27756,Cássio,cassio,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,35,3042,0,0,0.0,0.0,0.0,0,0,0,0,4,70.19,7.17,0.0,7.17
+358548,Léo Pereira,leo pereira,5981,Flamengo,flamengo,2025,Serie_A,1.0,34,2956,4,0,0.122,0.0,0.122,20,4,22,23,52,93.56,7.24,0.122,7.24
+1112484,Kaiki,kaiki,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,34,2954,1,5,0.03,0.152,0.182,41,39,98,42,51,79.84,7.13,0.182,7.13
+840202,Marlon Freitas,marlon freitas,1958,Botafogo,botafogo,2025,Serie_A,1.0,35,2928,1,4,0.031,0.123,0.154,27,3,45,23,16,89.73,7.18,0.154,7.18
+962187,Juan Pablo Freytes,juan pablo freytes,1961,Fluminense,fluminense,2025,Serie_A,1.0,33,2925,0,0,0.0,0.0,0.0,23,11,25,16,59,85.34,6.9,0.0,6.9
+1130513,Fabiano Souza,fabiano souza,2001,Ceará,ceara,2025,Serie_A,1.0,34,2912,0,1,0.0,0.031,0.031,13,20,44,29,21,79.21,6.82,0.031,6.82
+840220,Fabrício Bruno,fabricio bruno,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,33,2906,3,0,0.093,0.0,0.093,19,2,46,24,76,87.15,7.24,0.093,7.24
+866911,Pedro Raul,pedro raul,2001,Ceará,ceara,2025,Serie_A,1.0,34,2905,11,0,0.341,0.0,0.341,93,12,13,6,106,68.05,6.99,0.341,6.99
+905450,Lucas Halter,lucas halter,1962,Vitória,vitoria,2025,Serie_A,1.0,33,2905,4,1,0.124,0.031,0.155,25,2,39,16,57,88.06,6.98,0.155,6.98
+243109,Reinaldo,reinaldo,21982,Mirassol,mirassol,2025,Serie_A,1.0,34,2893,13,6,0.404,0.187,0.591,64,35,44,17,10,75.33,7.32,0.591,7.32
+989843,Santiago Ramos Mingo,santiago ramos mingo,1955,Bahia,bahia,2025,Serie_A,1.0,33,2883,0,0,0.0,0.0,0.0,17,6,28,26,88,88.72,7.02,0.0,7.02
+243509,Tiago Volpi,tiago volpi,5926,Grêmio,gremio,2025,Serie_A,1.0,32,2880,2,0,0.062,0.0,0.062,2,2,0,0,9,67.65,7.1,0.062,7.1
+1167069,Jhon Jhon,jhon jhon,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,34,2858,10,7,0.315,0.22,0.535,51,86,32,16,9,80.62,7.35,0.535,7.35
+1464966,Rayan,rayan,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,34,2842,14,1,0.443,0.032,0.475,92,33,29,14,59,81.42,7.2,0.475,7.2
+243651,Jádson,jadson,1980,Juventude,juventude,2025,Serie_A,1.0,35,2842,0,2,0.0,0.063,0.063,19,16,48,35,7,82.92,6.7,0.063,6.7
+914477,Vitinho,vitinho,1958,Botafogo,botafogo,2025,Serie_A,1.0,36,2840,1,2,0.032,0.063,0.095,18,30,69,26,17,84.15,6.96,0.095,6.96
+1017264,Luciano Juba,luciano juba,1955,Bahia,bahia,2025,Serie_A,1.0,35,2836,6,4,0.19,0.127,0.317,38,24,49,36,23,87.28,7.21,0.317,7.21
+260077,Lucas Villalba,lucas villalba,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,32,2820,1,0,0.032,0.0,0.032,22,12,31,47,72,81.69,7.14,0.032,7.14
+263477,Lucas Romero,lucas romero,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,33,2794,1,3,0.032,0.097,0.129,19,16,62,37,18,82.42,7.01,0.129,7.01
+329055,Walter,walter,21982,Mirassol,mirassol,2025,Serie_A,1.0,31,2790,0,0,0.0,0.0,0.0,0,1,0,0,16,83.57,7.42,0.0,7.42
+870787,Marlon,marlon,5926,Grêmio,gremio,2025,Serie_A,1.0,32,2774,1,2,0.032,0.065,0.097,23,24,71,36,16,79.19,7.1,0.097,7.1
+1066241,Bruno Ferreira,bruno ferreira,2001,Ceará,ceara,2025,Serie_A,1.0,31,2764,0,0,0.0,0.0,0.0,0,1,1,0,13,59.89,7.0,0.0,7.0
+377238,Matheus Pereira,matheus pereira,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,34,2763,7,7,0.228,0.228,0.456,67,32,38,12,13,80.19,7.53,0.456,7.53
+832662,Christian Rivera,christian rivera,1959,Sport Recife,sport recife,2025,Serie_A,1.0,33,2734,0,0,0.0,0.0,0.0,8,12,80,29,23,90.42,6.71,0.0,6.71
+1067671,Matheus Martinelli,matheus martinelli,1961,Fluminense,fluminense,2025,Serie_A,1.0,33,2730,3,2,0.099,0.066,0.165,16,14,46,17,29,88.18,6.97,0.165,6.97
+876625,Vitão,vitao,1966,Internacional,internacional,2025,Serie_A,1.0,31,2721,0,2,0.0,0.066,0.066,17,2,31,23,58,88.39,6.84,0.066,6.84
+245159,Lucas Silva,lucas silva,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,34,2716,2,2,0.066,0.066,0.132,25,23,48,11,18,87.3,6.87,0.132,6.87
+1016930,Dieguinho,dieguinho,2001,Ceará,ceara,2025,Serie_A,1.0,32,2667,0,2,0.0,0.067,0.067,18,34,56,32,32,85.56,6.98,0.067,6.98
+551774,Pedro Henrique,pedro henrique,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,31,2656,1,1,0.034,0.034,0.068,16,1,29,32,70,83.97,7.06,0.068,7.06
+242052,Gabriel Girotto,gabriel girotto,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,33,2650,1,0,0.034,0.0,0.034,18,4,70,34,15,87.69,6.88,0.034,6.88
+927975,Jean Lucas,jean lucas,1955,Bahia,bahia,2025,Serie_A,1.0,34,2638,3,1,0.102,0.034,0.136,46,36,61,15,26,87.51,6.89,0.136,6.89
+931540,Matheuzinho,matheuzinho,1957,Corinthians,corinthians,2025,Serie_A,1.0,31,2635,2,3,0.068,0.102,0.17,22,10,64,37,22,85.71,7.0,0.17,7.0
+822729,Alan Franco,alan franco,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,30,2630,1,0,0.034,0.0,0.034,9,3,50,30,24,90.75,6.88,0.034,6.88
+333275,Junior Alonso,junior alonso,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,31,2618,1,1,0.034,0.034,0.068,15,3,33,34,62,89.15,7.0,0.068,7.0
+123225,Lucas Sasha,lucas sasha,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,31,2617,1,0,0.034,0.0,0.034,17,4,114,59,30,88.23,7.02,0.034,7.02
+797225,Lucas Ramon,lucas ramon,21982,Mirassol,mirassol,2025,Serie_A,1.0,31,2609,2,3,0.069,0.103,0.172,29,23,61,52,48,75.0,7.1,0.172,7.1
+989200,Alexandro Bernabei,alexandro bernabei,1966,Internacional,internacional,2025,Serie_A,1.0,30,2581,0,4,0.0,0.139,0.139,37,36,78,38,16,79.92,6.91,0.139,6.91
+851285,Nuno Moreira,nuno moreira,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,36,2577,7,5,0.244,0.175,0.419,37,31,32,15,15,84.7,7.05,0.419,7.05
+954888,Kaio Jorge,kaio jorge,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,33,2571,21,8,0.735,0.28,1.015,99,28,12,6,32,78.83,7.33,1.015,7.33
+244589,Lucas Lima,lucas lima,1959,Sport Recife,sport recife,2025,Serie_A,1.0,33,2561,3,6,0.105,0.211,0.316,25,24,36,8,3,82.55,7.28,0.316,7.28
+982174,Lucas Piton,lucas piton,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,30,2550,1,7,0.035,0.247,0.282,13,12,31,36,25,87.71,6.95,0.282,6.95
+982558,Lucas Arcanjo,lucas arcanjo,1962,Vitória,vitoria,2025,Serie_A,1.0,29,2546,0,0,0.0,0.0,0.0,0,0,0,0,4,64.55,7.12,0.0,7.12
+1199261,Breno Bidon,breno bidon,1957,Corinthians,corinthians,2025,Serie_A,1.0,33,2540,1,1,0.035,0.035,0.07,20,32,47,19,9,87.54,6.88,0.07,6.88
+124997,Alan Patrick,alan patrick,1966,Internacional,internacional,2025,Serie_A,1.0,30,2517,11,7,0.393,0.25,0.643,52,29,28,4,11,86.66,7.49,0.643,7.49
+835260,Rony,rony,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,35,2511,6,5,0.215,0.179,0.394,79,15,27,21,43,79.17,6.98,0.394,6.98
+1021721,Paulo Henrique,paulo henrique,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,28,2494,1,8,0.036,0.289,0.325,24,74,85,35,31,81.08,7.21,0.325,7.21
+1047204,Matheus Bahia,matheus bahia,2001,Ceará,ceara,2025,Serie_A,1.0,28,2468,0,1,0.0,0.036,0.036,14,23,46,21,16,81.16,7.04,0.036,7.04
+881110,Joaquín Piquerez,joaquin piquerez,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,30,2459,3,1,0.11,0.037,0.147,34,14,53,25,18,83.85,7.09,0.147,7.09
+1116677,Luis Mandaca,luis mandaca,1980,Juventude,juventude,2025,Serie_A,1.0,32,2457,2,1,0.073,0.037,0.11,56,43,52,22,36,79.78,6.91,0.11,6.91
+559034,Neto Moura,neto moura,21982,Mirassol,mirassol,2025,Serie_A,1.0,34,2456,1,0,0.037,0.0,0.037,13,4,68,44,30,87.41,6.95,0.037,6.95
+840106,Ronaldo,ronaldo,1955,Bahia,bahia,2025,Serie_A,1.0,28,2449,0,1,0.0,0.037,0.037,0,0,0,0,11,74.02,7.03,0.037,7.03
+34705,Hulk,hulk,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,33,2442,8,6,0.295,0.221,0.516,90,33,17,1,16,76.59,7.22,0.516,7.22
+901700,Zé Marcos,ze marcos,1962,Vitória,vitoria,2025,Serie_A,1.0,28,2426,1,1,0.037,0.037,0.074,9,4,23,18,57,81.86,6.83,0.074,6.83
+119159,Philippe Coutinho,philippe coutinho,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,30,2425,5,3,0.186,0.111,0.297,64,30,23,7,8,88.63,7.18,0.297,7.18
+973293,Hugo Moura,hugo moura,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,33,2416,0,1,0.0,0.037,0.037,13,2,51,25,24,92.65,6.7,0.037,6.7
+1084963,Braian Aguirre,braian aguirre,1966,Internacional,internacional,2025,Serie_A,1.0,30,2393,1,0,0.038,0.0,0.038,24,19,70,31,12,80.82,6.85,0.038,6.85
+795773,Samuel Xavier,samuel xavier,1961,Fluminense,fluminense,2025,Serie_A,1.0,29,2387,4,1,0.151,0.038,0.189,20,8,41,13,5,88.04,7.07,0.189,7.07
+1116624,Eros Mancuso,eros mancuso,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,30,2383,1,3,0.038,0.113,0.151,25,22,59,23,16,81.76,6.8,0.151,6.8
+333587,Giorgian de Arrascaeta,giorgian de arrascaeta,5981,Flamengo,flamengo,2025,Serie_A,1.0,33,2371,18,14,0.683,0.531,1.214,78,41,34,7,16,83.78,7.74,1.214,7.74
+976235,Wagner Leonardo,wagner leonardo,5926,Grêmio,gremio,2025,Serie_A,1.0,29,2368,0,2,0.0,0.076,0.076,10,1,28,35,66,89.5,6.96,0.076,6.96
+243113,Renê,rene,1961,Fluminense,fluminense,2025,Serie_A,1.0,28,2363,2,0,0.076,0.0,0.076,13,8,52,44,49,82.86,7.21,0.076,7.21
+1067641,Lucas Barbosa,lucas barbosa,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,34,2349,4,3,0.153,0.115,0.268,50,22,48,19,37,69.98,6.79,0.268,6.79
+870804,Dodi,dodi,5926,Grêmio,gremio,2025,Serie_A,1.0,32,2349,0,1,0.0,0.038,0.038,8,13,51,28,11,90.4,6.73,0.038,6.73
+583974,Pablo Vegetti,pablo vegetti,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,35,2346,14,1,0.537,0.038,0.575,69,0,16,7,61,72.24,7.03,0.575,7.03
+981733,Christian,christian,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,30,2340,5,2,0.192,0.077,0.269,42,12,36,20,19,78.18,6.93,0.269,6.93
+950454,Hugo Souza,hugo souza,1957,Corinthians,corinthians,2025,Serie_A,1.0,26,2340,0,0,0.0,0.0,0.0,0,0,0,0,5,75.45,6.87,0.0,6.87
+243529,Weverton,weverton,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,26,2340,0,0,0.0,0.0,0.0,0,0,1,0,2,59.62,6.87,0.0,6.87
+975526,Gastón Ávila,gaston avila,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,27,2321,0,0,0.0,0.0,0.0,19,5,62,25,35,75.97,6.9,0.0,6.9
+220833,Gustavo Gómez,gustavo gomez,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,27,2312,2,1,0.078,0.039,0.117,20,4,50,34,90,80.29,7.25,0.117,7.25
+933955,Gabriel Taliari,gabriel taliari,1980,Juventude,juventude,2025,Serie_A,1.0,34,2309,8,4,0.312,0.156,0.468,61,17,30,7,23,72.25,6.89,0.468,6.89
+975118,Sabino,sabino,1981,São Paulo,sao paulo,2025,Serie_A,1.0,30,2308,2,0,0.078,0.0,0.078,18,9,35,49,62,85.37,7.09,0.078,7.09
+559036,Gustavo Scarpa,gustavo arpa,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,36,2304,1,3,0.039,0.117,0.156,58,11,14,14,13,82.58,7.18,0.156,7.18
+937552,Breno Lopes,breno lopes,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,32,2297,6,3,0.235,0.118,0.353,56,22,15,4,13,87.15,7.05,0.353,7.05
+875402,Alan Javier Franco,alan javier franco,1981,São Paulo,sao paulo,2025,Serie_A,1.0,29,2289,0,0,0.0,0.0,0.0,7,16,34,26,41,87.78,6.81,0.0,6.81
+604274,William Furtado,william furtado,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,30,2287,0,6,0.0,0.236,0.236,20,25,74,43,14,74.82,7.1,0.236,7.1
+922575,Gabriel Baralhas,gabriel baralhas,1962,Vitória,vitoria,2025,Serie_A,1.0,28,2282,2,1,0.079,0.039,0.118,32,20,54,37,20,83.72,6.93,0.118,6.93
+143846,Eduardo Sasha,eduardo sasha,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,33,2266,8,3,0.318,0.119,0.437,58,10,17,6,40,77.55,6.85,0.437,6.85
+949687,Álvaro Barreal,alvaro barreal,1968,Santos,santos,2025,Serie_A,1.0,34,2264,9,1,0.358,0.04,0.398,56,23,44,24,9,82.02,7.03,0.398,7.03
+844605,Guilherme,guilherme,1968,Santos,santos,2025,Serie_A,1.0,32,2262,4,7,0.159,0.279,0.438,64,29,38,23,55,76.75,7.27,0.438,7.27
+922454,Benjamín Rollheiser,benjamin rollheiser,1968,Santos,santos,2025,Serie_A,1.0,36,2230,2,3,0.081,0.121,0.202,51,39,21,4,5,81.25,7.01,0.202,7.01
+810715,David Duarte,david duarte,1955,Bahia,bahia,2025,Serie_A,1.0,25,2207,1,1,0.041,0.041,0.082,21,4,19,14,77,87.6,7.03,0.082,7.03
+869643,Léo Ortiz,leo ortiz,5981,Flamengo,flamengo,2025,Serie_A,1.0,26,2206,1,2,0.041,0.082,0.123,18,9,31,16,57,91.19,7.28,0.123,7.28
+872007,Negueba,negueba,21982,Mirassol,mirassol,2025,Serie_A,1.0,33,2176,7,3,0.29,0.124,0.414,54,24,29,10,13,83.58,7.04,0.414,7.04
+1104068,Hércules,hercules,1961,Fluminense,fluminense,2025,Serie_A,1.0,34,2165,3,1,0.125,0.042,0.167,31,16,51,11,21,88.42,6.8,0.167,6.8
+244591,João Schmidt,joao hmidt,1968,Santos,santos,2025,Serie_A,1.0,31,2164,2,2,0.083,0.083,0.166,18,8,54,33,48,88.12,7.01,0.166,7.01
+147467,Gabriel,gabriel,1959,Sport Recife,sport recife,2025,Serie_A,1.0,24,2160,0,0,0.0,0.0,0.0,0,0,3,0,9,62.31,7.16,0.0,7.16
+33541,Thiago Silva,thiago silva,1961,Fluminense,fluminense,2025,Serie_A,1.0,25,2158,2,0,0.083,0.0,0.083,15,4,9,20,42,91.87,7.12,0.083,7.12
+1046805,Natanael,natanael,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,34,2157,1,0,0.042,0.0,0.042,19,8,54,22,22,84.18,6.78,0.042,6.78
+801044,Alexander Barboza,alexander barboza,1958,Botafogo,botafogo,2025,Serie_A,1.0,24,2148,0,0,0.0,0.0,0.0,23,6,46,22,71,84.25,7.1,0.0,7.1
+1150391,Vitor Roque,vitor roque,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,33,2128,16,3,0.677,0.127,0.804,79,42,20,6,20,76.14,7.16,0.804,7.16
+123223,Willian José,willian jose,1955,Bahia,bahia,2025,Serie_A,1.0,33,2128,11,6,0.465,0.254,0.719,62,14,10,5,38,79.21,7.08,0.719,7.08
+846413,Agustín Canobbio,agustin canobbio,1961,Fluminense,fluminense,2025,Serie_A,1.0,30,2121,4,2,0.17,0.085,0.255,51,28,57,12,14,83.72,6.97,0.255,6.97
+282557,Luciano,luciano,1981,São Paulo,sao paulo,2025,Serie_A,1.0,32,2111,9,4,0.384,0.171,0.555,76,17,25,14,23,83.61,7.03,0.555,7.03
+354894,Rafael Thyere,rafael thyere,1959,Sport Recife,sport recife,2025,Serie_A,1.0,24,2107,1,0,0.043,0.0,0.043,10,0,27,26,44,87.74,6.9,0.043,6.9
+1015261,Damián Bobadilla,damian bobadilla,1981,São Paulo,sao paulo,2025,Serie_A,1.0,31,2105,4,2,0.171,0.086,0.257,33,9,49,19,16,87.66,7.04,0.257,7.04
+981374,Kevin Serna,kevin serna,1961,Fluminense,fluminense,2025,Serie_A,1.0,33,2098,7,5,0.3,0.214,0.514,43,42,39,15,37,77.3,6.95,0.514,6.95
+814723,Renato Kayzer,renato kayzer,1962,Vitória,vitoria,2025,Serie_A,1.0,30,2097,9,0,0.386,0.0,0.386,48,10,12,4,39,73.85,6.83,0.386,6.83
+221206,Marllon,marllon,2001,Ceará,ceara,2025,Serie_A,1.0,25,2091,2,0,0.086,0.0,0.086,8,0,25,12,39,86.66,6.88,0.086,6.88
+243181,Gustavo Henrique,gustavo henrique,1957,Corinthians,corinthians,2025,Serie_A,1.0,23,2070,3,0,0.13,0.0,0.13,23,2,28,18,78,90.28,7.23,0.13,7.23
+895650,Erick,erick,1962,Vitória,vitoria,2025,Serie_A,1.0,31,2068,3,5,0.131,0.218,0.349,45,39,28,13,7,73.39,7.06,0.349,7.06
+871032,Caique Gonçalves,caique goncalves,1980,Juventude,juventude,2025,Serie_A,1.0,28,2062,0,1,0.0,0.044,0.044,6,14,66,19,21,87.92,6.84,0.044,6.84
+338937,Robert Arboleda,robert arboleda,1981,São Paulo,sao paulo,2025,Serie_A,1.0,24,2055,3,0,0.131,0.0,0.131,14,1,34,20,49,91.3,7.17,0.131,7.17
+997239,Guzmán Rodríguez,guzman rodriguez,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,23,2052,1,0,0.044,0.0,0.044,13,4,23,13,42,87.78,6.99,0.044,6.99
+842098,Luan Peres,luan peres,1968,Santos,santos,2025,Serie_A,1.0,24,2051,0,0,0.0,0.0,0.0,4,3,31,21,51,86.81,6.86,0.0,6.86
+866392,Raniele,raniele,1957,Corinthians,corinthians,2025,Serie_A,1.0,30,2022,2,1,0.089,0.045,0.134,19,10,47,31,35,83.22,6.91,0.134,6.91
+840398,Tchê Tchê,tche tche,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,29,2016,1,0,0.045,0.0,0.045,17,19,19,13,4,93.03,6.82,0.045,6.82
+840500,Gonzalo Escobar,gonzalo escobar,1968,Santos,santos,2025,Serie_A,1.0,30,2015,0,0,0.0,0.0,0.0,14,18,79,39,20,83.79,6.88,0.0,6.88
+905463,Yuri Alberto,yuri alberto,1957,Corinthians,corinthians,2025,Serie_A,1.0,26,2006,10,2,0.449,0.09,0.539,65,11,12,4,29,73.27,6.97,0.539,6.97
+1094179,José Manuel López,jose manuel lopez,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,33,1997,12,2,0.541,0.09,0.631,89,30,29,6,98,58.03,7.18,0.631,7.18
+358550,Thiago Maia,thiago maia,1966,Internacional,internacional,2025,Serie_A,1.0,31,1989,2,1,0.09,0.045,0.135,6,10,32,35,33,86.81,6.94,0.135,6.94
+922546,Ademir,ademir,1955,Bahia,bahia,2025,Serie_A,1.0,30,1986,2,6,0.091,0.272,0.363,53,49,33,5,15,82.33,7.04,0.363,7.04
+1106603,Agustín Giay,agustin giay,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,29,1986,0,0,0.0,0.0,0.0,9,7,59,14,26,84.26,6.87,0.0,6.87
+981703,Matheus Bidu,matheus bidu,1957,Corinthians,corinthians,2025,Serie_A,1.0,26,1975,0,2,0.0,0.091,0.091,19,26,35,22,18,82.92,7.17,0.091,7.17
+870556,Juninho Capixaba,juninho capixaba,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,24,1973,1,1,0.046,0.046,0.092,28,13,49,21,48,82.0,7.18,0.092,7.18
+291723,Alisson,alisson,1981,São Paulo,sao paulo,2025,Serie_A,1.0,31,1957,0,1,0.0,0.046,0.046,18,4,33,13,14,88.49,6.83,0.046,6.83
+145063,Everton Ribeiro,everton ribeiro,1955,Bahia,bahia,2025,Serie_A,1.0,31,1949,2,4,0.092,0.185,0.277,27,25,41,14,6,87.2,7.09,0.277,7.09
+980761,Ramon,ramon,1962,Vitória,vitoria,2025,Serie_A,1.0,23,1949,0,0,0.0,0.0,0.0,14,13,39,20,27,78.2,6.74,0.0,6.74
+874739,Jefferson Savarino,jefferson savarino,1958,Botafogo,botafogo,2025,Serie_A,1.0,27,1927,4,3,0.187,0.14,0.327,54,11,12,2,0,84.79,7.17,0.327,7.17
+841128,Artur,artur,1958,Botafogo,botafogo,2025,Serie_A,1.0,28,1927,5,4,0.234,0.187,0.421,46,31,15,11,9,82.8,7.1,0.421,7.1
+44760,Cédric Soares,cedric soares,1981,São Paulo,sao paulo,2025,Serie_A,1.0,25,1905,0,3,0.0,0.142,0.142,5,8,33,10,9,76.24,6.74,0.142,6.74
+905453,Marcos Antônio,marcos antonio,1981,São Paulo,sao paulo,2025,Serie_A,1.0,28,1904,0,4,0.0,0.189,0.189,16,3,19,7,6,90.01,6.91,0.189,6.91
+932937,Enzo Díaz,enzo diaz,1981,São Paulo,sao paulo,2025,Serie_A,1.0,27,1891,0,5,0.0,0.238,0.238,14,12,77,19,33,81.55,6.97,0.238,6.97
+987589,José Andrés Hurtado,jose andres hurtado,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,28,1887,1,0,0.048,0.0,0.048,10,20,38,19,28,83.49,6.66,0.048,6.66
+839516,Ramon Menezes,ramon menezes,1959,Sport Recife,sport recife,2025,Serie_A,1.0,23,1878,1,0,0.048,0.0,0.048,15,1,18,26,51,89.9,6.87,0.048,6.87
+931521,Ronald,ronald,1962,Vitória,vitoria,2025,Serie_A,1.0,29,1876,0,2,0.0,0.096,0.096,14,21,43,13,7,86.44,6.85,0.096,6.85
+329069,Zé Rafael,ze rafael,1968,Santos,santos,2025,Serie_A,1.0,27,1871,1,0,0.048,0.0,0.048,28,16,67,9,15,87.5,6.99,0.048,6.99
+783490,Marcelo Hermes,marcelo hermes,1980,Juventude,juventude,2025,Serie_A,1.0,22,1858,2,5,0.097,0.242,0.339,20,5,36,17,14,76.95,6.89,0.339,6.89
+913598,Igor Gomes,igor gomes,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,34,1847,4,2,0.195,0.097,0.292,24,15,20,20,31,83.82,6.88,0.292,6.88
+1186587,David Ricardo,david ricardo,1958,Botafogo,botafogo,2025,Serie_A,1.0,22,1832,1,1,0.049,0.049,0.098,10,3,25,16,44,88.44,7.08,0.098,7.08
+795291,Bruno Henrique,bruno henrique,5981,Flamengo,flamengo,2025,Serie_A,1.0,32,1826,8,0,0.394,0.0,0.394,56,24,20,4,38,77.11,6.96,0.394,6.96
+221636,Edenilson,edenilson,5926,Grêmio,gremio,2025,Serie_A,1.0,31,1819,3,2,0.148,0.099,0.247,27,14,17,17,15,84.59,6.83,0.247,6.83
+560116,Rafael Borré,rafael borre,1966,Internacional,internacional,2025,Serie_A,1.0,30,1815,5,2,0.248,0.099,0.347,49,11,37,6,33,77.75,6.8,0.347,6.8
+977677,Aníbal Moreno,anibal moreno,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,28,1807,0,1,0.0,0.05,0.05,18,12,44,27,17,86.98,6.89,0.05,6.89
+844602,Zé Ivaldo,ze ivaldo,1968,Santos,santos,2025,Serie_A,1.0,21,1801,1,0,0.05,0.0,0.05,15,3,30,23,47,88.64,6.98,0.05,6.98
+881215,Nahuel Ferraresi,nahuel ferraresi,1981,São Paulo,sao paulo,2025,Serie_A,1.0,24,1799,0,3,0.0,0.15,0.15,9,13,75,28,34,84.99,7.09,0.15,7.09
+950545,Eric Ramires,eric ramires,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,31,1795,2,1,0.1,0.05,0.15,21,9,32,13,8,88.26,6.77,0.15,6.77
+953736,Matheus Alexandre,matheus alexandre,1959,Sport Recife,sport recife,2025,Serie_A,1.0,26,1788,0,1,0.0,0.05,0.05,9,13,51,33,30,85.24,6.69,0.05,6.69
+152276,Felipe Anderson,felipe anderson,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,31,1785,4,2,0.202,0.101,0.303,36,36,53,18,9,85.33,6.99,0.303,6.99
+261687,Gilberto,gilberto,1955,Bahia,bahia,2025,Serie_A,1.0,23,1783,1,0,0.05,0.0,0.05,15,21,49,20,21,88.54,7.09,0.05,7.09
+148155,André Ramalho,andre ramalho,1957,Corinthians,corinthians,2025,Serie_A,1.0,21,1781,0,0,0.0,0.0,0.0,13,0,29,17,44,91.93,7.1,0.0,7.1
+795266,Matheuzinho,matheuzinho,1962,Vitória,vitoria,2025,Serie_A,1.0,29,1771,4,1,0.203,0.051,0.254,31,20,20,12,12,85.27,6.84,0.254,6.84
+247483,Wanderson,wanderson,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,27,1771,0,2,0.0,0.102,0.102,33,34,11,6,5,82.17,6.77,0.102,6.77
+840451,Luiz Araújo,luiz araujo,5981,Flamengo,flamengo,2025,Serie_A,1.0,35,1769,7,3,0.356,0.153,0.509,45,17,50,8,8,83.42,7.1,0.509,7.1
+1127439,Guilherme Arana,guilherme arana,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,25,1751,1,1,0.051,0.051,0.102,37,6,22,18,13,89.57,6.95,0.102,6.95
+874195,Igor Cariús,igor carius,1959,Sport Recife,sport recife,2025,Serie_A,1.0,28,1737,1,0,0.052,0.0,0.052,21,2,47,27,49,72.61,6.8,0.052,6.8
+249881,Lucas Mugni,lucas mugni,2001,Ceará,ceara,2025,Serie_A,1.0,33,1733,2,6,0.104,0.312,0.416,20,27,57,6,12,78.73,6.92,0.416,6.92
+1631879,Alysson,alysson,5926,Grêmio,gremio,2025,Serie_A,1.0,31,1729,1,2,0.052,0.104,0.156,40,34,47,16,43,77.85,6.86,0.156,6.86
+973737,Bruno Fuchs,bruno fuchs,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,27,1726,2,1,0.104,0.052,0.156,7,1,40,29,41,87.04,7.09,0.156,7.09
+249647,Walter Kannemann,walter kannemann,5926,Grêmio,gremio,2025,Serie_A,1.0,20,1723,0,0,0.0,0.0,0.0,5,4,26,22,53,84.3,6.9,0.0,6.9
+590324,Benjamin Kuscevic,benjamin kuscevic,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,20,1716,1,0,0.052,0.0,0.052,9,2,37,16,47,85.33,6.84,0.052,6.84
+959620,Nicolás Acevedo,nicolas evedo,1955,Bahia,bahia,2025,Serie_A,1.0,32,1711,0,1,0.0,0.053,0.053,20,22,57,31,21,86.25,6.87,0.053,6.87
+874979,Jandrei,jandrei,1980,Juventude,juventude,2025,Serie_A,1.0,19,1710,0,0,0.0,0.0,0.0,0,1,0,0,6,66.01,6.93,0.0,6.93
+312110,Alex Telles,alex telles,1958,Botafogo,botafogo,2025,Serie_A,1.0,27,1699,5,4,0.265,0.212,0.477,26,5,20,17,12,89.22,7.1,0.477,7.1
+122971,Raúl Cáceres,raul caceres,1962,Vitória,vitoria,2025,Serie_A,1.0,20,1690,2,2,0.107,0.107,0.214,12,7,32,9,23,77.84,6.94,0.214,6.94
+982405,Vitinho,vitinho,1966,Internacional,internacional,2025,Serie_A,1.0,27,1688,5,1,0.267,0.053,0.32,35,12,28,15,28,78.87,6.91,0.32,6.91
+874572,Facundo Torres,facundo torres,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,29,1669,6,3,0.324,0.162,0.486,32,13,17,5,12,86.59,7.03,0.486,7.03
+822523,Matheusinho,matheusinho,1959,Sport Recife,sport recife,2025,Serie_A,1.0,25,1669,2,2,0.108,0.108,0.216,27,38,26,23,2,78.5,6.84,0.216,6.84
+874729,Murilo,murilo,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,20,1662,1,1,0.054,0.054,0.108,11,8,28,17,57,88.11,7.09,0.108,7.09
+311462,Fabrizio Angileri,fabrizio angileri,1957,Corinthians,corinthians,2025,Serie_A,1.0,28,1660,0,0,0.0,0.0,0.0,6,12,35,10,28,83.37,6.83,0.0,6.83
+1482340,Souza,souza,1968,Santos,santos,2025,Serie_A,1.0,24,1654,1,2,0.054,0.109,0.163,18,23,41,24,15,84.62,6.96,0.163,6.96
+1104070,Erick Pulga,erick pulga,1955,Bahia,bahia,2025,Serie_A,1.0,24,1652,3,3,0.163,0.163,0.326,51,37,31,16,11,86.44,7.17,0.326,7.17
+794838,Vitor Hugo,vitor hugo,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,23,1639,3,0,0.165,0.0,0.165,16,3,27,26,63,92.02,6.96,0.165,6.96
+243459,Gabriel Santana,gabriel santana,21982,Mirassol,mirassol,2025,Serie_A,1.0,25,1608,4,2,0.224,0.112,0.336,30,16,9,5,12,86.6,7.12,0.336,7.12
+986233,Mauricio,mauricio,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,29,1606,3,7,0.168,0.392,0.56,40,4,17,11,13,84.1,6.91,0.56,6.91
+2040561,Zé Lucas,ze lucas,1959,Sport Recife,sport recife,2025,Serie_A,1.0,24,1605,0,0,0.0,0.0,0.0,17,12,43,25,15,79.1,6.85,0.0,6.85
+789395,Emanuel Brítez,emanuel britez,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,18,1598,0,1,0.0,0.056,0.056,10,3,24,20,40,80.09,6.93,0.056,6.93
+998499,Ferreirinha,ferreirinha,1981,São Paulo,sao paulo,2025,Serie_A,1.0,28,1586,5,4,0.284,0.227,0.511,36,53,23,6,9,82.06,7.03,0.511,7.03
+1069729,Lucas Freitas,lucas freitas,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,21,1556,1,0,0.058,0.0,0.058,5,7,16,19,23,92.65,6.86,0.058,6.86
+824626,Tomás Pochettino,tomas pochettino,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,26,1552,3,4,0.174,0.232,0.406,42,26,36,20,9,67.63,7.03,0.406,7.03
+84854,Alex Sandro,alex sandro,5981,Flamengo,flamengo,2025,Serie_A,1.0,20,1548,0,0,0.0,0.0,0.0,8,13,14,18,23,89.04,7.03,0.0,7.03
+138833,Memphis Depay,memphis depay,1957,Corinthians,corinthians,2025,Serie_A,1.0,23,1547,6,3,0.349,0.175,0.524,51,14,8,2,7,79.31,6.99,0.524,6.99
+1160554,Cuiabano,cuiabano,1958,Botafogo,botafogo,2025,Serie_A,1.0,30,1544,5,2,0.291,0.117,0.408,28,10,34,21,16,77.85,6.92,0.408,6.92
+124712,Neymar,neymar,1968,Santos,santos,2025,Serie_A,1.0,20,1531,8,1,0.47,0.059,0.529,56,30,7,3,7,79.25,7.37,0.529,7.37
+840103,John Victor,john victor,1958,Botafogo,botafogo,2025,Serie_A,1.0,17,1530,0,0,0.0,0.0,0.0,0,0,1,1,5,78.75,7.15,0.0,7.15
+1106134,Anthoni,anthoni,1966,Internacional,internacional,2025,Serie_A,1.0,18,1530,0,0,0.0,0.0,0.0,0,0,1,0,6,66.58,6.5,0.0,6.5
+973533,Emiliano Martínez,emiliano martinez,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,25,1527,1,0,0.059,0.0,0.059,16,5,37,17,24,88.28,6.86,0.059,6.86
+1035765,Chrystian Barletta,chrystian barletta,1959,Sport Recife,sport recife,2025,Serie_A,1.0,34,1519,2,0,0.118,0.0,0.118,47,42,15,11,13,74.83,6.71,0.118,6.71
+33238,Germán Cano,german cano,1961,Fluminense,fluminense,2025,Serie_A,1.0,22,1516,6,0,0.356,0.0,0.356,42,4,6,2,8,75.73,6.83,0.356,6.83
+799947,Jose Juninho,jose juninho,1966,Internacional,internacional,2025,Serie_A,1.0,20,1512,0,0,0.0,0.0,0.0,12,1,28,19,35,86.85,6.88,0.0,6.88
+931479,Fernando Sobral,fernando sobral,2001,Ceará,ceara,2025,Serie_A,1.0,30,1509,1,0,0.06,0.0,0.06,14,11,46,14,16,81.82,6.78,0.06,6.78
+1463909,Newton,newton,1958,Botafogo,botafogo,2025,Serie_A,1.0,25,1507,1,0,0.06,0.0,0.06,18,7,31,19,24,88.19,6.75,0.06,6.75
+831778,Maycon,maycon,1957,Corinthians,corinthians,2025,Serie_A,1.0,25,1491,3,0,0.181,0.0,0.181,12,6,26,8,5,88.64,6.82,0.181,6.82
+1119887,Léo Linck,leo linck,1958,Botafogo,botafogo,2025,Serie_A,1.0,17,1486,0,0,0.0,0.0,0.0,0,0,0,0,2,70.85,6.84,0.0,6.84
+1120721,Pablo Maia,pablo maia,1981,São Paulo,sao paulo,2025,Serie_A,1.0,25,1483,1,0,0.061,0.0,0.061,11,4,28,6,17,91.55,6.65,0.061,6.65
+840119,Igor Vinícius,igor vinicius,1968,Santos,santos,2025,Serie_A,1.0,23,1466,0,2,0.0,0.123,0.123,9,27,49,15,11,85.71,7.0,0.123,7.0
+66471,Martin Braithwaite,martin braithwaite,5926,Grêmio,gremio,2025,Serie_A,1.0,18,1465,6,1,0.369,0.061,0.43,37,11,9,2,23,76.54,6.98,0.43,6.98
+794640,Rodrigo Sam,rodrigo sam,1980,Juventude,juventude,2025,Serie_A,1.0,18,1463,1,0,0.062,0.0,0.062,7,3,32,27,44,88.84,6.92,0.062,6.92
+925125,Johan Carbonero,johan carbonero,1966,Internacional,internacional,2025,Serie_A,1.0,23,1462,5,2,0.308,0.123,0.431,42,25,14,2,9,82.46,7.05,0.431,7.05
+871015,Alesson,alesson,21982,Mirassol,mirassol,2025,Serie_A,1.0,26,1461,6,5,0.37,0.308,0.678,31,31,26,6,16,82.11,6.86,0.678,6.86
+994190,Derik Lacerda,derik lacerda,1959,Sport Recife,sport recife,2025,Serie_A,1.0,17,1450,6,0,0.372,0.0,0.372,51,22,8,7,45,78.97,7.08,0.372,7.08
+870762,Arthur Cabral,arthur cabral,1958,Botafogo,botafogo,2025,Serie_A,1.0,21,1447,4,2,0.249,0.124,0.373,42,11,12,1,43,75.86,7.03,0.373,7.03
+877591,Puma Rodríguez,puma rodriguez,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,25,1446,2,2,0.124,0.124,0.248,22,8,21,12,26,86.02,6.85,0.248,6.85
+982998,João Victor,joao victor,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,16,1436,1,0,0.063,0.0,0.063,11,4,28,10,43,90.87,7.09,0.063,7.09
+147358,Wilker Ángel,wilker angel,1980,Juventude,juventude,2025,Serie_A,1.0,18,1434,1,0,0.063,0.0,0.063,11,1,13,12,43,86.15,6.91,0.063,6.91
+1009030,Igor Formiga,igor formiga,1980,Juventude,juventude,2025,Serie_A,1.0,19,1425,2,2,0.126,0.126,0.252,15,25,50,34,22,78.53,7.1,0.252,7.1
+994454,Rodrigo Garro,rodrigo garro,1957,Corinthians,corinthians,2025,Serie_A,1.0,19,1416,0,3,0.0,0.191,0.191,22,17,13,5,1,79.85,7.29,0.191,7.29
+219190,Pedro Henrique,pedro henrique,2001,Ceará,ceara,2025,Serie_A,1.0,28,1414,4,3,0.255,0.191,0.446,33,7,33,8,22,71.43,6.89,0.446,6.89
+797893,Lyanco,lyanco,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,17,1413,0,0,0.0,0.0,0.0,12,8,30,36,34,88.51,7.06,0.0,7.06
+295167,Willian Oliveira,willian oliveira,1962,Vitória,vitoria,2025,Serie_A,1.0,20,1413,1,0,0.064,0.0,0.064,18,2,21,22,19,84.02,6.74,0.064,6.74
+345113,Bruno Henrique,bruno henrique,1966,Internacional,internacional,2025,Serie_A,1.0,29,1410,2,0,0.128,0.0,0.128,25,4,38,12,16,85.15,6.76,0.128,6.76
+359024,Juan Martín Lucero,juan martin lucero,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,27,1409,3,1,0.192,0.064,0.256,29,1,19,2,27,72.8,6.7,0.256,6.7
+929200,Cacá,caca,1957,Corinthians,corinthians,2025,Serie_A,1.0,18,1408,2,0,0.128,0.0,0.128,7,3,24,11,34,94.59,7.02,0.128,7.02
+124992,Danilo,danilo,5981,Flamengo,flamengo,2025,Serie_A,1.0,20,1408,1,1,0.064,0.064,0.128,6,2,10,14,21,92.99,6.92,0.128,6.92
+874705,Samuel Lino,samuel lino,5981,Flamengo,flamengo,2025,Serie_A,1.0,21,1406,4,5,0.256,0.32,0.576,47,31,26,3,8,83.65,7.18,0.576,7.18
+363688,Yago Pikachu,yago pikachu,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,31,1406,2,1,0.128,0.064,0.192,24,9,17,3,8,83.45,6.76,0.192,6.76
+879871,Lourenço,lourenco,2001,Ceará,ceara,2025,Serie_A,1.0,33,1405,2,1,0.128,0.064,0.192,27,10,22,15,20,80.57,6.84,0.192,6.84
+979325,José Martínez,jose martinez,1957,Corinthians,corinthians,2025,Serie_A,1.0,24,1400,1,1,0.064,0.064,0.128,12,12,27,14,9,83.2,6.7,0.128,6.7
+1170913,Marcos Paulo,marcos paulo,1980,Juventude,juventude,2025,Serie_A,1.0,19,1375,0,0,0.0,0.0,0.0,6,6,21,9,38,83.17,6.72,0.0,6.72
+358956,Cristian Pavón,cristian pavon,5926,Grêmio,gremio,2025,Serie_A,1.0,28,1372,0,6,0.0,0.394,0.394,30,19,22,19,17,75.72,6.83,0.394,6.83
+386212,Everaldo,everaldo,1961,Fluminense,fluminense,2025,Serie_A,1.0,28,1372,2,0,0.131,0.0,0.131,39,6,8,0,58,67.39,6.75,0.131,6.75
+988851,José Aldo,jose aldo,21982,Mirassol,mirassol,2025,Serie_A,1.0,30,1368,0,1,0.0,0.066,0.066,22,13,34,27,16,85.56,6.83,0.066,6.83
+925072,André Silva,andre silva,1981,São Paulo,sao paulo,2025,Serie_A,1.0,20,1361,5,2,0.331,0.132,0.463,38,1,12,10,33,71.6,6.94,0.463,6.94
+132874,Jorginho,jorginho,5981,Flamengo,flamengo,2025,Serie_A,1.0,18,1360,3,1,0.199,0.066,0.265,14,4,22,23,13,91.27,7.17,0.265,7.17
+799667,Caíque França,caique franca,1959,Sport Recife,sport recife,2025,Serie_A,1.0,15,1350,0,0,0.0,0.0,0.0,0,0,1,0,8,75.24,7.23,0.0,7.23
+914481,Brenno,brenno,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,15,1350,0,0,0.0,0.0,0.0,0,0,1,0,2,54.67,7.17,0.0,7.17
+1148306,Cristian Renato,cristian renato,21982,Mirassol,mirassol,2025,Serie_A,1.0,32,1349,5,3,0.334,0.2,0.534,45,14,9,3,33,73.81,6.72,0.534,6.72
+1444694,Cauan Barros,cauan barros,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,17,1347,1,0,0.067,0.0,0.067,13,9,30,21,39,89.84,7.06,0.067,7.06
+1174196,Marcos Victor,marcos victor,2001,Ceará,ceara,2025,Serie_A,1.0,15,1344,0,1,0.0,0.067,0.067,8,6,20,11,21,88.09,6.99,0.067,6.99
+937937,Gonzalo Plata,gonzalo plata,5981,Flamengo,flamengo,2025,Serie_A,1.0,28,1344,4,1,0.268,0.067,0.335,26,20,24,2,16,81.11,6.9,0.335,6.9
+311456,Guillermo Varela,guillermo varela,5981,Flamengo,flamengo,2025,Serie_A,1.0,20,1343,0,3,0.0,0.201,0.201,5,7,27,8,17,88.56,7.1,0.201,7.1
+975216,Santiago Rodríguez,santiago rodriguez,1958,Botafogo,botafogo,2025,Serie_A,1.0,26,1327,2,5,0.136,0.339,0.475,28,23,25,13,15,81.0,7.04,0.475,7.04
+1022945,Emerson Batalla,emerson batalla,1980,Juventude,juventude,2025,Serie_A,1.0,22,1327,4,2,0.271,0.136,0.407,25,13,21,2,6,78.67,6.75,0.407,6.75
+1105796,Gustavo Martins,gustavo martins,5926,Grêmio,gremio,2025,Serie_A,1.0,19,1323,2,0,0.136,0.0,0.136,17,5,26,11,41,86.55,7.02,0.136,7.02
+905459,Luan Cândido,luan candido,1959,Sport Recife,sport recife,2025,Serie_A,1.0,16,1318,1,0,0.068,0.0,0.068,12,3,13,17,34,82.58,6.75,0.068,6.75
+1464653,Abner,abner,1980,Juventude,juventude,2025,Serie_A,1.0,19,1317,0,1,0.0,0.068,0.068,3,4,19,18,33,85.09,6.67,0.068,6.67
+581060,Sergio Rochet,sergio rochet,1966,Internacional,internacional,2025,Serie_A,1.0,15,1305,0,0,0.0,0.0,0.0,0,0,0,0,1,64.36,6.91,0.0,6.91
+795268,Matheus Pereira,matheus pereira,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,19,1299,1,3,0.069,0.208,0.277,13,13,22,20,9,83.1,6.97,0.277,6.97
+1105341,Micael,micael,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,16,1295,0,1,0.0,0.069,0.069,7,3,28,9,39,89.82,6.99,0.069,6.99
+1191278,Robert Renan,robert renan,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,15,1289,0,0,0.0,0.0,0.0,6,3,18,18,36,88.45,6.96,0.0,6.96
+1068987,Cristian Olivera,cristian olivera,5926,Grêmio,gremio,2025,Serie_A,1.0,22,1289,2,0,0.14,0.0,0.14,27,28,27,3,5,73.8,6.73,0.14,6.73
+823831,Aitor Cantalapiedra,aitor cantalapiedra,1962,Vitória,vitoria,2025,Serie_A,1.0,19,1287,3,3,0.21,0.21,0.42,26,5,11,4,7,76.51,6.97,0.42,6.97
+115182,André Carrillo,andre carrillo,1957,Corinthians,corinthians,2025,Serie_A,1.0,22,1284,1,0,0.07,0.0,0.07,9,8,24,12,1,91.14,6.85,0.07,6.85
+1008491,Léo Pereira,leo pereira,1959,Sport Recife,sport recife,2025,Serie_A,1.0,22,1283,3,1,0.21,0.07,0.28,44,13,20,4,8,66.86,6.65,0.28,6.65
+147464,Dudu,dudu,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,23,1282,4,2,0.281,0.14,0.421,26,18,10,4,5,77.61,6.98,0.421,6.98
+1008832,Caio Alexandre,caio alexandre,1955,Bahia,bahia,2025,Serie_A,1.0,21,1276,0,1,0.0,0.071,0.071,10,10,29,10,4,90.18,6.9,0.071,6.9
+1117513,Fabinho,fabinho,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,28,1268,0,1,0.0,0.071,0.071,11,9,30,16,14,84.78,6.73,0.071,6.73
+870691,Bruno Pacheco,bruno pacheco,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,15,1265,1,1,0.071,0.071,0.142,3,11,25,11,26,78.35,6.92,0.142,6.92
+839761,João Ricardo,joao ricardo,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,14,1260,0,0,0.0,0.0,0.0,0,0,0,0,1,66.46,7.3,0.0,7.3
+1067640,Vanderlan,vanderlan,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,17,1253,0,1,0.0,0.072,0.072,4,12,24,8,10,80.91,6.65,0.072,6.65
+558820,Franco Cristaldo,franco cristaldo,5926,Grêmio,gremio,2025,Serie_A,1.0,30,1251,1,3,0.072,0.216,0.288,22,14,23,5,10,82.84,6.92,0.288,6.92
+789100,Tiquinho Soares,tiquinho soares,1968,Santos,santos,2025,Serie_A,1.0,27,1250,2,3,0.144,0.216,0.36,31,9,11,2,39,73.13,6.82,0.36,6.82
+856123,Emerson Royal,emerson royal,5981,Flamengo,flamengo,2025,Serie_A,1.0,15,1248,1,1,0.072,0.072,0.144,15,7,29,20,31,87.91,7.3,0.144,7.3
+1411150,João Pedro Tchoca,joao pedro tchoca,1957,Corinthians,corinthians,2025,Serie_A,1.0,16,1248,0,1,0.0,0.072,0.072,10,2,22,12,16,89.44,6.93,0.072,6.93
+590262,Erick Pulgar,erick pulgar,5981,Flamengo,flamengo,2025,Serie_A,1.0,17,1244,1,0,0.072,0.0,0.072,7,4,18,24,20,93.91,7.03,0.072,7.03
+985766,Wesley Ribeiro,wesley ribeiro,1966,Internacional,internacional,2025,Serie_A,1.0,18,1244,0,3,0.0,0.217,0.217,28,23,29,8,20,77.31,6.93,0.217,6.93
+551674,Alan Ruschel,alan ruschel,1980,Juventude,juventude,2025,Serie_A,1.0,21,1242,0,0,0.0,0.0,0.0,2,6,28,15,13,82.08,6.64,0.0,6.64
+241488,Bernard,bernard,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,30,1240,1,1,0.073,0.073,0.146,16,18,28,9,4,83.14,6.88,0.146,6.88
+931759,Camutanga,camutanga,1962,Vitória,vitoria,2025,Serie_A,1.0,15,1239,0,0,0.0,0.0,0.0,8,1,15,13,29,85.52,6.77,0.0,6.77
+243107,Diogo Barbosa,diogo barbosa,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,19,1236,1,0,0.073,0.0,0.073,7,7,31,11,15,85.07,6.84,0.073,6.84
+818473,Ayrton Lucas,ayrton lucas,5981,Flamengo,flamengo,2025,Serie_A,1.0,18,1231,2,0,0.146,0.0,0.146,16,11,31,9,22,91.66,7.24,0.146,7.24
+158583,Santiago Arias,santiago arias,1955,Bahia,bahia,2025,Serie_A,1.0,19,1231,0,0,0.0,0.0,0.0,10,2,16,17,9,88.21,6.73,0.0,6.73
+548030,Luciano Acosta,luciano osta,1961,Fluminense,fluminense,2025,Serie_A,1.0,16,1213,3,2,0.223,0.148,0.371,22,23,19,0,7,79.0,7.13,0.371,7.13
+270287,Deyverson,deyverson,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,27,1208,7,0,0.522,0.0,0.522,34,2,5,5,78,59.47,6.87,0.522,6.87
+871273,Tomás Cuello,tomas cuello,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,16,1206,1,1,0.075,0.075,0.15,39,43,25,7,13,83.22,7.07,0.15,7.07
+128376,Gabriel Mercado,gabriel mercado,1966,Internacional,internacional,2025,Serie_A,1.0,14,1197,1,0,0.075,0.0,0.075,8,2,15,14,19,86.21,6.92,0.075,6.92
+866847,Chico da Costa,chico da costa,21982,Mirassol,mirassol,2025,Serie_A,1.0,20,1195,6,0,0.452,0.0,0.452,25,5,2,1,18,71.3,6.82,0.452,6.82
+1020375,Erick Noriega,erick noriega,5926,Grêmio,gremio,2025,Serie_A,1.0,14,1186,0,0,0.0,0.0,0.0,7,1,12,12,18,87.39,6.94,0.0,6.94
+958382,Ignácio,ignacio,1961,Fluminense,fluminense,2025,Serie_A,1.0,19,1179,0,0,0.0,0.0,0.0,6,4,25,15,28,89.51,6.92,0.0,6.92
+1048612,Edson Carioca,edson carioca,21982,Mirassol,mirassol,2025,Serie_A,1.0,21,1178,4,2,0.306,0.153,0.459,32,20,27,5,10,75.25,6.87,0.459,6.87
+555456,Reginaldo,reginaldo,1980,Juventude,juventude,2025,Serie_A,1.0,18,1172,0,2,0.0,0.154,0.154,4,2,12,10,6,85.91,6.63,0.154,6.63
+914487,Ruan,ruan,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,16,1171,1,0,0.077,0.0,0.077,4,4,13,21,39,89.67,6.95,0.077,6.95
+901889,Francis Amuzu,francis amuzu,5926,Grêmio,gremio,2025,Serie_A,1.0,22,1167,4,2,0.308,0.154,0.462,42,17,10,0,2,85.96,6.98,0.462,6.98
+1116955,Nathan Mendes,nathan mendes,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,19,1162,0,1,0.0,0.077,0.077,3,5,18,13,10,82.65,6.72,0.077,6.72
+116955,Saúl Ñíguez,saul niguez,5981,Flamengo,flamengo,2025,Serie_A,1.0,16,1159,0,2,0.0,0.155,0.155,22,5,34,18,14,89.95,7.09,0.155,7.09
+1139775,Mathias Villasanti,mathias villasanti,5926,Grêmio,gremio,2025,Serie_A,1.0,16,1159,0,0,0.0,0.0,0.0,6,14,40,25,14,83.96,6.84,0.0,6.84
+992512,Ewerthon,ewerthon,1980,Juventude,juventude,2025,Serie_A,1.0,18,1158,1,0,0.078,0.0,0.078,16,5,24,22,9,78.85,6.67,0.078,6.67
+930690,Fausto Vera,fausto vera,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,18,1130,1,0,0.08,0.0,0.08,12,6,29,10,8,90.47,6.84,0.08,6.84
+986064,Luan Freitas,luan freitas,1980,Juventude,juventude,2025,Serie_A,1.0,14,1125,0,1,0.0,0.08,0.08,4,1,25,10,14,89.31,6.84,0.08,6.84
+1002947,Gonzalo Tapia,gonzalo tapia,1981,São Paulo,sao paulo,2025,Serie_A,1.0,20,1118,5,0,0.403,0.0,0.403,32,9,5,6,27,77.59,6.9,0.403,6.9
+1015935,Ênio,enio,1980,Juventude,juventude,2025,Serie_A,1.0,26,1112,3,0,0.243,0.0,0.243,23,10,9,1,6,80.94,6.72,0.243,6.72
+940699,Adonis Frías,adonis frias,1968,Santos,santos,2025,Serie_A,1.0,13,1111,0,0,0.0,0.0,0.0,6,2,15,17,27,91.44,7.02,0.0,7.02
+992093,Lautaro Díaz,lautaro diaz,1968,Santos,santos,2025,Serie_A,1.0,21,1109,3,2,0.243,0.162,0.405,21,13,5,3,26,68.45,6.88,0.405,6.88
+158561,Gilberto,gilberto,1980,Juventude,juventude,2025,Serie_A,1.0,23,1109,2,2,0.162,0.162,0.324,23,6,8,4,29,65.34,6.68,0.324,6.68
+1106487,Victor Gabriel,victor gabriel,1966,Internacional,internacional,2025,Serie_A,1.0,14,1108,2,0,0.162,0.0,0.162,8,5,24,18,38,86.15,7.06,0.162,7.06
+807850,Lima,lima,1961,Fluminense,fluminense,2025,Serie_A,1.0,28,1101,2,1,0.163,0.082,0.245,27,15,17,9,6,89.4,6.79,0.245,6.79
+358554,Gabriel Barbosa,gabriel barbosa,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,30,1097,6,2,0.492,0.164,0.656,47,7,7,0,0,87.46,6.88,0.656,6.88
+839095,Carlos Cuesta,carlos cuesta,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,13,1092,1,0,0.082,0.0,0.082,7,4,18,13,17,88.32,6.85,0.082,6.85
+973841,Vinicius Zanocelo,vinicius zanocelo,2001,Ceará,ceara,2025,Serie_A,1.0,15,1089,1,0,0.083,0.0,0.083,18,8,25,16,8,89.09,6.95,0.083,6.95
+794927,Arthur,arthur,5926,Grêmio,gremio,2025,Serie_A,1.0,13,1088,0,0,0.0,0.0,0.0,13,9,29,5,4,93.78,7.21,0.0,7.21
+979861,Isidro Pitta,isidro pitta,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,24,1082,7,2,0.582,0.166,0.748,25,9,4,0,26,73.88,6.93,0.748,6.93
+845433,Bruno Tabata,bruno tabata,1966,Internacional,internacional,2025,Serie_A,1.0,24,1082,3,0,0.25,0.0,0.25,36,22,18,10,3,83.03,6.89,0.25,6.89
+844096,Jhon Arias,jhon arias,1961,Fluminense,fluminense,2025,Serie_A,1.0,12,1079,1,4,0.083,0.334,0.417,18,27,13,4,6,89.13,7.33,0.417,7.33
+1197041,Ángel Romero,angel romero,1957,Corinthians,corinthians,2025,Serie_A,1.0,27,1077,0,1,0.0,0.084,0.084,21,12,20,8,9,82.27,6.57,0.084,6.57
+374486,Pablo,pablo,1959,Sport Recife,sport recife,2025,Serie_A,1.0,21,1076,3,1,0.251,0.084,0.335,24,6,8,4,24,78.76,6.7,0.335,6.7
+989715,Edu,edu,1962,Vitória,vitoria,2025,Serie_A,1.0,20,1075,0,0,0.0,0.0,0.0,4,0,33,11,26,77.49,6.95,0.0,6.95
+840020,Raphael Veiga,raphael veiga,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,25,1072,2,4,0.168,0.336,0.504,25,6,15,6,6,85.09,7.0,0.504,7.0
+315916,Renzo Saravia,renzo saravia,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,19,1063,0,0,0.0,0.0,0.0,7,6,29,7,10,89.91,6.75,0.0,6.75
+840219,Pedro Guilherme,pedro guilherme,5981,Flamengo,flamengo,2025,Serie_A,1.0,21,1059,12,6,1.02,0.51,1.53,43,8,9,6,8,76.5,7.18,1.53,7.18
+877904,Chico,chico,1959,Sport Recife,sport recife,2025,Serie_A,1.0,13,1059,0,0,0.0,0.0,0.0,8,2,19,13,27,82.59,6.85,0.0,6.85
+1177404,Facundo Bernal,facundo bernal,1961,Fluminense,fluminense,2025,Serie_A,1.0,22,1058,0,0,0.0,0.0,0.0,15,3,27,9,15,85.07,6.77,0.0,6.77
+1179171,José Herrera,jose herrera,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,19,1055,2,3,0.171,0.256,0.427,40,24,26,6,22,77.3,6.86,0.427,6.86
+82576,Marcos Rocha,marcos rocha,5926,Grêmio,gremio,2025,Serie_A,1.0,13,1053,0,0,0.0,0.0,0.0,7,5,41,20,10,81.1,7.22,0.0,7.22
+331397,Lucas Evangelista,lucas evangelista,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,19,1046,2,1,0.172,0.086,0.258,15,6,30,6,16,86.67,6.92,0.258,6.92
+1587965,Vinicinho,vinicinho,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,23,1044,0,3,0.0,0.259,0.259,20,28,27,6,3,83.75,6.8,0.259,6.8
+273329,Mayke,mayke,1968,Santos,santos,2025,Serie_A,1.0,15,1036,0,0,0.0,0.0,0.0,5,4,22,9,11,87.25,6.79,0.0,6.79
+1093196,Rubens,rubens,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,13,1034,1,0,0.087,0.0,0.087,17,9,38,31,10,85.08,7.33,0.087,7.33
+1160386,Andrés Gómez,andres gomez,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,16,1032,1,5,0.087,0.436,0.523,31,26,11,7,5,77.36,6.91,0.523,6.91
+2034540,Gustavo Mancha,gustavo mancha,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,13,1031,0,0,0.0,0.0,0.0,5,7,20,15,10,84.28,6.48,0.0,6.48
+877513,Nicolás de la Cruz,nicolas de la cruz,5981,Flamengo,flamengo,2025,Serie_A,1.0,19,1030,0,0,0.0,0.0,0.0,16,2,22,7,9,89.7,7.02,0.0,7.02
+972373,Jamerson,jamerson,1962,Vitória,vitoria,2025,Serie_A,1.0,12,1027,0,2,0.0,0.175,0.175,14,18,26,11,12,87.33,7.18,0.175,7.18
+948004,Ignacio Laquintana,ignacio laquintana,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,23,1027,4,3,0.351,0.263,0.614,25,8,11,8,4,74.52,6.8,0.614,6.8
+90468,Osvaldo,osvaldo,1962,Vitória,vitoria,2025,Serie_A,1.0,27,1011,0,2,0.0,0.178,0.178,20,22,10,7,5,83.03,6.78,0.178,6.78
+871219,Fernandinho,fernandinho,2001,Ceará,ceara,2025,Serie_A,1.0,22,1009,0,1,0.0,0.089,0.089,22,26,18,19,15,74.27,6.78,0.089,6.78
+285949,Andreas Pereira,andreas pereira,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,15,1008,2,0,0.179,0.0,0.179,18,3,10,7,10,86.02,7.16,0.179,7.16
+143593,Marçal,marcal,1958,Botafogo,botafogo,2025,Serie_A,1.0,15,1007,5,0,0.447,0.0,0.447,11,3,16,14,29,89.35,7.29,0.447,7.29
+5672,Nenê,nene,1980,Juventude,juventude,2025,Serie_A,1.0,25,1007,3,4,0.268,0.357,0.625,24,12,7,2,3,74.79,6.94,0.625,6.94
+584432,Aderlan,aderlan,1959,Sport Recife,sport recife,2025,Serie_A,1.0,16,1006,0,0,0.0,0.0,0.0,4,3,16,15,7,78.07,6.59,0.0,6.59
+991493,Sérgio Oliveira,sergio oliveira,1959,Sport Recife,sport recife,2025,Serie_A,1.0,19,999,1,1,0.09,0.09,0.18,25,9,26,5,7,80.95,6.87,0.18,6.87
+1656036,Gabriel Bontempo,gabriel bontempo,1968,Santos,santos,2025,Serie_A,1.0,25,999,2,1,0.18,0.09,0.27,10,10,30,20,9,86.89,6.77,0.27,6.77
+1145106,Evertton Araujo,evertton araujo,5981,Flamengo,flamengo,2025,Serie_A,1.0,18,993,1,0,0.091,0.0,0.091,10,4,17,4,7,91.94,6.74,0.091,6.74
+1170722,Jair,jair,1958,Botafogo,botafogo,2025,Serie_A,1.0,11,990,0,1,0.0,0.091,0.091,8,3,14,11,21,87.34,7.17,0.091,7.17
+928134,Guga,guga,1961,Fluminense,fluminense,2025,Serie_A,1.0,17,990,1,1,0.091,0.091,0.182,4,5,30,7,18,83.63,6.87,0.182,6.87
+1068519,João Silva,joao silva,1959,Sport Recife,sport recife,2025,Serie_A,1.0,14,990,0,0,0.0,0.0,0.0,4,1,10,8,24,84.07,6.73,0.0,6.73
+1134200,Wesley,wesley,5981,Flamengo,flamengo,2025,Serie_A,1.0,11,983,1,2,0.092,0.183,0.275,10,17,28,12,7,88.34,7.35,0.275,7.35
+840276,Gregore,gregore,1958,Botafogo,botafogo,2025,Serie_A,1.0,12,983,0,0,0.0,0.0,0.0,8,4,48,12,16,91.47,7.17,0.0,7.17
+984896,Khellven,khellven,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,13,983,0,2,0.0,0.183,0.183,4,7,16,7,6,82.05,6.87,0.183,6.87
+934801,Lucas Braga,lucas braga,1962,Vitória,vitoria,2025,Serie_A,1.0,21,982,1,0,0.092,0.0,0.092,11,9,21,6,9,83.98,6.6,0.092,6.6
+995071,Bruno Gomes,bruno gomes,1966,Internacional,internacional,2025,Serie_A,1.0,14,981,0,2,0.0,0.183,0.183,12,10,27,7,12,85.16,7.02,0.183,7.02
+1922597,Gui Negão,gui negao,1957,Corinthians,corinthians,2025,Serie_A,1.0,22,976,3,1,0.277,0.092,0.369,13,9,8,6,4,71.43,6.59,0.369,6.59
+158277,Allan,allan,1958,Botafogo,botafogo,2025,Serie_A,1.0,21,975,0,0,0.0,0.0,0.0,3,3,25,5,2,90.97,6.7,0.0,6.7
+985860,Talles Magno,talles magno,1957,Corinthians,corinthians,2025,Serie_A,1.0,24,969,1,1,0.093,0.093,0.186,29,15,23,5,20,80.19,6.74,0.186,6.74
+1117710,Gabriel Xavier,gabriel xavier,1955,Bahia,bahia,2025,Serie_A,1.0,13,965,0,0,0.0,0.0,0.0,2,0,17,12,27,89.32,6.93,0.0,6.93
+891920,Carlos Vinícius,carlos vinicius,5926,Grêmio,gremio,2025,Serie_A,1.0,14,949,12,1,1.138,0.095,1.233,29,9,2,0,10,76.98,7.39,1.233,7.39
+874576,Alan Rodríguez,alan rodriguez,1966,Internacional,internacional,2025,Serie_A,1.0,15,944,0,1,0.0,0.095,0.095,11,14,34,9,8,83.62,6.75,0.095,6.75
+76507,Eduardo,eduardo,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,29,939,1,0,0.096,0.0,0.096,10,6,14,7,16,83.81,6.67,0.096,6.67
+1650770,Álvaro Montoro,alvaro montoro,1958,Botafogo,botafogo,2025,Serie_A,1.0,16,938,3,3,0.288,0.288,0.576,16,27,18,14,1,85.91,7.22,0.576,7.22
+990193,Kaio Pantaleão,kaio pantaleao,1958,Botafogo,botafogo,2025,Serie_A,1.0,11,935,0,0,0.0,0.0,0.0,8,4,10,15,29,88.38,6.99,0.0,6.99
+842682,Matheus Rossetto,matheus rossetto,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,20,935,0,0,0.0,0.0,0.0,2,6,14,2,4,90.63,6.69,0.0,6.69
+1835889,Allan,allan,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,28,930,2,3,0.194,0.29,0.484,26,22,28,8,13,80.23,6.81,0.484,6.81
+358524,Marcos Felipe,marcos felipe,1955,Bahia,bahia,2025,Serie_A,1.0,11,926,0,0,0.0,0.0,0.0,0,0,0,1,3,78.4,7.21,0.0,7.21
+46798,Tomás Rincón,tomas rincon,1968,Santos,santos,2025,Serie_A,1.0,17,926,0,0,0.0,0.0,0.0,6,5,23,12,12,85.92,6.64,0.0,6.64
+788195,Rafael Ramos,rafael ramos,2001,Ceará,ceara,2025,Serie_A,1.0,20,924,0,0,0.0,0.0,0.0,6,4,35,11,12,78.67,6.72,0.0,6.72
+922566,Nonato,nonato,1961,Fluminense,fluminense,2025,Serie_A,1.0,20,918,2,1,0.196,0.098,0.294,12,3,25,9,10,88.3,6.82,0.294,6.82
+974556,Gabriel Menino,gabriel menino,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,23,916,1,1,0.098,0.098,0.196,12,4,17,10,11,85.23,6.74,0.196,6.74
+794874,Daniel Borges,daniel borges,21982,Mirassol,mirassol,2025,Serie_A,1.0,16,908,2,2,0.198,0.198,0.396,9,4,14,10,8,84.21,6.89,0.396,6.89
+870578,Romarinho,romarinho,1959,Sport Recife,sport recife,2025,Serie_A,1.0,26,906,2,0,0.199,0.0,0.199,20,15,5,4,3,84.33,6.67,0.199,6.67
+992791,Claudinho,claudinho,1962,Vitória,vitoria,2025,Serie_A,1.0,15,905,0,0,0.0,0.0,0.0,7,7,21,10,7,77.64,6.83,0.0,6.83
+249929,Joaquín Correa,joaquin correa,1958,Botafogo,botafogo,2025,Serie_A,1.0,18,902,2,0,0.2,0.0,0.2,18,11,12,2,5,84.28,6.93,0.2,6.93
+871580,Adam Bareiro,adam bareiro,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,21,900,7,2,0.7,0.2,0.9,28,4,11,0,56,65.28,6.82,0.9,6.82
+1174764,Gustavo Marques,gustavo marques,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,14,898,1,0,0.1,0.0,0.1,12,1,20,14,30,91.3,6.93,0.1,6.93
+931591,Caio Paulista,caio paulista,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,20,894,0,0,0.0,0.0,0.0,17,10,17,9,16,80.73,6.66,0.0,6.66
+870943,Ricardo Ryller,ricardo ryller,1962,Vitória,vitoria,2025,Serie_A,1.0,20,892,0,0,0.0,0.0,0.0,7,5,17,9,13,82.53,6.66,0.0,6.66
+1469531,Tiago Souza,tiago souza,1955,Bahia,bahia,2025,Serie_A,1.0,25,891,3,2,0.303,0.202,0.505,18,12,12,0,17,79.41,6.78,0.505,6.78
+255873,Cauly,cauly,1955,Bahia,bahia,2025,Serie_A,1.0,29,891,1,3,0.101,0.303,0.404,19,18,7,5,1,86.4,6.69,0.404,6.69
+180059,Gustavo Cuéllar,gustavo cuellar,5926,Grêmio,gremio,2025,Serie_A,1.0,17,889,0,0,0.0,0.0,0.0,6,7,30,12,3,91.47,6.78,0.0,6.78
+1106151,Kayky,kayky,1955,Bahia,bahia,2025,Serie_A,1.0,26,882,1,2,0.102,0.204,0.306,17,22,22,5,4,82.54,6.84,0.306,6.84
+386198,Everton Cebolinha,everton cebolinha,5981,Flamengo,flamengo,2025,Serie_A,1.0,23,880,1,3,0.102,0.307,0.409,30,23,11,4,10,82.15,6.8,0.409,6.8
+981619,Igor Jesus,igor jesus,1958,Botafogo,botafogo,2025,Serie_A,1.0,10,877,3,1,0.308,0.103,0.411,35,5,3,0,36,72.08,7.39,0.411,7.39
+905461,Rodrigo Nestor,rodrigo nestor,1955,Bahia,bahia,2025,Serie_A,1.0,22,876,5,0,0.514,0.0,0.514,21,6,21,5,5,87.97,6.94,0.514,6.94
+840118,Lucas Kal,lucas kal,1959,Sport Recife,sport recife,2025,Serie_A,1.0,13,866,0,0,0.0,0.0,0.0,2,1,9,9,18,86.26,6.63,0.0,6.63
+1015733,Ramón Sosa,ramon sosa,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,23,865,3,3,0.312,0.312,0.624,30,17,8,1,18,82.28,6.88,0.624,6.88
+1117597,Alix Vinicius,alix vinicius,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,11,862,0,0,0.0,0.0,0.0,5,0,9,10,19,83.84,6.82,0.0,6.82
+124766,Gustavo,gustavo,1980,Juventude,juventude,2025,Serie_A,1.0,10,855,0,0,0.0,0.0,0.0,0,0,1,0,1,74.69,7.02,0.0,7.02
+924857,Michel Araújo,michel araujo,1955,Bahia,bahia,2025,Serie_A,1.0,24,853,4,1,0.422,0.106,0.528,19,20,32,7,15,85.64,6.86,0.528,6.86
+981295,Diogo Hereda,diogo hereda,1959,Sport Recife,sport recife,2025,Serie_A,1.0,11,851,0,1,0.0,0.106,0.106,13,14,20,7,12,82.95,6.94,0.106,6.94
+335033,Wendell,wendell,1981,São Paulo,sao paulo,2025,Serie_A,1.0,16,851,0,1,0.0,0.106,0.106,7,6,20,11,12,87.8,6.92,0.106,6.92
+1017710,Pierre,pierre,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,13,844,0,0,0.0,0.0,0.0,3,3,20,17,3,86.78,6.91,0.0,6.91
+1597265,Estêvão,estevao,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,11,836,0,3,0.0,0.323,0.323,19,21,5,2,1,83.86,6.83,0.323,6.83
+1185617,Alexsander,alexsander,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,14,833,1,0,0.108,0.0,0.108,13,15,36,13,3,86.9,6.86,0.108,6.86
+25554,Fagner,fagner,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,10,830,0,0,0.0,0.0,0.0,2,4,20,12,8,73.58,6.97,0.0,6.97
+1064039,Danilo Santos,danilo santos,1958,Botafogo,botafogo,2025,Serie_A,1.0,13,829,1,3,0.109,0.326,0.435,14,15,18,9,0,86.61,7.05,0.435,7.05
+927551,Gabriel Fuentes,gabriel fuentes,1961,Fluminense,fluminense,2025,Serie_A,1.0,11,825,0,0,0.0,0.0,0.0,7,7,19,11,17,86.57,7.05,0.0,7.05
+590392,Jorge Carrascal,jorge carrascal,5981,Flamengo,flamengo,2025,Serie_A,1.0,16,824,2,5,0.218,0.546,0.764,19,19,28,4,17,83.82,7.15,0.764,7.15
+789960,Yeferson Soteldo,yeferson soteldo,1961,Fluminense,fluminense,2025,Serie_A,1.0,22,821,2,2,0.219,0.219,0.438,11,29,8,3,3,79.53,6.82,0.438,6.82
+973738,Carlos Miguel,carlos miguel,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,9,810,0,0,0.0,0.0,0.0,0,0,0,0,3,63.16,7.8,0.0,7.8
+870758,Richardson,richardson,2001,Ceará,ceara,2025,Serie_A,1.0,16,807,0,0,0.0,0.0,0.0,3,0,18,5,7,84.59,6.69,0.0,6.69
+1498670,Jonathan Jesus,jonathan jesus,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,13,806,0,1,0.0,0.112,0.112,0,3,15,11,9,88.85,6.52,0.112,6.52
+1483340,Ricardo Mathias,ricardo mathias,1966,Internacional,internacional,2025,Serie_A,1.0,22,805,5,1,0.559,0.112,0.671,25,4,8,0,37,56.43,6.82,0.671,6.82
+364528,Aylon,aylon,2001,Ceará,ceara,2025,Serie_A,1.0,23,802,2,0,0.224,0.0,0.224,21,11,17,2,21,72.02,6.76,0.224,6.76
+1463912,André Henrique,andre henrique,5926,Grêmio,gremio,2025,Serie_A,1.0,25,799,5,2,0.563,0.225,0.788,34,6,12,3,22,80.22,6.91,0.788,6.91
+242213,Willian Arão,willian arao,1968,Santos,santos,2025,Serie_A,1.0,13,788,0,0,0.0,0.0,0.0,8,1,11,17,19,85.67,6.84,0.0,6.84
+1099361,Luciano Rodríguez,luciano rodriguez,1955,Bahia,bahia,2025,Serie_A,1.0,18,787,2,0,0.229,0.0,0.229,29,6,7,2,6,75.68,6.65,0.229,6.65
+871291,Thiago Couto,thiago couto,1962,Vitória,vitoria,2025,Serie_A,1.0,9,784,0,0,0.0,0.0,0.0,0,0,0,0,3,53.4,7.58,0.0,7.58
+29735,Luiz Gustavo,luiz gustavo,1981,São Paulo,sao paulo,2025,Serie_A,1.0,12,781,1,0,0.115,0.0,0.115,8,3,23,12,8,89.55,6.96,0.115,6.96
+795295,Carlos Eduardo,carlos eduardo,21982,Mirassol,mirassol,2025,Serie_A,1.0,26,773,2,5,0.233,0.582,0.815,19,12,12,6,14,73.05,6.79,0.815,6.79
+1835768,Luis Otávio,luis otavio,1966,Internacional,internacional,2025,Serie_A,1.0,20,771,0,0,0.0,0.0,0.0,4,8,27,13,11,87.4,6.74,0.0,6.74
+328519,Jemerson,jemerson,5926,Grêmio,gremio,2025,Serie_A,1.0,9,770,1,0,0.117,0.0,0.117,3,0,18,9,22,88.1,6.87,0.117,6.87
+1170680,Henry Mosquera,henry mosquera,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,17,769,0,0,0.0,0.0,0.0,17,38,14,5,3,83.26,6.73,0.0,6.73
+1002819,Gabriel Veron,gabriel veron,1980,Juventude,juventude,2025,Serie_A,1.0,19,768,0,0,0.0,0.0,0.0,9,12,14,3,9,75.0,6.64,0.0,6.64
+1631907,Lucas Ferreira,lucas ferreira,1981,São Paulo,sao paulo,2025,Serie_A,1.0,13,768,0,0,0.0,0.0,0.0,16,11,18,6,13,80.0,6.59,0.0,6.59
+824152,Ronaldo,ronaldo,1966,Internacional,internacional,2025,Serie_A,1.0,15,766,0,0,0.0,0.0,0.0,8,1,31,14,15,90.82,6.79,0.0,6.79
+1836781,Maykon Jesus,maykon jesus,1962,Vitória,vitoria,2025,Serie_A,1.0,9,766,0,0,0.0,0.0,0.0,5,3,15,6,9,70.21,6.72,0.0,6.72
+1116665,Jefté,jefte,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,12,763,0,3,0.0,0.354,0.354,4,10,13,2,15,86.44,6.95,0.354,6.95
+1394242,Clayton Sampaio,clayton sampaio,1966,Internacional,internacional,2025,Serie_A,1.0,11,762,0,0,0.0,0.0,0.0,7,3,10,10,18,88.45,6.88,0.0,6.88
+840291,David,david,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,24,759,2,3,0.237,0.356,0.593,15,17,9,5,11,78.66,6.78,0.593,6.78
+330057,Tinga,tinga,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,11,750,1,0,0.12,0.0,0.12,6,1,14,11,22,79.55,6.86,0.12,6.86
+794312,Emmanuel Martínez,emmanuel martinez,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,14,746,1,1,0.121,0.121,0.242,10,7,17,7,1,91.27,6.79,0.242,6.79
+1463904,Gustavo Neves,gustavo neves,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,17,745,0,0,0.0,0.0,0.0,17,15,16,5,5,76.75,6.82,0.0,6.82
+1015292,Richard Ríos,richard rios,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,10,741,0,2,0.0,0.243,0.243,12,8,14,8,8,86.73,7.02,0.243,7.02
+1200730,Rodriguinho,rodriguinho,1981,São Paulo,sao paulo,2025,Serie_A,1.0,18,740,0,0,0.0,0.0,0.0,22,22,15,4,6,84.76,6.81,0.0,6.81
+1462989,Janderson,janderson,1962,Vitória,vitoria,2025,Serie_A,1.0,11,740,1,0,0.122,0.0,0.122,10,11,10,2,11,73.23,6.68,0.122,6.68
+1049781,Peixoto,peixoto,1980,Juventude,juventude,2025,Serie_A,1.0,13,736,1,0,0.122,0.0,0.122,12,10,16,9,9,82.95,6.7,0.122,6.7
+975319,Camilo,camilo,5926,Grêmio,gremio,2025,Serie_A,1.0,16,730,0,0,0.0,0.0,0.0,8,6,22,16,6,81.56,6.63,0.0,6.63
+912786,Matheus Henrique,matheus henrique,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,17,725,0,0,0.0,0.0,0.0,7,5,24,6,3,84.94,6.68,0.0,6.68
+914819,Chris Ramos,chris ramos,1958,Botafogo,botafogo,2025,Serie_A,1.0,13,721,4,0,0.499,0.0,0.499,23,3,8,4,46,57.61,6.88,0.499,6.88
+106402,Gil,gil,1968,Santos,santos,2025,Serie_A,1.0,8,720,0,0,0.0,0.0,0.0,6,1,17,7,15,91.46,6.8,0.0,6.8
+611876,Gerson,gerson,5981,Flamengo,flamengo,2025,Serie_A,1.0,9,718,0,2,0.0,0.251,0.251,7,8,15,5,3,91.08,7.31,0.251,7.31
+1464929,Iván Román,ivan roman,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,12,717,0,0,0.0,0.0,0.0,5,1,9,10,17,89.98,6.67,0.0,6.67
+798127,Marinho,marinho,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,17,709,1,2,0.127,0.254,0.381,29,15,11,6,3,75.96,6.71,0.381,6.71
+1016948,Jeffinho,jeffinho,1958,Botafogo,botafogo,2025,Serie_A,1.0,17,700,2,4,0.257,0.514,0.771,13,27,18,8,3,78.9,6.89,0.771,6.89
+828839,Allan,allan,5981,Flamengo,flamengo,2025,Serie_A,1.0,13,693,0,0,0.0,0.0,0.0,6,4,6,9,3,93.27,6.9,0.0,6.9
+959005,Rafael Bilú,rafael bilu,1980,Juventude,juventude,2025,Serie_A,1.0,15,690,1,0,0.13,0.0,0.13,10,15,9,1,3,80.5,6.71,0.13,6.71
+1136107,Daniel Giraldo,daniel giraldo,1980,Juventude,juventude,2025,Serie_A,1.0,15,685,0,0,0.0,0.0,0.0,2,2,10,3,7,87.64,6.55,0.0,6.55
+1099163,Mateo Ponte,mateo ponte,1958,Botafogo,botafogo,2025,Serie_A,1.0,21,679,2,0,0.265,0.0,0.265,9,15,14,10,7,87.63,6.74,0.265,6.74
+874063,Erick,erick,1955,Bahia,bahia,2025,Serie_A,1.0,16,674,1,0,0.134,0.0,0.134,8,4,16,8,13,88.44,6.8,0.134,6.8
+1387272,Lucas Esteves,lucas esteves,5926,Grêmio,gremio,2025,Serie_A,1.0,10,671,0,0,0.0,0.0,0.0,6,7,12,10,14,86.12,6.79,0.0,6.79
+840150,Matheus Fernandes,matheus fernandes,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,20,668,1,0,0.135,0.0,0.135,9,6,23,10,3,82.7,6.73,0.135,6.73
+797649,Giovanny,giovanny,1980,Juventude,juventude,2025,Serie_A,1.0,19,665,0,2,0.0,0.271,0.271,17,11,5,1,3,78.66,6.73,0.271,6.73
+1631235,Lucca Prior,lucca prior,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,12,657,2,0,0.274,0.0,0.274,12,11,11,3,6,79.61,6.88,0.274,6.88
+552164,Yago Felipe,yago felipe,21982,Mirassol,mirassol,2025,Serie_A,1.0,19,657,0,1,0.0,0.137,0.137,9,1,18,6,5,82.96,6.72,0.137,6.72
+946945,Pepê,pepe,1962,Vitória,vitoria,2025,Serie_A,1.0,14,657,0,0,0.0,0.0,0.0,3,3,23,9,8,83.28,6.54,0.0,6.54
+358418,Fernando Miguel,fernando miguel,2001,Ceará,ceara,2025,Serie_A,1.0,8,656,0,0,0.0,0.0,0.0,0,0,0,0,4,58.91,7.14,0.0,7.14
+881848,Félix Torres,felix torres,1957,Corinthians,corinthians,2025,Serie_A,1.0,10,653,0,0,0.0,0.0,0.0,2,3,11,13,7,91.03,6.8,0.0,6.8
+1106779,Matheus Martins,matheus martins,1958,Botafogo,botafogo,2025,Serie_A,1.0,15,651,1,0,0.138,0.0,0.138,17,16,12,3,1,85.9,6.72,0.138,6.72
+1482431,Keny Arroyo,keny arroyo,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,13,650,2,1,0.277,0.138,0.415,20,10,7,4,5,83.98,6.98,0.415,6.98
+926513,Renzo López,renzo lopez,1962,Vitória,vitoria,2025,Serie_A,1.0,23,649,1,0,0.139,0.0,0.139,21,1,11,1,70,53.19,6.74,0.139,6.74
+1097858,Guilherme Lopes,guilherme lopes,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,11,648,1,1,0.139,0.139,0.278,3,4,17,4,9,83.44,6.77,0.278,6.77
+116853,Ganso,ganso,1961,Fluminense,fluminense,2025,Serie_A,1.0,17,647,1,0,0.139,0.0,0.139,5,5,11,0,4,89.77,6.82,0.139,6.82
+878084,Michael,michael,5981,Flamengo,flamengo,2025,Serie_A,1.0,15,635,1,3,0.142,0.425,0.567,14,11,9,2,5,84.47,6.89,0.567,6.89
+869644,Iago Borduchi,iago borduchi,1955,Bahia,bahia,2025,Serie_A,1.0,15,634,1,0,0.142,0.0,0.142,8,4,11,5,7,86.52,6.71,0.142,6.71
+340113,Alex Muralha,alex muralha,21982,Mirassol,mirassol,2025,Serie_A,1.0,7,630,0,0,0.0,0.0,0.0,0,0,0,0,2,73.26,6.97,0.0,6.97
+106456,Enner Valencia,enner valencia,1966,Internacional,internacional,2025,Serie_A,1.0,14,628,1,0,0.143,0.0,0.143,14,6,4,1,10,81.67,6.49,0.143,6.49
+872039,Thaciano,thaciano,1968,Santos,santos,2025,Serie_A,1.0,19,627,3,0,0.431,0.0,0.431,18,3,11,4,18,74.22,6.77,0.431,6.77
+1087399,John Kennedy,john kennedy,1961,Fluminense,fluminense,2025,Serie_A,1.0,17,625,2,1,0.288,0.144,0.432,17,8,1,3,4,74.42,6.74,0.432,6.74
+1128129,Du Queiroz,du queiroz,1959,Sport Recife,sport recife,2025,Serie_A,1.0,11,618,0,0,0.0,0.0,0.0,6,2,8,5,1,83.93,6.61,0.0,6.61
+1391962,Mateus Carvalho,mateus carvalho,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,19,617,0,0,0.0,0.0,0.0,5,3,19,11,8,92.81,6.55,0.0,6.55
+2035326,Maik,maik,1981,São Paulo,sao paulo,2025,Serie_A,1.0,9,608,2,2,0.296,0.296,0.592,3,6,22,7,4,74.74,6.98,0.592,6.98
+845178,Charles,charles,1957,Corinthians,corinthians,2025,Serie_A,1.0,17,601,1,0,0.15,0.0,0.15,3,2,26,6,7,81.93,6.59,0.15,6.59
+841336,Nicolas,nicolas,2001,Ceará,ceara,2025,Serie_A,1.0,13,591,0,0,0.0,0.0,0.0,4,2,14,8,3,81.78,6.72,0.0,6.72
+1106140,Biel,biel,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,17,589,1,2,0.153,0.306,0.459,17,10,8,4,1,80.1,6.71,0.459,6.71
+795029,Ivan,ivan,1966,Internacional,internacional,2025,Serie_A,1.0,7,585,0,0,0.0,0.0,0.0,0,0,0,0,0,52.63,7.09,0.0,7.09
+868030,Rezende,rezende,1955,Bahia,bahia,2025,Serie_A,1.0,11,584,0,0,0.0,0.0,0.0,1,1,11,7,14,89.0,6.71,0.0,6.71
+1018547,Thiago Borbas,thiago borbas,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,19,578,1,1,0.156,0.156,0.312,12,4,8,2,24,68.46,6.68,0.312,6.68
+1000502,Alexander Aravena,alexander aravena,5926,Grêmio,gremio,2025,Serie_A,1.0,22,577,3,0,0.468,0.0,0.468,18,3,7,0,6,82.68,6.61,0.468,6.61
+1182233,Mateo Sanabria,mateo sanabria,1955,Bahia,bahia,2025,Serie_A,1.0,10,573,1,0,0.157,0.0,0.157,10,24,5,1,1,78.91,6.73,0.157,6.73
+1101714,Vina,vina,2001,Ceará,ceara,2025,Serie_A,1.0,16,571,0,1,0.0,0.158,0.158,22,1,4,0,3,88.33,6.69,0.158,6.69
+268419,Jair,jair,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,11,562,0,0,0.0,0.0,0.0,2,7,13,6,8,92.49,6.84,0.0,6.84
+922556,Pedro Augusto,pedro augusto,1959,Sport Recife,sport recife,2025,Serie_A,1.0,14,559,0,0,0.0,0.0,0.0,6,2,17,7,5,87.93,6.64,0.0,6.64
+312824,Alan Benítez,alan benitez,1966,Internacional,internacional,2025,Serie_A,1.0,11,556,0,0,0.0,0.0,0.0,4,3,12,2,4,82.24,6.67,0.0,6.67
+1485220,Gustavo Prado,gustavo prado,1966,Internacional,internacional,2025,Serie_A,1.0,18,555,1,0,0.162,0.0,0.162,25,22,9,0,3,87.5,6.77,0.162,6.77
+1199246,Rodrigo Atencio,rodrigo atencio,1959,Sport Recife,sport recife,2025,Serie_A,1.0,19,552,0,0,0.0,0.0,0.0,19,12,8,4,1,87.29,6.73,0.0,6.73
+1485371,Deivid Washington,deivid washington,1968,Santos,santos,2025,Serie_A,1.0,17,552,1,0,0.163,0.0,0.163,16,1,3,5,13,79.79,6.67,0.163,6.67
+1103705,Lucas Gazal,lucas gazal,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,7,550,0,1,0.0,0.164,0.164,7,0,6,8,23,85.77,6.9,0.164,6.9
+109610,Guilherme Marques,guilherme marques,21982,Mirassol,mirassol,2025,Serie_A,1.0,12,546,2,0,0.33,0.0,0.33,10,2,11,5,3,83.47,6.89,0.33,6.89
+1111770,Gabriel Grando,gabriel grando,5926,Grêmio,gremio,2025,Serie_A,1.0,6,540,0,0,0.0,0.0,0.0,0,0,0,0,3,63.91,7.43,0.0,7.43
+1485272,Felipe Longo,felipe longo,1957,Corinthians,corinthians,2025,Serie_A,1.0,6,540,0,0,0.0,0.0,0.0,0,0,0,0,1,67.86,6.7,0.0,6.7
+840247,Neris,neris,1962,Vitória,vitoria,2025,Serie_A,1.0,10,536,0,0,0.0,0.0,0.0,5,1,5,6,16,87.85,6.7,0.0,6.7
+1170779,Ryan Gustavo,ryan gustavo,1957,Corinthians,corinthians,2025,Serie_A,1.0,16,531,0,0,0.0,0.0,0.0,1,3,19,9,3,93.13,6.69,0.0,6.69
+869726,Agustin Sant Anna,agustin sant anna,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,11,523,0,0,0.0,0.0,0.0,13,2,14,10,11,79.41,6.75,0.0,6.75
+787607,Keno,keno,1961,Fluminense,fluminense,2025,Serie_A,1.0,18,520,1,2,0.173,0.346,0.519,17,9,10,0,8,78.42,6.81,0.519,6.81
+850955,João Basso,joao basso,1968,Santos,santos,2025,Serie_A,1.0,6,519,1,0,0.173,0.0,0.173,1,2,7,5,15,84.71,6.92,0.173,6.92
+871705,Kanu,kanu,1955,Bahia,bahia,2025,Serie_A,1.0,7,515,0,0,0.0,0.0,0.0,1,0,7,6,7,94.29,6.83,0.0,6.83
+146416,Óscar Romero,oscar romero,1966,Internacional,internacional,2025,Serie_A,1.0,17,514,0,1,0.0,0.175,0.175,8,2,13,4,3,84.33,6.72,0.175,6.72
+981019,João Lucas,joao lucas,5926,Grêmio,gremio,2025,Serie_A,1.0,10,514,0,0,0.0,0.0,0.0,3,2,13,8,5,77.07,6.65,0.0,6.65
+1631876,Igor Serrote,igor serrote,5926,Grêmio,gremio,2025,Serie_A,1.0,7,513,0,0,0.0,0.0,0.0,4,0,25,14,17,65.61,7.06,0.0,7.06
+82943,Rafael Tolói,rafael toloi,1981,São Paulo,sao paulo,2025,Serie_A,1.0,7,501,0,0,0.0,0.0,0.0,0,0,16,10,6,83.87,6.99,0.0,6.99
+795020,Iury Castilho,iury castilho,21982,Mirassol,mirassol,2025,Serie_A,1.0,9,501,1,0,0.18,0.0,0.18,9,0,7,2,4,81.48,6.67,0.18,6.67
+125861,Marcão,marcao,1980,Juventude,juventude,2025,Serie_A,1.0,6,495,0,0,0.0,0.0,0.0,0,0,0,0,0,62.4,7.52,0.0,7.52
+358166,Alex Santana,alex santana,5926,Grêmio,gremio,2025,Serie_A,1.0,11,492,0,0,0.0,0.0,0.0,7,3,5,5,6,88.94,6.58,0.0,6.58
+1174206,Paulo Baya,paulo baya,2001,Ceará,ceara,2025,Serie_A,1.0,19,482,1,1,0.187,0.187,0.374,15,1,4,0,2,76.76,6.65,0.374,6.65
+863283,Gustavo Silva,gustavo silva,1962,Vitória,vitoria,2025,Serie_A,1.0,10,481,0,2,0.0,0.374,0.374,8,4,4,3,1,88.39,6.64,0.374,6.64
+1007431,Matheus Babi,matheus babi,1980,Juventude,juventude,2025,Serie_A,1.0,20,478,2,0,0.377,0.0,0.377,13,1,7,1,16,63.41,6.65,0.377,6.65
+242054,Vitinho,vitinho,1957,Corinthians,corinthians,2025,Serie_A,1.0,12,475,0,3,0.0,0.568,0.568,15,8,12,2,7,80.13,6.99,0.568,6.99
+1017827,Hugo,hugo,1957,Corinthians,corinthians,2025,Serie_A,1.0,10,472,0,0,0.0,0.0,0.0,4,1,8,5,11,84.55,6.59,0.0,6.59
+605528,João Pedro,joao pedro,5926,Grêmio,gremio,2025,Serie_A,1.0,7,456,0,0,0.0,0.0,0.0,3,7,8,1,4,84.21,6.67,0.0,6.67
+1170954,Victor Hugo,victor hugo,1968,Santos,santos,2025,Serie_A,1.0,10,454,0,0,0.0,0.0,0.0,7,4,4,4,13,78.22,6.7,0.0,6.7
+1466084,Wallace Yan,wallace yan,5981,Flamengo,flamengo,2025,Serie_A,1.0,17,453,1,2,0.199,0.397,0.596,17,12,4,3,4,79.55,6.76,0.596,6.76
+1916131,Dieguinho,dieguinho,1957,Corinthians,corinthians,2025,Serie_A,1.0,13,451,0,1,0.0,0.2,0.2,11,15,6,1,0,87.85,6.78,0.2,6.78
+149710,Lucas Moura,lucas moura,1981,São Paulo,sao paulo,2025,Serie_A,1.0,11,450,2,0,0.4,0.0,0.4,11,10,5,3,11,73.75,6.88,0.4,6.88
+875293,Agustín Rogel,agustin rogel,1966,Internacional,internacional,2025,Serie_A,1.0,5,450,0,0,0.0,0.0,0.0,2,0,9,1,10,90.83,6.88,0.0,6.88
+1002609,Matheus Donelli,matheus donelli,1957,Corinthians,corinthians,2025,Serie_A,1.0,5,450,0,0,0.0,0.0,0.0,0,0,0,0,1,80.53,6.86,0.0,6.86
+1467379,Luis Fellipe,luis fellipe,1968,Santos,santos,2025,Serie_A,1.0,6,440,0,0,0.0,0.0,0.0,3,2,7,3,4,83.33,6.4,0.0,6.4
+931574,Felipe Jonatan,felipe jonatan,21982,Mirassol,mirassol,2025,Serie_A,1.0,7,439,0,1,0.0,0.205,0.205,3,6,4,3,6,88.93,6.93,0.205,6.93
+874723,Shaylon,shaylon,21982,Mirassol,mirassol,2025,Serie_A,1.0,13,439,0,0,0.0,0.0,0.0,9,2,11,5,0,90.52,6.78,0.0,6.78
+551422,Zé Welison,ze welison,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,9,433,0,0,0.0,0.0,0.0,5,1,17,5,6,85.58,6.68,0.0,6.68
+794139,Lucas Cunha,lucas cunha,1959,Sport Recife,sport recife,2025,Serie_A,1.0,6,430,0,0,0.0,0.0,0.0,0,1,5,7,5,85.65,6.68,0.0,6.68
+795178,Lucas Crispim,lucas crispim,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,10,422,1,1,0.213,0.213,0.426,7,3,2,2,2,85.29,6.84,0.426,6.84
+553686,Walace,walace,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,17,419,0,0,0.0,0.0,0.0,2,2,7,8,6,87.98,6.54,0.0,6.54
+794006,Leonardo Godoy,leonardo godoy,1968,Santos,santos,2025,Serie_A,1.0,6,417,0,0,0.0,0.0,0.0,0,1,4,1,5,73.87,6.57,0.0,6.57
+41837,Fernando,fernando,1966,Internacional,internacional,2025,Serie_A,1.0,6,414,0,0,0.0,0.0,0.0,3,5,9,5,11,89.68,6.98,0.0,6.98
+883205,Alexis Duarte,alexis duarte,1968,Santos,santos,2025,Serie_A,1.0,5,405,0,0,0.0,0.0,0.0,2,0,9,3,9,91.3,6.72,0.0,6.72
+1018093,Bruno Praxedes,bruno praxedes,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,15,404,0,0,0.0,0.0,0.0,12,3,3,4,8,77.61,6.53,0.0,6.53
+551348,Hyoran,hyoran,1959,Sport Recife,sport recife,2025,Serie_A,1.0,12,403,0,1,0.0,0.223,0.223,11,7,11,1,2,78.79,6.73,0.223,6.73
+837871,Lucas Fernandes,lucas fernandes,1980,Juventude,juventude,2025,Serie_A,1.0,7,401,0,0,0.0,0.0,0.0,7,7,3,4,1,88.57,6.83,0.0,6.83
+21300,David Luiz,david luiz,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,7,397,0,0,0.0,0.0,0.0,6,0,5,5,15,89.43,6.99,0.0,6.99
+975351,Fabrício Santos,fabricio santos,1962,Vitória,vitoria,2025,Serie_A,1.0,17,395,0,2,0.0,0.456,0.456,14,14,13,4,7,51.72,6.65,0.456,6.65
+866417,Diego Pituca,diego pituca,1968,Santos,santos,2025,Serie_A,1.0,10,394,1,0,0.228,0.0,0.228,4,0,8,3,1,91.76,6.75,0.228,6.75
+1116954,Marquinhos,marquinhos,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,17,394,0,0,0.0,0.0,0.0,14,2,15,8,2,82.72,6.69,0.0,6.69
+1634619,Riquelme Freitas,riquelme freitas,5926,Grêmio,gremio,2025,Serie_A,1.0,10,389,0,0,0.0,0.0,0.0,2,11,6,1,5,86.75,6.72,0.0,6.72
+833236,Juninho,juninho,5981,Flamengo,flamengo,2025,Serie_A,1.0,15,388,1,0,0.232,0.0,0.232,18,0,6,1,11,80.39,6.59,0.232,6.59
+973857,Maílton,mailton,1981,São Paulo,sao paulo,2025,Serie_A,1.0,8,385,0,0,0.0,0.0,0.0,3,3,4,4,3,76.44,6.63,0.0,6.63
+1116593,Matheus França,matheus franca,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,15,382,0,0,0.0,0.0,0.0,10,10,9,5,6,83.04,6.68,0.0,6.68
+1046501,Moisés,moises,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,12,379,0,1,0.0,0.237,0.237,14,13,4,1,4,78.65,6.76,0.237,6.76
+1485284,Luis Benedetti,luis benedetti,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,5,376,1,0,0.239,0.0,0.239,4,0,5,6,13,92.55,7.04,0.239,7.04
+1836780,Matheus Alves,matheus alves,1981,São Paulo,sao paulo,2025,Serie_A,1.0,8,372,0,1,0.0,0.242,0.242,7,8,10,3,3,81.03,6.59,0.242,6.59
+922559,Júnior Santos,junior santos,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,16,371,2,0,0.485,0.0,0.485,10,8,5,0,5,85.23,6.64,0.485,6.64
+753662,Igor Rabello,igor rabello,1961,Fluminense,fluminense,2025,Serie_A,1.0,8,364,0,0,0.0,0.0,0.0,3,0,5,4,12,90.5,6.56,0.0,6.56
+1411152,Kayke Ferrari,kayke ferrari,1957,Corinthians,corinthians,2025,Serie_A,1.0,8,362,0,1,0.0,0.249,0.249,4,5,1,3,3,86.11,6.65,0.249,6.65
+2191860,Robinho Júnior,robinho junior,1968,Santos,santos,2025,Serie_A,1.0,15,361,0,1,0.0,0.249,0.249,9,10,7,1,0,83.06,6.75,0.249,6.75
+1465498,Gabriel Knesowitsch,gabriel knesowitsch,21982,Mirassol,mirassol,2025,Serie_A,1.0,4,360,0,0,0.0,0.0,0.0,3,2,3,1,8,90.45,7.25,0.0,7.25
+981586,Lucão,lucao,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,4,360,0,0,0.0,0.0,0.0,0,0,0,0,1,72.48,7.13,0.0,7.13
+1014248,Ruan Carneiro,ruan carneiro,1980,Juventude,juventude,2025,Serie_A,1.0,4,360,0,0,0.0,0.0,0.0,0,0,0,0,1,71.7,6.9,0.0,6.9
+329081,Helton Leite,helton leite,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,4,360,0,0,0.0,0.0,0.0,0,0,0,0,2,61.76,6.8,0.0,6.8
+1008459,Adriano Martins,adriano martins,1980,Juventude,juventude,2025,Serie_A,1.0,5,360,0,0,0.0,0.0,0.0,3,0,5,6,10,88.42,6.8,0.0,6.8
+978562,Reinier,reinier,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,13,356,0,0,0.0,0.0,0.0,8,0,11,2,6,80.57,6.62,0.0,6.62
+1003013,Juan Sforza,juan sforza,1980,Juventude,juventude,2025,Serie_A,1.0,10,350,0,0,0.0,0.0,0.0,1,2,13,3,4,88.75,6.74,0.0,6.74
+39400,Oscar,oscar,1981,São Paulo,sao paulo,2025,Serie_A,1.0,6,346,0,0,0.0,0.0,0.0,4,2,2,8,5,81.4,6.93,0.0,6.93
+84845,Manoel,manoel,1961,Fluminense,fluminense,2025,Serie_A,1.0,5,346,0,0,0.0,0.0,0.0,3,1,0,0,4,94.94,6.64,0.0,6.64
+1008700,Carlos Alberto,carlos alberto,1959,Sport Recife,sport recife,2025,Serie_A,1.0,9,346,0,0,0.0,0.0,0.0,3,4,4,9,5,77.97,6.46,0.0,6.46
+1887796,Kauã Prates,kaua prates,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,8,345,0,0,0.0,0.0,0.0,0,6,15,1,3,85.71,6.71,0.0,6.71
+152098,Igor Coronado,igor coronado,1957,Corinthians,corinthians,2025,Serie_A,1.0,6,341,1,0,0.264,0.0,0.264,10,8,8,2,1,84.68,6.95,0.264,6.95
+880132,Chico,chico,21982,Mirassol,mirassol,2025,Serie_A,1.0,13,340,1,1,0.265,0.265,0.53,6,1,12,5,4,79.26,6.82,0.53,6.82
+817650,Bruno Rodrigues,bruno rodrigues,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,10,337,2,0,0.534,0.0,0.534,6,0,0,0,2,69.81,6.54,0.534,6.54
+1597267,Luighi Hanri,luighi hanri,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,11,335,1,0,0.269,0.0,0.269,16,6,5,1,8,77.11,6.65,0.269,6.65
+1488035,Léo Aragão,leo aragao,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,4,333,0,0,0.0,0.0,0.0,0,0,0,0,1,77.46,7.03,0.0,7.03
+836070,Luis Sinisterra,luis sinisterra,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,11,333,2,1,0.541,0.27,0.811,8,10,5,2,8,84.47,6.89,0.811,6.89
+1494695,Nathan Fernandes,nathan fernandes,1958,Botafogo,botafogo,2025,Serie_A,1.0,10,332,1,2,0.271,0.542,0.813,8,9,5,2,4,82.61,6.81,0.813,6.81
+1124220,Dudu,dudu,1962,Vitória,vitoria,2025,Serie_A,1.0,12,332,0,0,0.0,0.0,0.0,6,4,16,3,4,80.13,6.36,0.0,6.36
+988656,Gustavo Caballero,gustavo caballero,1968,Santos,santos,2025,Serie_A,1.0,12,331,1,1,0.272,0.272,0.544,8,2,6,8,2,72.31,6.73,0.544,6.73
+879902,Paulinho Paula,paulinho paula,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,11,331,0,0,0.0,0.0,0.0,0,5,7,3,3,87.07,6.49,0.0,6.49
+925189,Eduardo Santos,eduardo santos,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,8,325,0,0,0.0,0.0,0.0,0,0,7,8,8,90.78,6.95,0.0,6.95
+2162243,Lucca,lucca,1981,São Paulo,sao paulo,2025,Serie_A,1.0,8,315,0,0,0.0,0.0,0.0,4,12,7,1,2,82.95,6.58,0.0,6.58
+31417,Willian,willian,5926,Grêmio,gremio,2025,Serie_A,1.0,6,312,1,2,0.288,0.577,0.865,3,3,0,1,0,92.82,6.95,0.865,6.95
+1899902,Jordan Barrera,jordan barrera,1958,Botafogo,botafogo,2025,Serie_A,1.0,6,312,1,0,0.288,0.0,0.288,8,4,4,0,3,83.72,6.72,0.288,6.72
+1647612,André Luiz,andre luiz,1957,Corinthians,corinthians,2025,Serie_A,1.0,9,310,2,0,0.581,0.0,0.581,5,5,9,1,5,77.57,6.78,0.581,6.78
+378590,Thiago Santos,thiago santos,1961,Fluminense,fluminense,2025,Serie_A,1.0,10,309,0,0,0.0,0.0,0.0,1,3,10,3,6,81.62,6.64,0.0,6.64
+1002528,Patryck,patryck,1981,São Paulo,sao paulo,2025,Serie_A,1.0,5,308,0,0,0.0,0.0,0.0,6,2,3,2,2,86.6,6.68,0.0,6.68
+904847,Benjamín Garré,benjamin garre,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,10,308,0,0,0.0,0.0,0.0,3,0,6,2,0,87.14,6.55,0.0,6.55
+911195,Fernando,fernando,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,14,308,0,0,0.0,0.0,0.0,12,5,5,0,7,71.88,6.45,0.0,6.45
+345847,Gonzalo Mastriani,gonzalo mastriani,1958,Botafogo,botafogo,2025,Serie_A,1.0,12,305,1,0,0.295,0.0,0.295,9,1,1,3,8,68.29,6.72,0.295,6.72
+1048276,Felipinho,felipinho,1980,Juventude,juventude,2025,Serie_A,1.0,5,301,0,0,0.0,0.0,0.0,2,0,5,5,4,77.52,6.38,0.0,6.38
+1128767,Fabrício Daniel,fabricio daniel,21982,Mirassol,mirassol,2025,Serie_A,1.0,8,300,0,0,0.0,0.0,0.0,10,4,2,0,3,76.0,6.71,0.0,6.71
+329303,Thiago Mendes,thiago mendes,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,8,299,0,0,0.0,0.0,0.0,0,2,2,4,0,93.7,6.67,0.0,6.67
+1066620,Miguel Monsalve,miguel monsalve,5926,Grêmio,gremio,2025,Serie_A,1.0,9,298,0,1,0.0,0.302,0.302,4,9,5,0,2,87.74,6.71,0.302,6.71
+877630,Juan Ignacio Ramírez,juan ignacio ramirez,1959,Sport Recife,sport recife,2025,Serie_A,1.0,8,296,0,0,0.0,0.0,0.0,7,1,2,0,5,65.85,6.56,0.0,6.56
+257587,Emiliano Rigoni,emiliano rigoni,1981,São Paulo,sao paulo,2025,Serie_A,1.0,10,296,1,0,0.304,0.0,0.304,11,3,1,1,4,60.66,6.36,0.304,6.36
+1634148,Luiz Gustavo,luiz gustavo,1955,Bahia,bahia,2025,Serie_A,1.0,5,288,0,0,0.0,0.0,0.0,1,1,4,2,5,88.02,6.83,0.0,6.83
+1389980,Kevyson,kevyson,1959,Sport Recife,sport recife,2025,Serie_A,1.0,10,287,0,0,0.0,0.0,0.0,1,0,8,5,4,78.87,6.44,0.0,6.44
+1015291,Patrick de Paula,patrick de paula,1958,Botafogo,botafogo,2025,Serie_A,1.0,6,285,0,0,0.0,0.0,0.0,6,2,6,3,1,87.31,6.77,0.0,6.77
+875295,Matías Viña,matias vina,5981,Flamengo,flamengo,2025,Serie_A,1.0,8,285,0,0,0.0,0.0,0.0,1,6,10,2,4,83.13,6.7,0.0,6.7
+1002617,Matheus Araújo,matheus araujo,2001,Ceará,ceara,2025,Serie_A,1.0,11,285,1,1,0.316,0.316,0.632,4,1,3,0,7,76.83,6.68,0.632,6.68
+250231,Pol Fernández,pol fernandez,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,7,284,0,2,0.0,0.634,0.634,3,2,9,0,0,86.83,6.74,0.634,6.74
+897617,Richard,richard,1966,Internacional,internacional,2025,Serie_A,1.0,7,282,0,0,0.0,0.0,0.0,1,1,6,6,8,89.61,6.69,0.0,6.69
+988782,Allanzinho,allanzinho,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,9,281,0,2,0.0,0.641,0.641,7,8,3,2,5,78.38,6.84,0.641,6.84
+252781,Victor Luis,victor luis,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,7,279,0,0,0.0,0.0,0.0,1,0,3,3,7,88.89,6.55,0.0,6.55
+975814,Matías Arezo,matias arezo,5926,Grêmio,gremio,2025,Serie_A,1.0,8,275,1,1,0.327,0.327,0.654,9,3,2,0,4,58.0,6.86,0.654,6.86
+350082,Juan Dinenno,juan dinenno,1981,São Paulo,sao paulo,2025,Serie_A,1.0,8,273,1,0,0.33,0.0,0.33,7,1,3,0,7,77.14,6.68,0.33,6.68
+34141,Marcelo Lomba,marcelo lomba,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,3,270,0,0,0.0,0.0,0.0,0,0,0,0,1,86.36,7.43,0.0,7.43
+243435,Titi,titi,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,3,270,0,0,0.0,0.0,0.0,0,0,4,10,5,78.26,6.8,0.0,6.8
+842072,Éder,eder,2001,Ceará,ceara,2025,Serie_A,1.0,3,270,0,0,0.0,0.0,0.0,3,0,0,0,10,85.04,6.77,0.0,6.77
+242209,Antônio Carlos,antonio carlos,1959,Sport Recife,sport recife,2025,Serie_A,1.0,3,270,0,0,0.0,0.0,0.0,0,1,3,1,10,92.56,6.73,0.0,6.73
+867907,Lucas Oliveira,lucas oliveira,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,8,270,0,0,0.0,0.0,0.0,0,0,4,10,10,88.72,6.7,0.0,6.7
+1083070,Magrão,magrao,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,3,270,0,0,0.0,0.0,0.0,0,0,0,0,0,61.4,6.63,0.0,6.63
+1116957,Young,young,1981,São Paulo,sao paulo,2025,Serie_A,1.0,3,270,0,0,0.0,0.0,0.0,0,1,0,0,1,67.92,6.57,0.0,6.57
+1104316,Lenny Lobato,lenny lobato,1959,Sport Recife,sport recife,2025,Serie_A,1.0,7,262,0,0,0.0,0.0,0.0,8,5,2,1,2,79.49,6.67,0.0,6.67
+1194689,Renato Marques,renato marques,21982,Mirassol,mirassol,2025,Serie_A,1.0,7,259,1,0,0.347,0.0,0.347,10,1,4,0,10,64.91,6.81,0.347,6.81
+811308,Clayson,clayson,21982,Mirassol,mirassol,2025,Serie_A,1.0,6,256,0,1,0.0,0.352,0.352,4,12,2,1,2,79.01,6.8,0.352,6.8
+352448,Héctor Hernández,hector hernandez,1957,Corinthians,corinthians,2025,Serie_A,1.0,9,251,1,0,0.359,0.0,0.359,6,0,4,2,6,77.78,6.58,0.359,6.58
+1482361,João Pedro Chermont,joao pedro chermont,1968,Santos,santos,2025,Serie_A,1.0,5,247,0,0,0.0,0.0,0.0,2,1,10,3,5,80.43,6.9,0.0,6.9
+385916,Mauricio Lemos,mauricio lemos,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,4,244,0,0,0.0,0.0,0.0,1,0,1,3,4,91.91,7.1,0.0,7.1
+1487513,Gabriel Bahia,gabriel bahia,1958,Botafogo,botafogo,2025,Serie_A,1.0,4,235,0,0,0.0,0.0,0.0,2,5,4,2,8,91.01,6.78,0.0,6.78
+1148373,Hudson,hudson,1980,Juventude,juventude,2025,Serie_A,1.0,4,235,0,0,0.0,0.0,0.0,0,3,4,2,1,85.29,6.3,0.0,6.3
+552686,Otávio,otavio,1961,Fluminense,fluminense,2025,Serie_A,1.0,6,231,0,0,0.0,0.0,0.0,1,0,5,5,4,95.53,6.9,0.0,6.9
+1485598,Felipe Negrucci,felipe negrucci,1981,São Paulo,sao paulo,2025,Serie_A,1.0,5,231,0,0,0.0,0.0,0.0,1,0,2,1,4,83.93,6.76,0.0,6.76
+1046796,Calebe Gonçalves,calebe goncalves,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,7,228,1,0,0.395,0.0,0.395,5,2,4,2,2,82.89,6.81,0.395,6.81
+1587711,Ronald,ronald,5926,Grêmio,gremio,2025,Serie_A,1.0,6,228,0,0,0.0,0.0,0.0,0,0,7,1,6,72.84,6.55,0.0,6.55
+339447,Fabián Balbuena,fabian balbuena,5926,Grêmio,gremio,2025,Serie_A,1.0,3,225,1,0,0.4,0.0,0.4,1,1,3,4,5,86.14,7.2,0.4,7.2
+1170769,Léo Mana,leo mana,1957,Corinthians,corinthians,2025,Serie_A,1.0,4,225,0,0,0.0,0.0,0.0,0,0,3,3,3,87.12,6.7,0.0,6.7
+84844,Neto,neto,1958,Botafogo,botafogo,2025,Serie_A,1.0,3,224,0,0,0.0,0.0,0.0,0,0,0,0,0,73.33,6.97,0.0,6.97
+978638,João Marcelo,joao marcelo,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,4,224,0,0,0.0,0.0,0.0,1,0,4,5,10,86.46,6.95,0.0,6.95
+1485290,Patrick,patrick,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,3,224,0,0,0.0,0.0,0.0,1,1,5,6,5,82.29,6.9,0.0,6.9
+1173040,Rodrigo Santos,rodrigo santos,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,8,222,0,0,0.0,0.0,0.0,3,1,9,1,7,80.46,6.55,0.0,6.55
+885179,Paulinho,paulinho,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,7,220,0,0,0.0,0.0,0.0,5,5,1,0,5,76.24,6.7,0.0,6.7
+905452,Weverson,weverson,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,4,217,0,0,0.0,0.0,0.0,2,1,3,1,1,81.82,6.4,0.0,6.4
+2032806,Davi Gomes,davi gomes,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,7,216,1,0,0.417,0.0,0.417,7,8,2,0,1,78.46,6.53,0.417,6.53
+865356,Wellington Rato,wellington rato,1962,Vitória,vitoria,2025,Serie_A,1.0,5,211,1,0,0.427,0.0,0.427,5,0,1,1,1,84.42,6.8,0.427,6.8
+2057367,Kauã Moraes,kaua moraes,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,5,209,0,0,0.0,0.0,0.0,0,0,3,1,1,84.16,6.84,0.0,6.84
+1117102,Rômulo,romulo,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,3,209,0,0,0.0,0.0,0.0,0,0,5,6,7,86.36,6.67,0.0,6.67
+1631904,Ryan Francisco,ryan francisco,1981,São Paulo,sao paulo,2025,Serie_A,1.0,8,208,2,0,0.865,0.0,0.865,4,3,0,0,0,70.37,6.76,0.865,6.76
+1105970,Adson,adson,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,10,208,0,0,0.0,0.0,0.0,3,3,6,0,1,86.96,6.68,0.0,6.68
+1170780,Arthur Sousa,arthur sousa,1959,Sport Recife,sport recife,2025,Serie_A,1.0,6,205,0,0,0.0,0.0,0.0,4,0,0,1,4,86.67,6.63,0.0,6.63
+138890,Gonçalo Paciência,goncalo paciencia,1959,Sport Recife,sport recife,2025,Serie_A,1.0,6,205,0,0,0.0,0.0,0.0,10,3,1,0,4,65.52,6.6,0.0,6.6
+850475,Jean Carlos,jean carlos,1980,Juventude,juventude,2025,Serie_A,1.0,7,205,0,0,0.0,0.0,0.0,4,1,3,0,1,70.37,6.57,0.0,6.57
+1110708,Loide Augusto,loide augusto,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,10,201,0,0,0.0,0.0,0.0,6,3,2,1,1,87.67,6.66,0.0,6.66
+870359,Yeison Guzmán,yeison guzman,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,5,197,0,0,0.0,0.0,0.0,0,0,1,2,1,86.79,6.92,0.0,6.92
+1002415,Diego Rosa,diego rosa,1966,Internacional,internacional,2025,Serie_A,1.0,7,194,0,0,0.0,0.0,0.0,1,1,7,3,3,93.41,6.54,0.0,6.54
+1602833,João Victor,joao victor,5981,Flamengo,flamengo,2025,Serie_A,1.0,4,193,0,0,0.0,0.0,0.0,1,0,1,1,2,91.73,6.3,0.0,6.3
+14216,Dimitri Payet,dimitri payet,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,4,190,0,2,0.0,0.947,0.947,2,1,3,2,1,89.52,7.28,0.947,7.28
+863276,Daniel Fuzato,daniel fuzato,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,3,190,0,0,0.0,0.0,0.0,0,0,0,0,1,71.43,6.0,0.0,6.0
+1111123,Cipriano,cipriano,1980,Juventude,juventude,2025,Serie_A,1.0,3,190,0,0,0.0,0.0,0.0,0,0,2,4,4,76.12,5.47,0.0,5.47
+2282985,Kadir Barría,kadir barria,1958,Botafogo,botafogo,2025,Serie_A,1.0,6,186,2,0,0.968,0.0,0.968,4,0,6,0,4,76.19,7.04,0.968,7.04
+1180918,Rwan Cruz,rwan cruz,1958,Botafogo,botafogo,2025,Serie_A,1.0,5,182,0,0,0.0,0.0,0.0,3,2,4,1,2,66.67,6.66,0.0,6.66
+46620,Yannick Bolasie,yannick bolasie,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,18,181,0,1,0.0,0.497,0.497,6,3,4,1,18,54.9,6.63,0.497,6.63
+559582,Vinicius Silvestre,vinicius silvestre,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,2,180,0,0,0.0,0.0,0.0,0,0,0,0,1,56.6,7.15,0.0,7.15
+866736,Raul,raul,1958,Botafogo,botafogo,2025,Serie_A,1.0,2,180,0,0,0.0,0.0,0.0,0,0,0,0,0,74.42,6.9,0.0,6.9
+1117032,Gabriel Delfim,gabriel delfim,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,2,180,0,0,0.0,0.0,0.0,0,0,0,0,3,70.49,6.85,0.0,6.85
+1631679,Davi Schuindt,davi huindt,1961,Fluminense,fluminense,2025,Serie_A,1.0,2,180,0,0,0.0,0.0,0.0,1,0,2,2,2,86.11,6.75,0.0,6.75
+942426,Luan Santos,luan santos,1981,São Paulo,sao paulo,2025,Serie_A,1.0,6,178,0,0,0.0,0.0,0.0,2,1,1,3,3,82.95,6.67,0.0,6.67
+1561524,Júlio Fidelis,julio fidelis,1961,Fluminense,fluminense,2025,Serie_A,1.0,3,176,0,1,0.0,0.511,0.511,4,3,3,4,2,82.72,6.97,0.511,6.97
+293235,Christian Ortíz,christian ortiz,1959,Sport Recife,sport recife,2025,Serie_A,1.0,6,174,0,0,0.0,0.0,0.0,7,1,3,2,4,72.12,6.85,0.0,6.85
+1199435,Lucca,lucca,2001,Ceará,ceara,2025,Serie_A,1.0,5,170,0,0,0.0,0.0,0.0,4,3,3,0,4,67.5,6.82,0.0,6.82
+874778,Luiz Otávio,luiz otavio,21982,Mirassol,mirassol,2025,Serie_A,1.0,5,168,0,0,0.0,0.0,0.0,2,0,0,2,12,86.67,6.88,0.0,6.88
+1048254,Lucas Lima,lucas lima,2001,Ceará,ceara,2025,Serie_A,1.0,11,168,0,0,0.0,0.0,0.0,2,0,7,2,5,90.0,6.62,0.0,6.62
+981746,Matheus Bianqui,matheus bianqui,21982,Mirassol,mirassol,2025,Serie_A,1.0,13,164,0,0,0.0,0.0,0.0,9,0,6,0,12,61.11,6.64,0.0,6.64
+852534,Carlinhos,carlinhos,1962,Vitória,vitoria,2025,Serie_A,1.0,6,163,1,0,0.552,0.0,0.552,10,1,3,1,17,75.0,6.74,0.552,6.74
+100203,Santiago Moreno,santiago moreno,1961,Fluminense,fluminense,2025,Serie_A,1.0,5,163,0,0,0.0,0.0,0.0,0,0,2,2,2,78.38,6.5,0.0,6.5
+1117065,Kervin Andrade,kervin andrade,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,7,159,0,1,0.0,0.566,0.566,4,3,4,1,0,76.36,6.73,0.566,6.73
+1046440,Roni,roni,21982,Mirassol,mirassol,2025,Serie_A,1.0,9,156,0,0,0.0,0.0,0.0,1,1,4,4,0,89.13,6.61,0.0,6.61
+1631434,Guilherme Luiz,guilherme luiz,2001,Ceará,ceara,2025,Serie_A,1.0,7,155,0,1,0.0,0.581,0.581,2,0,5,1,4,70.0,6.66,0.581,6.66
+1085451,Mateo Gamarra,mateo gamarra,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,2,153,0,0,0.0,0.0,0.0,1,1,6,4,3,69.51,6.75,0.0,6.75
+2035989,Adriel,adriel,1959,Sport Recife,sport recife,2025,Serie_A,1.0,5,145,0,0,0.0,0.0,0.0,1,0,4,1,4,86.27,6.48,0.0,6.48
+1444693,Gabriel Souza,gabriel souza,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,12,144,2,0,1.25,0.0,1.25,3,2,5,3,7,76.27,6.69,1.25,6.69
+1459623,Japa,japa,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,5,144,0,0,0.0,0.0,0.0,2,3,4,3,4,87.18,6.62,0.0,6.62
+1645837,Maceió,maceio,21982,Mirassol,mirassol,2025,Serie_A,1.0,6,143,0,0,0.0,0.0,0.0,5,3,1,0,2,73.33,6.65,0.0,6.65
+1105078,Rômulo,romulo,2001,Ceará,ceara,2025,Serie_A,1.0,9,134,0,0,0.0,0.0,0.0,3,1,2,0,1,75.38,6.64,0.0,6.64
+1888163,Raykkonen Pereira Soares,raykkonen pereira soares,1966,Internacional,internacional,2025,Serie_A,1.0,7,134,0,0,0.0,0.0,0.0,2,2,2,0,6,62.96,6.54,0.0,6.54
+797619,Romarinho,romarinho,1962,Vitória,vitoria,2025,Serie_A,1.0,5,131,0,0,0.0,0.0,0.0,3,4,1,1,4,81.03,6.7,0.0,6.7
+39649,Alex Teixeira,alex teixeira,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,9,130,0,0,0.0,0.0,0.0,4,1,3,0,1,90.57,6.55,0.0,6.55
+385386,Dalbert,dalbert,1959,Sport Recife,sport recife,2025,Serie_A,1.0,5,124,0,0,0.0,0.0,0.0,0,1,4,0,2,84.62,6.62,0.0,6.62
+340519,Jonathan Calleri,jonathan calleri,1981,São Paulo,sao paulo,2025,Serie_A,1.0,3,123,0,0,0.0,0.0,0.0,3,0,2,0,1,85.71,6.0,0.0,6.0
+1173457,Lelê,lele,2001,Ceará,ceara,2025,Serie_A,1.0,7,120,0,0,0.0,0.0,0.0,6,2,0,0,11,56.0,6.63,0.0,6.63
+931595,Pablo,pablo,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,5,112,0,0,0.0,0.0,0.0,2,2,6,0,3,87.3,6.72,0.0,6.72
+1200594,Edison Negueba,edison negueba,1980,Juventude,juventude,2025,Serie_A,1.0,5,102,1,0,0.882,0.0,0.882,6,2,5,1,1,66.67,6.78,0.882,6.78
+2112480,Paulo Roberto,paulo roberto,1962,Vitória,vitoria,2025,Serie_A,1.0,2,97,0,0,0.0,0.0,0.0,0,0,4,2,0,56.25,6.5,0.0,6.5
+939934,Fabricio Domínguez,fabricio dominguez,1959,Sport Recife,sport recife,2025,Serie_A,1.0,4,97,0,0,0.0,0.0,0.0,2,2,2,1,2,71.88,6.48,0.0,6.48
+1633781,Luca Meirelles,luca meirelles,1968,Santos,santos,2025,Serie_A,1.0,7,95,0,0,0.0,0.0,0.0,1,0,1,0,1,81.82,6.6,0.0,6.6
+1884803,Riquelme Felipe,riquelme felipe,1961,Fluminense,fluminense,2025,Serie_A,1.0,6,94,0,0,0.0,0.0,0.0,3,5,9,1,0,72.92,6.78,0.0,6.78
+1175603,Natã,nata,1980,Juventude,juventude,2025,Serie_A,1.0,2,94,0,0,0.0,0.0,0.0,0,0,3,4,0,93.55,6.45,0.0,6.45
+931588,Bruno Tubarão,bruno tubarao,2001,Ceará,ceara,2025,Serie_A,1.0,7,93,0,0,0.0,0.0,0.0,2,0,4,0,4,88.57,6.6,0.0,6.6
+1514629,Dyogo Alves,dyogo alves,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,90,0,0,0.0,0.0,0.0,0,0,0,0,1,54.29,7.2,0.0,7.2
+2063998,Johnny Goes,johnny goes,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,90,0,1,0.0,1.0,1.0,1,1,3,2,2,88.0,7.0,1.0,7.0
+358538,Nathan Allan,nathan allan,5926,Grêmio,gremio,2025,Serie_A,1.0,2,90,0,0,0.0,0.0,0.0,3,0,0,0,0,83.33,6.9,0.0,6.9
+1016912,Nathan,nathan,1966,Internacional,internacional,2025,Serie_A,1.0,1,90,0,0,0.0,0.0,0.0,1,4,2,0,1,89.74,6.8,0.0,6.8
+1382923,Kauê Camargo,kaue camargo,1957,Corinthians,corinthians,2025,Serie_A,1.0,1,90,0,0,0.0,0.0,0.0,0,0,0,0,0,72.73,6.7,0.0,6.7
+2025719,João Marcelo,joao marcelo,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,7,90,1,1,1.0,1.0,2.0,7,0,2,0,3,58.82,6.69,2.0,6.69
+1647585,Iago Silva,iago silva,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,90,0,0,0.0,0.0,0.0,1,0,0,0,3,90.32,6.4,0.0,6.4
+1485295,Thalys,thalys,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,2,88,0,0,0.0,0.0,0.0,0,0,1,1,0,77.78,6.4,0.0,6.4
+1883297,Douglas Costa Telles,douglas costa telles,5981,Flamengo,flamengo,2025,Serie_A,1.0,2,84,2,0,0.0,0.0,0.0,5,1,0,1,0,71.43,7.4,0.0,7.4
+1476894,José Guilherme,jose guilherme,1955,Bahia,bahia,2025,Serie_A,1.0,3,84,0,0,0.0,0.0,0.0,2,2,0,3,2,85.71,6.6,0.0,6.6
+1134199,Cleiton,cleiton,5981,Flamengo,flamengo,2025,Serie_A,1.0,2,82,0,0,0.0,0.0,0.0,0,0,3,2,1,89.13,7.0,0.0,7.0
+1170955,Petterson,petterson,1980,Juventude,juventude,2025,Serie_A,1.0,2,80,0,0,0.0,0.0,0.0,3,2,0,1,0,84.21,6.9,0.0,6.9
+2057364,Larson,larson,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,2,78,0,0,0.0,0.0,0.0,1,1,3,0,0,91.3,6.9,0.0,6.9
+1652635,Felipe Cardoso,felipe cardoso,1962,Vitória,vitoria,2025,Serie_A,1.0,3,76,0,0,0.0,0.0,0.0,3,5,1,0,0,75.0,6.63,0.0,6.63
+1823607,Davi Goes,davi goes,1980,Juventude,juventude,2025,Serie_A,1.0,2,73,0,0,0.0,0.0,0.0,1,0,1,1,0,90.63,6.6,0.0,6.6
+1122737,Joaquín Lavega,joaquin lavega,1961,Fluminense,fluminense,2025,Serie_A,1.0,2,72,0,0,0.0,0.0,0.0,2,1,1,0,0,77.27,6.75,0.0,6.75
+1835793,Yago Noal,yago noal,1966,Internacional,internacional,2025,Serie_A,1.0,2,72,0,0,0.0,0.0,0.0,0,1,1,0,0,88.24,6.55,0.0,6.55
+1525493,Sergio Palacios,sergio palacios,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,2,70,0,0,0.0,0.0,0.0,0,0,1,0,0,86.84,6.3,0.0,6.3
+2104054,Bruninho,bruninho,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,1,69,0,0,0.0,0.0,0.0,2,1,2,2,1,80.0,7.1,0.0,7.1
+1459762,Daniel Sales,daniel sales,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,69,0,0,0.0,0.0,0.0,1,4,1,1,2,87.1,6.8,0.0,6.8
+1485218,Gabriel Carvalho,gabriel carvalho,1966,Internacional,internacional,2025,Serie_A,1.0,3,69,0,0,0.0,0.0,0.0,2,2,2,0,1,85.0,6.73,0.0,6.73
+2031651,Pablo Lucio,pablo lucio,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,69,0,0,0.0,0.0,0.0,0,1,0,1,0,95.24,6.3,0.0,6.3
+1050353,Maurício Garcez,mauricio garcez,1980,Juventude,juventude,2025,Serie_A,1.0,3,67,0,0,0.0,0.0,0.0,1,2,0,0,2,50.0,6.63,0.0,6.63
+1835894,Wendell dos Santos Sacramento,wendell dos santos sacramento,1962,Vitória,vitoria,2025,Serie_A,1.0,1,67,0,0,0.0,0.0,0.0,0,0,1,3,0,82.61,5.8,0.0,5.8
+1831101,Rayan Lelis,rayan lelis,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,1,65,0,0,0.0,0.0,0.0,2,2,2,1,0,57.14,6.3,0.0,6.3
+1175553,Matheus Gonçalves,matheus goncalves,5981,Flamengo,flamengo,2025,Serie_A,1.0,4,64,0,0,0.0,0.0,0.0,1,2,1,0,0,84.48,6.35,0.0,6.35
+1645868,Guilherme Gomes,guilherme gomes,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,63,2,0,0.0,0.0,0.0,3,0,1,0,0,66.67,8.8,0.0,8.8
+976860,Vitor Pernambuco,vitor pernambuco,1980,Juventude,juventude,2025,Serie_A,1.0,3,62,0,0,0.0,0.0,0.0,2,3,3,0,1,86.96,6.8,0.0,6.8
+2268139,Victor Hugo,victor hugo,1959,Sport Recife,sport recife,2025,Serie_A,1.0,1,62,0,0,0.0,0.0,0.0,1,2,0,0,0,76.19,6.5,0.0,6.5
+1589416,Leandrinho,leandrinho,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,2,56,0,0,0.0,0.0,0.0,0,0,1,0,0,93.33,6.5,0.0,6.5
+1393308,Rubén Lezcano,ruben lezcano,1961,Fluminense,fluminense,2025,Serie_A,1.0,4,55,0,0,0.0,0.0,0.0,2,0,1,0,0,86.11,6.7,0.0,6.7
+1174770,Rodriguinho,rodriguinho,2001,Ceará,ceara,2025,Serie_A,1.0,5,55,0,0,0.0,0.0,0.0,2,2,0,0,1,87.5,5.93,0.0,5.93
+1482358,Luiz Gustavo Bahia,luiz gustavo bahia,1957,Corinthians,corinthians,2025,Serie_A,1.0,2,54,0,0,0.0,0.0,0.0,1,0,3,2,0,76.47,6.65,0.0,6.65
+1105850,Ryan Guilherme,ryan guilherme,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,3,53,0,0,0.0,0.0,0.0,0,3,3,4,0,83.93,7.0,0.0,7.0
+1631875,Jardiel,jardiel,5926,Grêmio,gremio,2025,Serie_A,1.0,5,50,0,0,0.0,0.0,0.0,2,0,0,0,0,83.33,6.58,0.0,6.58
+1633616,Ruan Pablo,ruan pablo,1955,Bahia,bahia,2025,Serie_A,1.0,5,49,0,0,0.0,0.0,0.0,2,1,2,0,1,94.74,6.46,0.0,6.46
+1807899,Henrique Carmo,henrique carmo,1981,São Paulo,sao paulo,2025,Serie_A,1.0,3,48,0,1,0.0,0.0,0.0,1,1,0,0,0,83.33,6.7,0.0,6.7
+1907760,Viery,viery,5926,Grêmio,gremio,2025,Serie_A,1.0,3,48,0,0,0.0,0.0,0.0,0,0,1,0,0,82.14,6.55,0.0,6.55
+1110829,Alejandro Martínez,alejandro martinez,2001,Ceará,ceara,2025,Serie_A,1.0,2,47,0,1,0.0,0.0,0.0,1,0,0,1,0,62.5,6.95,0.0,6.95
+1892395,Nicolas Bosshardt,nicolas bosshardt,1981,São Paulo,sao paulo,2025,Serie_A,1.0,1,45,0,0,0.0,0.0,0.0,1,2,2,2,0,84.21,6.8,0.0,6.8
+1631649,Bernardo Tichz Toffolo,bernardo tichz toffolo,1980,Juventude,juventude,2025,Serie_A,1.0,1,45,0,0,0.0,0.0,0.0,0,0,2,1,0,68.42,6.7,0.0,6.7
+946563,Rúben Rodrigues,ruben rodrigues,1962,Vitória,vitoria,2025,Serie_A,1.0,4,45,0,0,0.0,0.0,0.0,1,1,2,0,0,61.9,6.63,0.0,6.63
+1844212,Rafinha,rafinha,1959,Sport Recife,sport recife,2025,Serie_A,1.0,1,45,0,0,0.0,0.0,0.0,0,1,3,1,0,82.35,6.6,0.0,6.6
+2031382,Fredi Gomes,fredi gomes,1955,Bahia,bahia,2025,Serie_A,1.0,1,45,0,0,0.0,0.0,0.0,0,0,1,2,0,89.47,6.4,0.0,6.4
+1884605,Mateus Xavier,mateus xavier,1968,Santos,santos,2025,Serie_A,1.0,3,42,0,0,0.0,0.0,0.0,0,1,1,0,0,75.0,6.5,0.0,6.5
+1647579,Kaique Kenji,kaique kenji,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,3,41,0,0,0.0,0.0,0.0,2,1,0,1,0,100.0,6.6,0.0,6.6
+168745,Rodrigo Ely,rodrigo ely,5926,Grêmio,gremio,2025,Serie_A,1.0,2,40,0,0,0.0,0.0,0.0,0,0,1,1,2,69.23,6.6,0.0,6.6
+1632360,Cauê Nascimento,caue nascimento,1999,Red Bull Bragantino,red bull bragantino,2025,Serie_A,1.0,2,39,0,1,0.0,0.0,0.0,0,0,2,1,0,96.0,6.7,0.0,6.7
+330063,Danilo Barbosa,danilo barbosa,1958,Botafogo,botafogo,2025,Serie_A,1.0,3,37,0,0,0.0,0.0,0.0,1,0,1,1,1,100.0,6.55,0.0,6.55
+981695,Matheus Davó,matheus davo,21982,Mirassol,mirassol,2025,Serie_A,1.0,2,33,0,1,0.0,0.0,0.0,2,1,0,0,0,66.67,6.95,0.0,6.95
+1032938,Kike Saverio,kike saverio,1962,Vitória,vitoria,2025,Serie_A,1.0,2,32,0,0,0.0,0.0,0.0,0,0,0,0,0,62.5,6.5,0.0,6.5
+1631905,Paulo Sérgio,paulo sergio,1981,São Paulo,sao paulo,2025,Serie_A,1.0,3,31,0,0,0.0,0.0,0.0,0,1,1,0,1,66.67,6.6,0.0,6.6
+1631554,Kauan Lindes,kauan lindes,1958,Botafogo,botafogo,2025,Serie_A,1.0,1,29,0,0,0.0,0.0,0.0,0,1,1,0,0,100.0,6.6,0.0,6.6
+1631272,Kayke,kayke,2020,Fortaleza,fortaleza,2025,Serie_A,1.0,2,29,0,0,0.0,0.0,0.0,2,0,1,0,5,20.0,6.35,0.0,6.35
+1883287,Caio Joshua,caio joshua,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,27,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,6.5,0.0,6.5
+1890696,Alisson Rodrigues de Melo,alisson rodrigues de melo,1966,Internacional,internacional,2025,Serie_A,1.0,1,27,0,0,0.0,0.0,0.0,0,1,1,0,0,90.91,5.6,0.0,5.6
+1485294,Riquelme Fillipi,riquelme fillipi,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,2,26,0,0,0.0,0.0,0.0,2,0,0,0,0,77.78,6.45,0.0,6.45
+1066681,Elias Manoel,elias manoel,1958,Botafogo,botafogo,2025,Serie_A,1.0,2,25,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,6.55,0.0,6.55
+1462809,Emerson Galego,emerson galego,1980,Juventude,juventude,2025,Serie_A,1.0,2,25,0,0,0.0,0.0,0.0,0,1,0,0,0,66.67,6.5,0.0,6.5
+34152,Renato Augusto,renato augusto,1961,Fluminense,fluminense,2025,Serie_A,1.0,2,25,0,0,0.0,0.0,0.0,0,0,0,0,1,100.0,6.45,0.0,6.45
+2026233,Pedro Ferreira,pedro ferreira,1981,São Paulo,sao paulo,2025,Serie_A,1.0,2,24,0,0,0.0,0.0,0.0,0,0,0,0,0,75.0,6.4,0.0,6.4
+2075060,Joao Paulo Scatolin,joao paulo atolin,1980,Juventude,juventude,2025,Serie_A,1.0,1,24,0,0,0.0,0.0,0.0,0,0,0,1,0,100.0,6.1,0.0,6.1
+2030103,Huguinho,huguinho,1958,Botafogo,botafogo,2025,Serie_A,1.0,1,23,0,0,0.0,0.0,0.0,1,0,0,1,0,100.0,6.5,0.0,6.5
+1188028,Zé Vitor,ze vitor,21982,Mirassol,mirassol,2025,Serie_A,1.0,2,23,0,0,0.0,0.0,0.0,0,1,2,0,2,63.64,6.45,0.0,6.45
+1128754,Diogenes,diogenes,1968,Santos,santos,2025,Serie_A,1.0,1,22,0,0,0.0,0.0,0.0,0,0,0,0,0,46.15,7.6,0.0,7.6
+2029933,Jefferson Borges do Nascimento,jefferson borges do nascimento,1959,Sport Recife,sport recife,2025,Serie_A,1.0,1,22,0,0,0.0,0.0,0.0,1,0,0,1,0,93.75,6.9,0.0,6.9
+1633503,Erick Belé,erick bele,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,2,22,0,0,0.0,0.0,0.0,0,0,2,0,0,90.91,6.6,0.0,6.6
+1641136,Lukas Zuccarello,lukas zuccarello,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,2,22,0,0,0.0,0.0,0.0,0,0,1,0,1,71.43,6.6,0.0,6.6
+1883344,Lucas Vieira dos Santos,lucas vieira dos santos,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,21,0,0,0.0,0.0,0.0,0,0,3,1,0,75.0,6.9,0.0,6.9
+1805156,Lucas Matheus Ferreira dos Santos,lucas matheus ferreira dos santos,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,21,0,0,0.0,0.0,0.0,0,0,3,1,0,75.0,6.9,0.0,6.9
+1656040,Hyan,hyan,1968,Santos,santos,2025,Serie_A,1.0,2,21,0,0,0.0,0.0,0.0,0,0,2,1,0,83.33,6.7,0.0,6.7
+1835892,Isaque,isaque,1961,Fluminense,fluminense,2025,Serie_A,1.0,1,21,0,0,0.0,0.0,0.0,0,0,1,0,1,71.43,6.6,0.0,6.6
+2058799,Wanderson Vaz,wanderson vaz,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,21,0,0,0.0,0.0,0.0,0,0,1,0,0,50.0,6.6,0.0,6.6
+2058234,Riquelme Felipe,riquelme felipe,1959,Sport Recife,sport recife,2025,Serie_A,1.0,2,21,0,0,0.0,0.0,0.0,1,0,0,0,1,75.0,5.45,0.0,5.45
+948250,Billal Brahimi,billal brahimi,1968,Santos,santos,2025,Serie_A,1.0,1,20,0,0,0.0,0.0,0.0,1,0,0,0,0,80.0,6.8,0.0,6.8
+1884646,Luis Pacheco,luis pacheco,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,2,20,0,0,0.0,0.0,0.0,0,0,0,0,0,85.71,6.4,0.0,6.4
+1587971,Kauan Toledo,kauan toledo,1958,Botafogo,botafogo,2025,Serie_A,1.0,2,19,0,1,0.0,0.0,0.0,0,3,0,0,0,100.0,6.9,0.0,6.9
+1462709,Leo Jacó,leo jaco,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,2,19,0,0,0.0,0.0,0.0,0,0,2,0,0,100.0,6.6,0.0,6.6
+1634144,Guilherme Estrella,guilherme estrella,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,1,18,0,0,0.0,0.0,0.0,0,1,0,1,0,87.5,6.7,0.0,6.7
+2032838,Pablo,pablo,1966,Internacional,internacional,2025,Serie_A,1.0,1,18,0,0,0.0,0.0,0.0,0,0,1,0,0,60.0,6.6,0.0,6.6
+1167068,Kaiky Naves,kaiky naves,1963,Palmeiras,palmeiras,2025,Serie_A,1.0,1,18,0,0,0.0,0.0,0.0,0,0,1,0,0,66.67,5.9,0.0,5.9
+1106599,Brahian Palacios,brahian palacios,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,1,17,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,6.5,0.0,6.5
+1469058,Rúben Ramos Ismael,ruben ramos ismael,1962,Vitória,vitoria,2025,Serie_A,1.0,1,17,0,0,0.0,0.0,0.0,1,0,0,0,0,100.0,6.5,0.0,6.5
+2408644,Joao Camargo,joao camargo,5981,Flamengo,flamengo,2025,Serie_A,1.0,1,17,0,0,0.0,0.0,0.0,0,0,0,0,1,0.0,6.4,0.0,6.4
+1023049,Gustavo Maia,gustavo maia,1959,Sport Recife,sport recife,2025,Serie_A,1.0,1,16,0,0,0.0,0.0,0.0,1,1,0,0,0,72.73,6.9,0.0,6.9
+1471239,Isaac,isaac,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,1,14,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,6.5,0.0,6.5
+1117051,João Victor,joao victor,2001,Ceará,ceara,2025,Serie_A,1.0,1,14,0,0,0.0,0.0,0.0,0,0,0,0,0,100.0,6.5,0.0,6.5
+1090716,Luiz Filipe,luiz filipe,21982,Mirassol,mirassol,2025,Serie_A,1.0,1,13,0,0,0.0,0.0,0.0,1,1,0,0,0,80.0,6.3,0.0,6.3
+1199473,Cadu,cadu,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,1,10,0,0,0.0,0.0,0.0,2,0,0,0,1,100.0,6.9,0.0,6.9
+1589354,Murilo Rhikman,murilo rhikman,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,2,10,0,0,0.0,0.0,0.0,0,1,0,0,0,81.82,6.4,0.0,6.4
+2063705,Kauê Furquim,kaue furquim,1955,Bahia,bahia,2025,Serie_A,1.0,1,8,0,0,0.0,0.0,0.0,1,0,0,0,0,75.0,6.7,0.0,6.7
+2231192,Mateus Jose Iseppe,mateus jose iseppe,1977,Atlético Mineiro,atletico mineiro,2025,Serie_A,1.0,1,8,0,0,0.0,0.0,0.0,0,0,2,0,0,66.67,6.6,0.0,6.6
+2548633,Santos Teodoro Marlon,santos teodoro marlon,1980,Juventude,juventude,2025,Serie_A,1.0,1,8,0,0,0.0,0.0,0.0,1,0,0,0,0,100.0,6.5,0.0,6.5
+818816,Jean Meneses,jean meneses,1974,Vasco da Gama,vasco da gama,2025,Serie_A,1.0,1,1,0,0,0.0,0.0,0.0,0,0,1,0,0,100.0,0.0,0.0,0.0
+1588663,Janderson,janderson,1954,Cruzeiro,cruzeiro,2025,Serie_A,1.0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0
+2185481,Marquinhos,marquinhos,1958,Botafogo,botafogo,2025,Serie_A,1.0,1,1,0,0,0.0,0.0,0.0,0,0,1,0,0,100.0,0.0,0.0,0.0

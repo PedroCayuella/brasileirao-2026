@@ -1,0 +1,29 @@
+﻿sofascore_team_id,clube_nome,clube_chave,ano,divisao,grupo,posicao,jogos,vitorias,empates,derrotas,gols_pro,gols_contra,saldo_gols,pontos,aproveitamento_pct
+2000,Caxias,caxias,2025,Serie_C,Brasileiro Serie C,1,19,12,1,6,26,21,5,37,64.91
+1969,Ponte Preta,ponte preta,2025,Serie_C,Brasileiro Serie C,2,19,11,3,5,20,16,4,36,63.16
+2011,Náutico,nautico,2025,Serie_C,Brasileiro Serie C,3,19,10,6,3,25,7,18,36,63.16
+2022,Londrina,londrina,2025,Serie_C,Brasileiro Serie C,4,19,8,6,5,27,19,8,30,52.63
+47504,São Bernardo,sao bernardo,2025,Serie_C,Brasileiro Serie C,5,19,8,6,5,19,15,4,30,52.63
+21884,Brusque,brusque,2025,Serie_C,Brasileiro Serie C,6,19,8,4,7,20,17,3,28,49.12
+1972,Guarani,guarani,2025,Serie_C,Brasileiro Serie C,7,19,7,6,6,20,20,0,27,47.37
+274286,Floresta,floresta,2025,Serie_C,Brasileiro Serie C,8,19,7,6,6,15,15,0,27,47.37
+2017,Confiança,confianca,2025,Serie_C,Brasileiro Serie C,9,19,7,5,7,21,22,-1,26,45.61
+32766,Ypiranga FC,ypiranga,2025,Serie_C,Brasileiro Serie C,10,19,7,4,8,17,21,-4,25,43.86
+135324,Maringá FC,maringa,2025,Serie_C,Brasileiro Serie C,11,19,5,10,4,26,24,2,25,43.86
+2025,Ituano,ituano,2025,Serie_C,Brasileiro Serie C,12,19,6,6,7,19,24,-5,24,42.11
+49196,Botafogo-PB,botafogo-pb,2025,Serie_C,Brasileiro Serie C,13,19,6,5,8,22,21,1,23,40.35
+1985,Figueirense,figueirense,2025,Serie_C,Brasileiro Serie C,14,19,5,8,6,21,18,3,23,40.35
+21872,Anápolis FC,anapolis,2025,Serie_C,Brasileiro Serie C,15,19,5,8,6,16,19,-3,23,40.35
+21853,AO Itabaiana,ao itabaiana,2025,Serie_C,Brasileiro Serie C,16,19,6,4,9,16,20,-4,22,38.6
+2010,CSA,csa,2025,Serie_C,Brasileiro Serie C,17,19,5,7,7,21,23,-2,22,38.6
+21838,ABC,abc,2025,Serie_C,Brasileiro Serie C,18,19,2,12,5,20,25,-5,18,31.58
+324839,Retrô,retro,2025,Serie_C,Brasileiro Serie C,19,19,3,5,11,7,22,-15,14,24.56
+87202,Tombense,tombense,2025,Serie_C,Brasileiro Serie C,20,19,2,8,9,14,23,-9,14,24.56
+2022,Londrina,londrina,2025,Serie_C,"Main Round, Group B",1,6,2,4,0,6,4,2,10,55.56
+47504,São Bernardo,sao bernardo,2025,Serie_C,"Main Round, Group B",2,6,1,4,1,4,4,0,7,38.89
+274286,Floresta,floresta,2025,Serie_C,"Main Round, Group B",3,6,1,4,1,2,2,0,7,38.89
+2000,Caxias,caxias,2025,Serie_C,"Main Round, Group B",4,6,0,4,2,2,4,-2,4,22.22
+1969,Ponte Preta,ponte preta,2025,Serie_C,"Main Round, Group C",1,6,4,1,1,7,3,4,13,72.22
+2011,Náutico,nautico,2025,Serie_C,"Main Round, Group C",2,6,2,2,2,5,6,-1,8,44.44
+1972,Guarani,guarani,2025,Serie_C,"Main Round, Group C",3,6,2,1,3,6,7,-1,7,38.89
+21884,Brusque,brusque,2025,Serie_C,"Main Round, Group C",4,6,2,0,4,6,8,-2,6,33.33

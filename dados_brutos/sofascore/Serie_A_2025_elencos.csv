@@ -1,0 +1,770 @@
+﻿sofascore_player_id,jogador_nome,jogador_chave,sofascore_team_id,divisao_atual,ano_referencia,posicao,altura_cm,pe_preferido,data_nascimento,idade_na_temporada,nacionalidade,valor_mercado_sofascore_eur
+840219,Pedro Guilherme,pedro guilherme,5981,Serie_A,2025,F,186.0,Right,1997-06-19,28.0,Brazil,16500000.0
+795291,Bruno Henrique,bruno henrique,5981,Serie_A,2025,F,184.0,Right,1990-12-26,35.0,Brazil,825000.0
+2173803,Joaquín Freitas,joaquin freitas,5981,Serie_A,2025,F,177.0,Right,2006-12-02,19.0,Argentina,970000.0
+1020197,Anthony Valencia,anthony valencia,5981,Serie_A,2025,F,175.0,Left,2003-07-20,22.0,Ecuador,1700000.0
+2408644,Joao Camargo,joao camargo,5981,Serie_A,2025,F,186.0,Both,2007-04-12,18.0,Brazil,
+2338346,Josmar,josmar,5981,Serie_A,2025,F,181.0,Left,2008-09-22,17.0,Brazil,
+333587,Giorgian de Arrascaeta,giorgian de arrascaeta,5981,Serie_A,2025,M,173.0,Right,1994-05-28,31.0,Uruguay,14500000.0
+839981,Lucas Paquetá,lucas paqueta,5981,Serie_A,2025,M,180.0,Left,1997-08-26,28.0,Brazil,36000000.0
+132874,Jorginho,jorginho,5981,Serie_A,2025,M,180.0,Right,1991-12-20,34.0,Italy,5400000.0
+874705,Samuel Lino,samuel lino,5981,Serie_A,2025,M,178.0,Right,1999-12-22,26.0,Brazil,17500000.0
+937937,Gonzalo Plata,gonzalo plata,5981,Serie_A,2025,M,178.0,Left,2000-11-01,25.0,Ecuador,8600000.0
+590392,Jorge Carrascal,jorge carrascal,5981,Serie_A,2025,M,179.0,Right,1998-05-22,27.0,Colombia,10200000.0
+877513,Nicolás de la Cruz,nicolas de la cruz,5981,Serie_A,2025,M,167.0,Right,1997-05-31,28.0,Uruguay,8400000.0
+590262,Erick Pulgar,erick pulgar,5981,Serie_A,2025,M,186.0,Right,1994-01-15,31.0,Chile,5400000.0
+840451,Luiz Araújo,luiz araujo,5981,Serie_A,2025,M,175.0,Left,1996-06-01,29.0,Brazil,7200000.0
+116955,Saúl Ñíguez,saul niguez,5981,Serie_A,2025,M,184.0,Left,1994-11-21,31.0,Spain,1900000.0
+1145106,Evertton Araujo,evertton araujo,5981,Serie_A,2025,M,185.0,Right,2003-02-28,22.0,Brazil,5400000.0
+2031651,Pablo Lucio,pablo lucio,5981,Serie_A,2025,M,188.0,Left,2007-04-01,18.0,Brazil,
+1883287,Caio Joshua,caio joshua,5981,Serie_A,2025,M,180.0,Right,2007-05-25,18.0,Brazil,
+1883345,Luiz Felipe,luiz felipe,5981,Serie_A,2025,M,183.0,Right,2008-02-08,17.0,Brazil,
+1485196,Caio Garcia,caio garcia,5981,Serie_A,2025,M,181.0,Right,2004-04-03,21.0,Brazil,
+124992,Danilo,danilo,5981,Serie_A,2025,D,184.0,Right,1991-07-13,34.0,Brazil,2600000.0
+358548,Léo Pereira,leo pereira,5981,Serie_A,2025,D,189.0,Left,1996-01-30,29.0,Brazil,9400000.0
+84854,Alex Sandro,alex sandro,5981,Serie_A,2025,D,181.0,Left,1991-01-24,34.0,Brazil,1500000.0
+869643,Léo Ortiz,leo ortiz,5981,Serie_A,2025,D,185.0,Right,1996-01-03,29.0,Brazil,13600000.0
+856123,Emerson Royal,emerson royal,5981,Serie_A,2025,D,183.0,Right,1999-01-14,26.0,Brazil,6600000.0
+311456,Guillermo Varela,guillermo varela,5981,Serie_A,2025,D,171.0,Right,1993-03-23,32.0,Uruguay,1300000.0
+818473,Ayrton Lucas,ayrton lucas,5981,Serie_A,2025,D,180.0,Left,1997-06-19,28.0,Brazil,3700000.0
+876625,Vitão,vitao,5981,Serie_A,2025,D,185.0,Right,2000-02-02,25.0,Brazil,11600000.0
+1602833,João Victor,joao victor,5981,Serie_A,2025,D,187.0,Right,2007-01-02,18.0,Brazil,775000.0
+1459762,Daniel Sales,daniel sales,5981,Serie_A,2025,D,178.0,Right,2006-06-23,19.0,Brazil,
+2063998,Johnny Goes,johnny goes,5981,Serie_A,2025,D,187.0,Left,2007-03-26,18.0,Brazil,
+2456574,Daniel Thuram,daniel thuram,5981,Serie_A,2025,D,186.0,Right,2009-03-28,16.0,Brazil,
+2747674,Douglas Costa Telles,douglas costa telles,5981,Serie_A,2025,D,167.0,Left,,,Brazil,
+1883289,Daniel Carvalho Marinho,daniel carvalho marinho,5981,Serie_A,2025,D,,,2009-03-31,16.0,Brazil,
+1140986,Agustín Rossi,agustin rossi,5981,Serie_A,2025,G,195.0,Right,1995-08-20,30.0,Argentina,10300000.0
+947893,Andrew,andrew,5981,Serie_A,2025,G,189.0,Right,2001-07-01,24.0,Brazil,7200000.0
+1883341,Leonardo Nannetti,leonardo nannetti,5981,Serie_A,2025,G,192.0,Left,2007-08-17,18.0,Brazil,
+1514629,Dyogo Alves,dyogo alves,5981,Serie_A,2025,G,188.0,Right,2004-01-09,21.0,Brazil,410000.0
+1150391,Vitor Roque,vitor roque,1963,Serie_A,2025,F,174.0,Right,2005-02-28,20.0,Brazil,39000000.0
+1094179,José Manuel López,jose manuel lopez,1963,Serie_A,2025,F,188.0,Left,2000-12-06,25.0,Argentina,32000000.0
+885179,Paulinho,paulinho,1963,Serie_A,2025,F,175.0,Right,2000-07-15,25.0,Brazil,6700000.0
+1015733,Ramón Sosa,ramon sosa,1963,Serie_A,2025,F,178.0,Right,1999-08-31,26.0,Paraguay,10300000.0
+1884619,Heittor,heittor,1963,Serie_A,2025,F,170.0,Right,2007-09-18,18.0,Brazil,
+2551774,Miguel Cinoncelli Bilong,miguel cinoncelli bilong,1963,Serie_A,2025,F,178.0,Right,2008-01-20,17.0,Cameroon,
+844096,Jhon Arias,jhon arias,1963,Serie_A,2025,M,170.0,Right,1997-09-21,28.0,Colombia,16100000.0
+285949,Andreas Pereira,andreas pereira,1963,Serie_A,2025,M,177.0,Right,1996-01-01,29.0,Brazil,13500000.0
+986233,Mauricio,mauricio,1963,Serie_A,2025,M,174.0,Left,2001-06-22,24.0,Paraguay,18900000.0
+152276,Felipe Anderson,felipe anderson,1963,Serie_A,2025,M,175.0,Right,1993-04-15,32.0,Brazil,970000.0
+840202,Marlon Freitas,marlon freitas,1963,Serie_A,2025,M,185.0,Right,1995-03-27,30.0,Brazil,5800000.0
+973533,Emiliano Martínez,emiliano martinez,1963,Serie_A,2025,M,184.0,Right,1999-08-17,26.0,Uruguay,5200000.0
+331397,Lucas Evangelista,lucas evangelista,1963,Serie_A,2025,M,181.0,Left,1995-05-06,30.0,Brazil,4300000.0
+1633503,Erick Belé,erick bele,1963,Serie_A,2025,M,179.0,Left,2007-01-20,18.0,Brazil,1000000.0
+1884646,Luis Pacheco,luis pacheco,1963,Serie_A,2025,M,180.0,Right,2008-02-02,17.0,Brazil,
+2057364,Larson,larson,1963,Serie_A,2025,M,183.0,Right,2005-07-10,20.0,Brazil,420000.0
+1634976,Rafael Coutinho,rafael coutinho,1963,Serie_A,2025,M,178.0,Left,2006-03-24,19.0,Brazil,270000.0
+1591269,Fabiano Rodrigues Pereira,fabiano rodrigues pereira,1963,Serie_A,2025,M,183.0,Right,2006-04-15,19.0,Brazil,190000.0
+1106603,Agustín Giay,agustin giay,1963,Serie_A,2025,D,180.0,Right,2004-01-16,21.0,Argentina,11300000.0
+220833,Gustavo Gómez,gustavo gomez,1963,Serie_A,2025,D,185.0,Right,1993-05-06,32.0,Paraguay,3300000.0
+881110,Joaquín Piquerez,joaquin piquerez,1963,Serie_A,2025,D,183.0,Left,1998-08-24,27.0,Uruguay,11300000.0
+874729,Murilo,murilo,1963,Serie_A,2025,D,188.0,Right,1997-03-27,28.0,Brazil,5400000.0
+973737,Bruno Fuchs,bruno fuchs,1963,Serie_A,2025,D,190.0,Right,1999-04-01,26.0,Brazil,4099999.0
+801044,Alexander Barboza,alexander barboza,1963,Serie_A,2025,D,193.0,Left,1995-03-16,30.0,Uruguay,5300000.0
+1485284,Luis Benedetti,luis benedetti,1963,Serie_A,2025,D,197.0,Left,2006-06-07,19.0,Brazil,4400000.0
+984896,Khellven,khellven,1963,Serie_A,2025,D,176.0,Right,2001-02-25,24.0,Brazil,6200000.0
+1116665,Jefté,jefte,1963,Serie_A,2025,D,183.0,Left,2003-12-21,22.0,Brazil,4400000.0
+1633501,Arthur Gabriel,arthur gabriel,1963,Serie_A,2025,D,176.0,Left,2005-09-04,20.0,Brazil,2800000.0
+2479177,Zié Koné,zie kone,1963,Serie_A,2025,D,193.0,Left,2007-10-20,18.0,Côte d'Ivoire,
+1941313,André Lucas,andre lucas,1963,Serie_A,2025,D,178.0,Left,2006-01-22,19.0,Brazil,
+973738,Carlos Miguel,carlos miguel,1963,Serie_A,2025,G,204.0,Left,1998-10-09,27.0,Brazil,7700000.0
+34141,Marcelo Lomba,marcelo lomba,1963,Serie_A,2025,G,187.0,Right,1986-12-18,39.0,Brazil,68000.0
+977079,Bruno Bertinato,bruno bertinato,1963,Serie_A,2025,G,194.0,Left,1998-05-30,27.0,Brazil,310000.0
+954888,Kaio Jorge,kaio jorge,1954,Serie_A,2025,F,182.0,Right,2002-01-24,23.0,Brazil,24000000.0
+836070,Luis Sinisterra,luis sinisterra,1954,Serie_A,2025,F,176.0,Right,1999-06-17,26.0,Colombia,10700000.0
+1539599,Néiser Villarreal,neiser villarreal,1954,Serie_A,2025,F,186.0,Right,2005-04-23,20.0,Colombia,3900000.0
+1099361,Luciano Rodríguez,luciano rodriguez,1954,Serie_A,2025,F,179.0,Right,2003-07-16,22.0,Uruguay,8199999.0
+817650,Bruno Rodrigues,bruno rodrigues,1954,Serie_A,2025,F,177.0,Right,1997-03-07,28.0,Brazil,1300000.0
+247483,Wanderson,wanderson,1954,Serie_A,2025,F,175.0,Right,1994-10-06,31.0,Brazil,2900000.0
+1647579,Kaique Kenji,kaique kenji,1954,Serie_A,2025,F,178.0,Right,2006-01-29,19.0,Brazil,3300000.0
+1459631,Rhuan Gabriel,rhuan gabriel,1954,Serie_A,2025,F,176.0,Right,2006-02-06,19.0,Brazil,320000.0
+611876,Gerson,gerson,1954,Serie_A,2025,M,185.0,Left,1997-05-20,28.0,Brazil,18500000.0
+377238,Matheus Pereira,matheus pereira,1954,Serie_A,2025,M,175.0,Left,1996-05-05,29.0,Brazil,13500000.0
+1211632,Wesley,wesley,1954,Serie_A,2025,M,180.0,Right,2005-03-05,20.0,Brazil,4099999.0
+1482431,Keny Arroyo,keny arroyo,1954,Serie_A,2025,M,176.0,Left,2006-02-14,19.0,Ecuador,11600000.0
+995072,Gabriel Pec,gabriel pec,1954,Serie_A,2025,M,177.0,Left,2001-02-10,24.0,Brazil,7300000.0
+2040561,Zé Lucas,ze lucas,1954,Serie_A,2025,M,174.0,Right,2008-03-22,17.0,Brazil,8600000.0
+1116954,Marquinhos,marquinhos,1954,Serie_A,2025,M,175.0,Left,2003-04-07,22.0,Brazil,2400000.0
+263477,Lucas Romero,lucas romero,1954,Serie_A,2025,M,167.0,Right,1994-04-18,31.0,Argentina,2400000.0
+912786,Matheus Henrique,matheus henrique,1954,Serie_A,2025,M,175.0,Right,1997-12-19,28.0,Brazil,4099999.0
+245159,Lucas Silva,lucas silva,1954,Serie_A,2025,M,182.0,Right,1993-02-16,32.0,Brazil,405000.0
+2028294,Felipe Morais,felipe morais,1954,Serie_A,2025,M,173.0,Right,2008-08-29,17.0,Brazil,
+1397478,João Costa,joao costa,1954,Serie_A,2025,M,178.0,Left,2005-03-28,20.0,Portugal,2300000.0
+1831101,Rayan Lelis,rayan lelis,1954,Serie_A,2025,M,178.0,Right,2007-01-19,18.0,Brazil,
+1386893,Fabrizio Peralta,fabrizio peralta,1954,Serie_A,2025,M,178.0,Right,2002-08-02,23.0,Paraguay,765000.0
+875295,Matías Viña,matias vina,1954,Serie_A,2025,D,180.0,Left,1997-11-09,28.0,Uruguay,3600000.0
+840220,Fabrício Bruno,fabricio bruno,1954,Serie_A,2025,D,192.0,Right,1996-02-12,29.0,Brazil,11000000.0
+25554,Fagner,fagner,1954,Serie_A,2025,D,168.0,Right,1989-06-11,36.0,Brazil,195000.0
+604274,William Furtado,william furtado,1954,Serie_A,2025,D,176.0,Right,1995-04-03,30.0,Brazil,2300000.0
+1498670,Jonathan Jesus,jonathan jesus,1954,Serie_A,2025,D,187.0,Right,2004-05-27,21.0,Brazil,7600000.0
+260077,Lucas Villalba,lucas villalba,1954,Serie_A,2025,D,177.0,Left,1994-08-19,31.0,Argentina,1800000.0
+978638,João Marcelo,joao marcelo,1954,Serie_A,2025,D,189.0,Right,2000-06-13,25.0,Brazil,3100000.0
+1387300,Gabriel Rojas,gabriel rojas,1954,Serie_A,2025,D,178.0,Left,1997-06-21,28.0,Argentina,3600000.0
+2057367,Kauã Moraes,kaua moraes,1954,Serie_A,2025,D,178.0,Right,2006-09-29,19.0,Brazil,1900000.0
+1633799,Kelvin Coutinho,kelvin coutinho,1954,Serie_A,2025,D,185.0,Left,2006-01-12,19.0,Brazil,
+27756,Cássio,cassio,1954,Serie_A,2025,G,195.0,Left,1987-06-06,38.0,Brazil,240000.0
+1589358,Otávio Costa,otavio costa,1954,Serie_A,2025,G,192.0,Right,2005-12-27,20.0,Brazil,10500000.0
+1488035,Léo Aragão,leo aragao,1954,Serie_A,2025,G,192.0,Right,2002-04-19,23.0,Brazil,855000.0
+1647541,Vitor Lamounier Rego,vitor lamounier rego,1954,Serie_A,2025,G,192.0,Right,2007-10-18,18.0,Brazil,
+904297,André Luis,andre luis,21982,Serie_A,2025,F,182.0,Right,1994-03-09,31.0,Brazil,1100000.0
+871015,Alesson,alesson,21982,Serie_A,2025,F,173.0,Right,1999-02-16,26.0,Brazil,2700000.0
+1105781,Bruno Santos,bruno santos,21982,Serie_A,2025,F,185.0,Right,1996-11-18,29.0,Brazil,220000.0
+795295,Carlos Eduardo,carlos eduardo,21982,Serie_A,2025,F,173.0,Right,1996-10-10,29.0,Brazil,540000.0
+842076,Zé Roberto,ze roberto,21982,Serie_A,2025,F,184.0,Right,1993-09-14,32.0,Brazil,370000.0
+1048612,Edson Carioca,edson carioca,21982,Serie_A,2025,F,180.0,Both,1998-06-04,27.0,Brazil,1500000.0
+76507,Eduardo,eduardo,21982,Serie_A,2025,M,184.0,Right,1989-10-17,36.0,Brazil,620000.0
+1459623,Japa,japa,21982,Serie_A,2025,M,177.0,Left,2004-01-02,21.0,Brazil,925000.0
+880132,Chico,chico,21982,Serie_A,2025,M,174.0,Right,1991-05-16,34.0,South Korea,160000.0
+872007,Negueba,negueba,21982,Serie_A,2025,M,175.0,Right,1999-12-03,26.0,Brazil,3300000.0
+863283,Gustavo Silva,gustavo silva,21982,Serie_A,2025,M,169.0,Right,1997-09-07,28.0,Brazil,900000.0
+1175760,Denilson,denilson,21982,Serie_A,2025,M,180.0,Right,2001-03-23,24.0,Brazil,2100000.0
+874723,Shaylon,shaylon,21982,Serie_A,2025,M,180.0,Left,1997-04-27,28.0,Brazil,1000000.0
+559034,Neto Moura,neto moura,21982,Serie_A,2025,M,176.0,Right,1996-08-06,29.0,Brazil,2200000.0
+988851,José Aldo,jose aldo,21982,Serie_A,2025,M,174.0,Both,1998-07-25,27.0,Brazil,1600000.0
+871219,Fernandinho,fernandinho,21982,Serie_A,2025,M,174.0,Right,1997-07-19,28.0,Brazil,635000.0
+922601,Wallisson Luiz,wallisson luiz,21982,Serie_A,2025,M,184.0,Right,1997-09-23,28.0,Brazil,830000.0
+892073,Gustavo Cazonatti,gustavo cazonatti,21982,Serie_A,2025,M,178.0,Both,1996-07-03,29.0,Brazil,420000.0
+1090716,Luiz Filipe,luiz filipe,21982,Serie_A,2025,M,174.0,Right,2001-05-28,24.0,Brazil,110000.0
+243109,Reinaldo,reinaldo,21982,Serie_A,2025,D,178.0,Left,1989-09-28,36.0,Brazil,360000.0
+252781,Victor Luis,victor luis,21982,Serie_A,2025,D,180.0,Left,1993-06-23,32.0,Brazil,285000.0
+867907,Lucas Oliveira,lucas oliveira,21982,Serie_A,2025,D,187.0,Right,1996-02-02,29.0,Brazil,1100000.0
+925871,Willian Machado,willian machado,21982,Serie_A,2025,D,185.0,Left,1996-11-13,29.0,Brazil,1800000.0
+1009030,Igor Formiga,igor formiga,21982,Serie_A,2025,D,175.0,Right,1999-01-08,26.0,Brazil,3800000.0
+863297,João Victor,joao victor,21982,Serie_A,2025,D,188.0,Right,1997-09-02,28.0,Brazil,1500000.0
+1465498,Gabriel Knesowitsch,gabriel knesowitsch,21982,Serie_A,2025,D,185.0,Right,2003-10-18,22.0,Brazil,720000.0
+794874,Daniel Borges,daniel borges,21982,Serie_A,2025,D,174.0,Right,1993-03-23,32.0,Brazil,280000.0
+981812,Elias,elias,21982,Serie_A,2025,D,175.0,Right,1999-07-16,26.0,Brazil,600000.0
+1470509,Wesley Santos,wesley santos,21982,Serie_A,2025,D,170.0,Right,2004-06-06,21.0,Brazil,110000.0
+329055,Walter,walter,21982,Serie_A,2025,G,188.0,Right,1987-11-18,38.0,Brazil,140000.0
+340113,Alex Muralha,alex muralha,21982,Serie_A,2025,G,188.0,Right,1989-11-10,36.0,Brazil,77000.0
+870929,Thomazella,thomazella,21982,Serie_A,2025,G,191.0,Right,1990-08-15,35.0,Brazil,205000.0
+329225,Georgemy,georgemy,21982,Serie_A,2025,G,198.0,Right,1995-08-15,30.0,Brazil,54000.0
+34705,Hulk,hulk,1961,Serie_A,2025,F,180.0,Left,1986-07-25,39.0,Brazil,1100000.0
+33238,Germán Cano,german cano,1961,Serie_A,2025,F,176.0,Right,1988-01-02,37.0,Argentina,515000.0
+1087399,John Kennedy,john kennedy,1961,Serie_A,2025,F,173.0,Right,2002-05-18,23.0,Brazil,8700000.0
+1182504,Rodrigo Castillo,rodrigo castillo,1961,Serie_A,2025,F,190.0,Right,1999-02-25,26.0,Argentina,6400000.0
+1483339,Matheus Reis,matheus reis,1961,Serie_A,2025,F,180.0,Right,2007-04-01,18.0,Brazil,1000000.0
+1884778,Keven Samuel,keven samuel,1961,Serie_A,2025,F,179.0,Right,2007-01-26,18.0,Brazil,
+789960,Yeferson Soteldo,yeferson soteldo,1961,Serie_A,2025,M,160.0,Right,1997-06-30,28.0,Venezuela,2700000.0
+874739,Jefferson Savarino,jefferson savarino,1961,Serie_A,2025,M,169.0,Right,1996-11-11,29.0,Venezuela,7400000.0
+1067671,Matheus Martinelli,matheus martinelli,1961,Serie_A,2025,M,176.0,Right,2001-10-05,24.0,Brazil,18500000.0
+846413,Agustín Canobbio,agustin canobbio,1961,Serie_A,2025,M,175.0,Right,1998-10-01,27.0,Uruguay,9300000.0
+548030,Luciano Acosta,luciano osta,1961,Serie_A,2025,M,160.0,Right,1994-05-31,31.0,Argentina,4800000.0
+981374,Kevin Serna,kevin serna,1961,Serie_A,2025,M,181.0,Right,1997-12-22,28.0,Colombia,5200000.0
+116853,Ganso,ganso,1961,Serie_A,2025,M,184.0,Left,1989-10-12,36.0,Brazil,290000.0
+1104068,Hércules,hercules,1961,Serie_A,2025,M,178.0,Right,2000-10-20,25.0,Brazil,15500000.0
+291723,Alisson,alisson,1961,Serie_A,2025,M,174.0,Right,1993-06-24,32.0,Brazil,750000.0
+1884803,Riquelme Felipe,riquelme felipe,1961,Serie_A,2025,M,175.0,Left,2007-03-13,18.0,Brazil,5600000.0
+922566,Nonato,nonato,1961,Serie_A,2025,M,174.0,Right,1998-03-03,27.0,Brazil,1900000.0
+552686,Otávio,otavio,1961,Serie_A,2025,M,173.0,Right,1994-05-04,31.0,Brazil,965000.0
+1518961,Yago,yago,1961,Serie_A,2025,M,174.0,Left,2001-08-02,24.0,Brazil,52000.0
+1862245,Ruan Sales,ruan sales,1961,Serie_A,2025,M,,,2008-06-04,17.0,Brazil,
+33541,Thiago Silva,thiago silva,1961,Serie_A,2025,D,181.0,Right,1984-09-22,41.0,Brazil,465000.0
+1127439,Guilherme Arana,guilherme arana,1961,Serie_A,2025,D,176.0,Left,1997-04-14,28.0,Brazil,6400000.0
+795773,Samuel Xavier,samuel xavier,1961,Serie_A,2025,D,166.0,Right,1990-06-06,35.0,Brazil,185000.0
+958382,Ignácio,ignacio,1961,Serie_A,2025,D,192.0,Right,1996-12-01,29.0,Brazil,3600000.0
+243113,Renê,rene,1961,Serie_A,2025,D,174.0,Left,1992-09-14,33.0,Brazil,415000.0
+962187,Juan Pablo Freytes,juan pablo freytes,1961,Serie_A,2025,D,182.0,Left,2000-01-11,25.0,Argentina,5200000.0
+928134,Guga,guga,1961,Serie_A,2025,D,173.0,Right,1998-08-29,27.0,Brazil,1900000.0
+839085,Julián Millán,julian millan,1961,Serie_A,2025,D,186.0,Left,1998-03-26,27.0,Colombia,4400000.0
+753662,Igor Rabello,igor rabello,1961,Serie_A,2025,D,190.0,Right,1995-04-28,30.0,Brazil,1500000.0
+1527129,Jemmes,jemmes,1961,Serie_A,2025,D,187.0,Right,2000-04-09,25.0,Brazil,2900000.0
+1561524,Júlio Fidelis,julio fidelis,1961,Serie_A,2025,D,179.0,Both,2006-11-06,19.0,Brazil,320000.0
+1631686,Léo Jance,leo jance,1961,Serie_A,2025,D,175.0,Left,2005-03-23,20.0,Brazil,
+17785,Fábio,fabio,1961,Serie_A,2025,G,188.0,Right,1980-09-30,45.0,Brazil,79000.0
+1093974,Marcelo Pitaluga,marcelo pitaluga,1961,Serie_A,2025,G,192.0,Right,2002-12-20,23.0,Brazil,210000.0
+927666,Vitor Eudes,vitor eudes,1961,Serie_A,2025,G,195.0,Right,1998-10-21,27.0,Brazil,370000.0
+870762,Arthur Cabral,arthur cabral,1958,Serie_A,2025,F,186.0,Right,1998-04-24,27.0,Brazil,8199999.0
+789100,Tiquinho Soares,tiquinho soares,1958,Serie_A,2025,F,187.0,Right,1991-01-14,34.0,Brazil,825000.0
+2282985,Kadir Barría,kadir barria,1958,Serie_A,2025,F,183.0,Right,2007-07-18,18.0,Panama,955000.0
+922559,Júnior Santos,junior santos,1958,Serie_A,2025,F,188.0,Right,1994-10-11,31.0,Brazil,2700000.0
+1106779,Matheus Martins,matheus martins,1958,Serie_A,2025,F,179.0,Right,2003-07-16,22.0,Brazil,5800000.0
+940647,Danilo Pereira,danilo pereira,1958,Serie_A,2025,F,174.0,Right,1999-04-02,26.0,Brazil,1400000.0
+2083516,Lucas Emanuel,lucas emanuel,1958,Serie_A,2025,F,185.0,Right,2009-06-03,16.0,Brazil,
+2428433,Arthur Izaque,arthur izaque,1958,Serie_A,2025,F,178.0,Right,2007-06-29,18.0,Brazil,
+249437,Hakim Ziyech,hakim ziyech,1958,Serie_A,2025,M,181.0,Left,1993-03-18,32.0,Morocco,2100000.0
+1064039,Danilo Santos,danilo santos,1958,Serie_A,2025,M,175.0,Left,2001-04-19,24.0,Brazil,33000000.0
+158277,Allan,allan,1958,Serie_A,2025,M,175.0,Right,1991-01-08,34.0,Brazil,1100000.0
+1650770,Álvaro Montoro,alvaro montoro,1958,Serie_A,2025,M,169.0,Right,2007-04-16,18.0,Argentina,10500000.0
+1003010,Cristian Medina,cristian medina,1958,Serie_A,2025,M,178.0,Right,2002-05-30,23.0,Argentina,9300000.0
+1899902,Jordan Barrera,jordan barrera,1958,Serie_A,2025,M,175.0,Right,2006-04-11,19.0,Colombia,1900000.0
+221636,Edenilson,edenilson,1958,Serie_A,2025,M,175.0,Right,1989-12-18,36.0,Brazil,290000.0
+1109864,Lucas Villalba,lucas villalba,1958,Serie_A,2025,M,182.0,Right,2001-05-11,24.0,Uruguay,1600000.0
+2030103,Huguinho,huguinho,1958,Serie_A,2025,M,169.0,Right,2007-06-03,18.0,Brazil,325000.0
+1002147,Domingos Andrade,domingos andrade,1958,Serie_A,2025,M,178.0,Right,2003-05-05,22.0,Angola,1600000.0
+1884816,Wallace Davi,wallace davi,1958,Serie_A,2025,M,185.0,Right,2007-05-10,18.0,Brazil,970000.0
+1587971,Kauan Toledo,kauan toledo,1958,Serie_A,2025,M,177.0,Right,2006-04-14,19.0,Brazil,
+2028289,Caio Valle,caio valle,1958,Serie_A,2025,M,,Left,2007-10-10,18.0,Brazil,
+1440798,Bernardo Valim,bernardo valim,1958,Serie_A,2025,M,186.0,Right,2006-01-30,19.0,Brazil,
+2081972,Victor Hugo,victor hugo,1958,Serie_A,2025,M,,Right,2009-08-21,16.0,Brazil,
+312110,Alex Telles,alex telles,1958,Serie_A,2025,D,181.0,Left,1992-12-15,33.0,Brazil,2900000.0
+914477,Vitinho,vitinho,1958,Serie_A,2025,D,175.0,Right,1999-07-23,26.0,Brazil,8700000.0
+881215,Nahuel Ferraresi,nahuel ferraresi,1958,Serie_A,2025,D,188.0,Right,1998-11-19,27.0,Venezuela,4200000.0
+1099163,Mateo Ponte,mateo ponte,1958,Serie_A,2025,D,183.0,Right,2003-05-24,22.0,Uruguay,1900000.0
+143593,Marçal,marcal,1958,Serie_A,2025,D,178.0,Left,1989-02-18,36.0,Brazil,240000.0
+990193,Kaio Pantaleão,kaio pantaleao,1958,Serie_A,2025,D,186.0,Right,1995-09-08,30.0,Brazil,1700000.0
+1122806,Arthur Chaves,arthur chaves,1958,Serie_A,2025,D,187.0,Right,2001-01-28,24.0,Brazil,4900000.0
+1631268,Gabriel Justino,gabriel justino,1958,Serie_A,2025,D,184.0,Right,2006-04-15,19.0,Brazil,310000.0
+1482359,Jhoan Hernandez,jhoan hernandez,1958,Serie_A,2025,D,178.0,Left,2006-02-20,19.0,Colombia,145000.0
+1843325,Kadu Santos,kadu santos,1958,Serie_A,2025,D,177.0,Right,2005-08-16,20.0,Brazil,320000.0
+944458,Paulinho,paulinho,1958,Serie_A,2025,D,178.0,Left,1995-01-02,30.0,Brazil,410000.0
+1048247,Lucas Monzón,lucas monzon,1958,Serie_A,2025,D,184.0,Left,2001-09-28,24.0,Uruguay,535000.0
+1069328,Caio Roque,caio roque,1958,Serie_A,2025,D,182.0,Left,2002-01-07,23.0,Brazil,415000.0
+1512551,Ythallo,ythallo,1958,Serie_A,2025,D,193.0,Right,2004-07-22,21.0,Brazil,285000.0
+1809800,Anthony,anthony,1958,Serie_A,2025,D,192.0,Left,2005-07-12,20.0,Brazil,315000.0
+1631700,Kauã Branco,kaua branco,1958,Serie_A,2025,D,189.0,Right,2006-05-04,19.0,Brazil,
+1191406,Kawan Thomaz,kawan thomaz,1958,Serie_A,2025,D,188.0,Right,2003-04-10,22.0,Brazil,105000.0
+2084595,Gabriel Abdias,gabriel abdias,1958,Serie_A,2025,D,177.0,Left,2006-06-19,19.0,Brazil,
+2081002,Herick,herick,1958,Serie_A,2025,D,,,2009-02-24,16.0,Brazil,
+861071,Warleson,warleson,1958,Serie_A,2025,G,191.0,Right,1996-08-29,29.0,Brazil,2200000.0
+1470452,Cristhian Loor,cristhian loor,1958,Serie_A,2025,G,189.0,Right,2006-03-09,19.0,Ecuador,340000.0
+822526,Gabriel Batista,gabriel batista,1958,Serie_A,2025,G,188.0,Right,1998-05-31,27.0,Brazil,4200000.0
+1819829,Rhyan Carvalho,rhyan carvalho,1958,Serie_A,2025,G,188.0,Right,2006-01-03,19.0,Brazil,
+1831094,Cléber Lucas,cleber lucas,1958,Serie_A,2025,G,192.0,Right,2007-02-21,18.0,Brazil,
+1104070,Erick Pulga,erick pulga,1955,Serie_A,2025,F,169.0,Right,2000-10-01,25.0,Brazil,11700000.0
+1116987,Alejo Véliz,alejo veliz,1955,Serie_A,2025,F,187.0,Right,2003-09-18,22.0,Argentina,4200000.0
+2050427,Dell,dell,1955,Serie_A,2025,F,174.0,Right,2008-06-08,17.0,Brazil,3800000.0
+123223,Willian José,willian jose,1955,Serie_A,2025,F,189.0,Right,1991-11-23,34.0,Brazil,1300000.0
+386212,Everaldo,everaldo,1955,Serie_A,2025,F,181.0,Right,1991-07-05,34.0,Brazil,380000.0
+1068987,Cristian Olivera,cristian olivera,1955,Serie_A,2025,F,170.0,Right,2002-04-17,23.0,Uruguay,5400000.0
+922546,Ademir,ademir,1955,Serie_A,2025,F,172.0,Left,1995-02-16,30.0,Brazil,1200000.0
+1182233,Mateo Sanabria,mateo sanabria,1955,Serie_A,2025,F,178.0,Right,2004-03-31,21.0,Argentina,2100000.0
+145063,Everton Ribeiro,everton ribeiro,1955,Serie_A,2025,M,174.0,Left,1989-04-10,36.0,Brazil,1000000.0
+927975,Jean Lucas,jean lucas,1955,Serie_A,2025,M,181.0,Right,1998-06-22,27.0,Brazil,12600000.0
+905461,Rodrigo Nestor,rodrigo nestor,1955,Serie_A,2025,M,174.0,Left,2000-08-09,25.0,Brazil,7400000.0
+1633616,Ruan Pablo,ruan pablo,1955,Serie_A,2025,M,183.0,Right,2008-07-22,17.0,Brazil,7300000.0
+1008832,Caio Alexandre,caio alexandre,1955,Serie_A,2025,M,174.0,Right,1999-02-24,26.0,Brazil,7200000.0
+924857,Michel Araújo,michel araujo,1955,Serie_A,2025,M,178.0,Left,1996-09-28,29.0,Uruguay,2600000.0
+959620,Nicolás Acevedo,nicolas evedo,1955,Serie_A,2025,M,173.0,Right,1999-04-14,26.0,Uruguay,5600000.0
+874063,Erick,erick,1955,Serie_A,2025,M,176.0,Right,1997-11-14,28.0,Brazil,5200000.0
+1640604,Roger Gabriel,roger gabriel,1955,Serie_A,2025,M,173.0,Right,2007-02-10,18.0,Brazil,540000.0
+1402669,Lautaro López,lautaro lopez,1955,Serie_A,2025,M,184.0,Right,2005-03-30,20.0,Argentina,435000.0
+1017264,Luciano Juba,luciano juba,1955,Serie_A,2025,D,176.0,Left,1999-08-29,26.0,Brazil,15500000.0
+810715,David Duarte,david duarte,1955,Serie_A,2025,D,192.0,Right,1995-01-24,30.0,Brazil,1400000.0
+1634148,Luiz Gustavo,luiz gustavo,1955,Serie_A,2025,D,188.0,Left,2006-04-12,19.0,Brazil,620000.0
+871705,Kanu,kanu,1955,Serie_A,2025,D,186.0,Right,1997-03-07,28.0,Brazil,2400000.0
+1807816,Román Gómez,roman gomez,1955,Serie_A,2025,D,181.0,Right,2004-07-14,21.0,Argentina,1400000.0
+1174196,Marcos Victor,marcos victor,1955,Serie_A,2025,D,184.0,Right,2001-12-26,24.0,Brazil,470000.0
+1476894,José Guilherme,jose guilherme,1955,Serie_A,2025,D,181.0,Left,2005-03-16,20.0,Brazil,380000.0
+2031382,Fredi Gomes,fredi gomes,1955,Serie_A,2025,D,178.0,Right,2006-05-20,19.0,Brazil,
+997094,Marco Moreno,marco moreno,1955,Serie_A,2025,D,191.0,Right,2001-02-20,24.0,Spain,835000.0
+840106,Ronaldo,ronaldo,1955,Serie_A,2025,G,193.0,Right,1996-08-22,29.0,Brazil,1900000.0
+166279,Léo Vieira,leo vieira,1955,Serie_A,2025,G,193.0,Right,1990-09-22,35.0,Brazil,220000.0
+248977,Guido Herrera,guido herrera,1955,Serie_A,2025,G,187.0,Left,1992-02-28,33.0,Argentina,1400000.0
+1640599,Victor,victor,1955,Serie_A,2025,G,,,,,Brazil,
+149710,Lucas Moura,lucas moura,1981,Serie_A,2025,F,172.0,Right,1992-08-13,33.0,Brazil,2100000.0
+340519,Jonathan Calleri,jonathan calleri,1981,Serie_A,2025,F,181.0,Right,1993-09-23,32.0,Argentina,1600000.0
+282557,Luciano,luciano,1981,Serie_A,2025,F,181.0,Left,1993-05-18,32.0,Brazil,1400000.0
+1631904,Ryan Francisco,ryan francisco,1981,Serie_A,2025,F,175.0,Left,2006-11-21,19.0,Brazil,4700000.0
+925072,André Silva,andre silva,1981,Serie_A,2025,F,181.0,Left,1997-06-03,28.0,Brazil,3100000.0
+1589758,Gustavo Santana,gustavo santana,1981,Serie_A,2025,F,183.0,Right,2005-09-02,20.0,Brazil,
+998499,Ferreirinha,ferreirinha,1981,Serie_A,2025,M,176.0,Right,1997-12-31,28.0,Brazil,3800000.0
+1015261,Damián Bobadilla,damian bobadilla,1981,Serie_A,2025,M,181.0,Right,2001-07-11,24.0,Paraguay,8500000.0
+841128,Artur,artur,1981,Serie_A,2025,M,168.0,Left,1998-02-15,27.0,Brazil,7700000.0
+905453,Marcos Antônio,marcos antonio,1981,Serie_A,2025,M,166.0,Right,2000-06-13,25.0,Brazil,14400000.0
+255873,Cauly,cauly,1981,Serie_A,2025,M,175.0,Both,1995-09-15,30.0,Brazil,2100000.0
+1120721,Pablo Maia,pablo maia,1981,Serie_A,2025,M,178.0,Right,2002-01-10,23.0,Brazil,4900000.0
+44760,Cédric Soares,cedric soares,1981,Serie_A,2025,M,172.0,Right,1991-08-31,34.0,Portugal,465000.0
+2162243,Lucca,lucca,1981,Serie_A,2025,M,176.0,Right,2007-06-14,18.0,Brazil,2900000.0
+356514,Danielzinho,danielzinho,1981,Serie_A,2025,M,166.0,Right,1994-11-04,31.0,Brazil,920000.0
+2026233,Pedro Ferreira,pedro ferreira,1981,Serie_A,2025,M,175.0,Right,2007-04-24,18.0,Brazil,
+1463909,Newton,newton,1981,Serie_A,2025,M,188.0,Right,2000-03-12,25.0,Brazil,3200000.0
+1900321,Tetê,tete,1981,Serie_A,2025,M,180.0,Right,2007-04-14,18.0,Brazil,
+799634,Victor Sá,victor sa,1981,Serie_A,2025,M,178.0,Both,1994-03-26,31.0,Brazil,2100000.0
+1884601,Djhordney,djhordney,1981,Serie_A,2025,M,174.0,Right,2007-06-16,18.0,Brazil,2100000.0
+2026234,Pedro Bezerra,pedro bezerra,1981,Serie_A,2025,M,175.0,Right,2007-01-15,18.0,Brazil,
+1597270,Pedro Lima,pedro lima,1981,Serie_A,2025,D,174.0,Right,2006-07-01,19.0,Brazil,3900000.0
+338937,Robert Arboleda,robert arboleda,1981,Serie_A,2025,D,187.0,Right,1991-10-22,34.0,Ecuador,310000.0
+335033,Wendell,wendell,1981,Serie_A,2025,D,176.0,Left,1993-07-20,32.0,Brazil,1300000.0
+932937,Enzo Díaz,enzo diaz,1981,Serie_A,2025,D,175.0,Left,1995-12-07,30.0,Argentina,2900000.0
+82943,Rafael Tolói,rafael toloi,1981,Serie_A,2025,D,185.0,Right,1990-10-10,35.0,Italy,835000.0
+975118,Sabino,sabino,1981,Serie_A,2025,D,185.0,Left,1996-10-25,29.0,Brazil,1100000.0
+576276,Domingos Duarte,domingos duarte,1981,Serie_A,2025,D,191.0,Right,1995-03-09,30.0,Portugal,870000.0
+797225,Lucas Ramon,lucas ramon,1981,Serie_A,2025,D,178.0,Right,1994-03-07,31.0,Brazil,730000.0
+869644,Iago Borduchi,iago borduchi,1981,Serie_A,2025,D,181.0,Left,1997-03-23,28.0,Brazil,3200000.0
+1631911,Igor Felisberto,igor felisberto,1981,Serie_A,2025,D,175.0,Right,2007-03-07,18.0,Brazil,
+1892395,Nicolas Bosshardt,nicolas bosshardt,1981,Serie_A,2025,D,176.0,Left,2007-04-08,18.0,Brazil,
+1466551,Matheus Belém,matheus belem,1981,Serie_A,2025,D,186.0,Left,2003-03-13,22.0,Brazil,865000.0
+357752,Aurélio Buta,aurelio buta,1981,Serie_A,2025,D,172.0,Right,1997-02-09,28.0,Portugal,1900000.0
+1836799,Luis Osorio,luis osorio,1981,Serie_A,2025,D,191.0,Left,2006-09-06,19.0,Brazil,450000.0
+1482842,Isac,isac,1981,Serie_A,2025,D,186.0,Right,2006-04-02,19.0,Brazil,98000.0
+33132,Rafael,rafael,1981,Serie_A,2025,G,192.0,Left,1989-06-23,36.0,Brazil,275000.0
+1116957,Young,young,1981,Serie_A,2025,G,201.0,Right,2002-03-07,23.0,Brazil,105000.0
+800150,Carlos Coronel,carlos coronel,1981,Serie_A,2025,G,190.0,Right,1996-12-29,29.0,Paraguay,1400000.0
+1631898,Felipe Gabriel Preis,felipe gabriel preis,1981,Serie_A,2025,G,187.0,Right,2005-11-19,20.0,Brazil,
+1634547,João Pedro,joao pedro,1981,Serie_A,2025,G,191.0,Right,2006-04-10,19.0,Brazil,
+891920,Carlos Vinícius,carlos vinicius,5926,Serie_A,2025,F,190.0,Left,1995-03-25,30.0,Brazil,5800000.0
+66471,Martin Braithwaite,martin braithwaite,5926,Serie_A,2025,F,180.0,Right,1991-06-05,34.0,Denmark,970000.0
+980327,Tetê,tete,5926,Serie_A,2025,F,175.0,Left,2000-02-15,25.0,Brazil,6400000.0
+974558,José Enamorado,jose enamorado,5926,Serie_A,2025,F,167.0,Right,1999-01-13,26.0,Colombia,2700000.0
+845802,Jovane Cabral,jovane cabral,5926,Serie_A,2025,F,176.0,Right,1998-06-14,27.0,Cape Verde,1400000.0
+1047683,Matheus Nascimento,matheus nascimento,5926,Serie_A,2025,F,185.0,Right,2004-03-02,21.0,Brazil,1900000.0
+1020375,Erick Noriega,erick noriega,5926,Serie_A,2025,M,185.0,Right,2001-10-22,24.0,Peru,6200000.0
+358956,Cristian Pavón,cristian pavon,5926,Serie_A,2025,M,169.0,Right,1996-01-21,29.0,Argentina,1800000.0
+1139775,Mathias Villasanti,mathias villasanti,5926,Serie_A,2025,M,178.0,Right,1997-01-24,28.0,Paraguay,4099999.0
+322417,Filip Krovinović,filip krovinovic,5926,Serie_A,2025,M,175.0,Right,1995-08-28,30.0,Croatia,1500000.0
+901889,Francis Amuzu,francis amuzu,5926,Serie_A,2025,M,170.0,Both,1999-08-23,26.0,Ghana,7800000.0
+2010540,Tiaguinho,tiaguinho,5926,Serie_A,2025,M,174.0,Right,2008-02-02,17.0,Brazil,515000.0
+989862,Juan Nardoni,juan nardoni,5926,Serie_A,2025,M,179.0,Right,2002-07-14,23.0,Argentina,8400000.0
+870804,Dodi,dodi,5926,Serie_A,2025,M,169.0,Right,1996-04-17,29.0,Brazil,515000.0
+330063,Danilo Barbosa,danilo barbosa,5926,Serie_A,2025,M,182.0,Right,1996-02-28,29.0,Brazil,2100000.0
+1634619,Riquelme Freitas,riquelme freitas,5926,Serie_A,2025,M,181.0,Right,2006-08-12,19.0,Brazil,2100000.0
+1907757,Roger,roger,5926,Serie_A,2025,M,173.0,Left,2008-04-29,17.0,Brazil,375000.0
+249647,Walter Kannemann,walter kannemann,5926,Serie_A,2025,D,183.0,Left,1991-03-14,34.0,Argentina,380000.0
+82576,Marcos Rocha,marcos rocha,5926,Serie_A,2025,D,176.0,Right,1988-12-11,37.0,Brazil,140000.0
+870787,Marlon,marlon,5926,Serie_A,2025,D,178.0,Left,1997-05-20,28.0,Brazil,3400000.0
+339447,Fabián Balbuena,fabian balbuena,5926,Serie_A,2025,D,188.0,Right,1991-08-23,34.0,Paraguay,635000.0
+931591,Caio Paulista,caio paulista,5926,Serie_A,2025,D,184.0,Left,1998-05-11,27.0,Brazil,1900000.0
+976235,Wagner Leonardo,wagner leonardo,5926,Serie_A,2025,D,186.0,Left,1999-07-23,26.0,Brazil,2200000.0
+1105796,Gustavo Martins,gustavo martins,5926,Serie_A,2025,D,191.0,Right,2002-08-11,23.0,Brazil,4099999.0
+605528,João Pedro,joao pedro,5926,Serie_A,2025,D,179.0,Right,1996-11-15,29.0,Brazil,1400000.0
+1895389,Luis Guedes,luis guedes,5926,Serie_A,2025,D,188.0,Right,2008-01-16,17.0,Brazil,
+1843731,Wallace,wallace,5926,Serie_A,2025,D,190.0,Right,2004-12-04,21.0,Brazil,190000.0
+1907755,Pedro Gabriel,pedro gabriel,5926,Serie_A,2025,D,185.0,Left,2007-06-06,18.0,Brazil,1900000.0
+1468270,Diego Caito,diego caito,5926,Serie_A,2025,D,180.0,Right,2004-06-07,21.0,Brazil,775000.0
+243529,Weverton,weverton,5926,Serie_A,2025,G,189.0,Right,1987-12-13,38.0,Brazil,750000.0
+1111770,Gabriel Grando,gabriel grando,5926,Serie_A,2025,G,192.0,Right,2000-03-29,25.0,Brazil,1400000.0
+1607287,Thiago Beltrame,thiago beltrame,5926,Serie_A,2025,G,201.0,Right,2003-07-02,22.0,Brazil,
+2152875,Gabriel Menegon,gabriel menegon,5926,Serie_A,2025,G,196.0,Right,2008-10-14,17.0,Brazil,
+1532673,Shane Dunning,shane dunning,5926,Serie_A,2025,P,175.0,,,,USA,
+1466084,Wallace Yan,wallace yan,1999,Serie_A,2025,F,182.0,Right,2005-02-07,20.0,Brazil,5200000.0
+979861,Isidro Pitta,isidro pitta,1999,Serie_A,2025,F,183.0,Right,1999-08-14,26.0,Paraguay,7700000.0
+143846,Eduardo Sasha,eduardo sasha,1999,Serie_A,2025,F,173.0,Right,1992-02-24,33.0,Brazil,550000.0
+911195,Fernando,fernando,1999,Serie_A,2025,F,176.0,Right,1999-03-01,26.0,Brazil,1400000.0
+1587965,Vinicinho,vinicinho,1999,Serie_A,2025,F,174.0,Right,2004-02-20,21.0,Brazil,3600000.0
+1868441,Bruno Goncalves,bruno goncalves,1999,Serie_A,2025,F,174.0,Right,2003-03-14,22.0,Brazil,1100000.0
+882854,Gabriel Novaes,gabriel novaes,1999,Serie_A,2025,F,182.0,Both,1999-04-05,26.0,Brazil,625000.0
+1828980,Jhuan Nunes Coelho,jhuan nunes coelho,1999,Serie_A,2025,F,,Left,2007-06-03,18.0,Brazil,
+1046800,Kawê,kawe,1999,Serie_A,2025,F,175.0,Right,2002-06-22,23.0,Brazil,290000.0
+1200730,Rodriguinho,rodriguinho,1999,Serie_A,2025,M,185.0,Right,2004-03-16,21.0,Brazil,6200000.0
+1117513,Fabinho,fabinho,1999,Serie_A,2025,M,178.0,Right,2002-04-09,23.0,Brazil,4700000.0
+1067641,Lucas Barbosa,lucas barbosa,1999,Serie_A,2025,M,193.0,Left,2001-02-22,24.0,Brazil,6200000.0
+1170680,Henry Mosquera,henry mosquera,1999,Serie_A,2025,M,175.0,Right,2001-11-15,24.0,Colombia,3300000.0
+1485290,Patrick,patrick,1999,Serie_A,2025,M,187.0,Left,2004-03-19,21.0,Brazil,1600000.0
+840150,Matheus Fernandes,matheus fernandes,1999,Serie_A,2025,M,183.0,Right,1998-06-30,27.0,Brazil,945000.0
+242052,Gabriel Girotto,gabriel girotto,1999,Serie_A,2025,M,171.0,Right,1992-07-10,33.0,Brazil,865000.0
+1179171,José Herrera,jose herrera,1999,Serie_A,2025,M,172.0,Left,2003-04-16,22.0,Argentina,2600000.0
+1112896,Ignacio Sosa,ignacio sosa,1999,Serie_A,2025,M,175.0,Right,2003-08-31,22.0,Uruguay,4700000.0
+1018093,Bruno Praxedes,bruno praxedes,1999,Serie_A,2025,M,186.0,Left,2002-02-08,23.0,Brazil,1100000.0
+950545,Eric Ramires,eric ramires,1999,Serie_A,2025,M,172.0,Right,2000-08-10,25.0,Brazil,3600000.0
+1463904,Gustavo Neves,gustavo neves,1999,Serie_A,2025,M,176.0,Right,2004-04-23,21.0,Brazil,3400000.0
+2032806,Davi Gomes,davi gomes,1999,Serie_A,2025,M,177.0,Right,2005-06-06,20.0,Brazil,390000.0
+1631403,Yuri Alves de Aquino,yuri alves de aquino,1999,Serie_A,2025,M,182.0,Right,2006-09-05,19.0,Brazil,245000.0
+1485603,Marcelinho Braz,marcelinho braz,1999,Serie_A,2025,M,176.0,Left,2004-08-16,21.0,Brazil,430000.0
+1591285,Gabriel Lopes,gabriel lopes,1999,Serie_A,2025,M,,Right,2006-07-12,19.0,Brazil,
+2726136,Vini Krygsman,vini krygsman,1999,Serie_A,2025,M,,Right,2008-03-02,17.0,Brazil,
+1067640,Vanderlan,vanderlan,1999,Serie_A,2025,D,183.0,Left,2002-09-07,23.0,Brazil,2700000.0
+870556,Juninho Capixaba,juninho capixaba,1999,Serie_A,2025,D,176.0,Left,1997-07-06,28.0,Brazil,7400000.0
+997239,Guzmán Rodríguez,guzman rodriguez,1999,Serie_A,2025,D,185.0,Right,2000-02-08,25.0,Uruguay,3600000.0
+987589,José Andrés Hurtado,jose andres hurtado,1999,Serie_A,2025,D,178.0,Right,2001-12-23,24.0,Ecuador,3200000.0
+1174764,Gustavo Marques,gustavo marques,1999,Serie_A,2025,D,189.0,Right,2001-10-09,24.0,Brazil,4900000.0
+1117597,Alix Vinicius,alix vinicius,1999,Serie_A,2025,D,196.0,Right,1999-11-06,26.0,Brazil,2700000.0
+869726,Agustin Sant Anna,agustin sant anna,1999,Serie_A,2025,D,170.0,Right,1997-09-27,28.0,Uruguay,3400000.0
+2075010,Weimar Vivas Palacios,weimar vivas palacios,1999,Serie_A,2025,D,187.0,Left,2006-10-17,19.0,Colombia,48000.0
+2026380,Ryan Augusto,ryan augusto,1999,Serie_A,2025,D,179.0,Right,2007-09-04,18.0,Brazil,1100000.0
+925189,Eduardo Santos,eduardo santos,1999,Serie_A,2025,D,196.0,Right,1997-11-28,28.0,Brazil,730000.0
+1632360,Cauê Nascimento,caue nascimento,1999,Serie_A,2025,D,179.0,Left,2006-12-13,19.0,Brazil,485000.0
+2076825,Breno,breno,1999,Serie_A,2025,D,184.0,Right,2008-06-25,17.0,Brazil,
+243509,Tiago Volpi,tiago volpi,1999,Serie_A,2025,G,189.0,Right,1990-12-19,35.0,Brazil,930000.0
+844576,Cleiton,cleiton,1999,Serie_A,2025,G,190.0,Right,1997-08-19,28.0,Brazil,3400000.0
+1881677,Gustavo Reis,gustavo reis,1999,Serie_A,2025,G,190.0,Right,2005-06-10,20.0,Brazil,
+1047208,Fabrício,fabricio,1999,Serie_A,2025,G,190.0,Right,2000-06-15,25.0,Brazil,96000.0
+147464,Dudu,dudu,1977,Serie_A,2025,F,167.0,Right,1992-01-07,33.0,Brazil,775000.0
+1122552,Alan Minda,alan minda,1977,Serie_A,2025,F,171.0,Right,2003-05-14,22.0,Ecuador,5700000.0
+832708,Mateo Cassierra,mateo cassierra,1977,Serie_A,2025,F,186.0,Right,1997-04-13,28.0,Colombia,8500000.0
+1018547,Thiago Borbas,thiago borbas,1977,Serie_A,2025,F,186.0,Right,2002-04-07,23.0,Uruguay,3300000.0
+1829036,Cauã Campos Soares,caua campos soares,1977,Serie_A,2025,F,183.0,Right,2008-06-29,17.0,Brazil,
+978562,Reinier,reinier,1977,Serie_A,2025,M,185.0,Right,2002-01-19,23.0,Brazil,1800000.0
+243623,Fred,fred,1977,Serie_A,2025,M,169.0,Left,1993-03-05,32.0,Brazil,4900000.0
+559036,Gustavo Scarpa,gustavo arpa,1977,Serie_A,2025,M,177.0,Left,1994-01-05,31.0,Brazil,4300000.0
+1170954,Victor Hugo,victor hugo,1977,Serie_A,2025,M,184.0,Left,2004-05-11,21.0,Brazil,7200000.0
+1066915,Kevin Castaño,kevin castano,1977,Serie_A,2025,M,177.0,Right,2000-09-29,25.0,Colombia,5200000.0
+822729,Alan Franco,alan franco,1977,Serie_A,2025,M,174.0,Right,1998-08-21,27.0,Ecuador,4700000.0
+831778,Maycon,maycon,1977,Serie_A,2025,M,175.0,Left,1997-07-15,28.0,Brazil,1900000.0
+241488,Bernard,bernard,1977,Serie_A,2025,M,164.0,Right,1992-09-08,33.0,Brazil,620000.0
+871273,Tomás Cuello,tomas cuello,1977,Serie_A,2025,M,176.0,Right,2000-03-05,25.0,Argentina,8800000.0
+1185617,Alexsander,alexsander,1977,Serie_A,2025,M,178.0,Left,2003-10-08,22.0,Brazil,5700000.0
+1485090,Tomás Pérez,tomas perez,1977,Serie_A,2025,M,182.0,Right,2005-08-26,20.0,Argentina,3100000.0
+2155474,Mamady Cissé,mamady cisse,1977,Serie_A,2025,M,184.0,Right,2007-01-01,18.0,Guinea,1000000.0
+913598,Igor Gomes,igor gomes,1977,Serie_A,2025,M,182.0,Right,1999-03-17,26.0,Brazil,2300000.0
+1829023,Índio,indio,1977,Serie_A,2025,M,180.0,Both,2008-04-02,17.0,Brazil,
+1645891,Igor Toledo,igor toledo,1977,Serie_A,2025,M,183.0,Right,2006-02-03,19.0,Brazil,
+2671648,Gutte,gutte,1977,Serie_A,2025,M,175.0,Right,2008-04-05,17.0,Brazil,
+2035319,Eric de Jesus Soares,eric de jesus soares,1977,Serie_A,2025,M,,Right,2006-01-08,19.0,Brazil,
+1829037,Gutte,gutte,1977,Serie_A,2025,M,175.0,Right,2008-04-04,17.0,Brazil,
+851150,Renan Lodi,renan lodi,1977,Serie_A,2025,D,173.0,Left,1998-04-08,27.0,Brazil,11900000.0
+881844,Ángelo Preciado,angelo preciado,1977,Serie_A,2025,D,178.0,Right,1998-02-18,27.0,Ecuador,3600000.0
+797893,Lyanco,lyanco,1977,Serie_A,2025,D,187.0,Right,1997-02-01,28.0,Brazil,4800000.0
+914487,Ruan,ruan,1977,Serie_A,2025,D,187.0,Right,1999-06-07,26.0,Brazil,4200000.0
+1046805,Natanael,natanael,1977,Serie_A,2025,D,172.0,Right,2002-01-05,23.0,Brazil,4099999.0
+794838,Vitor Hugo,vitor hugo,1977,Serie_A,2025,D,187.0,Left,1991-05-20,34.0,Brazil,460000.0
+2569547,Vitão,vitao,1977,Serie_A,2025,D,194.0,Right,2008-03-03,17.0,Brazil,1600000.0
+839982,Léo Duarte,leo duarte,1977,Serie_A,2025,D,183.0,Right,1996-07-17,29.0,Brazil,2400000.0
+1829022,Kauã Pascini,kaua pascini,1977,Serie_A,2025,D,172.0,Left,2008-03-05,17.0,Brazil,2600000.0
+1633611,Samuel Lima Barros,samuel lima barros,1977,Serie_A,2025,D,187.0,Left,2006-02-09,19.0,Brazil,
+2443880,Luis Gustavo,luis gustavo,1977,Serie_A,2025,D,174.0,Right,2006-03-24,19.0,Brazil,
+1860940,Lucas Souza Silva,lucas souza silva,1977,Serie_A,2025,D,,Right,2006-03-29,19.0,Brazil,
+2726134,Pedro Henrique Lemos Barbosa,pedro henrique lemos barbosa,1977,Serie_A,2025,D,189.0,Right,2006-04-19,19.0,Brazil,
+2804553,Samuel,samuel,1977,Serie_A,2025,D,187.0,,2006-02-09,19.0,Brazil,
+870748,Everson,everson,1977,Serie_A,2025,G,193.0,Right,1990-07-22,35.0,Brazil,930000.0
+1117032,Gabriel Delfim,gabriel delfim,1977,Serie_A,2025,G,192.0,Left,2002-07-10,23.0,Brazil,310000.0
+1633621,Robert Alves,robert alves,1977,Serie_A,2025,G,191.0,Right,2005-02-03,20.0,Brazil,
+1903241,Pedro Cobra Rodrigues,pedro cobra rodrigues,1977,Serie_A,2025,G,192.0,Right,2006-05-14,19.0,Brazil,580000.0
+2826441,Guilherme Pires,guilherme pires,1977,Serie_A,2025,G,,,2009-07-25,16.0,Brazil,
+124712,Neymar,neymar,1968,Serie_A,2025,F,175.0,Right,1992-02-05,33.0,Brazil,8500000.0
+358554,Gabriel Barbosa,gabriel barbosa,1968,Serie_A,2025,F,178.0,Left,1996-08-30,29.0,Brazil,4200000.0
+835260,Rony,rony,1968,Serie_A,2025,F,167.0,Right,1995-05-11,30.0,Brazil,3200000.0
+1046501,Moisés,moises,1968,Serie_A,2025,F,177.0,Right,1996-09-02,29.0,Brazil,2100000.0
+1430092,Rafael Freitas,rafael freitas,1968,Serie_A,2025,F,176.0,Left,2005-08-18,20.0,Brazil,49000.0
+1831085,Pedro Assis,pedro assis,1968,Serie_A,2025,F,165.0,Right,2007-02-19,18.0,Brazil,
+119159,Philippe Coutinho,philippe coutinho,1968,Serie_A,2025,M,172.0,Right,1992-06-12,33.0,Brazil,2700000.0
+386198,Everton Cebolinha,everton cebolinha,1968,Serie_A,2025,M,174.0,Right,1996-03-21,29.0,Brazil,5500000.0
+794927,Arthur,arthur,1968,Serie_A,2025,M,172.0,Right,1996-08-12,29.0,Brazil,3600000.0
+1159656,Miguelito,miguelito,1968,Serie_A,2025,M,177.0,Left,2004-04-25,21.0,Bolivia,5300000.0
+1656036,Gabriel Bontempo,gabriel bontempo,1968,Serie_A,2025,M,181.0,Right,2005-01-16,20.0,Brazil,11600000.0
+922454,Benjamín Rollheiser,benjamin rollheiser,1968,Serie_A,2025,M,175.0,Left,2000-03-24,25.0,Argentina,10000000.0
+949687,Álvaro Barreal,alvaro barreal,1968,Serie_A,2025,M,172.0,Left,2000-08-17,25.0,Argentina,7700000.0
+974556,Gabriel Menino,gabriel menino,1968,Serie_A,2025,M,176.0,Right,2000-09-29,25.0,Brazil,7300000.0
+242213,Willian Arão,willian arao,1968,Serie_A,2025,M,181.0,Right,1992-03-12,33.0,Brazil,720000.0
+46798,Tomás Rincón,tomas rincon,1968,Serie_A,2025,M,175.0,Right,1988-01-13,37.0,Venezuela,
+872039,Thaciano,thaciano,1968,Serie_A,2025,M,182.0,Right,1995-05-12,30.0,Brazil,970000.0
+988656,Gustavo Caballero,gustavo caballero,1968,Serie_A,2025,M,186.0,Right,2001-09-21,24.0,Paraguay,955000.0
+807850,Lima,lima,1968,Serie_A,2025,M,181.0,Right,1996-06-11,29.0,Brazil,1900000.0
+244591,João Schmidt,joao hmidt,1968,Serie_A,2025,M,183.0,Left,1993-05-19,32.0,Brazil,645000.0
+923803,Christian Oliva,christian oliva,1968,Serie_A,2025,M,178.0,Right,1996-06-01,29.0,Uruguay,1500000.0
+1884605,Mateus Xavier,mateus xavier,1968,Serie_A,2025,M,172.0,Right,2007-06-28,18.0,Brazil,375000.0
+1587827,Gustavinho,gustavinho,1968,Serie_A,2025,M,175.0,Right,2005-04-06,20.0,Brazil,485000.0
+1590315,Enzo Duscov Boer,enzo duscov boer,1968,Serie_A,2025,M,170.0,Left,2005-01-06,20.0,Brazil,
+1888796,Pepê Fermino,pepe fermino,1968,Serie_A,2025,M,175.0,Right,2007-02-12,18.0,Brazil,
+2075078,Davi Fernandes Cavalcante Ribeiro,davi fernandes cavalcante ribeiro,1968,Serie_A,2025,M,173.0,Right,2008-07-27,17.0,Brazil,
+244039,Rodinei,rodinei,1968,Serie_A,2025,D,175.0,Right,1992-01-29,33.0,Brazil,875000.0
+840119,Igor Vinícius,igor vinicius,1968,Serie_A,2025,D,173.0,Right,1997-04-02,28.0,Brazil,1900000.0
+826343,Lucas Veríssimo,lucas verissimo,1968,Serie_A,2025,D,188.0,Right,1995-07-02,30.0,Brazil,4099999.0
+840500,Gonzalo Escobar,gonzalo escobar,1968,Serie_A,2025,D,171.0,Both,1997-03-16,28.0,Argentina,825000.0
+842098,Luan Peres,luan peres,1968,Serie_A,2025,D,190.0,Left,1994-07-19,31.0,Brazil,730000.0
+2039241,Vinicius Rodrigues Lira,vinicius rodrigues lira,1968,Serie_A,2025,D,187.0,Left,2007-10-12,18.0,Brazil,4300000.0
+883205,Alexis Duarte,alexis duarte,1968,Serie_A,2025,D,185.0,Right,2000-03-12,25.0,Paraguay,1700000.0
+1888624,João Paulo Ananias,joao paulo ananias,1968,Serie_A,2025,D,188.0,Left,2007-02-12,18.0,Brazil,
+2550839,Samuel Mendes,samuel mendes,1968,Serie_A,2025,D,182.0,Right,2008-01-30,17.0,Brazil,
+2162650,João Alencar,joao alencar,1968,Serie_A,2025,D,187.0,Right,2007-06-25,18.0,Brazil,
+905448,Gabriel Brazão,gabriel brazao,1968,Serie_A,2025,G,191.0,Right,2000-10-05,25.0,Brazil,12800000.0
+795177,João Paulo,joao paulo,1968,Serie_A,2025,G,188.0,Right,1995-06-29,30.0,Brazil,1900000.0
+1128754,Diogenes,diogenes,1968,Serie_A,2025,G,190.0,Right,2001-01-06,24.0,Brazil,185000.0
+1589458,Rodrigo Falcão,rodrigo falcao,1968,Serie_A,2025,G,191.0,Right,2005-03-24,20.0,Brazil,
+1656025,João Fernandes,joao fernandes,1968,Serie_A,2025,G,190.0,Left,2004-05-25,21.0,Brazil,
+138833,Memphis Depay,memphis depay,1957,Serie_A,2025,F,176.0,Right,1994-02-13,31.0,Netherlands,6200000.0
+905463,Yuri Alberto,yuri alberto,1957,Serie_A,2025,F,183.0,Right,2001-03-18,24.0,Brazil,24000000.0
+1396009,Kaio César,kaio cesar,1957,Serie_A,2025,F,168.0,Left,2004-02-15,21.0,Brazil,3900000.0
+1922597,Gui Negão,gui negao,1957,Serie_A,2025,F,179.0,Right,2007-02-06,18.0,Brazil,6600000.0
+866911,Pedro Raul,pedro raul,1957,Serie_A,2025,F,191.0,Right,1996-11-05,29.0,Brazil,2400000.0
+242054,Vitinho,vitinho,1957,Serie_A,2025,F,178.0,Right,1993-10-09,32.0,Brazil,730000.0
+1411152,Kayke Ferrari,kayke ferrari,1957,Serie_A,2025,F,176.0,Right,2004-04-28,21.0,Brazil,1400000.0
+2166174,Luiz Fernando,luiz fernando,1957,Serie_A,2025,F,175.0,Left,2007-07-13,18.0,Brazil,
+994454,Rodrigo Garro,rodrigo garro,1957,Serie_A,2025,M,174.0,Left,1998-01-04,27.0,Argentina,11600000.0
+205508,Jesse Lingard,jesse lingard,1957,Serie_A,2025,M,174.0,Right,1992-12-15,33.0,England,1600000.0
+1199261,Breno Bidon,breno bidon,1957,Serie_A,2025,M,179.0,Left,2005-02-20,20.0,Brazil,23000000.0
+115182,André Carrillo,andre carrillo,1957,Serie_A,2025,M,180.0,Right,1991-06-14,34.0,Peru,750000.0
+866392,Raniele,raniele,1957,Serie_A,2025,M,184.0,Right,1996-12-31,29.0,Brazil,4300000.0
+828839,Allan,allan,1957,Serie_A,2025,M,172.0,Left,1997-03-03,28.0,Brazil,2300000.0
+1647612,André Luiz,andre luiz,1957,Serie_A,2025,M,181.0,Right,2006-06-20,19.0,Brazil,15500000.0
+106142,Zakaria Labyad,zakaria labyad,1957,Serie_A,2025,M,173.0,Both,1993-03-09,32.0,Morocco,375000.0
+795268,Matheus Pereira,matheus pereira,1957,Serie_A,2025,M,181.0,Left,1998-02-25,27.0,Brazil,1500000.0
+845178,Charles,charles,1957,Serie_A,2025,M,187.0,Right,1996-06-19,29.0,Brazil,730000.0
+1916131,Dieguinho,dieguinho,1957,Serie_A,2025,M,170.0,Left,2007-09-16,18.0,Brazil,5200000.0
+358166,Alex Santana,alex santana,1957,Serie_A,2025,M,182.0,Right,1995-05-13,30.0,Brazil,1000000.0
+1482358,Luiz Gustavo Bahia,luiz gustavo bahia,1957,Serie_A,2025,M,178.0,Right,2006-01-02,19.0,Brazil,
+931540,Matheuzinho,matheuzinho,1957,Serie_A,2025,D,171.0,Right,2000-09-08,25.0,Brazil,10300000.0
+981703,Matheus Bidu,matheus bidu,1957,Serie_A,2025,D,172.0,Left,1999-05-04,26.0,Brazil,8400000.0
+243181,Gustavo Henrique,gustavo henrique,1957,Serie_A,2025,D,195.0,Right,1993-03-24,32.0,Brazil,635000.0
+124737,Gabriel Paulista,gabriel paulista,1957,Serie_A,2025,D,187.0,Right,1990-11-26,35.0,Brazil,520000.0
+148155,André Ramalho,andre ramalho,1957,Serie_A,2025,D,182.0,Right,1992-02-16,33.0,Brazil,770000.0
+311462,Fabrizio Angileri,fabrizio angileri,1957,Serie_A,2025,D,185.0,Left,1994-03-15,31.0,Argentina,430000.0
+1411150,João Pedro Tchoca,joao pedro tchoca,1957,Serie_A,2025,D,192.0,Right,2003-12-31,22.0,Brazil,3800000.0
+1017827,Hugo,hugo,1957,Serie_A,2025,D,179.0,Left,1997-08-29,28.0,Brazil,640000.0
+985809,Pedro Milans,pedro milans,1957,Serie_A,2025,D,171.0,Right,2002-03-24,23.0,Uruguay,1400000.0
+1170769,Léo Mana,leo mana,1957,Serie_A,2025,D,179.0,Right,2004-04-06,21.0,Brazil,455000.0
+1411159,Renato Santos,renato santos,1957,Serie_A,2025,D,188.0,Right,2004-10-11,21.0,Brazil,480000.0
+1883368,Yago Melo,yago melo,1957,Serie_A,2025,D,183.0,Right,2007-02-06,18.0,Brazil,
+950454,Hugo Souza,hugo souza,1957,Serie_A,2025,G,199.0,Right,1999-01-31,26.0,Brazil,11600000.0
+1485272,Felipe Longo,felipe longo,1957,Serie_A,2025,G,189.0,Right,2005-03-05,20.0,Brazil,475000.0
+1382923,Kauê Camargo,kaue camargo,1957,Serie_A,2025,G,190.0,Right,2004-02-08,21.0,Brazil,280000.0
+927308,Facundo Colidio,facundo colidio,1974,Serie_A,2025,F,179.0,Right,2000-01-04,25.0,Argentina,5400000.0
+884980,Brenner,brenner,1974,Serie_A,2025,F,176.0,Right,2000-01-16,25.0,Brazil,3900000.0
+861297,Claudio Spinelli,claudio spinelli,1974,Serie_A,2025,F,180.0,Right,1997-01-21,28.0,Argentina,2800000.0
+878830,Bruno Duarte,bruno duarte,1974,Serie_A,2025,F,182.0,Right,1996-03-24,29.0,Brazil,3800000.0
+1105970,Adson,adson,1974,Serie_A,2025,F,171.0,Left,2000-10-06,25.0,Brazil,2300000.0
+840291,David,david,1974,Serie_A,2025,F,179.0,Right,1995-10-17,30.0,Brazil,1600000.0
+2039991,Andrey Fernandes,andrey fernandes,1974,Serie_A,2025,F,176.0,Both,2008-02-05,17.0,Brazil,
+1652392,Bruno Lopes,bruno lopes,1974,Serie_A,2025,F,182.0,Right,2007-07-25,18.0,Brazil,
+1160386,Andrés Gómez,andres gomez,1974,Serie_A,2025,M,172.0,Right,2002-09-12,23.0,Colombia,14600000.0
+972587,Marino Hinestroza,marino hinestroza,1974,Serie_A,2025,M,170.0,Right,2002-07-08,23.0,Colombia,4900000.0
+851285,Nuno Moreira,nuno moreira,1974,Serie_A,2025,M,173.0,Right,1999-06-16,26.0,Portugal,6400000.0
+329303,Thiago Mendes,thiago mendes,1974,Serie_A,2025,M,176.0,Right,1992-03-15,33.0,Brazil,930000.0
+1444694,Cauan Barros,cauan barros,1974,Serie_A,2025,M,183.0,Right,2004-05-06,21.0,Brazil,5300000.0
+1173373,Johan Rojas,johan rojas,1974,Serie_A,2025,M,180.0,Right,2002-09-20,23.0,Colombia,3700000.0
+928237,Santiago Sosa,santiago sosa,1974,Serie_A,2025,M,182.0,Right,1999-05-03,26.0,Argentina,8800000.0
+840398,Tchê Tchê,tche tche,1974,Serie_A,2025,M,175.0,Right,1992-08-30,33.0,Brazil,760000.0
+1186068,Alan Lescano,alan lescano,1974,Serie_A,2025,M,182.0,Left,2001-11-11,24.0,Argentina,7200000.0
+268419,Jair,jair,1974,Serie_A,2025,M,178.0,Right,1994-08-26,31.0,Brazil,580000.0
+1634144,Guilherme Estrella,guilherme estrella,1974,Serie_A,2025,M,185.0,Right,2005-04-21,20.0,Brazil,1100000.0
+1641136,Lukas Zuccarello,lukas zuccarello,1974,Serie_A,2025,M,175.0,Right,2006-12-02,19.0,Brazil,390000.0
+1391962,Mateus Carvalho,mateus carvalho,1974,Serie_A,2025,M,180.0,Left,2002-03-18,23.0,Brazil,1300000.0
+1110708,Loide Augusto,loide augusto,1974,Serie_A,2025,M,183.0,Right,2000-02-26,25.0,Angola,1100000.0
+1635831,Ramon Rique,ramon rique,1974,Serie_A,2025,M,180.0,Right,2007-09-30,18.0,Brazil,4700000.0
+2075165,João Mutano,joao mutano,1974,Serie_A,2025,M,171.0,Right,2005-05-29,20.0,Brazil,
+1644844,Euder,euder,1974,Serie_A,2025,M,180.0,Left,2005-03-18,20.0,Brazil,
+2161941,Samuel Jesus,samuel jesus,1974,Serie_A,2025,M,,Left,2006-02-14,19.0,Brazil,
+2026625,Gustavo Guimarães Soares,gustavo guimaraes soares,1974,Serie_A,2025,M,172.0,Right,2006-08-30,19.0,Brazil,
+1021721,Paulo Henrique,paulo henrique,1974,Serie_A,2025,D,175.0,Right,1996-07-25,29.0,Brazil,5800000.0
+839095,Carlos Cuesta,carlos cuesta,1974,Serie_A,2025,D,179.0,Right,1999-03-09,26.0,Colombia,8400000.0
+1160554,Cuiabano,cuiabano,1974,Serie_A,2025,D,179.0,Left,2003-02-16,22.0,Brazil,10300000.0
+1191278,Robert Renan,robert renan,1974,Serie_A,2025,D,186.0,Left,2003-10-11,22.0,Brazil,10600000.0
+982174,Lucas Piton,lucas piton,1974,Serie_A,2025,D,176.0,Left,2000-10-09,25.0,Italy,5700000.0
+877591,Puma Rodríguez,puma rodriguez,1974,Serie_A,2025,D,183.0,Right,1997-03-14,28.0,Uruguay,2100000.0
+1112908,Alan Saldivia,alan saldivia,1974,Serie_A,2025,D,180.0,Right,2002-04-06,23.0,Uruguay,1100000.0
+1069729,Lucas Freitas,lucas freitas,1974,Serie_A,2025,D,184.0,Left,2001-01-20,24.0,Brazil,1000000.0
+992652,Gabriel Pereira,gabriel pereira,1974,Serie_A,2025,D,188.0,Right,2000-05-07,25.0,Brazil,6200000.0
+1016905,Riquelme,riquelme,1974,Serie_A,2025,D,173.0,Left,2002-08-28,23.0,Brazil,770000.0
+2026623,Riquelme Avellar,riquelme avellar,1974,Serie_A,2025,D,178.0,Left,2006-03-08,19.0,Brazil,
+2028691,Walace Falcão,walace falcao,1974,Serie_A,2025,D,188.0,Left,2005-03-07,20.0,Brazil,
+1485496,Paulinho,paulinho,1974,Serie_A,2025,D,183.0,Left,2004-06-29,21.0,Brazil,580000.0
+2026626,Bruno André,bruno andre,1974,Serie_A,2025,D,178.0,Right,2007-01-01,18.0,Brazil,
+1634143,Breno Vereza da Silva,breno vereza da silva,1974,Serie_A,2025,D,170.0,Both,2007-09-03,18.0,Brazil,
+595598,Léo Jardim,leo jardim,1974,Serie_A,2025,G,188.0,Right,1995-03-20,30.0,Brazil,6400000.0
+863276,Daniel Fuzato,daniel fuzato,1974,Serie_A,2025,G,190.0,Right,1997-07-04,28.0,Brazil,875000.0
+1652393,Pablo,pablo,1974,Serie_A,2025,G,188.0,Right,2003-02-11,22.0,Brazil,52000.0
+1482343,Phillipe Gabriel,phillipe gabriel,1974,Serie_A,2025,G,196.0,Right,2006-02-23,19.0,Brazil,485000.0
+798127,Marinho,marinho,1962,Serie_A,2025,F,169.0,Left,1990-05-29,35.0,Brazil,195000.0
+1644830,Renê Sousa,rene sousa,1962,Serie_A,2025,F,183.0,Right,2003-10-07,22.0,Brazil,970000.0
+814723,Renato Kayzer,renato kayzer,1962,Serie_A,2025,F,178.0,Right,1996-02-17,29.0,Brazil,915000.0
+90468,Osvaldo,osvaldo,1962,Serie_A,2025,F,170.0,Right,1987-04-11,38.0,Brazil,72000.0
+975351,Fabrício Santos,fabricio santos,1962,Serie_A,2025,F,186.0,Right,2000-10-08,25.0,Brazil,930000.0
+1468444,Alex Bruno,alex bruno,1962,Serie_A,2025,F,190.0,Left,1999-01-07,26.0,Brazil,290000.0
+895650,Erick,erick,1962,Serie_A,2025,M,173.0,Left,1997-12-10,28.0,Brazil,4300000.0
+795266,Matheuzinho,matheuzinho,1962,Serie_A,2025,M,165.0,Left,1997-10-17,28.0,Brazil,3100000.0
+553686,Walace,walace,1962,Serie_A,2025,M,188.0,Right,1995-04-04,30.0,Brazil,2100000.0
+824626,Tomás Pochettino,tomas pochettino,1962,Serie_A,2025,M,178.0,Right,1996-02-01,29.0,Argentina,2400000.0
+922575,Gabriel Baralhas,gabriel baralhas,1962,Serie_A,2025,M,178.0,Right,1998-10-10,27.0,Brazil,2400000.0
+794312,Emmanuel Martínez,emmanuel martinez,1962,Serie_A,2025,M,177.0,Right,1994-06-04,31.0,Argentina,1300000.0
+948004,Ignacio Laquintana,ignacio laquintana,1962,Serie_A,2025,M,177.0,Right,1999-02-01,26.0,Uruguay,970000.0
+1650040,Diego Tarzia,diego tarzia,1962,Serie_A,2025,M,174.0,Left,2003-04-26,22.0,Argentina,2700000.0
+1124220,Dudu,dudu,1962,Serie_A,2025,M,186.0,Left,1999-06-05,26.0,Brazil,620000.0
+1188028,Zé Vitor,ze vitor,1962,Serie_A,2025,M,194.0,Right,2000-05-02,25.0,Brazil,460000.0
+871032,Caique Gonçalves,caique goncalves,1962,Serie_A,2025,M,178.0,Right,1995-10-10,30.0,Brazil,485000.0
+2441013,Anderson Pato,anderson pato,1962,Serie_A,2025,M,178.0,Right,2002-09-28,23.0,Brazil,240000.0
+1032938,Kike Saverio,kike saverio,1962,Serie_A,2025,M,178.0,Both,1999-06-19,26.0,Ecuador,470000.0
+1469058,Rúben Ramos Ismael,ruben ramos ismael,1962,Serie_A,2025,M,184.0,Right,1999-03-25,26.0,Portugal,1200000.0
+980421,Lucas Silva,lucas silva,1962,Serie_A,2025,M,182.0,Right,1999-08-27,26.0,Brazil,645000.0
+1896090,José Breno,jose breno,1962,Serie_A,2025,M,176.0,Right,2004-06-06,21.0,Brazil,
+2613161,Cauan Farias,cauan farias,1962,Serie_A,2025,M,,,2006-10-03,19.0,Brazil,
+929200,Cacá,caca,1962,Serie_A,2025,D,185.0,Right,1999-04-25,26.0,Brazil,1500000.0
+980761,Ramon,ramon,1962,Serie_A,2025,D,176.0,Left,2001-03-12,24.0,Brazil,2200000.0
+905459,Luan Cândido,luan candido,1962,Serie_A,2025,D,187.0,Left,2001-02-02,24.0,Brazil,3100000.0
+789395,Emanuel Brítez,emanuel britez,1962,Serie_A,2025,D,178.0,Right,1992-03-26,33.0,Argentina,455000.0
+931759,Camutanga,camutanga,1962,Serie_A,2025,D,189.0,Right,1993-09-27,32.0,Brazil,260000.0
+972373,Jamerson,jamerson,1962,Serie_A,2025,D,177.0,Left,1998-09-09,27.0,Brazil,840000.0
+1116955,Nathan Mendes,nathan mendes,1962,Serie_A,2025,D,182.0,Right,2002-08-19,23.0,Brazil,1500000.0
+1107069,Mateusinho,mateusinho,1962,Serie_A,2025,D,175.0,Right,1998-10-07,27.0,Brazil,775000.0
+1130513,Fabiano Souza,fabiano souza,1962,Serie_A,2025,D,175.0,Right,2000-03-14,25.0,Brazil,1400000.0
+989715,Edu,edu,1962,Serie_A,2025,D,188.0,Right,2000-06-16,25.0,Brazil,730000.0
+927166,Riccieli,riccieli,1962,Serie_A,2025,D,184.0,Right,1998-09-17,27.0,Brazil,1700000.0
+1959800,Darlan,darlan,1962,Serie_A,2025,D,190.0,Right,2003-07-03,22.0,Brazil,
+2797159,Hiago Costa,hiago costa,1962,Serie_A,2025,D,,,2006-01-21,19.0,Brazil,
+982558,Lucas Arcanjo,lucas arcanjo,1962,Serie_A,2025,G,190.0,Right,1998-08-08,27.0,Brazil,2700000.0
+1017274,Alexandre Fintelman,alexandre fintelman,1962,Serie_A,2025,G,194.0,Right,2001-07-20,24.0,Brazil,105000.0
+905464,Yuri Sena,yuri sena,1962,Serie_A,2025,G,190.0,Right,2001-01-03,24.0,Brazil,45000.0
+333261,Antonio Sanabria,antonio sanabria,1966,Serie_A,2025,F,181.0,Right,1996-03-04,29.0,Paraguay,1600000.0
+925125,Johan Carbonero,johan carbonero,1966,Serie_A,2025,F,170.0,Right,1999-07-20,26.0,Colombia,7600000.0
+1106151,Kayky,kayky,1966,Serie_A,2025,F,175.0,Left,2003-06-10,22.0,Brazil,4700000.0
+923948,Alerrandro,alerrandro,1966,Serie_A,2025,F,180.0,Right,2000-01-12,25.0,Brazil,2600000.0
+1888163,Raykkonen Pereira Soares,raykkonen pereira soares,1966,Serie_A,2025,F,187.0,Right,2008-07-13,17.0,Brazil,
+1589315,Leandro Kaua,leandro kaua,1966,Serie_A,2025,F,190.0,Left,2005-02-27,20.0,Brazil,
+2677478,Fabricio,fabricio,1966,Serie_A,2025,F,,Right,2009-09-28,16.0,Brazil,
+124997,Alan Patrick,alan patrick,1966,Serie_A,2025,M,177.0,Right,1991-05-13,34.0,Brazil,2200000.0
+879902,Paulinho Paula,paulinho paula,1966,Serie_A,2025,M,173.0,Right,1997-01-08,28.0,Brazil,970000.0
+358550,Thiago Maia,thiago maia,1966,Serie_A,2025,M,179.0,Left,1997-03-23,28.0,Brazil,1900000.0
+982405,Vitinho,vitinho,1966,Serie_A,2025,M,181.0,Right,1999-04-01,26.0,Brazil,4900000.0
+316196,Niclas Eliasson,niclas eliasson,1966,Serie_A,2025,M,179.0,Left,1995-12-07,30.0,Sweden,2900000.0
+345113,Bruno Henrique,bruno henrique,1966,Serie_A,2025,M,180.0,Right,1989-10-21,36.0,Brazil,330000.0
+978563,Rodrigo Villagra,rodrigo villagra,1966,Serie_A,2025,M,178.0,Right,2001-02-14,24.0,Argentina,3600000.0
+1046796,Calebe Gonçalves,calebe goncalves,1966,Serie_A,2025,M,173.0,Left,2000-04-30,25.0,Brazil,1700000.0
+824152,Ronaldo,ronaldo,1966,Serie_A,2025,M,175.0,Right,1996-10-23,29.0,Brazil,2100000.0
+1485191,Allex,allex,1966,Serie_A,2025,M,164.0,Left,2006-05-04,19.0,Brazil,1100000.0
+2027868,Benjamin Arhin,benjamin arhin,1966,Serie_A,2025,M,168.0,Right,2006-05-28,19.0,Ghana,
+1890696,Alisson Rodrigues de Melo,alisson rodrigues de melo,1966,Serie_A,2025,M,178.0,Left,2008-07-31,17.0,Brazil,
+1922592,João Victor Alves de Morais Francisco,joao victor alves de morais francisco,1966,Serie_A,2025,M,182.0,Right,2007-07-27,18.0,Brazil,
+2677474,Gabriel Vinicius,gabriel vinicius,1966,Serie_A,2025,M,172.0,Left,2008-04-23,17.0,Brazil,
+2726135,Kempes,kempes,1966,Serie_A,2025,M,178.0,Right,2009-04-25,16.0,Brazil,
+881848,Félix Torres,felix torres,1966,Serie_A,2025,D,187.0,Right,1997-01-11,28.0,Ecuador,870000.0
+989200,Alexandro Bernabei,alexandro bernabei,1966,Serie_A,2025,D,169.0,Left,2000-09-24,25.0,Argentina,7400000.0
+339909,Guillermo Maripán,guillermo maripan,1966,Serie_A,2025,D,193.0,Right,1994-05-06,31.0,Chile,1900000.0
+128376,Gabriel Mercado,gabriel mercado,1966,Serie_A,2025,D,180.0,Right,1987-03-18,38.0,Argentina,110000.0
+995071,Bruno Gomes,bruno gomes,1966,Serie_A,2025,D,175.0,Right,2001-04-04,24.0,Brazil,6200000.0
+1106487,Victor Gabriel,victor gabriel,1966,Serie_A,2025,D,187.0,Left,2004-04-28,21.0,Brazil,4700000.0
+1047204,Matheus Bahia,matheus bahia,1966,Serie_A,2025,D,181.0,Left,1999-08-11,26.0,Brazil,3100000.0
+1084963,Braian Aguirre,braian aguirre,1966,Serie_A,2025,D,174.0,Right,2000-07-28,25.0,Argentina,2400000.0
+799947,Jose Juninho,jose juninho,1966,Serie_A,2025,D,186.0,Left,1995-02-01,30.0,Brazil,720000.0
+1105835,Matheus Cunha,matheus cunha,1966,Serie_A,2025,G,193.0,Right,2001-05-24,24.0,Brazil,2900000.0
+581060,Sergio Rochet,sergio rochet,1966,Serie_A,2025,G,190.0,Right,1993-03-23,32.0,Uruguay,1700000.0
+1106134,Anthoni,anthoni,1966,Serie_A,2025,G,191.0,Right,2002-01-23,23.0,Brazil,2800000.0
+1485233,Kauan,kauan,1966,Serie_A,2025,G,192.0,Right,2003-04-27,22.0,Brazil,
+1650025,Diego Esser,diego esser,1966,Serie_A,2025,G,192.0,Right,2005-04-13,20.0,Brazil,
+869573,Saulo Mineiro,saulo mineiro,2001,Serie_A,2025,F,180.0,Right,1997-06-17,28.0,Brazil,910000.0
+1199435,Lucca,lucca,2001,Serie_A,2025,F,180.0,Right,2003-04-02,22.0,Brazil,650000.0
+926513,Renzo López,renzo lopez,2001,Serie_A,2025,F,190.0,Right,1994-04-16,31.0,Uruguay,585000.0
+937265,Wendel,wendel,2001,Serie_A,2025,F,177.0,Right,2000-08-02,25.0,Brazil,1900000.0
+1104316,Lenny Lobato,lenny lobato,2001,Serie_A,2025,F,174.0,Left,2001-02-03,24.0,Brazil,860000.0
+1657072,Kauã Ziegler,kaua ziegler,2001,Serie_A,2025,F,180.0,Right,2006-02-27,19.0,Brazil,
+2454253,Gabriel Amaral,gabriel amaral,2001,Serie_A,2025,F,187.0,Right,2006-03-15,19.0,Brazil,
+1101714,Vina,vina,2001,Serie_A,2025,M,177.0,Right,1991-04-15,34.0,Brazil,225000.0
+1002617,Matheus Araújo,matheus araujo,2001,Serie_A,2025,M,176.0,Right,2002-05-22,23.0,Brazil,1400000.0
+249881,Lucas Mugni,lucas mugni,2001,Serie_A,2025,M,184.0,Left,1992-01-12,33.0,Argentina,190000.0
+973841,Vinicius Zanocelo,vinicius zanocelo,2001,Serie_A,2025,M,184.0,Right,2001-01-29,24.0,Brazil,2100000.0
+870758,Richardson,richardson,2001,Serie_A,2025,M,173.0,Right,1991-08-17,34.0,Brazil,92000.0
+1190330,Nicolás Ferreira,nicolas ferreira,2001,Serie_A,2025,M,170.0,Right,2002-02-07,23.0,Uruguay,555000.0
+1176815,Giovanni Pavani,giovanni pavani,2001,Serie_A,2025,M,178.0,Right,1996-11-22,29.0,Brazil,380000.0
+2032550,Rian Santana,rian santana,2001,Serie_A,2025,M,170.0,Right,2001-01-23,24.0,Brazil,
+2047966,João Gabriel,joao gabriel,2001,Serie_A,2025,M,,Right,2006-04-15,19.0,Brazil,
+2025593,Pedro Esli da Silva,pedro esli da silva,2001,Serie_A,2025,M,180.0,Right,2007-05-02,18.0,Brazil,
+2543442,Melquisedeque Costa de Oliveira,melquisedeque costa de oliveira,2001,Serie_A,2025,M,,Left,2006-07-28,19.0,Brazil,
+2537131,Aloísio Barbosa de Abreu Neto,aloisio barbosa de abreu neto,2001,Serie_A,2025,M,,Right,2007-10-09,18.0,Brazil,
+2677486,Fernando Gabriel de Goes Fabrício,fernando gabriel de goes fabricio,2001,Serie_A,2025,M,,Right,2004-05-05,21.0,Brazil,
+2537132,Caio,caio,2001,Serie_A,2025,M,,Right,2007-10-24,18.0,Brazil,
+788195,Rafael Ramos,rafael ramos,2001,Serie_A,2025,D,171.0,Right,1995-01-09,30.0,Portugal,420000.0
+871204,Luiz Otávio,luiz otavio,2001,Serie_A,2025,D,190.0,Right,1988-09-14,37.0,Brazil,52000.0
+1109577,Thalisson Gabriel,thalisson gabriel,2001,Serie_A,2025,D,190.0,Right,2002-01-20,23.0,Brazil,390000.0
+874778,Luiz Otávio,luiz otavio,2001,Serie_A,2025,D,194.0,Right,1992-10-08,33.0,Brazil,500000.0
+842072,Éder,eder,2001,Serie_A,2025,D,184.0,Right,1995-04-06,30.0,Brazil,235000.0
+866369,Sávio,savio,2001,Serie_A,2025,D,175.0,Left,1995-05-27,30.0,Brazil,375000.0
+882748,Bryan Borges,bryan borges,2001,Serie_A,2025,D,176.0,Right,1996-08-03,29.0,Brazil,330000.0
+1185832,Júlio César,julio cesar,2001,Serie_A,2025,D,186.0,Right,2003-09-28,22.0,Brazil,360000.0
+870753,Sánchez,sanchez,2001,Serie_A,2025,D,178.0,Left,1995-09-27,30.0,Brazil,26000.0
+1631201,Stanley Boateng Osei,stanley boateng osei,2001,Serie_A,2025,D,178.0,Right,2005-03-22,20.0,Ghana,160000.0
+1589365,Pedro Gilmar,pedro gilmar,2001,Serie_A,2025,D,194.0,Right,2006-04-02,19.0,Brazil,
+1631189,Enzo Valentim Lodovico,enzo valentim lodovico,2001,Serie_A,2025,D,170.0,Left,2006-06-22,19.0,Brazil,
+1591290,Gabriel Silva Rocha,gabriel silva rocha,2001,Serie_A,2025,D,,Left,2006-01-23,19.0,Brazil,
+1631204,Vinicius Menezes Uchella,vinicius menezes uchella,2001,Serie_A,2025,D,,Right,2006-01-21,19.0,Brazil,
+2025473,Janderson Gabriel,janderson gabriel,2001,Serie_A,2025,D,190.0,Left,2006-03-01,19.0,Brazil,
+2067805,Kaiky Cabral Leão,kaiky cabral leao,2001,Serie_A,2025,D,192.0,Right,2008-12-12,17.0,Brazil,
+799667,Caíque França,caique franca,2001,Serie_A,2025,G,186.0,Left,1995-06-03,30.0,Brazil,650000.0
+883906,Richard,richard,2001,Serie_A,2025,G,186.0,Right,1991-03-01,34.0,Brazil,105000.0
+977806,Matheus Nogueira,matheus nogueira,2001,Serie_A,2025,G,191.0,Right,1997-09-20,28.0,Brazil,290000.0
+2537130,Gustavo Dias Martins,gustavo dias martins,2001,Serie_A,2025,G,,Left,2006-05-03,19.0,Brazil,
+866847,Chico da Costa,chico da costa,2020,Serie_A,2025,F,184.0,Right,1995-05-04,30.0,Brazil,1000000.0
+874143,Luiz Fernando,luiz fernando,2020,Serie_A,2025,F,178.0,Right,1996-10-16,29.0,Brazil,1900000.0
+1066721,Vitinho,vitinho,2020,Serie_A,2025,F,170.0,Left,2001-04-23,24.0,Brazil,2900000.0
+1003721,Juan Miritello,juan miritello,2020,Serie_A,2025,F,182.0,Right,1999-02-08,26.0,Argentina,2200000.0
+934638,Nathan Fogaça,nathan fogaca,2020,Serie_A,2025,F,178.0,Right,1999-06-09,26.0,Brazil,1600000.0
+2104437,Lucas Emanoel,lucas emanoel,2020,Serie_A,2025,F,192.0,Left,2006-07-14,19.0,Brazil,325000.0
+1174880,Juan Cantillo,juan cantillo,2020,Serie_A,2025,F,175.0,Right,2003-01-06,22.0,Colombia,205000.0
+1170779,Ryan Gustavo,ryan gustavo,2020,Serie_A,2025,M,170.0,Left,2003-07-15,22.0,Brazil,2900000.0
+219190,Pedro Henrique,pedro henrique,2020,Serie_A,2025,M,179.0,Right,1990-06-17,35.0,Brazil,415000.0
+1174770,Rodriguinho,rodriguinho,2020,Serie_A,2025,M,170.0,Right,2003-06-05,22.0,Brazil,875000.0
+1587711,Ronald,ronald,2020,Serie_A,2025,M,186.0,Right,2003-02-11,22.0,Brazil,2600000.0
+1174206,Paulo Baya,paulo baya,2020,Serie_A,2025,M,184.0,Right,1999-07-26,26.0,Brazil,850000.0
+795178,Lucas Crispim,lucas crispim,2020,Serie_A,2025,M,178.0,Right,1994-06-19,31.0,Brazil,635000.0
+123225,Lucas Sasha,lucas sasha,2020,Serie_A,2025,M,177.0,Right,1990-03-01,35.0,Brazil,140000.0
+1017710,Pierre,pierre,2020,Serie_A,2025,M,181.0,Left,2002-03-13,23.0,Brazil,940000.0
+1631235,Lucca Prior,lucca prior,2020,Serie_A,2025,M,173.0,Left,2004-02-12,21.0,Brazil,805000.0
+1173040,Rodrigo Santos,rodrigo santos,2020,Serie_A,2025,M,178.0,Right,2000-09-18,25.0,Brazil,530000.0
+989892,Welliton,welliton,2020,Serie_A,2025,M,180.0,Right,2000-07-14,25.0,Brazil,940000.0
+215956,Bastos,bastos,2020,Serie_A,2025,D,184.0,Right,1991-03-27,34.0,Angola,540000.0
+927551,Gabriel Fuentes,gabriel fuentes,2020,Serie_A,2025,D,180.0,Left,1997-02-09,28.0,Colombia,1800000.0
+973857,Maílton,mailton,2020,Serie_A,2025,D,169.0,Right,1998-05-31,27.0,Brazil,2200000.0
+794861,Jailson,jailson,2020,Serie_A,2025,D,187.0,Right,1995-09-07,30.0,Brazil,680000.0
+840247,Neris,neris,2020,Serie_A,2025,D,190.0,Right,1992-06-17,33.0,Brazil,215000.0
+986064,Luan Freitas,luan freitas,2020,Serie_A,2025,D,184.0,Right,2001-01-20,24.0,Brazil,470000.0
+849020,Tomás Cardona,tomas cardona,2020,Serie_A,2025,D,188.0,Left,1995-10-10,30.0,Argentina,930000.0
+1103705,Lucas Gazal,lucas gazal,2020,Serie_A,2025,D,187.0,Right,1999-08-06,26.0,Brazil,1300000.0
+1197893,Maurício Lima,mauricio lima,2020,Serie_A,2025,D,170.0,Right,2001-05-11,24.0,Brazil,645000.0
+1636415,Kaio Henrique,kaio henrique,2020,Serie_A,2025,D,174.0,Left,2006-03-21,19.0,Brazil,1400000.0
+1868762,Kauã Rocha,kaua rocha,2020,Serie_A,2025,D,185.0,Right,2007-03-13,18.0,Brazil,535000.0
+839761,João Ricardo,joao ricardo,2020,Serie_A,2025,G,188.0,Right,1988-09-06,37.0,Brazil,320000.0
+559582,Vinicius Silvestre,vinicius silvestre,2020,Serie_A,2025,G,195.0,Right,1994-03-28,31.0,Brazil,225000.0
+1083070,Magrão,magrao,2020,Serie_A,2025,G,197.0,Right,2000-05-15,25.0,Brazil,260000.0
+962027,Marcos Paulo,marcos paulo,1980,Serie_A,2025,F,186.0,Right,2001-01-31,24.0,Portugal,500000.0
+39656,Alan Kardec,alan kardec,1980,Serie_A,2025,F,185.0,Right,1989-01-11,36.0,Brazil,90000.0
+870927,Alisson Safira,alisson ira,1980,Serie_A,2025,F,178.0,Right,1995-03-16,30.0,Brazil,775000.0
+340265,Luis Amarilla,luis amarilla,1980,Serie_A,2025,F,182.0,Right,1995-08-25,30.0,Paraguay,485000.0
+1200923,Fábio Lima,fabio lima,1980,Serie_A,2025,F,176.0,Left,1996-12-21,29.0,Brazil,310000.0
+1462809,Emerson Galego,emerson galego,1980,Serie_A,2025,F,180.0,Left,1999-08-10,26.0,Brazil,145000.0
+1412631,Juan Christian,juan christian,1980,Serie_A,2025,F,177.0,Right,2001-03-10,24.0,Brazil,640000.0
+340143,Manuel Castro,manuel castro,1980,Serie_A,2025,F,176.0,Right,1995-09-26,30.0,Uruguay,945000.0
+1107010,Lucas Alves,lucas alves,1980,Serie_A,2025,F,,Right,2002-04-21,23.0,Brazil,47000.0
+2543317,Carlinhos,carlinhos,1980,Serie_A,2025,F,176.0,Right,2007-09-10,18.0,Brazil,
+1002528,Patryck,patryck,1980,Serie_A,2025,M,180.0,Left,2003-01-18,22.0,Brazil,1100000.0
+1175321,Raí,rai,1980,Serie_A,2025,M,171.0,Left,2002-04-21,23.0,Brazil,640000.0
+1116677,Luis Mandaca,luis mandaca,1980,Serie_A,2025,M,178.0,Right,2001-10-01,24.0,Brazil,2100000.0
+243107,Diogo Barbosa,diogo barbosa,1980,Serie_A,2025,M,180.0,Left,1992-08-17,33.0,Brazil,180000.0
+178407,Gabriel Pires,gabriel pires,1980,Serie_A,2025,M,186.0,Left,1993-09-18,32.0,Brazil,430000.0
+1016912,Nathan,nathan,1980,Serie_A,2025,M,183.0,Right,2001-09-05,24.0,Brazil,1100000.0
+1485601,Iba Ly,iba ly,1980,Serie_A,2025,M,175.0,Right,2003-01-21,22.0,Senegal,275000.0
+988782,Allanzinho,allanzinho,1980,Serie_A,2025,M,178.0,Right,2000-04-04,25.0,Brazil,425000.0
+931595,Pablo,pablo,1980,Serie_A,2025,M,182.0,Right,1999-11-14,26.0,Brazil,580000.0
+879591,Raí Ramos,rai ramos,1980,Serie_A,2025,M,179.0,Right,1994-05-05,31.0,Brazil,290000.0
+1444697,Ray Breno,ray breno,1980,Serie_A,2025,M,177.0,Right,2004-08-31,21.0,Brazil,
+840077,Lucas Mineiro,lucas mineiro,1980,Serie_A,2025,M,188.0,Left,1996-02-23,29.0,Brazil,825000.0
+1823607,Davi Goes,davi goes,1980,Serie_A,2025,M,185.0,Left,2005-06-21,20.0,Brazil,245000.0
+2120751,Luan Martins Gonçalves,luan martins goncalves,1980,Serie_A,2025,M,188.0,Right,1998-10-20,27.0,Brazil,240000.0
+2031652,Luiz Henrique,luiz henrique,1980,Serie_A,2025,M,181.0,Right,2004-12-23,21.0,Brazil,
+551674,Alan Ruschel,alan ruschel,1980,Serie_A,2025,D,175.0,Left,1989-08-21,36.0,Brazil,72000.0
+584432,Aderlan,aderlan,1980,Serie_A,2025,D,180.0,Right,1990-08-18,35.0,Brazil,92000.0
+1170913,Marcos Paulo,marcos paulo,1980,Serie_A,2025,D,183.0,Left,2003-01-17,22.0,Brazil,280000.0
+243435,Titi,titi,1980,Serie_A,2025,D,187.0,Left,1988-03-12,37.0,Brazil,52000.0
+839765,Messias,messias,1980,Serie_A,2025,D,192.0,Right,1994-11-03,31.0,Brazil,550000.0
+1111123,Cipriano,cipriano,1980,Serie_A,2025,D,195.0,Left,2002-11-09,23.0,Brazil,245000.0
+794640,Rodrigo Sam,rodrigo sam,1980,Serie_A,2025,D,185.0,Right,1995-07-24,30.0,Brazil,340000.0
+975380,Gabriel Barbosa Pinheiro,gabriel barbosa pinheiro,1980,Serie_A,2025,D,187.0,Right,1997-04-18,28.0,Brazil,270000.0
+1192068,Wadson,wadson,1980,Serie_A,2025,D,183.0,Left,2000-09-02,25.0,Brazil,210000.0
+874979,Jandrei,jandrei,1980,Serie_A,2025,G,186.0,Right,1993-03-01,32.0,Brazil,195000.0
+1014248,Ruan Carneiro,ruan carneiro,1980,Serie_A,2025,G,195.0,Right,1990-03-26,35.0,Brazil,160000.0
+1491281,Pedro Rocha,pedro rocha,1980,Serie_A,2025,G,196.0,Right,1998-06-01,27.0,Brazil,285000.0
+1503154,Ze Henrique,ze henrique,1980,Serie_A,2025,G,199.0,Right,2004-10-23,21.0,Brazil,
+840076,Perotti,perotti,1959,Serie_A,2025,F,185.0,Left,1997-11-22,28.0,Brazil,930000.0
+992025,Neto Pessoa,neto pessoa,1959,Serie_A,2025,F,181.0,Left,1994-05-16,31.0,Brazil,325000.0
+937743,Dudu Teodora,dudu teodora,1959,Serie_A,2025,F,179.0,Right,1999-08-10,26.0,Brazil,1100000.0
+2118602,Arthur Maron Cruz,arthur maron cruz,1959,Serie_A,2025,F,,,2007-04-30,18.0,Brazil,
+1883314,Fillipy do Rozário Teixeira,fillipy do rozario teixeira,1959,Serie_A,2025,F,182.0,Right,2007-03-08,18.0,Brazil,
+1117065,Kervin Andrade,kervin andrade,1959,Serie_A,2025,M,163.0,Right,2005-04-13,20.0,Venezuela,1400000.0
+1035765,Chrystian Barletta,chrystian barletta,1959,Serie_A,2025,M,178.0,Left,2001-07-05,24.0,Brazil,2300000.0
+1015291,Patrick de Paula,patrick de paula,1959,Serie_A,2025,M,180.0,Left,1999-09-08,26.0,Brazil,2400000.0
+1086482,Diego Hernández,diego hernandez,1959,Serie_A,2025,M,175.0,Left,2000-06-22,25.0,Uruguay,1500000.0
+1589354,Murilo Rhikman,murilo rhikman,1959,Serie_A,2025,M,188.0,Right,2006-03-13,19.0,Brazil,520000.0
+931479,Fernando Sobral,fernando sobral,1959,Serie_A,2025,M,178.0,Right,1994-12-18,31.0,Brazil,1500000.0
+311394,Carlos De Pena,carlos de pena,1959,Serie_A,2025,M,177.0,Left,1992-03-11,33.0,Uruguay,810000.0
+295167,Willian Oliveira,willian oliveira,1959,Serie_A,2025,M,179.0,Right,1993-05-16,32.0,Brazil,290000.0
+811308,Clayson,clayson,1959,Serie_A,2025,M,166.0,Right,1995-03-19,30.0,Brazil,720000.0
+988852,Zé Gabriel,ze gabriel,1959,Serie_A,2025,M,184.0,Right,1999-01-21,26.0,Brazil,580000.0
+1467723,Fabio Matheus,fabio matheus,1959,Serie_A,2025,M,182.0,Left,2003-04-14,22.0,Brazil,485000.0
+2494521,Biel Fonseca,biel fonseca,1959,Serie_A,2025,M,186.0,Right,2002-03-19,23.0,Brazil,525000.0
+875906,Juan Alano,juan alano,1959,Serie_A,2025,M,172.0,Right,1996-09-01,29.0,Brazil,990000.0
+965796,Marlon,marlon,1959,Serie_A,2025,M,176.0,Right,1997-09-15,28.0,Brazil,375000.0
+1106488,Pedro Martins,pedro martins,1959,Serie_A,2025,M,175.0,Right,2000-06-28,25.0,Brazil,390000.0
+1631765,Dieguinho,dieguinho,1959,Serie_A,2025,M,175.0,Right,2004-07-09,21.0,Brazil,
+2035989,Adriel,adriel,1959,Serie_A,2025,M,,Right,2006-07-12,19.0,Brazil,
+2033863,Luiz Henrique,luiz henrique,1959,Serie_A,2025,M,175.0,Right,2005-02-08,20.0,Brazil,
+2029933,Jefferson Borges do Nascimento,jefferson borges do nascimento,1959,Serie_A,2025,M,175.0,Left,2006-08-15,19.0,Brazil,
+2488159,Dedezinho,dedezinho,1959,Serie_A,2025,M,178.0,Right,2006-03-09,19.0,Brazil,
+992791,Claudinho,claudinho,1959,Serie_A,2025,D,180.0,Right,2000-09-24,25.0,Brazil,1800000.0
+1464528,Kayky Almeida,kayky almeida,1959,Serie_A,2025,D,185.0,Left,2005-05-01,20.0,Brazil,775000.0
+901700,Zé Marcos,ze marcos,1959,Serie_A,2025,D,188.0,Left,1998-02-01,27.0,Brazil,1100000.0
+1048276,Felipinho,felipinho,1959,Serie_A,2025,D,177.0,Left,1997-01-13,28.0,Brazil,960000.0
+1634992,Marcelo Ajul,marcelo ajul,1959,Serie_A,2025,D,187.0,Right,2002-08-26,23.0,Brazil,620000.0
+841808,Marcelo Benevenuto,marcelo benevenuto,1959,Serie_A,2025,D,180.0,Right,1996-01-07,29.0,Brazil,990000.0
+2027140,Augusto Pucci,augusto pucci,1959,Serie_A,2025,D,175.0,Right,2007-11-01,18.0,Brazil,660000.0
+1167540,Habraão,habraao,1959,Serie_A,2025,D,184.0,Right,2001-06-26,24.0,Brazil,775000.0
+1018606,Rai Lopes,rai lopes,1959,Serie_A,2025,D,182.0,Left,2000-03-28,25.0,Brazil,340000.0
+1117470,Edson Lucas,edson lucas,1959,Serie_A,2025,D,176.0,Left,2000-07-30,25.0,Brazil,52000.0
+1650370,Felype Gabriel,felype gabriel,1959,Serie_A,2025,D,190.0,Left,2005-12-01,20.0,Brazil,
+1844212,Rafinha,rafinha,1959,Serie_A,2025,D,180.0,Left,2006-04-16,19.0,Brazil,
+2033880,Patrick,patrick,1959,Serie_A,2025,D,187.0,Both,2005-02-27,20.0,Brazil,
+1106492,Matheus Baraka,matheus baraka,1959,Serie_A,2025,D,189.0,Right,2003-01-21,22.0,Brazil,48000.0
+1831122,Caio Moura,caio moura,1959,Serie_A,2025,D,,,2008-01-24,17.0,Brazil,
+2488161,Caua Alves de Mattos,caua alves de mattos,1959,Serie_A,2025,D,,Right,2007-03-31,18.0,Brazil,
+871291,Thiago Couto,thiago couto,1959,Serie_A,2025,G,188.0,Right,1999-03-26,26.0,Brazil,965000.0
+914481,Brenno,brenno,1959,Serie_A,2025,G,188.0,Right,1999-04-01,26.0,Brazil,550000.0
+47722,Denis,denis,1959,Serie_A,2025,G,188.0,Right,1987-04-14,38.0,Brazil,26000.0
+1633504,Davi Medeiros Serrano Lira,davi medeiros serrano lira,1959,Serie_A,2025,G,192.0,Left,2005-03-23,20.0,Brazil,
+2268298,Victor Hugo,victor hugo,1959,Serie_A,2025,G,,Right,2006-07-10,19.0,Brazil,
+2726159,Erick Breno Souza Silva,erick breno souza silva,1959,Serie_A,2025,G,,Left,2006-11-02,19.0,Brazil,
